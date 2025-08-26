@@ -1,24 +1,34 @@
 [
   {
-    "job_title": "Software Dev Engineer II - AMZ26545.1",
-    "employer_name": "Amazon",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_description": "Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design. The pay range for this position in Irvine, CA is $143700 - $194400 (yr); however, base pay offered may vary depending on job-related knowledge, skills, and experience A sign-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided by Irvine, CA Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon's internal or external careers site.",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3060988/software-dev-engineer-ii-amz26545-1",
-    "job_posted_at": "2025-08-22T15:09:04.703Z",
-    "job_posted_at_datetime_utc": "2025-08-22T15:09:04.703Z",
-    "id": "amazon-software-dev-engineer-ii-amz26545-1-irvine"
+    "job_title": "Network Engineer, Deployment & Support",
+    "employer_name": "Meta",
+    "job_city": "New York",
+    "job_state": "NY +1 locations",
+    "job_description": "Data Center Design, Engineering, & Construction",
+    "job_apply_link": "https://www.metacareers.com/jobs/2172760199902308",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-network-engineer-deployment-support-new-york"
   },
   {
-    "job_title": "Sr. Solutions Engineer - Digital Native Business, Residency Program",
-    "employer_name": "Databricks",
-    "job_city": "United States",
+    "job_title": "ASIC Engineer, Emulation",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/753744430732201",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-asic-engineer-emulation-sunnyvale"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Technical Account Manager",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8111533002",
-    "job_posted_at_datetime_utc": "2025-08-26T14:40:42.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-solutions-engineer-digital-native-business-residency-program-united-states"
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Account Manager, Google Cloud Consulting",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115584262924575430-technical-account-manager-google-cloud-consulting?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=2",
+    "id": "google-technical-account-manager-sunnyvale"
   }
 ]

@@ -1,68 +1,123 @@
 [
   {
-    "job_title": "MTS 1, Solutions Engineer",
-    "employer_name": "PayPal",
-    "job_city": "Chicago",
-    "job_state": "Illinois",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908760488",
-    "job_posted_at_datetime_utc": "2025-08-26T22:15:04.927Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-mts-1-solutions-engineer-chicago"
-  },
-  {
-    "job_title": "Senior Silicon Logic Design Engineer",
+    "job_title": "Hardware Engineer II",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845422",
-    "job_posted_at_datetime_utc": "2025-08-26T22:14:56.764Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861751",
+    "job_posted_at_datetime_utc": "2025-08-26T23:15:03.517Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-silicon-logic-design-engineer-redmond"
+    "id": "microsoft-hardware-engineer-ii-redmond"
   },
   {
-    "job_title": "Senior IP Verification Engineer",
+    "job_title": "Software Engineering Manager, CoreAI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845263",
-    "job_posted_at_datetime_utc": "2025-08-26T22:14:56.764Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845895",
+    "job_posted_at_datetime_utc": "2025-08-26T23:15:03.517Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-ip-verification-engineer-redmond"
+    "id": "microsoft-software-engineering-manager-coreai-redmond"
   },
   {
-    "job_title": "Software Quality Engineer Intern: Internship Opportunities - Redmond",
+    "job_title": "Principal Research Engineer – Generative AI – AI Frontiers",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864369",
-    "job_posted_at_datetime_utc": "2025-08-26T22:14:56.764Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852398",
+    "job_posted_at_datetime_utc": "2025-08-26T23:15:03.517Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-quality-engineer-intern-internship-opportunities-redmond-redmond"
+    "id": "microsoft-principal-research-engineer-generative-ai-ai-frontiers-redmond"
   },
   {
-    "job_title": "Senior Security Engineer, Infrastructure Security",
+    "job_title": "Research Engineer – Generative AI – AI Frontiers",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851461",
+    "job_posted_at_datetime_utc": "2025-08-26T23:15:03.517Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-research-engineer-generative-ai-ai-frontiers-redmond"
+  },
+  {
+    "job_title": "Senior Manager, Software Engineering - Security",
     "employer_name": "Airbnb",
-    "job_city": "United States",
+    "job_city": "Remote - USA",
     "job_state": "CA",
     "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/6817221?gh_jid=6817221",
-    "job_posted_at_datetime_utc": "2025-08-26T21:37:50.000Z",
+    "job_apply_link": "https://careers.airbnb.com/positions/6752751?gh_jid=6752751",
+    "job_posted_at_datetime_utc": "2025-08-26T23:05:48.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-security-engineer-infrastructure-security-united-states"
+    "id": "airbnb-senior-manager-software-engineering-security-remote-usa"
   },
   {
-    "job_title": " Engineering Manager, Control Plane – Distributed Transactional Database",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/7026858?gh_jid=7026858",
-    "job_posted_at_datetime_utc": "2025-08-26T21:36:14.000Z",
+    "job_title": "Software Engineer – Early Career - PhD - Infrastructure",
+    "employer_name": "Google",
+    "job_city": "Madison",
+    "job_state": "WI",
+    "job_description": "Join Google in this exciting opportunity.",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670",
+    "job_posted_at_datetime_utc": "2025-08-26T22:48:46.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-engineering-manager-control-plane-distributed-transactional-database-united-states"
+    "id": "google-software-engineer-early-career-phd-infrastructure-madison"
+  },
+  {
+    "job_title": "Software Engineer – Early Career - PhD - Embedded Systems and Firmware",
+    "employer_name": "Google",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join Google in this exciting opportunity.",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158",
+    "job_posted_at_datetime_utc": "2025-08-26T22:45:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "google-software-engineer-early-career-phd-embedded-systems-and-firmware-seattle"
+  },
+  {
+    "job_title": "Software Developer – New Grad - Market Data - Libraries & Tools",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_description": "Join Susquehanna International Group (SIG) in this exciting opportunity.",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/9261/job",
+    "job_posted_at_datetime_utc": "2025-08-26T22:43:46.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "susquehanna-international-group-sig-software-developer-new-grad-market-data-libraries-tools-ardmore"
+  },
+  {
+    "job_title": "Software Developer – New Grad - Sprc",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_description": "Join Susquehanna International Group (SIG) in this exciting opportunity.",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/9716/job",
+    "job_posted_at_datetime_utc": "2025-08-26T22:43:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "susquehanna-international-group-sig-software-developer-new-grad-sprc-ardmore"
+  },
+  {
+    "job_title": "Early Career Software Engineer",
+    "employer_name": "Citizen Health",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Citizen Health in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764/application",
+    "job_posted_at_datetime_utc": "2025-08-26T22:40:47.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "citizen-health-early-career-software-engineer-sf"
+  },
+  {
+    "job_title": "Software Development Engineer I",
+    "employer_name": "GM financial",
+    "job_city": "Arlington",
+    "job_state": "TX",
+    "job_description": "Join GM financial in this exciting opportunity.",
+    "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/837",
+    "job_posted_at_datetime_utc": "2025-08-26T22:18:02.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "gm-financial-software-development-engineer-i-arlington"
   }
 ]

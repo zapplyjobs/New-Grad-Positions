@@ -1,46 +1,68 @@
 [
   {
-    "job_title": "Software Engineering IC5",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863872",
-    "job_posted_at_datetime_utc": "2025-08-26T21:14:32.751Z",
+    "job_title": "MTS 1, Solutions Engineer",
+    "employer_name": "PayPal",
+    "job_city": "Chicago",
+    "job_state": "Illinois",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908760488",
+    "job_posted_at_datetime_utc": "2025-08-26T22:15:04.927Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineering-ic5-redmond"
+    "id": "paypal-mts-1-solutions-engineer-chicago"
   },
   {
-    "job_title": "Principal Firmware Engineering Manager",
+    "job_title": "Senior Silicon Logic Design Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863585",
-    "job_posted_at_datetime_utc": "2025-08-26T21:14:32.751Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845422",
+    "job_posted_at_datetime_utc": "2025-08-26T22:14:56.764Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-firmware-engineering-manager-redmond"
+    "id": "microsoft-senior-silicon-logic-design-engineer-redmond"
   },
   {
-    "job_title": "Technical Support Escalation Engineer- SQL VM/MI",
+    "job_title": "Senior IP Verification Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862807",
-    "job_posted_at_datetime_utc": "2025-08-26T21:14:32.751Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845263",
+    "job_posted_at_datetime_utc": "2025-08-26T22:14:56.764Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-escalation-engineer-sql-vm-mi-redmond"
+    "id": "microsoft-senior-ip-verification-engineer-redmond"
   },
   {
-    "job_title": "Data Engineer Intern: Internship Opportunities - Redmond",
+    "job_title": "Software Quality Engineer Intern: Internship Opportunities - Redmond",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864360",
-    "job_posted_at_datetime_utc": "2025-08-26T21:14:32.751Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864369",
+    "job_posted_at_datetime_utc": "2025-08-26T22:14:56.764Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-data-engineer-intern-internship-opportunities-redmond-redmond"
+    "id": "microsoft-software-quality-engineer-intern-internship-opportunities-redmond-redmond"
+  },
+  {
+    "job_title": "Senior Security Engineer, Infrastructure Security",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6817221?gh_jid=6817221",
+    "job_posted_at_datetime_utc": "2025-08-26T21:37:50.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-senior-security-engineer-infrastructure-security-united-states"
+  },
+  {
+    "job_title": " Engineering Manager, Control Plane – Distributed Transactional Database",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7026858?gh_jid=7026858",
+    "job_posted_at_datetime_utc": "2025-08-26T21:36:14.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-engineering-manager-control-plane-distributed-transactional-database-united-states"
   }
 ]

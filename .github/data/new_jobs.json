@@ -1,57 +1,67 @@
 [
   {
-    "job_title": "Software Development Engineer, Content AI",
+    "job_title": "Software Development Engineer, Public Sector",
     "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
+    "job_city": "Arlington",
+    "job_state": "VA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2941458/software-development-engineer-content-ai",
-    "job_posted_at": "2025-08-26T18:07:27.794Z",
-    "job_posted_at_datetime_utc": "2025-08-26T18:07:27.794Z",
-    "id": "amazon-software-development-engineer-content-ai-newark"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2907474/software-development-engineer-public-sector",
+    "job_posted_at": "2025-08-26T18:09:20.635Z",
+    "job_posted_at_datetime_utc": "2025-08-26T18:09:20.635Z",
+    "id": "amazon-software-development-engineer-public-sector-arlington"
   },
   {
-    "job_title": "Applied Research Scientist",
+    "job_title": "Software Engineer, Audio Applied Scientist",
     "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
+    "job_city": "Redmond",
+    "job_state": "WA +1 locations",
     "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/790711076743990",
+    "job_apply_link": "https://www.metacareers.com/jobs/1453620902517410",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-applied-research-scientist-menlo-park"
+    "id": "meta-software-engineer-audio-applied-scientist-redmond"
   },
   {
-    "job_title": "Technical Support Engineering - SHA",
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager II",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager II, AI/Machine Learning, Geo",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/110592067817611974-technical-program-manager-ii-aimachine-learning-geo?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=9",
+    "id": "google-technical-program-manager-ii-seattle"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "PayPal",
+    "job_city": "New York City",
+    "job_state": "New York",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908801806",
+    "job_posted_at_datetime_utc": "2025-08-26T20:16:13.625Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-software-engineer-new-york-city"
+  },
+  {
+    "job_title": "Senior Digital Solution Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863908",
-    "job_posted_at_datetime_utc": "2025-08-26T19:14:11.134Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862435",
+    "job_posted_at_datetime_utc": "2025-08-26T20:16:05.560Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-sha-redmond"
+    "id": "microsoft-senior-digital-solution-engineer-redmond"
   },
   {
-    "job_title": "Mechanical Engineer II",
+    "job_title": "Security Operations Engineer - Customer Experience",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862612",
-    "job_posted_at_datetime_utc": "2025-08-26T19:14:11.134Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864266",
+    "job_posted_at_datetime_utc": "2025-08-26T20:16:05.560Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-mechanical-engineer-ii-redmond"
-  },
-  {
-    "job_title": "Principal Software Engineering Manager - Windows File Explorer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863293",
-    "job_posted_at_datetime_utc": "2025-08-26T19:14:11.134Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineering-manager-windows-file-explorer-redmond"
+    "id": "microsoft-security-operations-engineer-customer-experience-redmond"
   }
 ]

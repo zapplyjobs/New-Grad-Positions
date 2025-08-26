@@ -1,112 +1,57 @@
 [
   {
-    "job_title": "Product Manager - Advertiser Guidance",
+    "job_title": "Software Development Engineer, Content AI",
+    "employer_name": "Amazon",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2941458/software-development-engineer-content-ai",
+    "job_posted_at": "2025-08-26T18:07:27.794Z",
+    "job_posted_at_datetime_utc": "2025-08-26T18:07:27.794Z",
+    "id": "amazon-software-development-engineer-content-ai-newark"
+  },
+  {
+    "job_title": "Applied Research Scientist",
     "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +3 locations",
-    "job_description": "Product Management",
-    "job_apply_link": "https://www.metacareers.com/jobs/1904030100453395",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/790711076743990",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-manager-advertiser-guidance-bellevue"
+    "id": "meta-applied-research-scientist-menlo-park"
   },
   {
-    "job_title": "Computer Vision Engineer, Reality Labs",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1130112225813783",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-computer-vision-engineer-reality-labs-multiple"
-  },
-  {
-    "job_title": "Senior Staff Engineer, Dev Ops Engineer",
-    "employer_name": "Qualcomm",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_description": "Join Qualcomm to invent breakthrough technologies.",
-    "job_apply_link": "https://careers.qualcomm.com/careers/job/446707455258",
-    "job_posted_at_datetime_utc": "2025-08-26T18:18:04.502Z",
-    "job_employment_type": "FULLTIME",
-    "id": "qualcomm-senior-staff-engineer-dev-ops-engineer-santa-clara"
-  },
-  {
-    "job_title": "AI Business Solutions - Solution Engineer",
+    "job_title": "Technical Support Engineering - SHA",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864269",
-    "job_posted_at_datetime_utc": "2025-08-26T18:17:58.803Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863908",
+    "job_posted_at_datetime_utc": "2025-08-26T19:14:11.134Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-business-solutions-solution-engineer-redmond"
+    "id": "microsoft-technical-support-engineering-sha-redmond"
   },
   {
-    "job_title": "Staff Software Engineer, Secure Development Engineering",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/7031897?gh_jid=7031897",
-    "job_posted_at_datetime_utc": "2025-08-26T17:43:34.000Z",
+    "job_title": "Mechanical Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862612",
+    "job_posted_at_datetime_utc": "2025-08-26T19:14:11.134Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-staff-software-engineer-secure-development-engineering-united-states"
+    "id": "microsoft-mechanical-engineer-ii-redmond"
   },
   {
-    "job_title": "Software Engineer-1",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7169742?gh_jid=7169742",
-    "job_posted_at_datetime_utc": "2025-08-26T17:19:48.000Z",
+    "job_title": "Principal Software Engineering Manager - Windows File Explorer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863293",
+    "job_posted_at_datetime_utc": "2025-08-26T19:14:11.134Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-1-remote-usa"
-  },
-  {
-    "job_title": "Software Engineer-2",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7169747?gh_jid=7169747",
-    "job_posted_at_datetime_utc": "2025-08-26T17:18:33.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-2-remote-usa"
-  },
-  {
-    "job_title": "Senior Software Engineer-6",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7163969?gh_jid=7163969",
-    "job_posted_at_datetime_utc": "2025-08-26T17:16:49.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-6-remote-usa"
-  },
-  {
-    "job_title": "Senior Software Engineer-5",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7163965?gh_jid=7163965",
-    "job_posted_at_datetime_utc": "2025-08-26T17:16:08.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-5-remote-usa"
-  },
-  {
-    "job_title": "Senior Software Engineer",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7172294?gh_jid=7172294",
-    "job_posted_at_datetime_utc": "2025-08-26T17:15:03.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-remote-usa"
+    "id": "microsoft-principal-software-engineering-manager-windows-file-explorer-redmond"
   }
 ]

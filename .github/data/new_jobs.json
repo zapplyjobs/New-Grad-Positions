@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Junior Solution Engineer Data & Analytics",
+    "job_title": "AI Business Solutions Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850575",
-    "job_posted_at_datetime_utc": "2025-08-27T13:22:03.640Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864514",
+    "job_posted_at_datetime_utc": "2025-08-27T14:15:36.045Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-junior-solution-engineer-data-analytics-redmond"
+    "id": "microsoft-ai-business-solutions-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Cloud Network Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859528",
+    "job_posted_at_datetime_utc": "2025-08-27T14:15:36.045Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-cloud-network-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Fidelity",
+    "job_city": "Westlake",
+    "job_state": "TX",
+    "job_description": "Join Fidelity in this exciting opportunity.",
+    "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2116586-1",
+    "job_posted_at_datetime_utc": "2025-08-27T14:13:26.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "fidelity-software-engineer-westlake"
   }
 ]

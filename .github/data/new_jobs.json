@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Software Engineer Apprenticeship",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863327",
+    "job_posted_at_datetime_utc": "2025-08-27T06:18:45.667Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-apprenticeship-redmond"
+  },
+  {
+    "job_title": "Solution Engineering IC5",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864425",
+    "job_posted_at_datetime_utc": "2025-08-27T06:18:45.667Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineering-ic5-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer (Cognitive Service Platform)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863635",
+    "job_posted_at_datetime_utc": "2025-08-27T06:18:45.667Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-cognitive-service-platform-redmond"
+  }
+]

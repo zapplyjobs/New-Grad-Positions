@@ -1,123 +1,68 @@
 [
   {
-    "job_title": "Hardware Engineer II",
+    "job_title": "Systems Security Engineer I",
+    "employer_name": "Sierra Nevada Coporation",
+    "job_city": "Lone Tree",
+    "job_state": "CO",
+    "job_description": "Join Sierra Nevada Coporation in this exciting opportunity.",
+    "job_apply_link": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0028118",
+    "job_posted_at_datetime_utc": "2025-08-27T00:22:13.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "sierra-nevada-coporation-systems-security-engineer-i-lone-tree"
+  },
+  {
+    "job_title": "Software Engineer II - AI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861751",
-    "job_posted_at_datetime_utc": "2025-08-26T23:15:03.517Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864215",
+    "job_posted_at_datetime_utc": "2025-08-27T00:40:43.702Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-hardware-engineer-ii-redmond"
+    "id": "microsoft-software-engineer-ii-ai-redmond"
   },
   {
-    "job_title": "Software Engineering Manager, CoreAI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845895",
-    "job_posted_at_datetime_utc": "2025-08-26T23:15:03.517Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineering-manager-coreai-redmond"
-  },
-  {
-    "job_title": "Principal Research Engineer – Generative AI – AI Frontiers",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852398",
-    "job_posted_at_datetime_utc": "2025-08-26T23:15:03.517Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-research-engineer-generative-ai-ai-frontiers-redmond"
-  },
-  {
-    "job_title": "Research Engineer – Generative AI – AI Frontiers",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851461",
-    "job_posted_at_datetime_utc": "2025-08-26T23:15:03.517Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-research-engineer-generative-ai-ai-frontiers-redmond"
-  },
-  {
-    "job_title": "Senior Manager, Software Engineering - Security",
-    "employer_name": "Airbnb",
-    "job_city": "Remote - USA",
+    "job_title": "Sr. Specialist Solutions Architect - Data Engineering - HLS",
+    "employer_name": "Databricks",
+    "job_city": "United States",
     "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8073348002",
+    "job_posted_at_datetime_utc": "2025-08-27T00:39:15.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-specialist-solutions-architect-data-engineering-hls-united-states"
+  },
+  {
+    "job_title": "Cybersecurity Engineer I",
+    "employer_name": "The Travelers Companies",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_description": "Join The Travelers Companies in this exciting opportunity.",
+    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Cybersecurity-Engineer-I_R-46472",
+    "job_posted_at_datetime_utc": "2025-08-27T00:10:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "the-travelers-companies-cybersecurity-engineer-i-hartford"
+  },
+  {
+    "job_title": "Staff Fullstack Software Engineer, Marketing Technology",
+    "employer_name": "Airbnb",
+    "job_city": "Remote",
+    "job_state": "USA",
     "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/6752751?gh_jid=6752751",
-    "job_posted_at_datetime_utc": "2025-08-26T23:05:48.000Z",
+    "job_apply_link": "https://careers.airbnb.com/positions/7194851?gh_jid=7194851",
+    "job_posted_at_datetime_utc": "2025-08-26T23:24:45.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-manager-software-engineering-security-remote-usa"
+    "id": "airbnb-staff-fullstack-software-engineer-marketing-technology-remote"
   },
   {
-    "job_title": "Software Engineer – Early Career - PhD - Infrastructure",
-    "employer_name": "Google",
-    "job_city": "Madison",
-    "job_state": "WI",
-    "job_description": "Join Google in this exciting opportunity.",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/88714689822761670",
-    "job_posted_at_datetime_utc": "2025-08-26T22:48:46.000Z",
+    "job_title": "Software Engineer I",
+    "employer_name": "Cox",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_description": "Join Cox in this exciting opportunity.",
+    "job_apply_link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566097",
+    "job_posted_at_datetime_utc": "2025-08-26T15:16:28.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "google-software-engineer-early-career-phd-infrastructure-madison"
-  },
-  {
-    "job_title": "Software Engineer – Early Career - PhD - Embedded Systems and Firmware",
-    "employer_name": "Google",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Google in this exciting opportunity.",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158",
-    "job_posted_at_datetime_utc": "2025-08-26T22:45:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "google-software-engineer-early-career-phd-embedded-systems-and-firmware-seattle"
-  },
-  {
-    "job_title": "Software Developer – New Grad - Market Data - Libraries & Tools",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_description": "Join Susquehanna International Group (SIG) in this exciting opportunity.",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/9261/job",
-    "job_posted_at_datetime_utc": "2025-08-26T22:43:46.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "susquehanna-international-group-sig-software-developer-new-grad-market-data-libraries-tools-ardmore"
-  },
-  {
-    "job_title": "Software Developer – New Grad - Sprc",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_description": "Join Susquehanna International Group (SIG) in this exciting opportunity.",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/9716/job",
-    "job_posted_at_datetime_utc": "2025-08-26T22:43:42.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "susquehanna-international-group-sig-software-developer-new-grad-sprc-ardmore"
-  },
-  {
-    "job_title": "Early Career Software Engineer",
-    "employer_name": "Citizen Health",
-    "job_city": "SF",
-    "job_state": "Locations",
-    "job_description": "Join Citizen Health in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764/application",
-    "job_posted_at_datetime_utc": "2025-08-26T22:40:47.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "citizen-health-early-career-software-engineer-sf"
-  },
-  {
-    "job_title": "Software Development Engineer I",
-    "employer_name": "GM financial",
-    "job_city": "Arlington",
-    "job_state": "TX",
-    "job_description": "Join GM financial in this exciting opportunity.",
-    "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/837",
-    "job_posted_at_datetime_utc": "2025-08-26T22:18:02.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "gm-financial-software-development-engineer-i-arlington"
+    "id": "cox-software-engineer-i-atlanta"
   }
 ]

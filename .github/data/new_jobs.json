@@ -1,13 +1,68 @@
 [
   {
-    "job_title": "Optical Scientist, AR Display Systems",
-    "employer_name": "Meta",
+    "job_title": "Software Development Engineer, AGI",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3039630/software-development-engineer-agi",
+    "job_posted_at": "2025-08-26T10:09:12.911Z",
+    "job_posted_at_datetime_utc": "2025-08-26T10:09:12.911Z",
+    "id": "amazon-software-development-engineer-agi-bellevue"
+  },
+  {
+    "job_title": "Software Development Engineer, Amazon Stores",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2878834/software-development-engineer-amazon-stores",
+    "job_posted_at": "2025-08-26T10:09:12.911Z",
+    "job_posted_at_datetime_utc": "2025-08-26T10:09:12.911Z",
+    "id": "amazon-software-development-engineer-amazon-stores-austin"
+  },
+  {
+    "job_title": "Software Development Engineer, Amazon Stores",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2879654/software-development-engineer-amazon-stores",
+    "job_posted_at": "2025-08-26T10:09:12.911Z",
+    "job_posted_at_datetime_utc": "2025-08-26T10:09:12.911Z",
+    "id": "amazon-software-development-engineer-amazon-stores-bellevue"
+  },
+  {
+    "job_title": "Software Dev Engineer II - AMZ9082623",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, Perl, Rust, or Python; and Object Oriented Design. #0000",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3060949/software-dev-engineer-ii-amz9082623",
+    "job_posted_at": "2025-08-22T10:09:12.911Z",
+    "job_posted_at_datetime_utc": "2025-08-22T10:09:12.911Z",
+    "id": "amazon-software-dev-engineer-ii-amz9082623-seattle"
+  },
+  {
+    "job_title": "Manager II, Software Dev - AMZ9081278",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Position Requirements: Bachelor’s degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered, or as a Software Engineer, Software Developer, or a related occupation. Must have one year of experience in the following skills: (1) providing mentorship to software engineering peers, participating in roadmap/planning reviews; and (2) developing reliable, efficient full-stack services using an OOO language (Java, Python, or C++) and modern web framework (Javascript, Typescript, or React). #0000",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3058180/manager-ii-software-dev-amz9081278",
+    "job_posted_at": "2025-08-22T10:09:12.911Z",
+    "job_posted_at_datetime_utc": "2025-08-22T10:09:12.911Z",
+    "id": "amazon-manager-ii-software-dev-amz9081278-boston"
+  },
+  {
+    "job_title": "Software Engineer - Azure Storage",
+    "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/541094548626220",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-optical-scientist-ar-display-systems-redmond"
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862916",
+    "job_posted_at_datetime_utc": "2025-08-27T10:16:06.473Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-azure-storage-redmond"
   }
 ]

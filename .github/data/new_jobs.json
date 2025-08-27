@@ -1,13 +1,68 @@
 [
   {
-    "job_title": "Senior Data Engineer - Fabric Data and Semantic Models",
+    "job_title": "ASIC Engineer, Infra Silicon Pre/Post Silicon Validation",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1655464005071340",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-asic-engineer-infra-silicon-pre-post-silicon-validation-sunnyvale"
+  },
+  {
+    "job_title": "Software Engineer, Audio",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1430516021433534",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-audio-bellevue"
+  },
+  {
+    "job_title": "Software Engineer, Systems ML - SW/HW Co-design",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +4 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1108948753413269",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-systems-ml-sw-hw-co-design-bellevue"
+  },
+  {
+    "job_title": "Mega-Site Manufacturing Quality Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Data Center Design, Engineering, & Construction",
+    "job_apply_link": "https://www.metacareers.com/jobs/567383346230194",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-mega-site-manufacturing-quality-engineer-multiple"
+  },
+  {
+    "job_title": "Public Affairs Product Marketing Manager, Cross-Meta & Brand",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +3 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/3011128005855396",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-public-affairs-product-marketing-manager-cross-meta-brand-menlo-park"
+  },
+  {
+    "job_title": "Solution Engineering Team Manager - Cloud and AI Platform",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858818",
-    "job_posted_at_datetime_utc": "2025-08-27T07:15:38.174Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863466",
+    "job_posted_at_datetime_utc": "2025-08-27T08:18:04.105Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-data-engineer-fabric-data-and-semantic-models-redmond"
+    "id": "microsoft-solution-engineering-team-manager-cloud-and-ai-platform-redmond"
   }
 ]

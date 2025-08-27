@@ -1,35 +1,46 @@
 [
   {
-    "job_title": "AI Business Solutions Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864514",
-    "job_posted_at_datetime_utc": "2025-08-27T14:15:36.045Z",
+    "job_title": "Full Stack Engineering",
+    "employer_name": "Abridge",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Abridge in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/abridge/55958eb5-109f-4e88-9793-ed2327fc753a",
+    "job_posted_at_datetime_utc": "2025-08-27T14:17:45.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-business-solutions-engineer-redmond"
+    "id": "abridge-full-stack-engineering-san-francisco"
   },
   {
-    "job_title": "Senior Cloud Network Engineer",
+    "job_title": "PCB Layout Engineer",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Engineering +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/813958417785656",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-pcb-layout-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer / Senior Software Engineer - CoreAI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859528",
-    "job_posted_at_datetime_utc": "2025-08-27T14:15:36.045Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1823660",
+    "job_posted_at_datetime_utc": "2025-08-27T15:16:12.702Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-cloud-network-engineer-redmond"
+    "id": "microsoft-software-engineer-senior-software-engineer-coreai-redmond"
   },
   {
     "job_title": "Software Engineer",
-    "employer_name": "Fidelity",
-    "job_city": "Westlake",
-    "job_state": "TX",
-    "job_description": "Join Fidelity in this exciting opportunity.",
-    "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2116586-1",
-    "job_posted_at_datetime_utc": "2025-08-27T14:13:26.000Z",
+    "employer_name": "Cape",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Cape in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8",
+    "job_posted_at_datetime_utc": "2025-08-27T14:17:28.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "fidelity-software-engineer-westlake"
+    "id": "cape-software-engineer-new-york"
   }
 ]

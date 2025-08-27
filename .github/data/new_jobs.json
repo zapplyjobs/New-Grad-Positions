@@ -1,100 +1,23 @@
 [
   {
-    "job_title": "Senior Software Engineer, Lyft Business",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8141328002?gh_jid=8141328002",
-    "job_posted_at_datetime_utc": "2025-08-27T18:59:57.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-senior-software-engineer-lyft-business-san-francisco"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Product Manager II",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Northeastern University Co-Op Internship Opportunities",
+    "job_city": "Redmond",
+    "job_state": "Washington",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Manager II, Compute, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/109756692383572678-product-manager-ii-compute-google-cloud?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=5",
-    "id": "google-product-manager-ii-kirkland"
+    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Northeastern University Co-Op Internship Opportunities",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864533/Software-Engineer%3A-Northeastern-University-Co-Op-Internship-Opportunities",
+    "id": "microsoft-software-engineer-northeastern-university-co-op-internship-opportunities-redmond"
   },
   {
-    "job_title": "Principal Quality Engineer",
+    "job_title": "Digital Solution Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843250",
-    "job_posted_at_datetime_utc": "2025-08-27T19:14:17.049Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863513",
+    "job_posted_at_datetime_utc": "2025-08-27T20:15:53.420Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-quality-engineer-redmond"
-  },
-  {
-    "job_title": "Software Engineer 2 – Xbox Graphics",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1835512",
-    "job_posted_at_datetime_utc": "2025-08-27T19:14:17.049Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-2-xbox-graphics-redmond"
-  },
-  {
-    "job_title": "Fleet Engineering Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863491",
-    "job_posted_at_datetime_utc": "2025-08-27T19:14:17.049Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-fleet-engineering-manager-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer, Backend (AI Platform)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7184757?gh_jid=7184757",
-    "job_posted_at_datetime_utc": "2025-08-27T19:01:22.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-backend-ai-platform-remote-usa"
-  },
-  {
-    "job_title": "Software Engineer, Ambient AI (Summer 2026 New Grad)",
-    "employer_name": "Commure",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_description": "Join Commure in this exciting opportunity.",
-    "job_apply_link": "https://www.commure.com/careers-detail?ashby_jid=0f13b112-8d8c-4fb1-ae3d-449cc36cd89e",
-    "job_posted_at_datetime_utc": "2025-08-27T18:42:03.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "commure-software-engineer-ambient-ai-summer-2026-new-grad-mountain-view"
-  },
-  {
-    "job_title": "Software Engineer (Summer 2026 New Grad)",
-    "employer_name": "Commure",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_description": "Join Commure in this exciting opportunity.",
-    "job_apply_link": "https://www.commure.com/careers-detail?ashby_jid=00dbfa4a-986c-4c98-a966-47874d1ff0f8",
-    "job_posted_at_datetime_utc": "2025-08-27T18:26:44.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "commure-software-engineer-summer-2026-new-grad-mountain-view"
-  },
-  {
-    "job_title": "Senior Software Engineer, Account Integrity",
-    "employer_name": "Airbnb",
-    "job_city": "Remote-USA",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/7183540?gh_jid=7183540",
-    "job_posted_at_datetime_utc": "2025-08-27T18:25:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-software-engineer-account-integrity-remote-usa"
+    "id": "microsoft-digital-solution-engineer-redmond"
   }
 ]

@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "3D Artist | Wearables Product Creative",
-    "employer_name": "Meta",
-    "job_city": "Burlingame",
-    "job_state": "CA",
-    "job_description": "3D Product Design +6 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1703800876942700",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-3d-artist-wearables-product-creative-burlingame"
-  },
-  {
-    "job_title": "Embedded Software Engineer - Reality Labs Research",
-    "employer_name": "Meta",
+    "job_title": "Principal AI Data Engineer",
+    "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "3D Software Engineering +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/4046076158988116",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-embedded-software-engineer-reality-labs-research-redmond"
-  },
-  {
-    "job_title": "Sr. Manager, Field Engineering - HLS Hunter ",
-    "employer_name": "Databricks",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8114584002",
-    "job_posted_at_datetime_utc": "2025-08-27T15:54:31.000Z",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862762",
+    "job_posted_at_datetime_utc": "2025-08-27T17:14:52.152Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-manager-field-engineering-hls-hunter-united-states"
+    "id": "microsoft-principal-ai-data-engineer-redmond"
   }
 ]

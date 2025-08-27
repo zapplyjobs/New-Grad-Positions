@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "job_title": "Software Engineer (Remote)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850541",
+    "job_posted_at_datetime_utc": "2025-08-27T12:20:50.108Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-remote-redmond"
+  }
+]

@@ -1,90 +1,24 @@
 [
   {
-    "job_title": "System Dev Engineer I, Analytics ADC",
+    "job_title": "Software Development Engineer, AWS Fintech",
     "employer_name": "Amazon",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_description": "Join Amazon in this exciting opportunity.",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc",
-    "job_posted_at_datetime_utc": "2025-08-28T20:46:40.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "amazon-system-dev-engineer-i-analytics-adc-denver"
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2978807/software-development-engineer-aws-fintech",
+    "job_posted_at": "2025-08-28T20:08:11.809Z",
+    "job_posted_at_datetime_utc": "2025-08-28T20:08:11.809Z",
+    "id": "amazon-software-development-engineer-aws-fintech-seattle"
   },
   {
-    "job_title": "GPU Architecture Engineer",
-    "employer_name": "NVIDIA",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Join NVIDIA in this exciting opportunity.",
-    "job_apply_link": "http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
-    "job_posted_at_datetime_utc": "2025-08-28T20:44:39.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "nvidia-gpu-architecture-engineer-santa-clara"
-  },
-  {
-    "job_title": "OEM Account Applications Engineer",
-    "employer_name": "NVIDIA",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Join NVIDIA in this exciting opportunity.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780",
-    "job_posted_at_datetime_utc": "2025-08-28T20:44:17.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "nvidia-oem-account-applications-engineer-santa-clara"
-  },
-  {
-    "job_title": "AI/ML Software Engineer Graduate (Data Platform TikTok BP)",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "Join TikTok in this exciting opportunity.",
-    "job_apply_link": "https://lifeattiktok.com/search/7541178634444589319",
-    "job_posted_at_datetime_utc": "2025-08-28T20:43:55.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tiktok-ai-ml-software-engineer-graduate-data-platform-tiktok-bp-san-jose"
-  },
-  {
-    "job_title": "Software Integration Engineer, Factory Firmware",
-    "employer_name": "Tesla",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_description": "Join Tesla in this exciting opportunity.",
-    "job_apply_link": "https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467",
-    "job_posted_at_datetime_utc": "2025-08-28T20:43:06.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tesla-software-integration-engineer-factory-firmware-fremont"
-  },
-  {
-    "job_title": "Kernel Software Engineer",
-    "employer_name": "Tesla",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_description": "Join Tesla in this exciting opportunity.",
-    "job_apply_link": "https://www.tesla.com/careers/search/job/248966",
-    "job_posted_at_datetime_utc": "2025-08-28T20:40:21.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tesla-kernel-software-engineer-palo-alto"
-  },
-  {
-    "job_title": "Software Engineer Graduate (AI Applications)",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "Join ByteDance in this exciting opportunity.",
-    "job_apply_link": "https://joinbytedance.com/search/7540808448918079752",
-    "job_posted_at_datetime_utc": "2025-08-28T20:37:37.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "bytedance-software-engineer-graduate-ai-applications-san-jose"
-  },
-  {
-    "job_title": "Software Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Remote",
-    "job_state": "Locations",
-    "job_description": "Join Microsoft in this exciting opportunity.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer",
-    "job_posted_at_datetime_utc": "2025-08-28T20:31:43.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-remote"
+    "job_title": "Research Scientist Intern, Robotic Control Policy (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/24308030212183826",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-robotic-control-policy-phd-redmond"
   }
 ]

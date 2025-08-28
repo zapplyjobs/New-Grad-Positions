@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer, AWS Fintech",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2978807/software-development-engineer-aws-fintech",
-    "job_posted_at": "2025-08-28T20:08:11.809Z",
-    "job_posted_at_datetime_utc": "2025-08-28T20:08:11.809Z",
-    "id": "amazon-software-development-engineer-aws-fintech-seattle"
+    "job_title": "Software Engineer I",
+    "employer_name": "North Atlantic Industries",
+    "job_city": "Long Island",
+    "job_state": "New York",
+    "job_description": "Join North Atlantic Industries in this exciting opportunity.",
+    "job_apply_link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3535138",
+    "job_posted_at_datetime_utc": "2025-08-28T22:25:36.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "north-atlantic-industries-software-engineer-i-long-island"
   },
   {
-    "job_title": "Research Scientist Intern, Robotic Control Policy (PhD)",
+    "job_title": "FAIR Robotics - AI Research Scientist",
     "employer_name": "Meta",
     "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/24308030212183826",
+    "job_state": "WA +2 locations",
+    "job_description": "AI Research +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1323630919380987",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-robotic-control-policy-phd-redmond"
+    "id": "meta-fair-robotics-ai-research-scientist-redmond"
   }
 ]

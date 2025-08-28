@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Software Engineer Entry Level",
-    "employer_name": "USAA",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_description": "Join USAA in this exciting opportunity.",
-    "job_apply_link": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Software-Engineer-Entry-Level_R0111721",
-    "job_posted_at_datetime_utc": "2025-08-27T23:37:37.000Z",
+    "job_title": "New Grad – Software Engineering",
+    "employer_name": "Samsara",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Samsara in this exciting opportunity.",
+    "job_apply_link": "https://www.samsara.com/company/careers/roles/7172579?gh_jid=7172579",
+    "job_posted_at_datetime_utc": "2025-08-27T17:21:43.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "usaa-software-engineer-entry-level-plano"
-  },
-  {
-    "job_title": "Senior Azure Advanced Customer Engineer – Customer Focus",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1844312",
-    "job_posted_at_datetime_utc": "2025-08-28T00:40:30.358Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-azure-advanced-customer-engineer-customer-focus-redmond"
-  },
-  {
-    "job_title": "Sr. Manager, Security Software Engineering",
-    "employer_name": "Databricks",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8081337002",
-    "job_posted_at_datetime_utc": "2025-08-28T00:12:31.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-manager-security-software-engineering-united-states"
+    "id": "samsara-new-grad-software-engineering-sf"
   }
 ]

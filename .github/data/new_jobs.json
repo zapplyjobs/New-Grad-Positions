@@ -1,67 +1,90 @@
 [
   {
-    "job_title": "Software Development Engineer, Kuiper Ground Systems Engineering",
+    "job_title": "System Dev Engineer I, Analytics ADC",
     "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2972165/software-development-engineer-kuiper-ground-systems-engineering",
-    "job_posted_at": "2025-08-28T19:09:30.473Z",
-    "job_posted_at_datetime_utc": "2025-08-28T19:09:30.473Z",
-    "id": "amazon-software-development-engineer-kuiper-ground-systems-engineering-redmond"
-  },
-  {
-    "job_title": "Software Development Engineer, AWS Security",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2973391/software-development-engineer-aws-security",
-    "job_posted_at": "2025-08-28T18:09:30.474Z",
-    "job_posted_at_datetime_utc": "2025-08-28T18:09:30.474Z",
-    "id": "amazon-software-development-engineer-aws-security-herndon"
-  },
-  {
-    "job_title": "Research Engineer - Wearables Voice AI Assistant",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA +2 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/739989668878257",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-engineer-wearables-voice-ai-assistant-redmond"
-  },
-  {
-    "job_title": "Electrical Engineer: Robotics Hardware Engineering",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/813651084348894",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-electrical-engineer-robotics-hardware-engineering-redmond"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Lead",
-    "job_city": "Ann Arbor",
-    "job_state": "MI",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Lead, Global Product Solutions",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/134405217637540550-lead-global-product-solutions?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=3",
-    "id": "google-lead-ann-arbor"
-  },
-  {
-    "job_title": "Back-End Principal Software Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849024",
-    "job_posted_at_datetime_utc": "2025-08-28T20:16:13.982Z",
+    "job_city": "Denver",
+    "job_state": "CO",
+    "job_description": "Join Amazon in this exciting opportunity.",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc",
+    "job_posted_at_datetime_utc": "2025-08-28T20:46:40.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-back-end-principal-software-engineer-redmond"
+    "id": "amazon-system-dev-engineer-i-analytics-adc-denver"
+  },
+  {
+    "job_title": "GPU Architecture Engineer",
+    "employer_name": "NVIDIA",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Join NVIDIA in this exciting opportunity.",
+    "job_apply_link": "http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
+    "job_posted_at_datetime_utc": "2025-08-28T20:44:39.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "nvidia-gpu-architecture-engineer-santa-clara"
+  },
+  {
+    "job_title": "OEM Account Applications Engineer",
+    "employer_name": "NVIDIA",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Join NVIDIA in this exciting opportunity.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780",
+    "job_posted_at_datetime_utc": "2025-08-28T20:44:17.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "nvidia-oem-account-applications-engineer-santa-clara"
+  },
+  {
+    "job_title": "AI/ML Software Engineer Graduate (Data Platform TikTok BP)",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join TikTok in this exciting opportunity.",
+    "job_apply_link": "https://lifeattiktok.com/search/7541178634444589319",
+    "job_posted_at_datetime_utc": "2025-08-28T20:43:55.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "tiktok-ai-ml-software-engineer-graduate-data-platform-tiktok-bp-san-jose"
+  },
+  {
+    "job_title": "Software Integration Engineer, Factory Firmware",
+    "employer_name": "Tesla",
+    "job_city": "Fremont",
+    "job_state": "CA",
+    "job_description": "Join Tesla in this exciting opportunity.",
+    "job_apply_link": "https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467",
+    "job_posted_at_datetime_utc": "2025-08-28T20:43:06.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "tesla-software-integration-engineer-factory-firmware-fremont"
+  },
+  {
+    "job_title": "Kernel Software Engineer",
+    "employer_name": "Tesla",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_description": "Join Tesla in this exciting opportunity.",
+    "job_apply_link": "https://www.tesla.com/careers/search/job/248966",
+    "job_posted_at_datetime_utc": "2025-08-28T20:40:21.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "tesla-kernel-software-engineer-palo-alto"
+  },
+  {
+    "job_title": "Software Engineer Graduate (AI Applications)",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7540808448918079752",
+    "job_posted_at_datetime_utc": "2025-08-28T20:37:37.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bytedance-software-engineer-graduate-ai-applications-san-jose"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Remote",
+    "job_state": "Locations",
+    "job_description": "Join Microsoft in this exciting opportunity.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer",
+    "job_posted_at_datetime_utc": "2025-08-28T20:31:43.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-remote"
   }
 ]

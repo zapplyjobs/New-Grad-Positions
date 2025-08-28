@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Software Dev Engineer II - AMZ26517.1",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3040699/software-dev-engineer-ii-amz26517-1",
+    "job_posted_at": "2025-08-27T11:07:49.938Z",
+    "job_posted_at_datetime_utc": "2025-08-27T11:07:49.938Z",
+    "id": "amazon-software-dev-engineer-ii-amz26517-1-arlington"
+  },
+  {
+    "job_title": "Software Development Engineer II, AppStream",
+    "employer_name": "Amazon",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3065514/software-development-engineer-ii-appstream",
+    "job_posted_at": "2025-08-25T11:07:49.938Z",
+    "job_posted_at_datetime_utc": "2025-08-25T11:07:49.938Z",
+    "id": "amazon-software-development-engineer-ii-appstream-santa-clara"
+  },
+  {
+    "job_title": "Partner Engineer, Payments",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1845230246389416",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-partner-engineer-payments-multiple"
+  }
+]

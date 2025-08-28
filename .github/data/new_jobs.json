@@ -1,13 +1,67 @@
 [
   {
-    "job_title": "Hardware Engineer I",
-    "employer_name": "Generac",
-    "job_city": "Waukesha",
-    "job_state": "WI",
-    "job_description": "Join Generac in this exciting opportunity.",
-    "job_apply_link": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Hardware-Engineer-I_JR8765-1",
-    "job_posted_at_datetime_utc": "2025-08-28T17:20:52.000Z",
+    "job_title": "Software Engineer I",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2990307/software-engineer-i",
+    "job_posted_at": "2025-08-28T18:07:49.914Z",
+    "job_posted_at_datetime_utc": "2025-08-28T18:07:49.914Z",
+    "id": "amazon-software-engineer-i-seattle"
+  },
+  {
+    "job_title": "Research Scientist Intern, Graph Science and Statistics Research (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1305619561232867",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-graph-science-and-statistics-research-phd-menlo-park"
+  },
+  {
+    "job_title": "QA Engineering Lead",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1358283729000722",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-qa-engineering-lead-multiple"
+  },
+  {
+    "job_title": "Research Scientist Intern, Flexible and Stretchable Electronics (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Research +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/986731620190990",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-flexible-and-stretchable-electronics-phd-redmond"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager III",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager III, AI Algorithms, Pixel Watch",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/95174917636399814-technical-program-manager-iii-ai-algorithms-pixel-watch?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8",
+    "id": "google-technical-program-manager-iii-san-diego"
+  },
+  {
+    "job_title": "Senior Multimedia Systems Engineer",
+    "employer_name": "Qualcomm",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_description": "Join Qualcomm to invent breakthrough technologies.",
+    "job_apply_link": "https://careers.qualcomm.com/careers/job/446707555364",
+    "job_posted_at_datetime_utc": "2025-08-28T19:14:37.718Z",
     "job_employment_type": "FULLTIME",
-    "id": "generac-hardware-engineer-i-waukesha"
+    "id": "qualcomm-senior-multimedia-systems-engineer-san-diego"
   }
 ]

@@ -1,35 +1,35 @@
 [
   {
-    "job_title": "Business Support Engineer",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
+    "job_title": "Front-End Engineer, Kuiper Manufacturing Systems Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "University Grad - Engineering, Tech & Design +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1309423697214248",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-business-support-engineer-menlo-park"
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069522/front-end-engineer-kuiper-manufacturing-systems-engineering",
+    "job_posted_at": "2025-08-29T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-29T00:00:00.000Z",
+    "id": "amazon-front-end-engineer-kuiper-manufacturing-systems-engineering-sunnyvale"
   },
   {
-    "job_title": "Solution Engineer - Cloud & AI Apps",
+    "job_title": "Sr. System & Cloud Engineer - DevOps",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908936871",
+    "job_posted_at_datetime_utc": "2025-08-29T21:14:42.161Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-sr-system-cloud-engineer-devops-san-jose"
+  },
+  {
+    "job_title": "Design Verification Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862462",
-    "job_posted_at_datetime_utc": "2025-08-29T20:15:41.330Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864646",
+    "job_posted_at_datetime_utc": "2025-08-29T21:14:33.573Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-cloud-ai-apps-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - Audio/Video Infrastructure",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8141723002",
-    "job_posted_at_datetime_utc": "2025-08-29T19:49:15.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-senior-software-engineer-audio-video-infrastructure-san-francisco-bay-area"
+    "id": "microsoft-design-verification-engineer-redmond"
   }
 ]

@@ -117,6 +117,16 @@
     background: rgba(255, 107, 74, 0.1);
 }
 
+/* Desktop theme toggle - visible on desktop */
+.desktop-theme-toggle {
+    display: flex;
+}
+
+/* Mobile theme toggle - hidden on desktop */
+.mobile-theme-toggle {
+    display: none;
+}
+
 /* Dark mode styles for glassomorphic container */
 .dark .header-container {
     background: rgba(42, 42, 42, 0.8);
@@ -193,6 +203,16 @@
 
     .desktop-nav {
         display: none;
+    }
+    
+    /* Hide desktop theme toggle on mobile */
+    .desktop-theme-toggle {
+        display: none;
+    }
+    
+    /* Show mobile theme toggle on mobile */
+    .mobile-theme-toggle {
+        display: flex;
     }
     
     .mobile-controls {

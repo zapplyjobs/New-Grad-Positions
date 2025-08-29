@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
-    "employer_name": "Oracle",
-    "job_city": "Nashville",
-    "job_state": "TN",
-    "job_description": "Join Oracle in this exciting opportunity.",
-    "job_apply_link": "https://careers.oracle.com/en/sites/jobsearch/job/305993",
-    "job_posted_at_datetime_utc": "2025-08-29T16:42:06.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "oracle-undergrad-software-engineer-oracle-cloud-infrastructure-oci-nashville"
-  },
-  {
-    "job_title": "Principal Hardware Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846360",
-    "job_posted_at_datetime_utc": "2025-08-29T17:14:32.048Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-hardware-engineer-redmond"
-  },
-  {
-    "job_title": "Senior Design Engineer- Automation",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849339",
-    "job_posted_at_datetime_utc": "2025-08-29T17:14:32.048Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-design-engineer-automation-redmond"
+    "job_title": "Privacy Engineer - Privacy Red Team",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +3 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1316674426554165",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-privacy-engineer-privacy-red-team-menlo-park"
   }
 ]

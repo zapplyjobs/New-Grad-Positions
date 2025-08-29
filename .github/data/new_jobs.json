@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Front-End Engineer, Kuiper Manufacturing Systems Engineering",
+    "job_title": "Software Development Engineer, Kuiper Manufacturing Systems Engineering",
     "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069541/software-development-engineer-kuiper-manufacturing-systems-engineering",
+    "job_posted_at": "2025-08-29T21:08:26.631Z",
+    "job_posted_at_datetime_utc": "2025-08-29T21:08:26.631Z",
+    "id": "amazon-software-development-engineer-kuiper-manufacturing-systems-engineering-bellevue"
+  },
+  {
+    "job_title": "Technical Program Manager, Product Design",
+    "employer_name": "Meta",
     "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069522/front-end-engineer-kuiper-manufacturing-systems-engineering",
-    "job_posted_at": "2025-08-29T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-29T00:00:00.000Z",
-    "id": "amazon-front-end-engineer-kuiper-manufacturing-systems-engineering-sunnyvale"
-  },
-  {
-    "job_title": "Sr. System & Cloud Engineer - DevOps",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908936871",
-    "job_posted_at_datetime_utc": "2025-08-29T21:14:42.161Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-sr-system-cloud-engineer-devops-san-jose"
-  },
-  {
-    "job_title": "Design Verification Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864646",
-    "job_posted_at_datetime_utc": "2025-08-29T21:14:33.573Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-design-verification-engineer-redmond"
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2143128166194759",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-technical-program-manager-product-design-sunnyvale"
   }
 ]

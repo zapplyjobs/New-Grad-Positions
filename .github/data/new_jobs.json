@@ -1,57 +1,79 @@
 [
   {
-    "job_title": "Product Marketing Director, Meta Horizon",
-    "employer_name": "Meta",
-    "job_city": "Los Angeles",
-    "job_state": "CA +2 locations",
-    "job_description": "Product Marketing Management",
-    "job_apply_link": "https://www.metacareers.com/jobs/1783156465615698",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-marketing-director-meta-horizon-los-angeles"
-  },
-  {
-    "job_title": "Design Engineer, GenAI",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +4 locations",
-    "job_description": "Design & User Experience",
-    "job_apply_link": "https://www.metacareers.com/jobs/1489473302426358",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-design-engineer-genai-bellevue"
-  },
-  {
-    "job_title": "Product Security Engineer, Web",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +3 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/3961227390859342",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-security-engineer-web-bellevue"
-  },
-  {
-    "job_title": "Research Scientist, Circuit Design (PhD)",
+    "job_title": "Applied Research Scientist - Reality Labs Research",
     "employer_name": "Meta",
     "job_city": "Sunnyvale",
-    "job_state": "CA +3 locations",
+    "job_state": "CA +1 locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1959910781516461",
+    "job_apply_link": "https://www.metacareers.com/jobs/9776082169114837",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-circuit-design-phd-sunnyvale"
+    "id": "meta-applied-research-scientist-reality-labs-research-sunnyvale"
   },
   {
-    "job_title": "Senior Android Engineer",
+    "job_title": "Industrial Designer - Meta Reality Labs",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA +1 locations",
+    "job_description": "3D Product Design",
+    "job_apply_link": "https://www.metacareers.com/jobs/1627933777839654",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-industrial-designer-meta-reality-labs-redmond"
+  },
+  {
+    "job_title": "AI Research Scientist - Language - MRS AI",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "AI Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/1501468634198705",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-ai-research-scientist-language-mrs-ai-sunnyvale"
+  },
+  {
+    "job_title": "Manager, Research Operations",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +2 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1285674689842320",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-manager-research-operations-menlo-park"
+  },
+  {
+    "job_title": "Creative Director, Product and Executive Communications",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/629142873511444",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-creative-director-product-and-executive-communications-menlo-park"
+  },
+  {
+    "job_title": "Regional Engineering Director, Financial Services",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862292",
-    "job_posted_at_datetime_utc": "2025-08-29T09:16:13.154Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861066",
+    "job_posted_at_datetime_utc": "2025-08-29T10:15:43.422Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-android-engineer-redmond"
+    "id": "microsoft-regional-engineering-director-financial-services-redmond"
+  },
+  {
+    "job_title": "Android Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862285",
+    "job_posted_at_datetime_utc": "2025-08-29T10:15:43.422Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-android-engineer-ii-redmond"
   }
 ]

@@ -1,67 +1,35 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Social and Community Product Lead",
-    "job_city": "Los Angeles",
+    "job_title": "Business Support Engineer",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
     "job_state": "CA",
+    "job_description": "University Grad - Engineering, Tech & Design +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1309423697214248",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: Social and Community Product Lead, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77719818358137542-social-and-community-product-lead-youtube?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=2",
-    "id": "google-social-and-community-product-lead-los-angeles"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-business-support-engineer-menlo-park"
   },
   {
-    "job_title": "Senior Software Engineer – Web Platform & Edge Delivery Services",
+    "job_title": "Solution Engineer - Cloud & AI Apps",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863879",
-    "job_posted_at_datetime_utc": "2025-08-29T19:13:51.957Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862462",
+    "job_posted_at_datetime_utc": "2025-08-29T20:15:41.330Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-web-platform-edge-delivery-services-redmond"
+    "id": "microsoft-solution-engineer-cloud-ai-apps-redmond"
   },
   {
-    "job_title": "Associate Software Development Engineer",
-    "employer_name": "CVS Health",
-    "job_city": "Hartford",
-    "job_state": "CT",
-    "job_description": "Join CVS Health in this exciting opportunity.",
-    "job_apply_link": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/CT---Hartford/Associate-Software-Development-Engineer_R0699201-1",
-    "job_posted_at_datetime_utc": "2025-08-29T18:39:52.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "cvs-health-associate-software-development-engineer-hartford"
-  },
-  {
-    "job_title": "Software Engineer",
-    "employer_name": "Commure",
-    "job_city": "Mountain View",
+    "job_title": "Senior Software Engineer - Audio/Video Infrastructure",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
     "job_state": "CA",
-    "job_description": "Join Commure in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/commure-athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8",
-    "job_posted_at_datetime_utc": "2025-08-29T18:34:26.000Z",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8141723002",
+    "job_posted_at_datetime_utc": "2025-08-29T19:49:15.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "commure-software-engineer-mountain-view"
-  },
-  {
-    "job_title": "Entry Level Software Engineer",
-    "employer_name": "General Dynamics",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_description": "Join General Dynamics in this exciting opportunity.",
-    "job_apply_link": "https://careers-gdms.icims.com/jobs/67867/entry-level-software-engineer/job",
-    "job_posted_at_datetime_utc": "2025-08-29T18:32:58.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "general-dynamics-entry-level-software-engineer-pittsburgh"
-  },
-  {
-    "job_title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
-    "employer_name": "Oracle",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Oracle in this exciting opportunity.",
-    "job_apply_link": "https://careers.oracle.com/en/sites/jobsearch/job/305990",
-    "job_posted_at_datetime_utc": "2025-08-29T18:31:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "oracle-undergrad-software-engineer-oracle-cloud-infrastructure-oci-seattle"
+    "id": "discord-senior-software-engineer-audio-video-infrastructure-san-francisco-bay-area"
   }
 ]

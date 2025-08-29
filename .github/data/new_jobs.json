@@ -1,46 +1,35 @@
 [
   {
-    "job_title": "Software Development Engineer",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069185/software-development-engineer",
-    "job_posted_at": "2025-08-29T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-08-29T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-newark"
-  },
-  {
-    "job_title": "Site Reliability Engineer",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908799742",
-    "job_posted_at_datetime_utc": "2025-08-29T16:16:52.192Z",
+    "job_title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
+    "employer_name": "Oracle",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_description": "Join Oracle in this exciting opportunity.",
+    "job_apply_link": "https://careers.oracle.com/en/sites/jobsearch/job/305993",
+    "job_posted_at_datetime_utc": "2025-08-29T16:42:06.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "paypal-site-reliability-engineer-san-jose"
+    "id": "oracle-undergrad-software-engineer-oracle-cloud-infrastructure-oci-nashville"
   },
   {
-    "job_title": "Software Engineer II - C++",
+    "job_title": "Principal Hardware Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863142",
-    "job_posted_at_datetime_utc": "2025-08-29T16:16:44.714Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846360",
+    "job_posted_at_datetime_utc": "2025-08-29T17:14:32.048Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-c-redmond"
+    "id": "microsoft-principal-hardware-engineer-redmond"
   },
   {
-    "job_title": "Cloud and AI - Infra Solution Engineer - German Speaking",
+    "job_title": "Senior Design Engineer- Automation",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868139",
-    "job_posted_at_datetime_utc": "2025-08-29T16:16:44.714Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849339",
+    "job_posted_at_datetime_utc": "2025-08-29T17:14:32.048Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-and-ai-infra-solution-engineer-german-speaking-redmond"
+    "id": "microsoft-senior-design-engineer-automation-redmond"
   }
 ]

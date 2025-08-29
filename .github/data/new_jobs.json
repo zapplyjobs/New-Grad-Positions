@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Software Development Engineer, Kuiper Manufacturing Systems Engineering",
+    "job_title": "Software Development Engineer, AWS Hardware Engineering",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
+    "job_city": "Cupertino",
+    "job_state": "CA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069541/software-development-engineer-kuiper-manufacturing-systems-engineering",
-    "job_posted_at": "2025-08-29T21:08:26.631Z",
-    "job_posted_at_datetime_utc": "2025-08-29T21:08:26.631Z",
-    "id": "amazon-software-development-engineer-kuiper-manufacturing-systems-engineering-bellevue"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2960941/software-development-engineer-aws-hardware-engineering",
+    "job_posted_at": "2025-08-29T21:08:16.222Z",
+    "job_posted_at_datetime_utc": "2025-08-29T21:08:16.223Z",
+    "id": "amazon-software-development-engineer-aws-hardware-engineering-cupertino"
   },
   {
-    "job_title": "Technical Program Manager, Product Design",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2143128166194759",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-technical-program-manager-product-design-sunnyvale"
+    "job_title": "Senior AI Hardware Quality Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859824",
+    "job_posted_at_datetime_utc": "2025-08-29T23:15:00.110Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-ai-hardware-quality-engineer-redmond"
+  },
+  {
+    "job_title": "Software Development Engineer I - C/C++ - Enterprise Network Performance and Cybersecurity Analytics Platform",
+    "employer_name": "Viavi Solutions",
+    "job_city": "Hopkins",
+    "job_state": "MN",
+    "job_description": "Join Viavi Solutions in this exciting opportunity.",
+    "job_apply_link": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Minnetonka-MN-USA/Software-Development-Engineer-I--C-C------Enterprise-Network-Performance-and-Cybersecurity-Analytics-Platform_250003665-1",
+    "job_posted_at_datetime_utc": "2025-08-29T22:53:25.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "viavi-solutions-software-development-engineer-i-c-c-enterprise-network-performance-and-cybersecurity-analytics-platform-hopkins"
   }
 ]

@@ -1,13 +1,46 @@
 [
   {
-    "job_title": "Engineering Manager, Fleets",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8141332002?gh_jid=8141332002",
-    "job_posted_at_datetime_utc": "2025-08-29T14:29:45.000Z",
+    "job_title": "Software Development Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069185/software-development-engineer",
+    "job_posted_at": "2025-08-29T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-29T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-newark"
+  },
+  {
+    "job_title": "Site Reliability Engineer",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908799742",
+    "job_posted_at_datetime_utc": "2025-08-29T16:16:52.192Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-engineering-manager-fleets-san-francisco"
+    "id": "paypal-site-reliability-engineer-san-jose"
+  },
+  {
+    "job_title": "Software Engineer II - C++",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863142",
+    "job_posted_at_datetime_utc": "2025-08-29T16:16:44.714Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-c-redmond"
+  },
+  {
+    "job_title": "Cloud and AI - Infra Solution Engineer - German Speaking",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868139",
+    "job_posted_at_datetime_utc": "2025-08-29T16:16:44.714Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-and-ai-infra-solution-engineer-german-speaking-redmond"
   }
 ]

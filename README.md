@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 49+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 587+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 49+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 597+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -20,9 +20,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 587
+- **🔥 Current Positions**: 597
 - **🏢 Companies**: 49 elite tech companies
-- **⭐ FAANG+ Jobs**: 316 premium opportunities
+- **⭐ FAANG+ Jobs**: 326 premium opportunities
 - **📅 Last Updated**: August 31, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 608 (older than 1 week)
@@ -67,32 +67,32 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (315 positions)
+### 🏢 **FAANG+** (325 positions)
 
 #### 📦 **Amazon** (22 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Development Engineer, Kuiper Manufacturing Systems Engineering | Sunnyvale, CA | 15h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3069787/software-development-engineer-kuiper-manufacturing-systems-engineering) |
-| Software Development Engineer, Specialist Engineering - Media & Game Tech | Arlington, VA | 15h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3006961/software-development-engineer-specialist-engineering-media-game-tech) |
-| Software Development Engineer, AWS Marketplace | Arlington, VA | 15h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2900110/software-development-engineer-aws-marketplace) |
-| Software Development Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | 16h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3069541/software-development-engineer-kuiper-manufacturing-systems-engineering) |
-| Software Development Engineer, AWS Hardware Engineering | Cupertino, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2960941/software-development-engineer-aws-hardware-engineering) |
+| Software Development Engineer, Kuiper Manufacturing Systems Engineering | Sunnyvale, CA | 16h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3069787/software-development-engineer-kuiper-manufacturing-systems-engineering) |
+| Software Development Engineer, Specialist Engineering - Media & Game Tech | Arlington, VA | 16h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3006961/software-development-engineer-specialist-engineering-media-game-tech) |
+| Software Development Engineer, AWS Marketplace | Arlington, VA | 16h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2900110/software-development-engineer-aws-marketplace) |
+| Software Development Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | 17h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3069541/software-development-engineer-kuiper-manufacturing-systems-engineering) |
 | Software Development Engineer | Newark, NJ | 1d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3069185/software-development-engineer) |
 | Front-End Engineer, Kuiper Manufacturing Systems Engineering | Sunnyvale, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3069522/front-end-engineer-kuiper-manufacturing-systems-engineering) |
 | Software Dev Engineer II - AMZ9083196 | San Diego, CA | 1d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3057152/software-dev-engineer-ii-amz9083196) |
 | Software Developer, Applied AI Solutions | Seattle, WA | 1d ago | Mid-Level | Machine Learning & AI | [Apply](https://amazon.jobs/en-gb/jobs/3052980/software-developer-applied-ai-solutions) |
 | Software Development Engineer , Kuiper Commerce | Redmond, WA | 1d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3057320/software-development-engineer-kuiper-commerce) |
-| Software Development Engineer, Third Party Security Engineering | Austin, TX | 2d ago | Mid-Level | Security Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3034614/software-development-engineer-third-party-security-engineering) |
-| Software Development Engineer, Kuiper Ground Systems Engineering | Redmond, WA | 2d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2972165/software-development-engineer-kuiper-ground-systems-engineering) |
-| Software Engineer I | Seattle, WA | 2d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2990307/software-engineer-i) |
+| Software Development Engineer, AWS Hardware Engineering | Cupertino, CA | 1d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2960941/software-development-engineer-aws-hardware-engineering) |
 | Software Development Engineer, Project Kuiper | Redmond, WA | 2d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3005050/software-development-engineer-project-kuiper) |
 | Software Development Engineer, AWS Fintech | Seattle, WA | 2d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2978807/software-development-engineer-aws-fintech) |
-| Software Development Engineer, AWS Security | Herndon, VA | 2d ago | Mid-Level | Security Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2973391/software-development-engineer-aws-security) |
+| Software Development Engineer, Third Party Security Engineering | Austin, TX | 2d ago | Mid-Level | Security Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3034614/software-development-engineer-third-party-security-engineering) |
+| Software Development Engineer, Kuiper Ground Systems Engineering | Redmond, WA | 3d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2972165/software-development-engineer-kuiper-ground-systems-engineering) |
+| Software Engineer I | Seattle, WA | 3d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2990307/software-engineer-i) |
+| Software Development Engineer, AWS Security | Herndon, VA | 3d ago | Mid-Level | Security Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2973391/software-development-engineer-aws-security) |
 | Software Development Engineer, Amazon Music | Culver City, CA | 4d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2988536/software-development-engineer-amazon-music) |
-| Software Development Engineer, Public Sector | Arlington, VA | 4d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2907474/software-development-engineer-public-sector) |
 | Software Dev Engineer II - AMZ26517.1 | Arlington, VA | 4d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3040699/software-dev-engineer-ii-amz26517-1) |
 | Software Development Engineer, Prime Air | Seattle, WA | 5d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2948004/software-development-engineer-prime-air) |
+| Software Development Engineer, Public Sector | Arlington, VA | 5d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2907474/software-development-engineer-public-sector) |
 | Software Development Engineer II, AppStream | Santa Clara, CA | 6d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3065514/software-development-engineer-ii-appstream) |
 | System Dev Engineer I, Analytics ADC | Denver, CO | 2d ago | Mid-Level | Data Science & Analytics | [Apply](https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc) |
 
@@ -103,10 +103,10 @@
 | Redmond | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1864369/Software-Quality-Engineer-Intern%3A-Internship-Opportunities---Redmond) |
 | Software Engineer: Northeastern University Co-Op Internship Opportunities | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1864533/Software-Engineer%3A-Northeastern-University-Co-Op-Internship-Opportunities) |
 | Software Engineer: Fullstack Intern Opportunities for University Students | Atlanta, Georgia | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861022/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Atlanta) |
-| Software Engineer: Systems Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860982/Software-Engineer%3A-Systems-Intern-Opportunities-for-University-Students%2C-Redmond) |
 | Software Engineer: Frontend Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Frontend Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861019/Software-Engineer%3A-Frontend-Intern-Opportunities-for-University-Students%2C-Redmond) |
 | Software Engineer: AI/ML Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860979/Software-Engineer%3A-AI%2FML-Intern-Opportunities-for-University-Students%2C-Redmond) |
 | Software Engineer: Security Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861017/Software-Engineer%3A-Security-Intern-Opportunities-for-University-Students%2C-Redmond) |
+| Software Engineer: Systems Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860982/Software-Engineer%3A-Systems-Intern-Opportunities-for-University-Students%2C-Redmond) |
 | Software Engineer: Fullstack Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860947/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond) |
 | Systems | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1856361/Software-Engineer---Systems%2C-Multiple-Locations) |
 | Fullstack | Redmond, Washington | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1856350/Software-Engineer---Fullstack%2C-Redmond) |
@@ -122,7 +122,8 @@
 | Design Verification Engineer | Redmond, WA | 0h ago | Mid-Level | Design | [Apply](https://jobs.careers.microsoft.com/global/en/job/1864646) |
 | Software Engineer | Remote 🏠 | 2d ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer) |
 
-#### 🔵 **Meta** (41 positions)
+<details>
+<summary><h4>🔵 <strong>Meta</strong> (51 positions)</h4></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -167,6 +168,18 @@
 | Research Engineer - Wearables Voice AI Assistant | Redmond, WA +2 locations | NaNmo ago | Mid-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/739989668878257) |
 | Data Center Production Operations Engineer | Multiple, Locations | NaNmo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1250227013378516) |
 | Software Engineer - Product (Technical Leadership) | Bellevue, WA +6 locations | NaNmo ago | Senior | Software Engineering | [Apply](https://www.metacareers.com/jobs/4043567932553615) |
+| Software Engineering Manager - ML Generalist | Remote 🏠 | NaNmo ago | Mid-Level | Machine Learning & AI | [Apply](https://www.metacareers.com/jobs/876790077212007) |
+| Engineering Manager, Computer Vision | Multiple, Locations | NaNmo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1541726893156124) |
+| Software Engineering Manager, Tel Aviv | Multiple, Locations | NaNmo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/789375966390137) |
+| ASIC Engineer, Accelerator Systems | Multiple, Locations | NaNmo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1817041185857649) |
+| Systems Software Engineering Manager | Sunnyvale, CA +4 locations | NaNmo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/702859492372628) |
+| Software Engineering Manager - Systems Generalist | Remote 🏠 | NaNmo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/993605731699042) |
+| Research Scientist Intern, Graph Science and Statistics Research (PhD) | Menlo Park, CA +1 locations | NaNmo ago | Entry-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1305619561232867) |
+| 3D Artist | Wearables Product Creative | Burlingame, CA | NaNmo ago | Mid-Level | Design | [Apply](https://www.metacareers.com/jobs/1703800876942700) |
+| Image Processing Engineer | Sunnyvale, CA | NaNmo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1295369988690382) |
+| Network Engineer, Deployment & Support | Multiple, Locations | NaNmo ago | Mid-Level | Software Engineering | [Apply](https://www.metacareers.com/jobs/1944275393083944) |
+
+</details>
 
 <details>
 <summary><h4>🟢 <strong>Google</strong> (230 positions)</h4></summary>
@@ -730,8 +743,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 84 | 14% | No or minimal experience |
-| 🟡 Beginner & Early Career | 279 | 48% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 85 | 14% | No or minimal experience |
+| 🟡 Beginner & Early Career | 288 | 48% | 1-2 years of experience |
 | 🔴 Manager         | 224 | 38% | 2+ years of experience |
 
 ---
@@ -741,15 +754,15 @@
 - **Mountain View, CA**: 46 positions
 - **New York, NY**: 38 positions
 - **San Francisco, CA**: 38 positions
-- **Sunnyvale, CA**: 27 positions
+- **Sunnyvale, CA**: 28 positions
 - **Seattle, WA**: 23 positions
 - **Chicago, IL**: 18 positions
-- **Remote - USA, CA**: 15 positions
+- **Remote 🏠**: 16 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (231 positions)
+#### 💻 Software Engineering (239 positions)
 📦 Amazon
 
 #### 📊 Data Science & Analytics (73 positions)
@@ -761,13 +774,13 @@
 #### ☁️ DevOps & Infrastructure (66 positions)
 🔵 Meta
 
-#### 🧠 Machine Learning & AI (56 positions)
+#### 🧠 Machine Learning & AI (57 positions)
 📦 Amazon • 🔵 Meta
 
 #### 📱 Mobile Development (29 positions)
 🔵 Meta • 🟢 Google
 
-#### 🎨 Design (22 positions)
+#### 🎨 Design (23 positions)
 🔵 Meta
 
 #### 🛡️ Security Engineering (14 positions)
@@ -786,7 +799,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 587+ verified roles for Software Engineering roles from 49 elite tech companies.
+- ✅ **100% Real Jobs**: 597+ verified roles for Software Engineering roles from 49 elite tech companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -881,8 +894,8 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | Software Development Engineer II (ADBL181) | Cambridge, MA | 1w ago | Entry-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3061422/software-development-engineer-ii-adbl181) |
 | Software Dev Engineer II - AMZ26546.1 | Dallas, TX | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3044569/software-dev-engineer-ii-amz26546-1) |
 | Software Development Engineer | Seattle, WA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3063253/software-development-engineer) |
-| Software Dev Engineer II - AMZ9082248 | Austin, TX | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3051710/software-dev-engineer-ii-amz9082248) |
 | Software Dev Engineer II - AMZ9083221 | San Francisco, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3047570/software-dev-engineer-ii-amz9083221) |
+| Software Dev Engineer II - AMZ9082248 | Austin, TX | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3051710/software-dev-engineer-ii-amz9082248) |
 | Software Engineer | Cambridge, MA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3061877/software-engineer) |
 | Software Development Engineer, Kuiper | Bellevue, WA | 1w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2949421/software-development-engineer-kuiper) |
 | Software Development Engineer - Embedded, Flight Computer Software | Redmond, WA | 1w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3059001/software-development-engineer-embedded-flight-computer-software) |
@@ -1406,10 +1419,10 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | 🏢 **The Travelers Companies** | Software Engineer I - Workday Programmer - Report Writer - Eib | Hartford, CT | 1w ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Workday-Programmer----Report-Writer--EIB_R-46062) |
 | 🏢 **The Travelers Companies** | Software Engineer I - AWS/Node/React/AI | Atlanta, GA | 2w ago | Mid-Level | Frontend Development | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-React-AI-_R-46114) |
 | 🏢 **The Travelers Companies** | Software Engineer I - AWS/Node/React/AI | Hartford, CT | 2w ago | Mid-Level | Frontend Development | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS-Node-React-AI-_R-46121) |
-| 🏢 **The Travelers Companies** | Software Engineer I - Guidewire | Atlanta, GA | 4w ago | Mid-Level | Frontend Development | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Guidewire-_R-42652) |
-| 🏢 **The Travelers Companies** | Software Engineer I - Aws - React - GenAI | Hartford, CT | 4w ago | Mid-Level | Frontend Development | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--React--GenAI-_R-44034) |
-| 🏢 **The Travelers Companies** | Software Engineer I - .Net / MERN / AWS | Sparks, MD | 4w ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Net---MERN---AWS-_R-43980) |
-| 🏢 **The Travelers Companies** | Software Engineer I - Java - Aws - Jsf | St Paul, MN | 4w ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189) |
+| 🏢 **The Travelers Companies** | Software Engineer I - Guidewire | Atlanta, GA | 1mo ago | Mid-Level | Frontend Development | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Guidewire-_R-42652) |
+| 🏢 **The Travelers Companies** | Software Engineer I - Aws - React - GenAI | Hartford, CT | 1mo ago | Mid-Level | Frontend Development | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--React--GenAI-_R-44034) |
+| 🏢 **The Travelers Companies** | Software Engineer I - .Net / MERN / AWS | Sparks, MD | 1mo ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Net---MERN---AWS-_R-43980) |
+| 🏢 **The Travelers Companies** | Software Engineer I - Java - Aws - Jsf | St Paul, MN | 1mo ago | Mid-Level | Software Engineering | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189) |
 | 🏢 **Five Rings** | Software Developer | New York, NY | 3w ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008) |
 | 🏢 **M&T Bank** | Technology Development Program - Software Engineering | Buffalo, NY | 1mo ago | Mid-Level | Software Engineering | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033) |
 | 🏢 **Citadel Securities** | C++ Software Engineer | Miami, FL | 2w ago | Mid-Level | Software Engineering | [Apply](https://www.citadelsecurities.com/careers/details/c-software-engineer-4/) |
@@ -1507,7 +1520,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 
 <div align="center">
 
-**🎯 587 current opportunities from 49 elite companies**
+**🎯 597 current opportunities from 49 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Software Dev Engineer, EC2 Nitro",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
+    "job_title": "Software Engineer - Rust\\C++ low level development - Microsoft Security Exposure Management",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2901615/software-dev-engineer-ec2-nitro",
-    "job_posted_at": "2025-09-01T07:10:54.320Z",
-    "job_posted_at_datetime_utc": "2025-09-01T07:10:54.320Z",
-    "id": "amazon-software-dev-engineer-ec2-nitro-seattle"
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859582",
+    "job_posted_at_datetime_utc": "2025-09-01T10:18:16.118Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-rust-c-low-level-development-microsoft-security-exposure-management-redmond"
+  },
+  {
+    "job_title": "Sr Customer Technical Engineer - Met Office",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863485",
+    "job_posted_at_datetime_utc": "2025-09-01T10:18:16.118Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-sr-customer-technical-engineer-met-office-redmond"
+  },
+  {
+    "job_title": "Software Engineer - Azure Core Host Networking",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862451",
+    "job_posted_at_datetime_utc": "2025-09-01T10:18:16.118Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-azure-core-host-networking-redmond"
   }
 ]

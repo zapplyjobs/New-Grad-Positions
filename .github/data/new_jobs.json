@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer - Test",
+    "job_title": "Principal Group Engineering Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863473",
-    "job_posted_at_datetime_utc": "2025-09-02T12:21:28.260Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863752",
+    "job_posted_at_datetime_utc": "2025-09-02T13:23:25.014Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-development-engineer-test-redmond"
+    "id": "microsoft-principal-group-engineering-manager-redmond"
   },
   {
-    "job_title": "Senior Software Engineer - Azure Core Team",
+    "job_title": "Junior Solution Engineer - AI & Apps | Presales",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1869255",
-    "job_posted_at_datetime_utc": "2025-09-02T12:21:28.260Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850565",
+    "job_posted_at_datetime_utc": "2025-09-02T13:23:25.014Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-azure-core-team-redmond"
+    "id": "microsoft-junior-solution-engineer-ai-apps-presales-redmond"
   }
 ]

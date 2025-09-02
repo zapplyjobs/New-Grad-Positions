@@ -1,13 +1,68 @@
 [
   {
-    "job_title": "Senior Staff Software Engineer, Machine Learning (Safety)",
+    "job_title": "Information Security Engineer I",
+    "employer_name": "CenturyLink",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join CenturyLink in this exciting opportunity.",
+    "job_apply_link": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322139300/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2025-09-02T18:34:13.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "centurylink-information-security-engineer-i-remote-in-usa"
+  },
+  {
+    "job_title": "Research Scientist Intern, Neuromotor Interfaces: Computational Modeling (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Burlingame",
+    "job_state": "CA +1 locations",
+    "job_description": "Research +3 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1328155235685414",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-neuromotor-interfaces-computational-modeling-phd-burlingame"
+  },
+  {
+    "job_title": "Research Scientist Intern, Neuromotor Interfaces (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Burlingame",
+    "job_state": "CA +1 locations",
+    "job_description": "AI Research +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/707239349014911",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-neuromotor-interfaces-phd-burlingame"
+  },
+  {
+    "job_title": "Lead SOC Physical Design Engineer",
+    "employer_name": "Qualcomm",
+    "job_city": "Santa Clara",
+    "job_state": "California",
+    "job_description": "Join Qualcomm to invent breakthrough technologies.",
+    "job_apply_link": "https://careers.qualcomm.com/careers/job/446707568765",
+    "job_posted_at_datetime_utc": "2025-09-02T19:14:42.374Z",
+    "job_employment_type": "FULLTIME",
+    "id": "qualcomm-lead-soc-physical-design-engineer-santa-clara"
+  },
+  {
+    "job_title": "Staff Data Engineer, Ads",
     "employer_name": "Discord",
-    "job_city": "Remote (U.S.)",
+    "job_city": "San Francisco Bay Area or Remote (U.S.)",
     "job_state": "CA",
     "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/7985597002",
-    "job_posted_at_datetime_utc": "2025-09-02T18:04:38.000Z",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8129458002",
+    "job_posted_at_datetime_utc": "2025-09-02T18:54:18.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "discord-senior-staff-software-engineer-machine-learning-safety-remote-u-s"
+    "id": "discord-staff-data-engineer-ads-san-francisco-bay-area-or-remote-u-s"
+  },
+  {
+    "job_title": "Senior Software Engineer, Data Platform",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8112880002",
+    "job_posted_at_datetime_utc": "2025-09-02T18:39:46.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-senior-software-engineer-data-platform-san-francisco-bay-area"
   }
 ]

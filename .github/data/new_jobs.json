@@ -1,68 +1,24 @@
 [
   {
-    "job_title": "New Grad Software Engineer - Backend Rust",
-    "employer_name": "N1",
-    "job_city": "Oakland",
-    "job_state": "CA",
-    "job_description": "Join N1 in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application",
-    "job_posted_at_datetime_utc": "2025-09-02T21:12:41.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "n1-new-grad-software-engineer-backend-rust-oakland"
-  },
-  {
-    "job_title": "SDE - BIOS, AWS Hardware Engineering, Firmware Development",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2913963/sde-bios-aws-hardware-engineering-firmware-development",
-    "job_posted_at": "2025-09-02T21:07:54.588Z",
-    "job_posted_at_datetime_utc": "2025-09-02T21:07:54.588Z",
-    "id": "amazon-sde-bios-aws-hardware-engineering-firmware-development-cupertino"
-  },
-  {
-    "job_title": "Principal Security Engineering Manager",
+    "job_title": "AI Business Solutions – Solution Engineer Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864486",
-    "job_posted_at_datetime_utc": "2025-09-02T22:14:36.315Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859707",
+    "job_posted_at_datetime_utc": "2025-09-02T23:14:30.468Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-security-engineering-manager-redmond"
+    "id": "microsoft-ai-business-solutions-solution-engineer-manager-redmond"
   },
   {
-    "job_title": "Staff Software Engineer, Growth Products",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
+    "job_title": "Software Engineer, Revenue and Financial Automation",
+    "employer_name": "Stripe",
+    "job_city": "Canada",
     "job_state": "CA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8118351002?gh_jid=8118351002",
-    "job_posted_at_datetime_utc": "2025-09-02T22:13:53.000Z",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7019065",
+    "job_posted_at_datetime_utc": "2025-09-02T22:24:58.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-staff-software-engineer-growth-products-san-francisco"
-  },
-  {
-    "job_title": "Staff Software Engineer, Growth Products",
-    "employer_name": "Lyft",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8118353002?gh_jid=8118353002",
-    "job_posted_at_datetime_utc": "2025-09-02T22:13:15.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-staff-software-engineer-growth-products-seattle"
-  },
-  {
-    "job_title": "Staff Software Engineer, Growth Products",
-    "employer_name": "Lyft",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8118008002?gh_jid=8118008002",
-    "job_posted_at_datetime_utc": "2025-09-02T22:12:39.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-staff-software-engineer-growth-products-new-york"
+    "id": "stripe-software-engineer-revenue-and-financial-automation-canada"
   }
 ]

@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Principal Software Engineering Manager- Mobile",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864223",
+    "job_posted_at_datetime_utc": "2025-09-02T10:16:17.838Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineering-manager-mobile-redmond"
+  },
+  {
+    "job_title": "Principal Software Engineer - Identity",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852272",
+    "job_posted_at_datetime_utc": "2025-09-02T10:16:17.838Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-identity-redmond"
+  }
+]

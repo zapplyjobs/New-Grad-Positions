@@ -1,57 +1,13 @@
 [
   {
-    "job_title": "Software Development Engineer",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2843996/software-development-engineer",
-    "job_posted_at": "2025-09-02T14:09:05.760Z",
-    "job_posted_at_datetime_utc": "2025-09-02T14:09:05.760Z",
-    "id": "amazon-software-development-engineer-austin"
-  },
-  {
-    "job_title": "Software Engineer - Fullstack, Multiple Locations",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "job_title": "Software Development Engineer I – Early Career & New Graduate Rotation",
+    "employer_name": "Blue Origin",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1869391",
-    "job_posted_at_datetime_utc": "2025-09-02T15:15:47.849Z",
+    "job_description": "Join Blue Origin in this exciting opportunity.",
+    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894",
+    "job_posted_at_datetime_utc": "2025-09-02T15:25:32.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-fullstack-multiple-locations-redmond"
-  },
-  {
-    "job_title": "Software Engineer - Fullstack, Redmond",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1869347",
-    "job_posted_at_datetime_utc": "2025-09-02T15:15:47.849Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-fullstack-redmond-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer, Backend (Core Automation)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7184757?gh_jid=7184757",
-    "job_posted_at_datetime_utc": "2025-09-02T14:59:54.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-backend-core-automation-remote-usa"
-  },
-  {
-    "job_title": "Director, AI Forward Deployed Engineering (FDE) - Enterprise ",
-    "employer_name": "Databricks",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7989657002",
-    "job_posted_at_datetime_utc": "2025-09-02T14:25:07.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-director-ai-forward-deployed-engineering-fde-enterprise-united-states"
+    "id": "blue-origin-software-development-engineer-i-early-career-new-graduate-rotation-seattle"
   }
 ]

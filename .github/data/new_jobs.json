@@ -1,24 +1,46 @@
 [
   {
-    "job_title": "Principal Group Engineering Manager",
-    "employer_name": "Microsoft",
+    "job_title": "Electrical Engineer Audio Research",
+    "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863752",
-    "job_posted_at_datetime_utc": "2025-09-02T13:23:25.014Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-group-engineering-manager-redmond"
+    "job_description": "Engineering +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1354263426366630",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-electrical-engineer-audio-research-redmond"
   },
   {
-    "job_title": "Junior Solution Engineer - AI & Apps | Presales",
+    "job_title": "Technical Support Engineer - Azure Cloud",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850565",
-    "job_posted_at_datetime_utc": "2025-09-02T13:23:25.014Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1839386",
+    "job_posted_at_datetime_utc": "2025-09-02T14:15:17.680Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-junior-solution-engineer-ai-apps-presales-redmond"
+    "id": "microsoft-technical-support-engineer-azure-cloud-redmond"
+  },
+  {
+    "job_title": "Support Escalation Engineer - Azure Networking",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1839834",
+    "job_posted_at_datetime_utc": "2025-09-02T14:15:17.680Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-support-escalation-engineer-azure-networking-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Infrastructure",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842570",
+    "job_posted_at_datetime_utc": "2025-09-02T14:15:17.680Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-infrastructure-redmond"
   }
 ]

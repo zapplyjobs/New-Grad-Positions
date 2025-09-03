@@ -1,45 +1,101 @@
 [
   {
-    "job_title": "Research Scientist Intern, Neural Rendering and Split-Compute Systems (PhD)",
+    "job_title": "Network Engineer, Foundation and Support",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Data Center Design, Engineering, & Construction",
+    "job_apply_link": "https://www.metacareers.com/jobs/804887005316076",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-network-engineer-foundation-and-support-multiple"
+  },
+  {
+    "job_title": "Research Scientist Intern, Computational Diffractive Optics (PhD)",
     "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "3D Software Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1898386607767199",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/650648060973548",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-neural-rendering-and-split-compute-systems-phd-redmond"
+    "id": "meta-research-scientist-intern-computational-diffractive-optics-phd-redmond"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "PhD Cloud Network Engineer Intern",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - PhD Cloud Network Engineer Intern",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861901/PhD-Cloud-Network-Engineer-Intern",
-    "id": "microsoft-phd-cloud-network-engineer-intern-redmond"
-  },
-  {
-    "job_title": "Senior Quality Engineering",
+    "job_title": "Americas Solution Engineer Lead",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864940",
-    "job_posted_at_datetime_utc": "2025-09-03T18:17:58.509Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868439",
+    "job_posted_at_datetime_utc": "2025-09-03T19:14:32.201Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-quality-engineering-redmond"
+    "id": "microsoft-americas-solution-engineer-lead-redmond"
   },
   {
-    "job_title": "Engineering Manager, CorpSec",
+    "job_title": "Staff Backend Engineer, Merchandising Platform",
+    "employer_name": "Airbnb",
+    "job_city": "United States ",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6964572?gh_jid=6964572",
+    "job_posted_at_datetime_utc": "2025-09-03T18:56:37.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-staff-backend-engineer-merchandising-platform-united-states"
+  },
+  {
+    "job_title": "Senior Staff Backend Engineer, Merchandising Platform",
+    "employer_name": "Airbnb",
+    "job_city": "Remote - US",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7129253?gh_jid=7129253",
+    "job_posted_at_datetime_utc": "2025-09-03T18:56:32.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-senior-staff-backend-engineer-merchandising-platform-remote-us"
+  },
+  {
+    "job_title": "Staff Backend Engineer, Privy",
+    "employer_name": "Stripe",
+    "job_city": "NYC -Privy",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7088619",
+    "job_posted_at_datetime_utc": "2025-09-03T18:30:41.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-staff-backend-engineer-privy-nyc-privy"
+  },
+  {
+    "job_title": "Staff Frontend Engineer, Privy",
+    "employer_name": "Stripe",
+    "job_city": "NYC-Privy",
+    "job_state": "US-Remote ",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7091959",
+    "job_posted_at_datetime_utc": "2025-09-03T18:26:51.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-staff-frontend-engineer-privy-nyc-privy"
+  },
+  {
+    "job_title": "Staff Security Engineer, Privy",
+    "employer_name": "Stripe",
+    "job_city": "NYC-Privy",
+    "job_state": "US-Remote",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7104148",
+    "job_posted_at_datetime_utc": "2025-09-03T18:26:25.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-staff-security-engineer-privy-nyc-privy"
+  },
+  {
+    "job_title": "Staff Software Engineer, Backend (Platform - Payments)",
     "employer_name": "Coinbase",
     "job_city": "Remote - USA",
     "job_state": "CA",
     "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6797717?gh_jid=6797717",
-    "job_posted_at_datetime_utc": "2025-09-03T17:53:00.000Z",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6894602?gh_jid=6894602",
+    "job_posted_at_datetime_utc": "2025-09-03T18:22:54.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-engineering-manager-corpsec-remote-usa"
+    "id": "coinbase-staff-software-engineer-backend-platform-payments-remote-usa"
   }
 ]

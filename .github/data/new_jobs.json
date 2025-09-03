@@ -1,46 +1,45 @@
 [
   {
-    "job_title": "Software Development Engineer, Audible",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2872487/software-development-engineer-audible",
-    "job_posted_at": "2025-09-03T16:08:10.352Z",
-    "job_posted_at_datetime_utc": "2025-09-03T16:08:10.352Z",
-    "id": "amazon-software-development-engineer-audible-newark"
-  },
-  {
-    "job_title": "Mechanical Engineering Manager (R&D)",
+    "job_title": "Research Scientist Intern, Neural Rendering and Split-Compute Systems (PhD)",
     "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "3D Product Design +4 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/977038671215087",
+    "job_description": "3D Software Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1898386607767199",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-mechanical-engineering-manager-r-d-redmond"
+    "id": "meta-research-scientist-intern-neural-rendering-and-split-compute-systems-phd-redmond"
   },
   {
-    "job_title": "Senior Software Engineer- SAP IBP",
+    "employer_name": "Microsoft",
+    "job_title": "PhD Cloud Network Engineer Intern",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - PhD Cloud Network Engineer Intern",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861901/PhD-Cloud-Network-Engineer-Intern",
+    "id": "microsoft-phd-cloud-network-engineer-intern-redmond"
+  },
+  {
+    "job_title": "Senior Quality Engineering",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863583",
-    "job_posted_at_datetime_utc": "2025-09-03T17:14:45.580Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864940",
+    "job_posted_at_datetime_utc": "2025-09-03T18:17:58.509Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-sap-ibp-redmond"
+    "id": "microsoft-senior-quality-engineering-redmond"
   },
   {
-    "job_title": "Frontend Engineering Manager, Payments",
-    "employer_name": "Stripe",
-    "job_city": "Seattle",
-    "job_state": "San Francisco",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7063232",
-    "job_posted_at_datetime_utc": "2025-09-03T16:38:11.000Z",
+    "job_title": "Engineering Manager, CorpSec",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6797717?gh_jid=6797717",
+    "job_posted_at_datetime_utc": "2025-09-03T17:53:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-frontend-engineering-manager-payments-seattle"
+    "id": "coinbase-engineering-manager-corpsec-remote-usa"
   }
 ]

@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Thermal Engineer (University Grad)",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1955043538671181",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-thermal-engineer-university-grad-menlo-park"
+    "job_title": "Technical Solutions Engineer",
+    "employer_name": "Epic",
+    "job_city": "Madison",
+    "job_state": "WI",
+    "job_description": "Join Epic in this exciting opportunity.",
+    "job_apply_link": "https://epic.avature.net/Careers/FolderDetail/Technical-Solutions-Engineer/742",
+    "job_posted_at_datetime_utc": "2025-09-03T21:33:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "epic-technical-solutions-engineer-madison"
   },
   {
-    "job_title": "Senior Staff Engineer- Service Infrastructure ",
-    "employer_name": "Stripe",
+    "job_title": "Industrial Designer - VR Hardware Studio",
+    "employer_name": "Meta",
     "job_city": "Seattle",
-    "job_state": "San Francisco",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7066778",
-    "job_posted_at_datetime_utc": "2025-09-03T21:13:22.000Z",
+    "job_state": "WA",
+    "job_description": "Design & User Experience +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1017235263712970",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-industrial-designer-vr-hardware-studio-seattle"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Atlassian",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join Atlassian in this exciting opportunity.",
+    "job_apply_link": "https://www.atlassian.com/company/careers/details/20901",
+    "job_posted_at_datetime_utc": "2025-09-03T21:28:09.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-senior-staff-engineer-service-infrastructure-seattle"
+    "id": "atlassian-software-engineer-seattle"
   }
 ]

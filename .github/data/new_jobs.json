@@ -1,56 +1,24 @@
 [
   {
-    "job_title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
+    "job_title": "Thermal Engineer (University Grad)",
     "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "AI Research +6 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/781407917810511",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-photorealistic-telepresence-phd-multiple"
-  },
-  {
-    "job_title": "Research Scientist Intern, Synthetic Image Generation (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +2 locations",
-    "job_description": "AI Research +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1417088779776467",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-synthetic-image-generation-phd-sunnyvale"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Cloud Revenue Accountant",
-    "job_city": "Sunnyvale",
+    "job_city": "Menlo Park",
     "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1955043538671181",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Cloud Revenue Accountant",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/114178932445455046-cloud-revenue-accountant?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
-    "id": "google-cloud-revenue-accountant-sunnyvale"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-thermal-engineer-university-grad-menlo-park"
   },
   {
-    "job_title": "Senior Cloud Network Engineer - Azure Fiber & AI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864268",
-    "job_posted_at_datetime_utc": "2025-09-03T20:16:06.006Z",
+    "job_title": "Senior Staff Engineer- Service Infrastructure ",
+    "employer_name": "Stripe",
+    "job_city": "Seattle",
+    "job_state": "San Francisco",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7066778",
+    "job_posted_at_datetime_utc": "2025-09-03T21:13:22.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-cloud-network-engineer-azure-fiber-ai-redmond"
-  },
-  {
-    "job_title": "Software Engineer II - AI Infrastructure",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1828005",
-    "job_posted_at_datetime_utc": "2025-09-03T20:16:06.006Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-ai-infrastructure-redmond"
+    "id": "stripe-senior-staff-engineer-service-infrastructure-seattle"
   }
 ]

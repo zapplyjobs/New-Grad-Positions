@@ -1,79 +1,24 @@
 [
   {
-    "job_title": "AI Research Scientist, VLLM (Vision Large Language Models) - Generative AI",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "AI Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/518346210691713",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-ai-research-scientist-vllm-vision-large-language-models-generative-ai-menlo-park"
+    "job_title": "Software Engineer I - Salesforce",
+    "employer_name": "The Travelers Companies",
+    "job_city": "Sparks",
+    "job_state": "MD",
+    "job_description": "Join The Travelers Companies in this exciting opportunity.",
+    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
+    "job_posted_at_datetime_utc": "2025-09-03T01:46:39.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "the-travelers-companies-software-engineer-i-salesforce-sparks"
   },
   {
-    "job_title": "Electrical Engineer: Prototype Assembly",
+    "job_title": "Research Scientist Intern, Computational Optics & Optimization (PhD)",
     "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1479785619794849",
+    "job_apply_link": "https://www.metacareers.com/jobs/1771169327119860",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-electrical-engineer-prototype-assembly-redmond"
-  },
-  {
-    "job_title": "Product Security Engineer, Technical Lead",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +4 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1048003273967778",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-security-engineer-technical-lead-bellevue"
-  },
-  {
-    "job_title": "AI Research Scientist - Computer Vision",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "AI Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/782606810425134",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-ai-research-scientist-computer-vision-multiple"
-  },
-  {
-    "job_title": "PhD Machine Learning Engineer, Intern",
-    "employer_name": "Stripe",
-    "job_city": "San Francisco",
-    "job_state": "New York City",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7216664",
-    "job_posted_at_datetime_utc": "2025-09-03T00:57:21.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-phd-machine-learning-engineer-intern-san-francisco"
-  },
-  {
-    "job_title": "PhD Machine Learning Engineer, New Grad",
-    "employer_name": "Stripe",
-    "job_city": "San Francisco",
-    "job_state": "New York City",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7216668",
-    "job_posted_at_datetime_utc": "2025-09-03T00:57:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-phd-machine-learning-engineer-new-grad-san-francisco"
-  },
-  {
-    "job_title": "Engineering Manager, Media Foundation: Ingestion & Serving Team",
-    "employer_name": "Airbnb",
-    "job_city": "CA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/7217178?gh_jid=7217178",
-    "job_posted_at_datetime_utc": "2025-09-03T00:47:26.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-engineering-manager-media-foundation-ingestion-serving-team-ca-remote"
+    "id": "meta-research-scientist-intern-computational-optics-optimization-phd-redmond"
   }
 ]

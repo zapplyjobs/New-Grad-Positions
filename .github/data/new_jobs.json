@@ -1,24 +1,112 @@
 [
   {
-    "job_title": "AI Business Solutions – Solution Engineer Manager",
-    "employer_name": "Microsoft",
+    "job_title": "Research Scientist Intern, Optical System Design (PhD)",
+    "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859707",
-    "job_posted_at_datetime_utc": "2025-09-02T23:14:30.468Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-business-solutions-solution-engineer-manager-redmond"
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1117701183194370",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-optical-system-design-phd-redmond"
   },
   {
-    "job_title": "Software Engineer, Revenue and Financial Automation",
+    "job_title": "Research Scientist Intern, Optical Design (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1504390500908618",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-optical-design-phd-redmond"
+  },
+  {
+    "job_title": "Software Engineer, New Grad",
     "employer_name": "Stripe",
-    "job_city": "Canada",
+    "job_city": "Bucharest",
     "job_state": "CA",
     "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7019065",
-    "job_posted_at_datetime_utc": "2025-09-02T22:24:58.000Z",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7206518",
+    "job_posted_at_datetime_utc": "2025-09-03T00:04:17.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-software-engineer-revenue-and-financial-automation-canada"
+    "id": "stripe-software-engineer-new-grad-bucharest"
+  },
+  {
+    "job_title": "Software Engineer, Intern",
+    "employer_name": "Stripe",
+    "job_city": "Bucharest",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7206496",
+    "job_posted_at_datetime_utc": "2025-09-03T00:03:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-software-engineer-intern-bucharest"
+  },
+  {
+    "job_title": "Software Engineer - Fullstack",
+    "employer_name": "Microsoft",
+    "job_city": "United States",
+    "job_state": "Locations",
+    "job_description": "Join Microsoft in this exciting opportunity.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/us/en/job/1869391",
+    "job_posted_at_datetime_utc": "2025-09-02T23:55:01.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-fullstack-united-states"
+  },
+  {
+    "job_title": "Software Engineer, New Grad",
+    "employer_name": "Stripe",
+    "job_city": "San Francisco",
+    "job_state": "Seattle",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7210112",
+    "job_posted_at_datetime_utc": "2025-09-02T23:50:59.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-software-engineer-new-grad-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer, Intern (Summer and Winter)",
+    "employer_name": "Stripe",
+    "job_city": "San Francisco",
+    "job_state": "Seattle",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7210115",
+    "job_posted_at_datetime_utc": "2025-09-02T23:49:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-software-engineer-intern-summer-and-winter-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "SpaceX",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_description": "Join SpaceX in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002",
+    "job_posted_at_datetime_utc": "2025-09-02T23:32:16.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "spacex-software-engineer-hawthorne"
+  },
+  {
+    "job_title": "Software Developer",
+    "employer_name": "IBM",
+    "job_city": "Sandy Springs",
+    "job_state": "GA",
+    "job_description": "Join IBM in this exciting opportunity.",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285",
+    "job_posted_at_datetime_utc": "2025-09-02T23:31:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "ibm-software-developer-sandy-springs"
+  },
+  {
+    "job_title": "Senior Software Engineer, Backend (Institutional - Trading Derivatives)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6249394?gh_jid=6249394",
+    "job_posted_at_datetime_utc": "2025-09-02T23:22:53.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-backend-institutional-trading-derivatives-remote-usa"
   }
 ]

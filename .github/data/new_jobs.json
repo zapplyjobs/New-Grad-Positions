@@ -1,46 +1,46 @@
 [
   {
-    "job_title": "Director of Product Management, WhatsApp Growth & Broadcast",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Product Strategy",
-    "job_apply_link": "https://www.metacareers.com/jobs/779720348340713",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-director-of-product-management-whatsapp-growth-broadcast-menlo-park"
+    "job_title": "Software Development Engineer, Audible",
+    "employer_name": "Amazon",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2872487/software-development-engineer-audible",
+    "job_posted_at": "2025-09-03T16:08:10.352Z",
+    "job_posted_at_datetime_utc": "2025-09-03T16:08:10.352Z",
+    "id": "amazon-software-development-engineer-audible-newark"
   },
   {
-    "job_title": "AI Research Scientist, MRS AI (PhD)",
+    "job_title": "Mechanical Engineering Manager (R&D)",
     "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "3D Product Design +4 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/977038671215087",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-mechanical-engineering-manager-r-d-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer- SAP IBP",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863583",
+    "job_posted_at_datetime_utc": "2025-09-03T17:14:45.580Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-sap-ibp-redmond"
+  },
+  {
+    "job_title": "Frontend Engineering Manager, Payments",
+    "employer_name": "Stripe",
     "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "AI Research +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1276288230539605",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-ai-research-scientist-mrs-ai-phd-seattle"
-  },
-  {
-    "job_title": "Software Engineer- SAP IBP",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863538",
-    "job_posted_at_datetime_utc": "2025-09-03T16:16:47.898Z",
+    "job_state": "San Francisco",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7063232",
+    "job_posted_at_datetime_utc": "2025-09-03T16:38:11.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-sap-ibp-redmond"
-  },
-  {
-    "job_title": "Senior ML Research Engineer – LLM Quantization & Model Optimization",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1830570",
-    "job_posted_at_datetime_utc": "2025-09-03T16:16:47.898Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-ml-research-engineer-llm-quantization-model-optimization-redmond"
+    "id": "stripe-frontend-engineering-manager-payments-seattle"
   }
 ]

@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer I - Salesforce",
-    "employer_name": "The Travelers Companies",
-    "job_city": "Sparks",
-    "job_state": "MD",
-    "job_description": "Join The Travelers Companies in this exciting opportunity.",
-    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
-    "job_posted_at_datetime_utc": "2025-09-03T01:46:39.000Z",
+    "job_title": "Software Engineer – New Graduate Rotational Development Program",
+    "employer_name": "Gecko Robotics",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Join Gecko Robotics in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application",
+    "job_posted_at_datetime_utc": "2025-09-03T02:26:58.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "the-travelers-companies-software-engineer-i-salesforce-sparks"
-  },
-  {
-    "job_title": "Research Scientist Intern, Computational Optics & Optimization (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1771169327119860",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-computational-optics-optimization-phd-redmond"
+    "id": "gecko-robotics-software-engineer-new-graduate-rotational-development-program-boston"
   }
 ]

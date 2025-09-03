@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Senior GBB Developer Advisor",
+    "job_title": "Front-End Engineer, Kuiper Manufacturing Systems Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3071620/front-end-engineer-kuiper-manufacturing-systems-engineering",
+    "job_posted_at": "2025-09-03T06:09:18.806Z",
+    "job_posted_at_datetime_utc": "2025-09-03T06:09:18.806Z",
+    "id": "amazon-front-end-engineer-kuiper-manufacturing-systems-engineering-bellevue"
+  },
+  {
+    "job_title": "Lead CPU Performance Analysis Engineer",
+    "employer_name": "Qualcomm",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_description": "Join Qualcomm to invent breakthrough technologies.",
+    "job_apply_link": "https://careers.qualcomm.com/careers/job/446703230926",
+    "job_posted_at_datetime_utc": "2025-09-03T07:15:57.140Z",
+    "job_employment_type": "FULLTIME",
+    "id": "qualcomm-lead-cpu-performance-analysis-engineer-san-diego"
+  },
+  {
+    "job_title": "Software Development Engineer II",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860951",
-    "job_posted_at_datetime_utc": "2025-09-03T06:18:30.245Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857016",
+    "job_posted_at_datetime_utc": "2025-09-03T07:15:51.727Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-gbb-developer-advisor-redmond"
+    "id": "microsoft-software-development-engineer-ii-redmond"
   }
 ]

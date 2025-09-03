@@ -1,35 +1,46 @@
 [
   {
     "job_title": "Software Engineer",
-    "employer_name": "Ivo",
-    "job_city": "San Francisco",
+    "employer_name": "Freeform",
+    "job_city": "Los Angeles",
     "job_state": "CA",
-    "job_description": "Join Ivo in this exciting opportunity.",
-    "job_apply_link": "https://jobs.lever.co/ivo/1629cbb2-c07c-4214-a1e2-b4e96c9cc66c",
-    "job_posted_at_datetime_utc": "2025-09-03T13:01:00.000Z",
+    "job_description": "Join Freeform in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6852163003",
+    "job_posted_at_datetime_utc": "2025-09-03T13:24:12.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "ivo-software-engineer-san-francisco"
+    "id": "freeform-software-engineer-los-angeles"
   },
   {
-    "job_title": "Sr. Digital Solution Engineer - Azure Infra",
+    "job_title": "Research Scientist Intern, Machine Perception for Input and Interaction (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "AI Research +5 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/779670167783218",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-machine-perception-for-input-and-interaction-phd-redmond"
+  },
+  {
+    "job_title": "Cloud and AI Solution Engineer - AI Data Platform",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864084",
-    "job_posted_at_datetime_utc": "2025-09-03T13:19:28.303Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1841224",
+    "job_posted_at_datetime_utc": "2025-09-03T14:15:48.926Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-sr-digital-solution-engineer-azure-infra-redmond"
+    "id": "microsoft-cloud-and-ai-solution-engineer-ai-data-platform-redmond"
   },
   {
-    "job_title": "Principal Software Engineer - Azure AI Inferencing",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864289",
-    "job_posted_at_datetime_utc": "2025-09-03T13:19:28.303Z",
+    "job_title": "Frontend Engineering Manager, Product & Business",
+    "employer_name": "Stripe",
+    "job_city": "Seattle",
+    "job_state": "San Francisco",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7063232",
+    "job_posted_at_datetime_utc": "2025-09-03T13:56:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-azure-ai-inferencing-redmond"
+    "id": "stripe-frontend-engineering-manager-product-business-seattle"
   }
 ]

@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Technical Solutions Engineer",
-    "employer_name": "Epic",
-    "job_city": "Madison",
-    "job_state": "WI",
-    "job_description": "Join Epic in this exciting opportunity.",
-    "job_apply_link": "https://epic.avature.net/Careers/FolderDetail/Technical-Solutions-Engineer/742",
-    "job_posted_at_datetime_utc": "2025-09-03T21:33:52.000Z",
+    "job_title": "Senior Security Software Engineer, Application Security",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6863924?gh_jid=6863924",
+    "job_posted_at_datetime_utc": "2025-09-03T23:05:39.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "epic-technical-solutions-engineer-madison"
+    "id": "coinbase-senior-security-software-engineer-application-security-remote-usa"
   },
   {
-    "job_title": "Industrial Designer - VR Hardware Studio",
-    "employer_name": "Meta",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Design & User Experience +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1017235263712970",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-industrial-designer-vr-hardware-studio-seattle"
-  },
-  {
-    "job_title": "Software Engineer",
-    "employer_name": "Atlassian",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Atlassian in this exciting opportunity.",
-    "job_apply_link": "https://www.atlassian.com/company/careers/details/20901",
-    "job_posted_at_datetime_utc": "2025-09-03T21:28:09.000Z",
+    "job_title": "Software Engineer I",
+    "employer_name": "Yodlee",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_description": "Join Yodlee in this exciting opportunity.",
+    "job_apply_link": "https://jobs.jobvite.com/yodlee/job/oOGbxfwW?nl=1&nl=1&fr=false",
+    "job_posted_at_datetime_utc": "2025-09-03T22:44:31.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "atlassian-software-engineer-seattle"
+    "id": "yodlee-software-engineer-i-raleigh"
   }
 ]

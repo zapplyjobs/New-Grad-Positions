@@ -1,67 +1,57 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Compliance Assurance Program Manager",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
+    "job_title": "Software Engineer, Silicon Infrastructure",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +2 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1196723425824491",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Compliance Assurance Program Manager, Risk, Compliance and Integrity",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/102476248222966470-compliance-assurance-program-manager-risk-compliance-and-integrity?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=9",
-    "id": "google-compliance-assurance-program-manager-los-angeles"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-silicon-infrastructure-sunnyvale"
   },
   {
-    "job_title": "Senior Software Engineer - C++",
+    "job_title": "Research Scientist Intern, Inorganic Materials Chemistry (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/4152461194969031",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-inorganic-materials-chemistry-phd-redmond"
+  },
+  {
+    "job_title": "Principal Security Operations Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1822021",
-    "job_posted_at_datetime_utc": "2025-09-04T16:17:17.154Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845417",
+    "job_posted_at_datetime_utc": "2025-09-04T17:14:51.648Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-c-redmond"
+    "id": "microsoft-principal-security-operations-engineer-redmond"
   },
   {
-    "job_title": "Principal Software Engineer - Health & Life Sciences Team (HLS)",
+    "job_title": "AI Engineer – Creative Technology",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861627",
-    "job_posted_at_datetime_utc": "2025-09-04T16:17:17.154Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871779",
+    "job_posted_at_datetime_utc": "2025-09-04T17:14:51.648Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-health-life-sciences-team-hls-redmond"
+    "id": "microsoft-ai-engineer-creative-technology-redmond"
   },
   {
-    "job_title": "Software Engineer II - Windows",
+    "job_title": "Software Engineer, Identity Engineering",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862242",
-    "job_posted_at_datetime_utc": "2025-09-04T16:17:17.154Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1870630",
+    "job_posted_at_datetime_utc": "2025-09-04T17:14:51.648Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-windows-redmond"
-  },
-  {
-    "job_title": "IT Solutions Lead (Staff IT Fullstack Software Engineer",
-    "employer_name": "Databricks",
-    "job_city": "Mountain View",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8150189002",
-    "job_posted_at_datetime_utc": "2025-09-04T16:10:19.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-it-solutions-lead-staff-it-fullstack-software-engineer-mountain-view"
-  },
-  {
-    "job_title": "Sr. IT Fullstack Software Engineer",
-    "employer_name": "Databricks",
-    "job_city": "Mountain View",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8150154002",
-    "job_posted_at_datetime_utc": "2025-09-04T16:06:50.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-it-fullstack-software-engineer-mountain-view"
+    "id": "microsoft-software-engineer-identity-engineering-redmond"
   }
 ]

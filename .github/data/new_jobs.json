@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Software Engineer New Grad - Msc/Bsc: AI - Core - Apps",
-    "employer_name": "Eluvio",
-    "job_city": "Berkeley",
-    "job_state": "CA",
-    "job_description": "Join Eluvio in this exciting opportunity.",
-    "job_apply_link": "https://apply.workable.com/eluvio/j/A349A0D2AF/apply",
-    "job_posted_at_datetime_utc": "2025-09-04T05:47:06.000Z",
+    "job_title": "Technical Support Engineering - Azure Networking",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1835787",
+    "job_posted_at_datetime_utc": "2025-09-04T07:15:52.045Z",
     "job_employment_type": "FULLTIME",
-    "id": "eluvio-software-engineer-new-grad-msc-bsc-ai-core-apps-berkeley"
+    "id": "microsoft-technical-support-engineering-azure-networking-redmond"
+  },
+  {
+    "job_title": "Data Engineer I - Workforce Management",
+    "employer_name": "Premera Blue Cross",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join Premera Blue Cross in this exciting opportunity.",
+    "job_apply_link": "https://premera.wd5.myworkdayjobs.com/premera/job/Telecommuter/Data-Engineer-I--Workforce-Management_R28235",
+    "job_posted_at_datetime_utc": "2025-09-03T22:33:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "premera-blue-cross-data-engineer-i-workforce-management-remote-in-usa"
   }
 ]

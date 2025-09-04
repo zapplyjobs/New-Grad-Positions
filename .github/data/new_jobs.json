@@ -1,24 +1,79 @@
 [
   {
-    "job_title": "Senior Security Software Engineer, Application Security",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6863924?gh_jid=6863924",
-    "job_posted_at_datetime_utc": "2025-09-03T23:05:39.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-security-software-engineer-application-security-remote-usa"
+    "job_title": "Software Development Engineer, Ring",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3072607/software-development-engineer-ring",
+    "job_posted_at": "2025-09-03T23:32:25.335Z",
+    "job_posted_at_datetime_utc": "2025-09-03T23:32:25.335Z",
+    "id": "amazon-software-development-engineer-ring-north-reading"
   },
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "Yodlee",
-    "job_city": "Raleigh",
-    "job_state": "NC",
-    "job_description": "Join Yodlee in this exciting opportunity.",
-    "job_apply_link": "https://jobs.jobvite.com/yodlee/job/oOGbxfwW?nl=1&nl=1&fr=false",
-    "job_posted_at_datetime_utc": "2025-09-03T22:44:31.000Z",
+    "job_title": "Software Engineer – University Grad",
+    "employer_name": "Glean",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_description": "Join Glean in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
+    "job_posted_at_datetime_utc": "2025-09-03T23:30:11.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "yodlee-software-engineer-i-raleigh"
+    "id": "glean-software-engineer-university-grad-palo-alto"
+  },
+  {
+    "job_title": "Power Electrical Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/3789066571399190",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-power-electrical-engineer-sunnyvale"
+  },
+  {
+    "job_title": " Technica Support Engineering - Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868640",
+    "job_posted_at_datetime_utc": "2025-09-04T00:39:01.805Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technica-support-engineering-manager-redmond"
+  },
+  {
+    "job_title": "Principal Software Engineer - Cloud Native Development",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853378",
+    "job_posted_at_datetime_utc": "2025-09-04T00:39:01.805Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-cloud-native-development-redmond"
+  },
+  {
+    "job_title": "Director, Product - Developer Tools",
+    "employer_name": "Figma",
+    "job_city": "New York",
+    "job_state": "NY • United States",
+    "job_description": "Join Figma to make design accessible to all.",
+    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5637880004?gh_jid=5637880004",
+    "job_posted_at_datetime_utc": "2025-09-04T00:05:19.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "figma-director-product-developer-tools-new-york"
+  },
+  {
+    "job_title": "Entry Level - Software Engineer",
+    "employer_name": "Barry-Wehmiller",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_description": "Join Barry-Wehmiller in this exciting opportunity.",
+    "job_apply_link": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Dallas-TX/Entry-Level---Software-Engineer_R019332",
+    "job_posted_at_datetime_utc": "2025-09-03T22:52:20.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "barry-wehmiller-entry-level-software-engineer-dallas"
   }
 ]

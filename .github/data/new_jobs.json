@@ -1,35 +1,57 @@
 [
   {
-    "job_title": "Engineering Manager, Desktop Platform",
+    "job_title": "Software Development Engineer, Amazon Stores",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3073790/software-development-engineer-amazon-stores",
+    "job_posted_at": "2025-09-04T20:08:15.972Z",
+    "job_posted_at_datetime_utc": "2025-09-04T20:08:15.972Z",
+    "id": "amazon-software-development-engineer-amazon-stores-arlington"
+  },
+  {
+    "job_title": "Offensive Security Engineer, Red Team Operations Group",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +2 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/631921806637684",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-offensive-security-engineer-red-team-operations-group-bellevue"
+  },
+  {
+    "job_title": "Sr. System & Cloud Engineer",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908936871",
+    "job_posted_at_datetime_utc": "2025-09-04T23:15:11.945Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-sr-system-cloud-engineer-san-jose"
+  },
+  {
+    "job_title": "CR Senior Software Engineer - Security for Copilot",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853799",
+    "job_posted_at_datetime_utc": "2025-09-04T23:15:03.970Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cr-senior-software-engineer-security-for-copilot-redmond"
+  },
+  {
+    "job_title": "Senior Privacy Engineer",
     "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
+    "job_city": "San Francisco Bay Area (U.S)",
     "job_state": "CA",
     "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8153871002",
-    "job_posted_at_datetime_utc": "2025-09-04T21:59:42.000Z",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8105734002",
+    "job_posted_at_datetime_utc": "2025-09-04T22:58:50.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "discord-engineering-manager-desktop-platform-san-francisco-bay-area"
-  },
-  {
-    "job_title": "Director, Engineering",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7178582?gh_jid=7178582",
-    "job_posted_at_datetime_utc": "2025-09-04T21:52:47.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-director-engineering-remote-usa"
-  },
-  {
-    "job_title": "Sr Security Engineer, Incident Response",
-    "employer_name": "Databricks",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8153870002",
-    "job_posted_at_datetime_utc": "2025-09-04T21:51:05.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-security-engineer-incident-response-united-states"
+    "id": "discord-senior-privacy-engineer-san-francisco-bay-area-u-s"
   }
 ]

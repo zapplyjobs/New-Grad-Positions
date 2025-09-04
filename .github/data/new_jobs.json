@@ -1,13 +1,68 @@
 [
   {
-    "job_title": "Sr. Digital Solution Engineer - Data & AI",
-    "employer_name": "Microsoft",
+    "job_title": "EA-Data Engineer I, Services",
+    "employer_name": "Bonterra",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join Bonterra in this exciting opportunity.",
+    "job_apply_link": "https://bonterra.wd1.myworkdayjobs.com/en-US/bonterratech/job/Remote-United-States/EA-Data-Engineer-I--Services_R2025-0310",
+    "job_posted_at_datetime_utc": "2025-09-04T10:32:01.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bonterra-ea-data-engineer-i-services-remote-in-usa"
+  },
+  {
+    "job_title": "Software Engineering Graduate",
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_city": "Ft. Collins",
+    "job_state": "CO",
+    "job_description": "Join Hewlett Packard Enterprise in this exciting opportunity.",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1",
+    "job_posted_at_datetime_utc": "2025-09-04T10:29:56.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "hewlett-packard-enterprise-software-engineering-graduate-ft-collins"
+  },
+  {
+    "job_title": "Firmware Engineer Graduate",
+    "employer_name": "Hewlett Packard Enterprise",
+    "job_city": "Ft. Collins",
+    "job_state": "CO",
+    "job_description": "Join Hewlett Packard Enterprise in this exciting opportunity.",
+    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Firmware-Engineer-Graduate--Colorado-_1193613-1",
+    "job_posted_at_datetime_utc": "2025-09-04T10:27:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "hewlett-packard-enterprise-firmware-engineer-graduate-ft-collins"
+  },
+  {
+    "job_title": "New Graduate Engineer, Software (Starship)",
+    "employer_name": "SpaceX",
+    "job_city": "Starbase",
+    "job_state": "TX",
+    "job_description": "Join SpaceX in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/spacex/jobs/8144023002?gh_jid=8144023002",
+    "job_posted_at_datetime_utc": "2025-09-04T10:18:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "spacex-new-graduate-engineer-software-starship-starbase"
+  },
+  {
+    "job_title": "New Graduate Engineer, Software (Starlink)",
+    "employer_name": "SpaceX",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864085",
-    "job_posted_at_datetime_utc": "2025-09-04T10:18:16.575Z",
+    "job_description": "Join SpaceX in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/spacex/jobs/8121675002?gh_jid=8121675002",
+    "job_posted_at_datetime_utc": "2025-09-04T10:17:01.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-sr-digital-solution-engineer-data-ai-redmond"
+    "id": "spacex-new-graduate-engineer-software-starlink-redmond"
+  },
+  {
+    "job_title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
+    "employer_name": "The Cigna Group",
+    "job_city": "St. Louis",
+    "job_state": "MO",
+    "job_description": "Join The Cigna Group in this exciting opportunity.",
+    "job_apply_link": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP----Infrastructure---Cloud-Engineering-Track---Start-Date--July-13--2026_25011438-1",
+    "job_posted_at_datetime_utc": "2025-09-04T10:14:15.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "the-cigna-group-technology-development-program-tecdp-infrastructure-cloud-engineering-track-st-louis"
   }
 ]

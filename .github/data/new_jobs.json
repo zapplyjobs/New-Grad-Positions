@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Fulton",
-    "job_state": "MD",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Onsite-_01789869",
-    "job_posted_at_datetime_utc": "2025-09-04T01:11:49.000Z",
+    "job_title": "Aspire Tech Graduate Software Engineer I",
+    "employer_name": "RELX",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_description": "Join RELX in this exciting opportunity.",
+    "job_apply_link": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R100927-1",
+    "job_posted_at_datetime_utc": "2025-09-04T01:37:32.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-fulton"
-  },
-  {
-    "job_title": "Software Dev Engineer II - AMZ24284.1",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl; and Object Oriented Design. The pay range for this position in Seattle, WA is $143,700 - $194,400 (yr); however, base pay offered may vary depending on job-related knowledge, skills, and experience A sign-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided by Seattle, WA Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon's internal or external careers site.",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2996742/software-dev-engineer-ii-amz24284-1",
-    "job_posted_at": "2025-09-04T00:36:37.779Z",
-    "job_posted_at_datetime_utc": "2025-09-04T00:36:37.779Z",
-    "id": "amazon-software-dev-engineer-ii-amz24284-1-seattle"
+    "id": "relx-aspire-tech-graduate-software-engineer-i-raleigh"
   }
 ]

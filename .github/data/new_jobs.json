@@ -1,56 +1,35 @@
 [
   {
-    "job_title": "Research Engineer, Language - Wearables Voice AI",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA +4 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2017490735723750",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-engineer-language-wearables-voice-ai-redmond"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Software Engineer: Applied AI/ML Intern Opportunities for University Students",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Applied AI/ML Intern Opportunities for University Students",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872468/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Redmond",
-    "id": "microsoft-software-engineer-applied-ai-ml-intern-opportunities-for-university-students-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - SharePoint Embedded Team",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858774",
-    "job_posted_at_datetime_utc": "2025-09-04T21:15:07.496Z",
+    "job_title": "Engineering Manager, Desktop Platform",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8153871002",
+    "job_posted_at_datetime_utc": "2025-09-04T21:59:42.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-sharepoint-embedded-team-redmond"
+    "id": "discord-engineering-manager-desktop-platform-san-francisco-bay-area"
   },
   {
-    "job_title": "Software Engineer II - Customer Experiences",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862774",
-    "job_posted_at_datetime_utc": "2025-09-04T21:15:07.496Z",
+    "job_title": "Director, Engineering",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7178582?gh_jid=7178582",
+    "job_posted_at_datetime_utc": "2025-09-04T21:52:47.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-customer-experiences-redmond"
+    "id": "coinbase-director-engineering-remote-usa"
   },
   {
-    "job_title": "Software Engineer: Applied AI/ML Intern Opportunities for University Students, Redmond",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872468",
-    "job_posted_at_datetime_utc": "2025-09-04T21:15:07.496Z",
+    "job_title": "Sr Security Engineer, Incident Response",
+    "employer_name": "Databricks",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8153870002",
+    "job_posted_at_datetime_utc": "2025-09-04T21:51:05.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-applied-ai-ml-intern-opportunities-for-university-students-redmond-redmond"
+    "id": "databricks-sr-security-engineer-incident-response-united-states"
   }
 ]

@@ -1,24 +1,46 @@
 [
   {
-    "job_title": "Technical Support Engineering - Azure Networking",
+    "job_title": "Silicon Reliability Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1612668486361788",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-silicon-reliability-engineer-multiple"
+  },
+  {
+    "job_title": "C++ Software Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1835787",
-    "job_posted_at_datetime_utc": "2025-09-04T07:15:52.045Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868501",
+    "job_posted_at_datetime_utc": "2025-09-04T08:17:59.519Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-azure-networking-redmond"
+    "id": "microsoft-c-software-engineer-redmond"
   },
   {
-    "job_title": "Data Engineer I - Workforce Management",
-    "employer_name": "Premera Blue Cross",
-    "job_city": "Remote in USA",
-    "job_state": "Locations",
-    "job_description": "Join Premera Blue Cross in this exciting opportunity.",
-    "job_apply_link": "https://premera.wd5.myworkdayjobs.com/premera/job/Telecommuter/Data-Engineer-I--Workforce-Management_R28235",
-    "job_posted_at_datetime_utc": "2025-09-03T22:33:52.000Z",
+    "job_title": "Technical Support Engineering - Security ＆ Compliance",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871995",
+    "job_posted_at_datetime_utc": "2025-09-04T08:17:59.519Z",
     "job_employment_type": "FULLTIME",
-    "id": "premera-blue-cross-data-engineer-i-workforce-management-remote-in-usa"
+    "id": "microsoft-technical-support-engineering-security-compliance-redmond"
+  },
+  {
+    "job_title": "Software Engineer I - Android",
+    "employer_name": "FOX",
+    "job_city": "Sharonville",
+    "job_state": "OH",
+    "job_description": "Join FOX in this exciting opportunity.",
+    "job_apply_link": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Blue-Ash-Ohio-USA/Software-Engineer-I--Android_R50029814",
+    "job_posted_at_datetime_utc": "2025-09-03T22:35:33.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "fox-software-engineer-i-android-sharonville"
   }
 ]

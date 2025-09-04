@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Principal AI Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871902",
-    "job_posted_at_datetime_utc": "2025-09-04T19:14:24.583Z",
+    "job_title": "Software Engineer, Routing",
+    "employer_name": "Lyft",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8153109002?gh_jid=8153109002",
+    "job_posted_at_datetime_utc": "2025-09-04T19:57:56.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-ai-engineer-redmond"
+    "id": "lyft-software-engineer-routing-new-york"
   },
   {
-    "job_title": "Principal Cloud Network Engineer",
+    "job_title": "Principal Design Verification Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868149",
-    "job_posted_at_datetime_utc": "2025-09-04T19:14:24.583Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863489",
+    "job_posted_at_datetime_utc": "2025-09-04T20:16:44.167Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-cloud-network-engineer-redmond"
+    "id": "microsoft-principal-design-verification-engineer-redmond"
+  },
+  {
+    "job_title": "Cloud Network Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863535",
+    "job_posted_at_datetime_utc": "2025-09-04T20:16:44.167Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-network-engineer-ii-redmond"
   }
 ]

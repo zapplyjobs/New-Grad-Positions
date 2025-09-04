@@ -1,12 +1,56 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Product Manager",
-    "job_city": "Reston",
-    "job_state": "VA",
+    "job_title": "Director, Software Engineering",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1306420247787314",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Manager, On-Premise Platform, Public Sector",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/81829928114234054-product-manager-onpremise-platform-public-sector?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=4",
-    "id": "google-product-manager-reston"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-director-software-engineering-multiple"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Global Service Delivery Operations Manager",
+    "job_city": "San Bruno",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareYouTube. Posted: Recently. Full Title: Global Service Delivery Operations Manager, YouTube Global Operations",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/110901805826613958-global-service-delivery-operations-manager-youtube-global-operations?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8",
+    "id": "google-global-service-delivery-operations-manager-san-bruno"
+  },
+  {
+    "job_title": "Senior Site Reliability Engineering Manager - CTJ - Top Secret",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872368",
+    "job_posted_at_datetime_utc": "2025-09-04T15:15:23.164Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-site-reliability-engineering-manager-ctj-top-secret-redmond"
+  },
+  {
+    "job_title": "Engineering Manager, Platform - Data Layer",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7228376?gh_jid=7228376",
+    "job_posted_at_datetime_utc": "2025-09-04T14:38:13.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-engineering-manager-platform-data-layer-remote-usa"
+  },
+  {
+    "job_title": "Software Engineer I - Legal & Compliance",
+    "employer_name": "The Travelers Companies",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_description": "Join The Travelers Companies in this exciting opportunity.",
+    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Legal---Compliance_R-45918",
+    "job_posted_at_datetime_utc": "2025-08-29T23:43:44.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "the-travelers-companies-software-engineer-i-legal-compliance-hartford"
   }
 ]

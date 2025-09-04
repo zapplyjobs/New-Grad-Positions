@@ -1,35 +1,56 @@
 [
   {
-    "job_title": "Software Engineer, Routing",
-    "employer_name": "Lyft",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8153109002?gh_jid=8153109002",
-    "job_posted_at_datetime_utc": "2025-09-04T19:57:56.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-software-engineer-routing-new-york"
+    "job_title": "Research Engineer, Language - Wearables Voice AI",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA +4 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2017490735723750",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-engineer-language-wearables-voice-ai-redmond"
   },
   {
-    "job_title": "Principal Design Verification Engineer",
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Applied AI/ML Intern Opportunities for University Students",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Applied AI/ML Intern Opportunities for University Students",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872468/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Redmond",
+    "id": "microsoft-software-engineer-applied-ai-ml-intern-opportunities-for-university-students-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - SharePoint Embedded Team",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863489",
-    "job_posted_at_datetime_utc": "2025-09-04T20:16:44.167Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858774",
+    "job_posted_at_datetime_utc": "2025-09-04T21:15:07.496Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-design-verification-engineer-redmond"
+    "id": "microsoft-senior-software-engineer-sharepoint-embedded-team-redmond"
   },
   {
-    "job_title": "Cloud Network Engineer II",
+    "job_title": "Software Engineer II - Customer Experiences",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863535",
-    "job_posted_at_datetime_utc": "2025-09-04T20:16:44.167Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862774",
+    "job_posted_at_datetime_utc": "2025-09-04T21:15:07.496Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-network-engineer-ii-redmond"
+    "id": "microsoft-software-engineer-ii-customer-experiences-redmond"
+  },
+  {
+    "job_title": "Software Engineer: Applied AI/ML Intern Opportunities for University Students, Redmond",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872468",
+    "job_posted_at_datetime_utc": "2025-09-04T21:15:07.496Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-applied-ai-ml-intern-opportunities-for-university-students-redmond-redmond"
   }
 ]

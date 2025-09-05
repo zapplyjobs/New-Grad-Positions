@@ -1,68 +1,13 @@
 [
   {
-    "job_title": "Junior Machine Learning Engineer",
-    "employer_name": "PDI Technologies",
-    "job_city": "Alpharetta",
-    "job_state": "GA",
-    "job_description": "Join PDI Technologies in this exciting opportunity.",
-    "job_apply_link": "https://jobs.lever.co/pditechnologies/dabd35a1-a15f-4702-8beb-f4c5d6a3d837",
-    "job_posted_at_datetime_utc": "2025-09-05T14:02:55.000Z",
+    "job_title": "Software Engineer, Safety Processing",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/7990178002",
+    "job_posted_at_datetime_utc": "2025-09-05T15:08:48.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "pdi-technologies-junior-machine-learning-engineer-alpharetta"
-  },
-  {
-    "job_title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Machine Learning +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1337695574457402",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-audio-machine-learning-and-computer-vision-phd-multiple"
-  },
-  {
-    "job_title": "Staff Software Engineer",
-    "employer_name": "PayPal",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908943298",
-    "job_posted_at_datetime_utc": "2025-09-05T14:15:20.162Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-staff-software-engineer-austin"
-  },
-  {
-    "job_title": "Software Engineer II - Finance Data & Experiences",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1838808",
-    "job_posted_at_datetime_utc": "2025-09-05T14:15:12.109Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-finance-data-experiences-redmond"
-  },
-  {
-    "job_title": "Junior Solution Engineer Cloud & AI Apps",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846412",
-    "job_posted_at_datetime_utc": "2025-09-05T14:15:12.109Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-junior-solution-engineer-cloud-ai-apps-redmond"
-  },
-  {
-    "job_title": "Data Analyst (Developer) Level I",
-    "employer_name": "Tria Federal",
-    "job_city": "Falls Church",
-    "job_state": "VA",
-    "job_description": "Join Tria Federal in this exciting opportunity.",
-    "job_apply_link": "https://triafed.com/jobs/?gh_jid=4890318008",
-    "job_posted_at_datetime_utc": "2025-09-05T13:57:40.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tria-federal-data-analyst-developer-level-i-falls-church"
+    "id": "discord-software-engineer-safety-processing-san-francisco-bay-area"
   }
 ]

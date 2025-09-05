@@ -1,79 +1,79 @@
 [
   {
-    "job_title": "Software Development Engineer, AGI Information",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3008940/software-development-engineer-agi-information",
-    "job_posted_at": "2025-09-05T00:10:38.972Z",
-    "job_posted_at_datetime_utc": "2025-09-05T00:10:38.972Z",
-    "id": "amazon-software-development-engineer-agi-information-bellevue"
-  },
-  {
-    "job_title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
+    "job_title": "Manager, Software Engineering, Connectivity",
     "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
+    "job_city": "Redmond",
+    "job_state": "WA +1 locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1633859934240924",
+    "job_apply_link": "https://www.metacareers.com/jobs/666253359252638",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-spatial-audio-capture-and-reproduction-phd-multiple"
+    "id": "meta-manager-software-engineering-connectivity-redmond"
   },
   {
-    "job_title": "Research Scientist Intern, Hearing Science and Auditory Perception (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/759283353381235",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-hearing-science-and-auditory-perception-phd-multiple"
-  },
-  {
-    "job_title": "Senior Engineering Manager",
+    "job_title": "Solution Engineer Manager Cloud & AI | Pre-Sales Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872252",
-    "job_posted_at_datetime_utc": "2025-09-05T16:17:20.854Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852958",
+    "job_posted_at_datetime_utc": "2025-09-05T17:14:56.331Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-engineering-manager-redmond"
+    "id": "microsoft-solution-engineer-manager-cloud-ai-pre-sales-manager-redmond"
   },
   {
-    "job_title": "Sr. Engineering Group Ops Manager",
+    "job_title": "Optical Engineer – Fibre Test and Automation",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872893",
-    "job_posted_at_datetime_utc": "2025-09-05T16:17:20.854Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846988",
+    "job_posted_at_datetime_utc": "2025-09-05T17:14:56.331Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-sr-engineering-group-ops-manager-redmond"
+    "id": "microsoft-optical-engineer-fibre-test-and-automation-redmond"
   },
   {
-    "job_title": "Principal Sourcing Engineer - Devices",
+    "job_title": "Senior Solution Engineer - Digital Natives - Cloud & AI Apps",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863874",
-    "job_posted_at_datetime_utc": "2025-09-05T16:17:20.854Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871281",
+    "job_posted_at_datetime_utc": "2025-09-05T17:14:56.331Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-sourcing-engineer-devices-redmond"
+    "id": "microsoft-senior-solution-engineer-digital-natives-cloud-ai-apps-redmond"
   },
   {
-    "job_title": "United States Managing Director, Solution Engineering - Cloud & AI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872891",
-    "job_posted_at_datetime_utc": "2025-09-05T16:17:20.854Z",
+    "job_title": "Senior Software Engineer - API Platform",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area (U.S.)",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8136321002",
+    "job_posted_at_datetime_utc": "2025-09-05T16:40:17.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-united-states-managing-director-solution-engineering-cloud-ai-redmond"
+    "id": "discord-senior-software-engineer-api-platform-san-francisco-bay-area-u-s"
+  },
+  {
+    "job_title": "Software Engineer Intern, Backend (Summer 2026)",
+    "employer_name": "Lyft",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8130804002?gh_jid=8130804002",
+    "job_posted_at_datetime_utc": "2025-09-05T16:39:11.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-software-engineer-intern-backend-summer-2026-san-francisco"
+  },
+  {
+    "job_title": "Compensation Partner, Product & Engineering",
+    "employer_name": "Stripe",
+    "job_city": "NYC",
+    "job_state": "San Francisco",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7203552",
+    "job_posted_at_datetime_utc": "2025-09-05T16:29:31.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-compensation-partner-product-engineering-nyc"
   }
 ]

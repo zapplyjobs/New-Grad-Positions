@@ -1,57 +1,35 @@
 [
   {
-    "job_title": "Software Development Engineer, Amazon Stores",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3073790/software-development-engineer-amazon-stores",
-    "job_posted_at": "2025-09-04T20:08:15.972Z",
-    "job_posted_at_datetime_utc": "2025-09-04T20:08:15.972Z",
-    "id": "amazon-software-development-engineer-amazon-stores-arlington"
+    "job_title": "Software Dev Engineer I",
+    "employer_name": "Altice USA",
+    "job_city": "Plainview",
+    "job_state": "NY",
+    "job_description": "Join Altice USA in this exciting opportunity.",
+    "job_apply_link": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1322496900/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2025-09-05T00:08:58.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "altice-usa-software-dev-engineer-i-plainview"
   },
   {
-    "job_title": "Offensive Security Engineer, Red Team Operations Group",
+    "job_title": "Display Structural and Thermal Engineer",
     "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +2 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/631921806637684",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/4169513110004776",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-offensive-security-engineer-red-team-operations-group-bellevue"
+    "id": "meta-display-structural-and-thermal-engineer-sunnyvale"
   },
   {
-    "job_title": "Sr. System & Cloud Engineer",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908936871",
-    "job_posted_at_datetime_utc": "2025-09-04T23:15:11.945Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-sr-system-cloud-engineer-san-jose"
-  },
-  {
-    "job_title": "CR Senior Software Engineer - Security for Copilot",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853799",
-    "job_posted_at_datetime_utc": "2025-09-04T23:15:03.970Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-cr-senior-software-engineer-security-for-copilot-redmond"
-  },
-  {
-    "job_title": "Senior Privacy Engineer",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area (U.S)",
+    "job_title": "Research Director, Head of Research Operations",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
     "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8105734002",
-    "job_posted_at_datetime_utc": "2025-09-04T22:58:50.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-senior-privacy-engineer-san-francisco-bay-area-u-s"
+    "job_description": "Design & User Experience",
+    "job_apply_link": "https://www.metacareers.com/jobs/1482968699405084",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-director-head-of-research-operations-menlo-park"
   }
 ]

@@ -1,79 +1,101 @@
 [
   {
-    "job_title": "Manager, Software Engineering, Connectivity",
+    "job_title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
     "employer_name": "Meta",
     "job_city": "Redmond",
-    "job_state": "WA +1 locations",
+    "job_state": "WA",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/666253359252638",
+    "job_apply_link": "https://www.metacareers.com/jobs/1177504400872863",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-manager-software-engineering-connectivity-redmond"
+    "id": "meta-research-scientist-intern-audio-machine-learning-and-computer-vision-phd-redmond"
   },
   {
-    "job_title": "Solution Engineer Manager Cloud & AI | Pre-Sales Manager",
+    "job_title": "Software Engineering Manager, MTIA",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +2 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/760752866810204",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-manager-mtia-bellevue"
+  },
+  {
+    "job_title": "Technical Support Engineering IC1",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852958",
-    "job_posted_at_datetime_utc": "2025-09-05T17:14:56.331Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868612",
+    "job_posted_at_datetime_utc": "2025-09-05T18:17:56.047Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-manager-cloud-ai-pre-sales-manager-redmond"
+    "id": "microsoft-technical-support-engineering-ic1-redmond"
   },
   {
-    "job_title": "Optical Engineer – Fibre Test and Automation",
+    "job_title": "Technical Support Engineering M4",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846988",
-    "job_posted_at_datetime_utc": "2025-09-05T17:14:56.331Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868400",
+    "job_posted_at_datetime_utc": "2025-09-05T18:17:56.047Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-optical-engineer-fibre-test-and-automation-redmond"
+    "id": "microsoft-technical-support-engineering-m4-redmond"
   },
   {
-    "job_title": "Senior Solution Engineer - Digital Natives - Cloud & AI Apps",
+    "job_title": "Software Engineer II - Windows Experiences",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871281",
-    "job_posted_at_datetime_utc": "2025-09-05T17:14:56.331Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864218",
+    "job_posted_at_datetime_utc": "2025-09-05T18:17:56.047Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-solution-engineer-digital-natives-cloud-ai-apps-redmond"
+    "id": "microsoft-software-engineer-ii-windows-experiences-redmond"
   },
   {
-    "job_title": "Senior Software Engineer - API Platform",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area (U.S.)",
+    "job_title": "Sr. Solutions Engineer - Digital Native Business, Named",
+    "employer_name": "Databricks",
+    "job_city": "United States",
     "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8136321002",
-    "job_posted_at_datetime_utc": "2025-09-05T16:40:17.000Z",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8141790002",
+    "job_posted_at_datetime_utc": "2025-09-05T18:04:16.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "discord-senior-software-engineer-api-platform-san-francisco-bay-area-u-s"
+    "id": "databricks-sr-solutions-engineer-digital-native-business-named-united-states"
   },
   {
-    "job_title": "Software Engineer Intern, Backend (Summer 2026)",
+    "job_title": "Engineering Manager, Compliance Technology (Platform)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7232692?gh_jid=7232692",
+    "job_posted_at_datetime_utc": "2025-09-05T17:58:48.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-engineering-manager-compliance-technology-platform-remote-usa"
+  },
+  {
+    "job_title": "Autonomous Vehicle Safety & Compliance Engineer",
     "employer_name": "Lyft",
     "job_city": "San Francisco",
     "job_state": "CA",
     "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8130804002?gh_jid=8130804002",
-    "job_posted_at_datetime_utc": "2025-09-05T16:39:11.000Z",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002",
+    "job_posted_at_datetime_utc": "2025-09-05T17:57:02.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-software-engineer-intern-backend-summer-2026-san-francisco"
+    "id": "lyft-autonomous-vehicle-safety-compliance-engineer-san-francisco"
   },
   {
-    "job_title": "Compensation Partner, Product & Engineering",
-    "employer_name": "Stripe",
-    "job_city": "NYC",
-    "job_state": "San Francisco",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7203552",
-    "job_posted_at_datetime_utc": "2025-09-05T16:29:31.000Z",
+    "job_title": "Software Engineer 4 - Revenue Finance Infrastructure",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311814862",
+    "job_posted_at_datetime_utc": "2025-09-05T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-compensation-partner-product-engineering-nyc"
+    "id": "netflix-software-engineer-4-revenue-finance-infrastructure-usa-remote"
   }
 ]

@@ -1,46 +1,35 @@
 [
   {
-    "job_title": "Hardware Engineer ll",
+    "job_title": "Technical Artist | Wearables Product Creative",
+    "employer_name": "Meta",
+    "job_city": "Seattle",
+    "job_state": "WA +2 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1299418478550979",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-technical-artist-wearables-product-creative-seattle"
+  },
+  {
+    "job_title": "Finite Element Analysis Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1777781099500597",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-finite-element-analysis-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Senior Quantum Engineer - Cryo-CMOS Digital Circuit Design",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863286",
-    "job_posted_at_datetime_utc": "2025-09-05T22:15:02.571Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1838060",
+    "job_posted_at_datetime_utc": "2025-09-05T23:14:58.499Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-hardware-engineer-ll-redmond"
-  },
-  {
-    "job_title": "Full Stack Engineer, Core Technology",
-    "employer_name": "Stripe",
-    "job_city": "N/A",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6786568",
-    "job_posted_at_datetime_utc": "2025-09-05T22:09:33.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-full-stack-engineer-core-technology-n-a"
-  },
-  {
-    "job_title": "Engineering Manager - Internal Developer Experience",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8150540002",
-    "job_posted_at_datetime_utc": "2025-09-05T21:51:31.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-engineering-manager-internal-developer-experience-san-francisco-bay-area"
-  },
-  {
-    "job_title": "Sr. Manager, Field Engineering - Financial Services (Hunter)",
-    "employer_name": "Databricks",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8089667002",
-    "job_posted_at_datetime_utc": "2025-09-05T21:25:15.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-manager-field-engineering-financial-services-hunter-united-states"
+    "id": "microsoft-senior-quantum-engineer-cryo-cmos-digital-circuit-design-redmond"
   }
 ]

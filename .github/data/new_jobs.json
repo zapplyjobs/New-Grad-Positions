@@ -1,101 +1,101 @@
 [
   {
-    "job_title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
+    "job_title": "Embedded Software Development Engineer II, AWS Hardware Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2913963/embedded-software-development-engineer-ii-aws-hardware-engineering",
+    "job_posted_at": "2025-09-05T18:07:38.743Z",
+    "job_posted_at_datetime_utc": "2025-09-05T18:07:38.743Z",
+    "id": "amazon-embedded-software-development-engineer-ii-aws-hardware-engineering-cupertino"
+  },
+  {
+    "job_title": "Research Scientist Intern, Computational Photography Algorithms (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1049499833732409",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-computational-photography-algorithms-phd-sunnyvale"
+  },
+  {
+    "job_title": "Research Scientist Intern, Audio Presence (PhD)",
     "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1177504400872863",
+    "job_apply_link": "https://www.metacareers.com/jobs/1913956009450980",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-audio-machine-learning-and-computer-vision-phd-redmond"
+    "id": "meta-research-scientist-intern-audio-presence-phd-redmond"
   },
   {
-    "job_title": "Software Engineering Manager, MTIA",
+    "job_title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
     "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +2 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/760752866810204",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1347994353972512",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-mtia-bellevue"
+    "id": "meta-research-scientist-intern-audio-numerical-acoustics-phd-redmond"
   },
   {
-    "job_title": "Technical Support Engineering IC1",
+    "job_title": "Research Scientist Intern, Audio User Experience (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1822838394996624",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-audio-user-experience-phd-redmond"
+  },
+  {
+    "job_title": "Research Scientist Intern, Hearing Science and Auditory Perception (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/762673806527808",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-hearing-science-and-auditory-perception-phd-redmond"
+  },
+  {
+    "job_title": "Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1290641465449270",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-spatial-audio-capture-and-reproduction-phd-redmond"
+  },
+  {
+    "job_title": "Security Ops Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868612",
-    "job_posted_at_datetime_utc": "2025-09-05T18:17:56.047Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864432",
+    "job_posted_at_datetime_utc": "2025-09-05T19:14:21.219Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-ic1-redmond"
+    "id": "microsoft-security-ops-engineer-redmond"
   },
   {
-    "job_title": "Technical Support Engineering M4",
+    "job_title": "Senior Software Engineer (Outlook Services)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868400",
-    "job_posted_at_datetime_utc": "2025-09-05T18:17:56.047Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864535",
+    "job_posted_at_datetime_utc": "2025-09-05T19:14:21.218Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-m4-redmond"
-  },
-  {
-    "job_title": "Software Engineer II - Windows Experiences",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864218",
-    "job_posted_at_datetime_utc": "2025-09-05T18:17:56.047Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-windows-experiences-redmond"
-  },
-  {
-    "job_title": "Sr. Solutions Engineer - Digital Native Business, Named",
-    "employer_name": "Databricks",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8141790002",
-    "job_posted_at_datetime_utc": "2025-09-05T18:04:16.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-solutions-engineer-digital-native-business-named-united-states"
-  },
-  {
-    "job_title": "Engineering Manager, Compliance Technology (Platform)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7232692?gh_jid=7232692",
-    "job_posted_at_datetime_utc": "2025-09-05T17:58:48.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-engineering-manager-compliance-technology-platform-remote-usa"
-  },
-  {
-    "job_title": "Autonomous Vehicle Safety & Compliance Engineer",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002",
-    "job_posted_at_datetime_utc": "2025-09-05T17:57:02.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-autonomous-vehicle-safety-compliance-engineer-san-francisco"
-  },
-  {
-    "job_title": "Software Engineer 4 - Revenue Finance Infrastructure",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311814862",
-    "job_posted_at_datetime_utc": "2025-09-05T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-software-engineer-4-revenue-finance-infrastructure-usa-remote"
+    "id": "microsoft-senior-software-engineer-outlook-services-redmond"
   }
 ]

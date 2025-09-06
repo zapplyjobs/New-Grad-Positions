@@ -1,35 +1,90 @@
 [
   {
-    "job_title": "Technical Artist | Wearables Product Creative",
+    "job_title": "Specialized Assessment Product Risk Program Manager, Team Manager",
     "employer_name": "Meta",
-    "job_city": "Seattle",
-    "job_state": "WA +2 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1299418478550979",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-technical-artist-wearables-product-creative-seattle"
-  },
-  {
-    "job_title": "Finite Element Analysis Engineer",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
+    "job_city": "Menlo Park",
     "job_state": "CA",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1777781099500597",
+    "job_apply_link": "https://www.metacareers.com/jobs/651811864181320",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-finite-element-analysis-engineer-sunnyvale"
+    "id": "meta-specialized-assessment-product-risk-program-manager-team-manager-menlo-park"
   },
   {
-    "job_title": "Senior Quantum Engineer - Cryo-CMOS Digital Circuit Design",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1838060",
-    "job_posted_at_datetime_utc": "2025-09-05T23:14:58.499Z",
+    "job_title": "Senior Software Engineer - Detection & Placement",
+    "employer_name": "Lyft",
+    "job_city": "Ukraine Anywhere",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/7832339002?gh_jid=7832339002",
+    "job_posted_at_datetime_utc": "2025-09-06T00:18:34.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-quantum-engineer-cryo-cmos-digital-circuit-design-redmond"
+    "id": "lyft-senior-software-engineer-detection-placement-ukraine-anywhere"
+  },
+  {
+    "job_title": "Lead Software Engineer in Test",
+    "employer_name": "Lyft",
+    "job_city": "Ukraine Anywhere",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8039920002?gh_jid=8039920002",
+    "job_posted_at_datetime_utc": "2025-09-06T00:17:55.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-lead-software-engineer-in-test-ukraine-anywhere"
+  },
+  {
+    "job_title": "Data Engineer, Customer Care",
+    "employer_name": "Lyft",
+    "job_city": "Ukraine Anywhere",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8069876002?gh_jid=8069876002",
+    "job_posted_at_datetime_utc": "2025-09-06T00:16:20.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-data-engineer-customer-care-ukraine-anywhere"
+  },
+  {
+    "job_title": "Software Dev Engineer I",
+    "employer_name": "EBSCO",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join EBSCO in this exciting opportunity.",
+    "job_apply_link": "https://careers-ebscoind.icims.com/jobs/1834/job",
+    "job_posted_at_datetime_utc": "2025-09-05T23:59:23.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "ebsco-software-dev-engineer-i-remote-in-usa"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "Jerry",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_description": "Join Jerry in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/jerry.ai/82b3f656-b7a6-4abd-a35b-876d4c6e2a11/application",
+    "job_posted_at_datetime_utc": "2025-09-05T23:39:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "jerry-software-engineer-i-palo-alto"
+  },
+  {
+    "job_title": "New Grad - Jr. Software Engineer",
+    "employer_name": "Bumble",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Join Bumble in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110/apply",
+    "job_posted_at_datetime_utc": "2025-09-05T23:16:41.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bumble-new-grad-jr-software-engineer-austin"
+  },
+  {
+    "job_title": "Aspire Tech Graduate Security Engineer I",
+    "employer_name": "LexisNexis Risk Solutions",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_description": "Join LexisNexis Risk Solutions in this exciting opportunity.",
+    "job_apply_link": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Security-Engineer-I_R101084",
+    "job_posted_at_datetime_utc": "2025-09-05T23:05:43.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lexisnexis-risk-solutions-aspire-tech-graduate-security-engineer-i-raleigh"
   }
 ]

@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Software Engineer I - Raytheon",
-    "employer_name": "RTX",
-    "job_city": "Indianapolis",
-    "job_state": "IN",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951",
-    "job_posted_at_datetime_utc": "2025-09-08T21:29:59.000Z",
+    "job_title": "Staff Front End Engineer",
+    "employer_name": "PayPal",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915776934",
+    "job_posted_at_datetime_utc": "2025-09-08T23:15:46.163Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-raytheon-indianapolis"
+    "id": "paypal-staff-front-end-engineer-austin"
   },
   {
-    "job_title": "Director, Field Engineering - Financial Services",
-    "employer_name": "Databricks",
-    "job_city": "Georgia; Illinois; New York; Remote - Washington D.C.; Texas",
+    "job_title": "Staff Software Engineer - Desktop Platform",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
     "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8158504002",
-    "job_posted_at_datetime_utc": "2025-09-08T21:23:20.000Z",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8030630002",
+    "job_posted_at_datetime_utc": "2025-09-08T22:36:35.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-director-field-engineering-financial-services-georgia-illinois-new-york-remote-washington-d-c-texas"
+    "id": "discord-staff-software-engineer-desktop-platform-san-francisco-bay-area"
+  },
+  {
+    "job_title": "New Grad-Hardware Engineer",
+    "employer_name": "Symbotic",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_description": "Join Symbotic in this exciting opportunity.",
+    "job_apply_link": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Milpitas-CA/New-Grad--Hardware-Engineer_R5410",
+    "job_posted_at_datetime_utc": "2025-09-08T22:32:50.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "symbotic-new-grad-hardware-engineer-milpitas"
   }
 ]

@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Research Scientist Intern, 3D World Modelling, Robotics and Generative AI (PhD)",
+    "job_title": "Senior Software Development Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3077990/senior-software-development-engineer",
+    "job_posted_at": "2025-09-08T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-08T00:00:00.000Z",
+    "id": "amazon-senior-software-development-engineer-newark"
+  },
+  {
+    "job_title": "Senior Software Development Engineer, AI",
+    "employer_name": "Amazon",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078015/senior-software-development-engineer-ai",
+    "job_posted_at": "2025-09-08T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-08T00:00:00.000Z",
+    "id": "amazon-senior-software-development-engineer-ai-newark"
+  },
+  {
+    "job_title": "Research Scientist Intern, Computational Photography (PhD)",
     "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "AI Research +6 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/812059127829101",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "AI Research +4 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1873443029884455",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-3d-world-modelling-robotics-and-generative-ai-phd-multiple"
+    "id": "meta-research-scientist-intern-computational-photography-phd-bellevue"
   }
 ]

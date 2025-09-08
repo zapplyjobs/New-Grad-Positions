@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Research Scientist Intern, On-Device AI Model Optimization (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "AI Research +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1279583396957872",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-on-device-ai-model-optimization-phd-sunnyvale"
-  },
-  {
-    "job_title": "Software Engineering Manager, Machine Learning",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +4 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/9918139294935575",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-machine-learning-bellevue"
-  },
-  {
-    "job_title": "Network Security Engineer L5",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311849784",
-    "job_posted_at_datetime_utc": "2025-09-08T00:00:00.000Z",
+    "job_title": "Software Engineer I - Raytheon",
+    "employer_name": "RTX",
+    "job_city": "Indianapolis",
+    "job_state": "IN",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951",
+    "job_posted_at_datetime_utc": "2025-09-08T21:29:59.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-network-security-engineer-l5-usa-remote"
+    "id": "rtx-software-engineer-i-raytheon-indianapolis"
+  },
+  {
+    "job_title": "Director, Field Engineering - Financial Services",
+    "employer_name": "Databricks",
+    "job_city": "Georgia; Illinois; New York; Remote - Washington D.C.; Texas",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8158504002",
+    "job_posted_at_datetime_utc": "2025-09-08T21:23:20.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-director-field-engineering-financial-services-georgia-illinois-new-york-remote-washington-d-c-texas"
   }
 ]

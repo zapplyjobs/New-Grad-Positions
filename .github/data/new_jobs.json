@@ -1,35 +1,35 @@
 [
   {
-    "job_title": "Senior Software Development Engineer",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3077990/senior-software-development-engineer",
-    "job_posted_at": "2025-09-08T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-08T00:00:00.000Z",
-    "id": "amazon-senior-software-development-engineer-newark"
-  },
-  {
-    "job_title": "Senior Software Development Engineer, AI",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078015/senior-software-development-engineer-ai",
-    "job_posted_at": "2025-09-08T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-08T00:00:00.000Z",
-    "id": "amazon-senior-software-development-engineer-ai-newark"
-  },
-  {
-    "job_title": "Research Scientist Intern, Computational Photography (PhD)",
+    "job_title": "Research Scientist Intern, On-Device AI Model Optimization (PhD)",
     "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "AI Research +4 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1873443029884455",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "AI Research +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1279583396957872",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-computational-photography-phd-bellevue"
+    "id": "meta-research-scientist-intern-on-device-ai-model-optimization-phd-sunnyvale"
+  },
+  {
+    "job_title": "Software Engineering Manager, Machine Learning",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +4 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/9918139294935575",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-manager-machine-learning-bellevue"
+  },
+  {
+    "job_title": "Network Security Engineer L5",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311849784",
+    "job_posted_at_datetime_utc": "2025-09-08T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-network-security-engineer-l5-usa-remote"
   }
 ]

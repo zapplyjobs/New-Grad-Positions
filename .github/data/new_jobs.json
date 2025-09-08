@@ -1,13 +1,13 @@
 [
   {
-    "job_title": "Software Engineer – New Grad",
-    "employer_name": "Boom Supersonic",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_description": "Join Boom Supersonic in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643302004",
-    "job_posted_at_datetime_utc": "2025-09-08T03:15:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "boom-supersonic-software-engineer-new-grad-denver"
+    "job_title": "Software Dev Engineer II - AMZ26505.1",
+    "employer_name": "Amazon",
+    "job_city": "East Palo Alto",
+    "job_state": "CA",
+    "job_description": "Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design. The pay range for this position in East Palo Alto, CA is $165200 - $223600 (yr); however, base pay offered may vary depending on job-related knowledge, skills, and experience A sign-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided by East Palo Alto, CA Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon's internal or external careers site.",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3055331/software-dev-engineer-ii-amz26505-1",
+    "job_posted_at": "2025-09-05T04:10:47.894Z",
+    "job_posted_at_datetime_utc": "2025-09-05T04:10:47.894Z",
+    "id": "amazon-software-dev-engineer-ii-amz26505-1-east-palo-alto"
   }
 ]

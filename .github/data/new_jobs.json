@@ -1,24 +1,100 @@
 [
   {
-    "job_title": "Principal Data Privacy & Governance Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872980",
-    "job_posted_at_datetime_utc": "2025-09-09T17:15:22.807Z",
+    "job_title": "Software Engineer – Early Career",
+    "employer_name": "Trexquant",
+    "job_city": "Stamford",
+    "job_state": "CT",
+    "job_description": "Join Trexquant in this exciting opportunity.",
+    "job_apply_link": "https://apply.workable.com/trexquant/j/11DC4EA360/apply",
+    "job_posted_at_datetime_utc": "2025-09-09T17:18:19.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-data-privacy-governance-engineer-redmond"
+    "id": "trexquant-software-engineer-early-career-stamford"
   },
   {
-    "job_title": "Frontend Engineer (L4), Revenue & Growth Tools Team",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311874592",
-    "job_posted_at_datetime_utc": "2025-09-09T00:00:00.000Z",
+    "job_title": "Content Designer",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +2 locations",
+    "job_description": "Design +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/754845180753985",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-content-designer-menlo-park"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager I",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager I, Infrastructure Engineering, Core",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/126152208197526214-technical-program-manager-i-infrastructure-engineering-core?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=7",
+    "id": "google-technical-program-manager-i-new-york"
+  },
+  {
+    "job_title": "Sr Software Engineer",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915777235",
+    "job_posted_at_datetime_utc": "2025-09-09T18:17:43.453Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-frontend-engineer-l4-revenue-growth-tools-team-usa-remote"
+    "id": "paypal-sr-software-engineer-san-jose"
+  },
+  {
+    "job_title": "Senior Software Engineer, Frontend - Institutional Products",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7227046?gh_jid=7227046",
+    "job_posted_at_datetime_utc": "2025-09-09T18:10:03.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-frontend-institutional-products-remote-usa"
+  },
+  {
+    "job_title": "Senior Software Engineer, Frontend (Institutional - Foundations, Prime)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6659071?gh_jid=6659071",
+    "job_posted_at_datetime_utc": "2025-09-09T18:08:47.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-frontend-institutional-foundations-prime-remote-usa"
+  },
+  {
+    "job_title": "Staff Software Engineer, Backend (Institutional - Settlements & Transfers)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7232387?gh_jid=7232387",
+    "job_posted_at_datetime_utc": "2025-09-09T18:05:05.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-staff-software-engineer-backend-institutional-settlements-transfers-remote-usa"
+  },
+  {
+    "job_title": "Senior Software Engineer, Backend (Institutional - Staking)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7236987?gh_jid=7236987",
+    "job_posted_at_datetime_utc": "2025-09-09T18:00:28.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-backend-institutional-staking-remote-usa"
+  },
+  {
+    "job_title": "Software Engineer, Backend - Institutional Products",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7226106?gh_jid=7226106",
+    "job_posted_at_datetime_utc": "2025-09-09T17:54:07.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-software-engineer-backend-institutional-products-remote-usa"
   }
 ]

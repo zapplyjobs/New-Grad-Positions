@@ -1,24 +1,65 @@
 [
   {
-    "job_title": "Software Engineer – New College Grad",
-    "employer_name": "Visa",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_description": "Join Visa in this exciting opportunity.",
-    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000080622046",
-    "job_posted_at_datetime_utc": "2025-09-09T13:30:22.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "visa-software-engineer-new-college-grad-san-mateo"
+    "job_title": "Research Scientist Intern, Audio (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "AI Research +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1408140620249297",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-audio-phd-redmond"
   },
   {
-    "job_title": "Software Engineer – New College Grad",
-    "employer_name": "Visa",
+    "job_title": "Research Scientist Intern, 3D Scene Reconstruction / Generative AI (PhD)",
+    "employer_name": "Meta",
     "job_city": "Bellevue",
     "job_state": "WA",
-    "job_description": "Join Visa in this exciting opportunity.",
-    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000080620585",
-    "job_posted_at_datetime_utc": "2025-09-09T13:29:08.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "visa-software-engineer-new-college-grad-bellevue"
+    "job_description": "AI Research +6 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1280651487119689",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-3d-scene-reconstruction-generative-ai-phd-bellevue"
+  },
+  {
+    "job_title": "Research Scientist Intern, Multimodal Audio Generation (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1152723083404132",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-multimodal-audio-generation-phd-multiple"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Accountant",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Accountant, Spend Controllership",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74006606529864390-senior-accountant-spend-controllership?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States",
+    "id": "google-senior-accountant-chicago"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Manager",
+    "job_city": "San Bruno",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: Manager, Creator Strategy, YouTube",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/76160000052863686-manager-creator-strategy-youtube?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
+    "id": "google-manager-san-bruno"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Corporate Development Associate",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Corporate Development Associate",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/123095952419365574-corporate-development-associate?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
+    "id": "google-corporate-development-associate-mountain-view"
   }
 ]

@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Research Scientist Intern, Hand Pose Estimation & Tracking (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "AI Research +5 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/625549940628974",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-hand-pose-estimation-tracking-phd-redmond"
-  },
-  {
-    "job_title": "Research Scientist Intern, Robotic End Effector (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "AI Research +5 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1503210474022285",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-robotic-end-effector-phd-redmond"
-  },
-  {
-    "job_title": "New Grad-Hardware Engineer",
-    "employer_name": "Symbotic",
-    "job_city": "Burlington",
-    "job_state": "MA",
-    "job_description": "Join Symbotic in this exciting opportunity.",
-    "job_apply_link": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Hardware-Engineer_R5411",
-    "job_posted_at_datetime_utc": "2025-09-09T00:32:05.000Z",
+    "job_title": "Software Engineer – New Grad",
+    "employer_name": "Scale AI",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Scale AI in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
+    "job_posted_at_datetime_utc": "2025-09-09T01:40:23.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "symbotic-new-grad-hardware-engineer-burlington"
+    "id": "scale-ai-software-engineer-new-grad-sf"
   }
 ]

@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "job_title": "Backend Software Engineer",
+    "employer_name": "Verkada",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_description": "Join Verkada in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
+    "job_posted_at_datetime_utc": "2025-09-09T07:09:41.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "verkada-backend-software-engineer-san-mateo"
+  },
+  {
+    "job_title": "Associate, Software Engineer",
+    "employer_name": "Epsilon",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_description": "Join Epsilon in this exciting opportunity.",
+    "job_apply_link": "https://careers.publicisgroupe.com/jobs/121504",
+    "job_posted_at_datetime_utc": "2025-09-09T07:07:27.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "epsilon-associate-software-engineer-chicago"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "Disney",
+    "job_city": "Glendale",
+    "job_state": "CA",
+    "job_description": "Join Disney in this exciting opportunity.",
+    "job_apply_link": "https://www.disneycareers.com/en/job/-/-/391/85823385568",
+    "job_posted_at_datetime_utc": "2025-09-09T07:05:33.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "disney-software-engineer-i-glendale"
+  },
+  {
+    "job_title": "Jr. Software Engineer",
+    "employer_name": "Bumble Engineering",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Join Bumble Engineering in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110",
+    "job_posted_at_datetime_utc": "2025-09-09T07:01:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bumble-engineering-jr-software-engineer-austin"
+  },
+  {
+    "job_title": "Graduate Software Applications Engineer",
+    "employer_name": "Arm Limited",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Join Arm Limited in this exciting opportunity.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
+    "job_posted_at_datetime_utc": "2025-09-09T07:00:40.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "arm-limited-graduate-software-applications-engineer-austin"
+  },
+  {
+    "job_title": "Security Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_description": "Join Amazon in this exciting opportunity.",
+    "job_apply_link": "http://amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security",
+    "job_posted_at_datetime_utc": "2025-09-09T06:58:48.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "amazon-security-engineer-dallas"
+  }
+]

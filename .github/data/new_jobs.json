@@ -1,13 +1,46 @@
 [
   {
-    "job_title": "Software Engineer II - Azure File Storage",
+    "job_title": "BIOS Software Development Engineer II, AWS Hardware Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2913963/bios-software-development-engineer-ii-aws-hardware-engineering",
+    "job_posted_at": "2025-09-09T19:09:35.813Z",
+    "job_posted_at_datetime_utc": "2025-09-09T19:09:35.813Z",
+    "id": "amazon-bios-software-development-engineer-ii-aws-hardware-engineering-cupertino"
+  },
+  {
+    "job_title": "Software Development Engineer - Embedded, Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3068766/software-development-engineer-embedded-kuiper",
+    "job_posted_at": "2025-09-09T19:09:35.813Z",
+    "job_posted_at_datetime_utc": "2025-09-09T19:09:35.813Z",
+    "id": "amazon-software-development-engineer-embedded-kuiper-redmond"
+  },
+  {
+    "job_title": "Senior Storage Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863515",
-    "job_posted_at_datetime_utc": "2025-09-09T19:14:18.794Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1844370",
+    "job_posted_at_datetime_utc": "2025-09-09T20:16:12.956Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-azure-file-storage-redmond"
+    "id": "microsoft-senior-storage-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Systems Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848860",
+    "job_posted_at_datetime_utc": "2025-09-09T20:16:12.956Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-systems-engineer-redmond"
   }
 ]

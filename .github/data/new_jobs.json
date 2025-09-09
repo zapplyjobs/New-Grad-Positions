@@ -1,13 +1,46 @@
 [
   {
-    "job_title": "Principal Fullstack Software Engineer (CoreAI)",
+    "job_title": "Software Development Engineer II, Engine",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2575947/software-development-engineer-ii-engine",
+    "job_posted_at": "2025-09-09T21:08:34.029Z",
+    "job_posted_at_datetime_utc": "2025-09-09T21:08:34.029Z",
+    "id": "amazon-software-development-engineer-ii-engine-seattle"
+  },
+  {
+    "job_title": "Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1468284791260126",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-multimodal-generative-ai-and-robotics-phd-redmond"
+  },
+  {
+    "job_title": "Principal Engineering Planning Coordinator",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874915",
-    "job_posted_at_datetime_utc": "2025-09-09T21:14:48.414Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864581",
+    "job_posted_at_datetime_utc": "2025-09-09T22:15:28.943Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-fullstack-software-engineer-coreai-redmond"
+    "id": "microsoft-principal-engineering-planning-coordinator-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer, Frontend",
+    "employer_name": "Lyft",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8160801002?gh_jid=8160801002",
+    "job_posted_at_datetime_utc": "2025-09-09T21:41:21.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-senior-software-engineer-frontend-san-francisco"
   }
 ]

@@ -1,57 +1,24 @@
 [
   {
-    "job_title": "Content Designer",
-    "employer_name": "Meta",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Design +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/754845180753985",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-content-designer-new-york"
-  },
-  {
-    "job_title": "Sr Manager, Machine Learning Engineer",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908841649",
-    "job_posted_at_datetime_utc": "2025-09-09T16:17:10.714Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-sr-manager-machine-learning-engineer-san-jose"
-  },
-  {
-    "job_title": "Senior Quality Software Engineer (Surface)",
+    "job_title": "Principal Data Privacy & Governance Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842140",
-    "job_posted_at_datetime_utc": "2025-09-09T16:17:03.417Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872980",
+    "job_posted_at_datetime_utc": "2025-09-09T17:15:22.807Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-quality-software-engineer-surface-redmond"
+    "id": "microsoft-principal-data-privacy-governance-engineer-redmond"
   },
   {
-    "job_title": "Principal Cloud Network Engineer - CTJ - Top Secret",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863569",
-    "job_posted_at_datetime_utc": "2025-09-09T16:17:03.417Z",
+    "job_title": "Frontend Engineer (L4), Revenue & Growth Tools Team",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311874592",
+    "job_posted_at_datetime_utc": "2025-09-09T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-cloud-network-engineer-ctj-top-secret-redmond"
-  },
-  {
-    "job_title": "Senior Applied AI Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864933",
-    "job_posted_at_datetime_utc": "2025-09-09T16:17:03.417Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-applied-ai-engineer-redmond"
+    "id": "netflix-frontend-engineer-l4-revenue-growth-tools-team-usa-remote"
   }
 ]

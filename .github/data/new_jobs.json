@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Security Research (Detection Engineer)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874517",
-    "job_posted_at_datetime_utc": "2025-09-10T11:14:12.002Z",
+    "job_title": "Senior Frontend Engineer",
+    "employer_name": "Lyft",
+    "job_city": "Ukraine Anywhere",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8159747002?gh_jid=8159747002",
+    "job_posted_at_datetime_utc": "2025-09-10T12:15:32.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-security-research-detection-engineer-redmond"
+    "id": "lyft-senior-frontend-engineer-ukraine-anywhere"
+  },
+  {
+    "job_title": "Staff Software Engineer, Infrastructure - Datastores ",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7242171?gh_jid=7242171",
+    "job_posted_at_datetime_utc": "2025-09-10T11:34:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-staff-software-engineer-infrastructure-datastores-remote-usa"
   }
 ]

@@ -1,46 +1,13 @@
 [
   {
-    "job_title": "Embedded Software Engineer I",
+    "job_title": "Cybersecurity Engineer I",
     "employer_name": "RTX",
-    "job_city": "Richardson",
-    "job_state": "TX",
+    "job_city": "Cedar Rapids",
+    "job_state": "IA",
     "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Embedded-Software-Engineer-I--Onsite-_01788530-1",
-    "job_posted_at_datetime_utc": "2025-09-10T01:21:04.000Z",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Cybersecurity-Engineer-I--Onsite-_01791225",
+    "job_posted_at_datetime_utc": "2025-09-10T01:29:39.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-embedded-software-engineer-i-richardson"
-  },
-  {
-    "job_title": "Research Scientist, Demography and Survey Sciences",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Research +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/775130278545649",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-demography-and-survey-sciences-menlo-park"
-  },
-  {
-    "job_title": "Optical Additive Manufacturing Materials Process Engineer",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1857711285156519",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-optical-additive-manufacturing-materials-process-engineer-multiple"
-  },
-  {
-    "job_title": "Junior Machine Learning Engineer",
-    "employer_name": "Tax Relief Advocates",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_description": "Join Tax Relief Advocates in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008",
-    "job_posted_at_datetime_utc": "2025-09-10T01:05:30.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tax-relief-advocates-junior-machine-learning-engineer-irvine"
+    "id": "rtx-cybersecurity-engineer-i-cedar-rapids"
   }
 ]

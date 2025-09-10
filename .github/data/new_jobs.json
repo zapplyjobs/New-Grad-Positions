@@ -1,46 +1,35 @@
 [
   {
-    "job_title": "Back-End Software Engineer Intern",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915741038",
-    "job_posted_at_datetime_utc": "2025-09-10T16:16:59.366Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-back-end-software-engineer-intern-san-jose"
+    "job_title": "Front-End Engineer, Manufacturing Systems Engineering, Project Kuiper",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3079761/front-end-engineer-manufacturing-systems-engineering-project-kuiper",
+    "job_posted_at": "2025-09-10T16:07:47.299Z",
+    "job_posted_at_datetime_utc": "2025-09-10T16:07:47.299Z",
+    "id": "amazon-front-end-engineer-manufacturing-systems-engineering-project-kuiper-bellevue"
   },
   {
-    "job_title": "Mobile Software Engineer Intern",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915741042",
-    "job_posted_at_datetime_utc": "2025-09-10T16:16:59.366Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-mobile-software-engineer-intern-san-jose"
-  },
-  {
-    "job_title": "Senior Software Engineer - Office Extensibility",
+    "job_title": "Principal Security Customer Experience Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868274",
-    "job_posted_at_datetime_utc": "2025-09-10T16:16:51.378Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863897",
+    "job_posted_at_datetime_utc": "2025-09-10T17:14:30.919Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-office-extensibility-redmond"
+    "id": "microsoft-principal-security-customer-experience-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer - Office Extensibility",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868356",
-    "job_posted_at_datetime_utc": "2025-09-10T16:16:51.378Z",
+    "job_title": "Distributed Systems Engineer (L4) - Traffic & Managed Fleet",
+    "employer_name": "Netflix",
+    "job_city": "Los Gatos",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304686430",
+    "job_posted_at_datetime_utc": "2025-09-08T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-office-extensibility-redmond"
+    "id": "netflix-distributed-systems-engineer-l4-traffic-managed-fleet-los-gatos"
   }
 ]

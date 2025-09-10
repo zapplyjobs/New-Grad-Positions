@@ -1,24 +1,45 @@
 [
   {
-    "job_title": "Software Engineer 2 – Machine Learning",
+    "employer_name": "Google",
+    "job_title": "UX Designer",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: UX Designer, Cloud Professional Services",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/105054435486376646-ux-designer-cloud-professional-services?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8",
+    "id": "google-ux-designer-chicago"
+  },
+  {
+    "job_title": "Principal Software Engineer - Blob Storage",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872441",
-    "job_posted_at_datetime_utc": "2025-09-10T07:16:09.320Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843264",
+    "job_posted_at_datetime_utc": "2025-09-10T08:18:16.603Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-2-machine-learning-redmond"
+    "id": "microsoft-principal-software-engineer-blob-storage-redmond"
   },
   {
-    "job_title": "Software Engineer – New College Grad",
-    "employer_name": "Visa",
-    "job_city": "Highlands Ranch",
-    "job_state": "CO",
-    "job_description": "Join Visa in this exciting opportunity.",
-    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000080905285",
-    "job_posted_at_datetime_utc": "2025-09-09T16:18:56.000Z",
+    "job_title": "Software Engineer 2 - Azure Specialized",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875027",
+    "job_posted_at_datetime_utc": "2025-09-10T08:18:16.603Z",
     "job_employment_type": "FULLTIME",
-    "id": "visa-software-engineer-new-college-grad-highlands-ranch"
+    "id": "microsoft-software-engineer-2-azure-specialized-redmond"
+  },
+  {
+    "job_title": "Principal Engineer - Kubernetes",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872431",
+    "job_posted_at_datetime_utc": "2025-09-10T08:18:16.603Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-engineer-kubernetes-redmond"
   }
 ]

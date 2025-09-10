@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Engineer 2 – Machine Learning",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872441",
+    "job_posted_at_datetime_utc": "2025-09-10T07:16:09.320Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-2-machine-learning-redmond"
+  },
+  {
+    "job_title": "Software Engineer – New College Grad",
+    "employer_name": "Visa",
+    "job_city": "Highlands Ranch",
+    "job_state": "CO",
+    "job_description": "Join Visa in this exciting opportunity.",
+    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000080905285",
+    "job_posted_at_datetime_utc": "2025-09-09T16:18:56.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "visa-software-engineer-new-college-grad-highlands-ranch"
+  }
+]

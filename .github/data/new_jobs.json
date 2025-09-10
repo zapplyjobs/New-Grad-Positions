@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Software Engineer, Backend Java",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827870",
-    "job_posted_at_datetime_utc": "2025-09-10T20:16:31.520Z",
+    "job_title": "Software Engineer Entry Level - Java / C++",
+    "employer_name": "General Dynamics Mission Systems",
+    "job_city": "Manassas",
+    "job_state": "VA",
+    "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+    "job_apply_link": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2025-09-10T20:36:06.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "paypal-software-engineer-backend-java-san-jose"
+    "id": "general-dynamics-mission-systems-software-engineer-entry-level-java-c-manassas"
   },
   {
-    "job_title": "Senior Software Engineer, Backend Java",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827875",
-    "job_posted_at_datetime_utc": "2025-09-10T20:16:31.520Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-senior-software-engineer-backend-java-san-jose"
+    "job_title": "Software Development Engineer, Device OS",
+    "employer_name": "Amazon",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078996/software-development-engineer-device-os",
+    "job_posted_at": "2025-09-09T21:07:44.762Z",
+    "job_posted_at_datetime_utc": "2025-09-09T21:07:44.762Z",
+    "id": "amazon-software-development-engineer-device-os-irvine"
   }
 ]

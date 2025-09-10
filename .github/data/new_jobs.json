@@ -1,24 +1,66 @@
 [
   {
-    "job_title": "Sr Staff Software Engineer",
+    "employer_name": "Google",
+    "job_title": "Business and Marketing Data Scientist",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business and Marketing Data Scientist, Behavioral Economics",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129424492240741062-business-and-marketing-data-scientist-behavioral-economics?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=8",
+    "id": "google-business-and-marketing-data-scientist-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "UX Growth Engineer",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: UX Growth Engineer, Marketing Technology and Operations",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84688662641418950-ux-growth-engineer-marketing-technology-and-operations?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=9",
+    "id": "google-ux-growth-engineer-san-francisco"
+  },
+  {
+    "job_title": "Recent Graduate - Software Engineer",
     "employer_name": "PayPal",
     "job_city": "San Jose",
     "job_state": "California",
     "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908944529",
-    "job_posted_at_datetime_utc": "2025-09-09T23:15:41.796Z",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915802757",
+    "job_posted_at_datetime_utc": "2025-09-10T00:39:42.577Z",
     "job_employment_type": "FULLTIME",
-    "id": "paypal-sr-staff-software-engineer-san-jose"
+    "id": "paypal-recent-graduate-software-engineer-san-jose"
   },
   {
-    "job_title": "Senior Frontend Engineer, Lyft Business",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8160801002?gh_jid=8160801002",
-    "job_posted_at_datetime_utc": "2025-09-09T22:49:56.000Z",
+    "job_title": "Machine Learning Engineer PhD Intern",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915802833",
+    "job_posted_at_datetime_utc": "2025-09-10T00:39:42.577Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-senior-frontend-engineer-lyft-business-san-francisco"
+    "id": "paypal-machine-learning-engineer-phd-intern-san-jose"
+  },
+  {
+    "job_title": "Fullstack Software Engineer Intern",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915740755",
+    "job_posted_at_datetime_utc": "2025-09-10T00:39:42.577Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-fullstack-software-engineer-intern-san-jose"
+  },
+  {
+    "job_title": "Principal Innovation Hub Solution Engineer, AI Business Solutions",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863772",
+    "job_posted_at_datetime_utc": "2025-09-10T00:39:34.647Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-innovation-hub-solution-engineer-ai-business-solutions-redmond"
   }
 ]

@@ -1,66 +1,46 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Business and Marketing Data Scientist",
-    "job_city": "Mountain View",
+    "job_title": "Embedded Software Engineer I",
+    "employer_name": "RTX",
+    "job_city": "Richardson",
+    "job_state": "TX",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Embedded-Software-Engineer-I--Onsite-_01788530-1",
+    "job_posted_at_datetime_utc": "2025-09-10T01:21:04.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-embedded-software-engineer-i-richardson"
+  },
+  {
+    "job_title": "Research Scientist, Demography and Survey Sciences",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
     "job_state": "CA",
+    "job_description": "Research +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/775130278545649",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business and Marketing Data Scientist, Behavioral Economics",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129424492240741062-business-and-marketing-data-scientist-behavioral-economics?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=8",
-    "id": "google-business-and-marketing-data-scientist-mountain-view"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-demography-and-survey-sciences-menlo-park"
   },
   {
-    "employer_name": "Google",
-    "job_title": "UX Growth Engineer",
-    "job_city": "San Francisco",
+    "job_title": "Optical Additive Manufacturing Materials Process Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1857711285156519",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-optical-additive-manufacturing-materials-process-engineer-multiple"
+  },
+  {
+    "job_title": "Junior Machine Learning Engineer",
+    "employer_name": "Tax Relief Advocates",
+    "job_city": "Irvine",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: UX Growth Engineer, Marketing Technology and Operations",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84688662641418950-ux-growth-engineer-marketing-technology-and-operations?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=9",
-    "id": "google-ux-growth-engineer-san-francisco"
-  },
-  {
-    "job_title": "Recent Graduate - Software Engineer",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915802757",
-    "job_posted_at_datetime_utc": "2025-09-10T00:39:42.577Z",
+    "job_description": "Join Tax Relief Advocates in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008",
+    "job_posted_at_datetime_utc": "2025-09-10T01:05:30.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "paypal-recent-graduate-software-engineer-san-jose"
-  },
-  {
-    "job_title": "Machine Learning Engineer PhD Intern",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915802833",
-    "job_posted_at_datetime_utc": "2025-09-10T00:39:42.577Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-machine-learning-engineer-phd-intern-san-jose"
-  },
-  {
-    "job_title": "Fullstack Software Engineer Intern",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915740755",
-    "job_posted_at_datetime_utc": "2025-09-10T00:39:42.577Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-fullstack-software-engineer-intern-san-jose"
-  },
-  {
-    "job_title": "Principal Innovation Hub Solution Engineer, AI Business Solutions",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863772",
-    "job_posted_at_datetime_utc": "2025-09-10T00:39:34.647Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-innovation-hub-solution-engineer-ai-business-solutions-redmond"
+    "id": "tax-relief-advocates-junior-machine-learning-engineer-irvine"
   }
 ]

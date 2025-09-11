@@ -1,68 +1,35 @@
 [
   {
-    "job_title": "Manufacturing Design Engineer - Mechanical",
+    "job_title": "Software Development Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3080049/software-development-engineer",
+    "job_posted_at": "2025-09-10T21:33:18.911Z",
+    "job_posted_at_datetime_utc": "2025-09-10T21:33:18.911Z",
+    "id": "amazon-software-development-engineer-arlington"
+  },
+  {
+    "job_title": "ASIC Engineer, Infra Silicon Lifecycle",
     "employer_name": "Meta",
     "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1296282138059904",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1291050379126877",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-manufacturing-design-engineer-mechanical-sunnyvale"
+    "id": "meta-asic-engineer-infra-silicon-lifecycle-sunnyvale"
   },
   {
-    "job_title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +2 locations",
-    "job_description": "Machine Learning +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/2829935013843817",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-ai-core-machine-learning-phd-sunnyvale"
-  },
-  {
-    "job_title": "Software Engineer, iOS",
+    "job_title": "MTS 1, Software Engineer",
     "employer_name": "PayPal",
     "job_city": "San Jose",
     "job_state": "California",
     "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827876",
-    "job_posted_at_datetime_utc": "2025-09-10T23:15:54.724Z",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915831883",
+    "job_posted_at_datetime_utc": "2025-09-11T00:40:11.363Z",
     "job_employment_type": "FULLTIME",
-    "id": "paypal-software-engineer-ios-san-jose"
-  },
-  {
-    "job_title": "Senior Software Engineer ,iOS",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827883",
-    "job_posted_at_datetime_utc": "2025-09-10T23:15:54.724Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-senior-software-engineer-ios-san-jose"
-  },
-  {
-    "job_title": "Electrical Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1870690",
-    "job_posted_at_datetime_utc": "2025-09-10T23:15:46.632Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-electrical-engineer-redmond"
-  },
-  {
-    "job_title": "Systems Development Engineer 4 - Creative Compute and Storage",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311906390",
-    "job_posted_at_datetime_utc": "2025-09-10T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-systems-development-engineer-4-creative-compute-and-storage-usa-remote"
+    "id": "paypal-mts-1-software-engineer-san-jose"
   }
 ]

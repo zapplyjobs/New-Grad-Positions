@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Mechanical Engineer",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1082522453920560",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-mechanical-engineer-redmond"
-  },
-  {
-    "job_title": "Ads Privacy Engineer (L6)",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311907898",
-    "job_posted_at_datetime_utc": "2025-09-10T00:00:00.000Z",
+    "job_title": "Software Engineer – Entry Level",
+    "employer_name": "General Dynamics Mission Systems",
+    "job_city": "Pittsfield",
+    "job_state": "MA",
+    "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+    "job_apply_link": "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2025-09-11T02:38:30.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-ads-privacy-engineer-l6-usa-remote"
+    "id": "general-dynamics-mission-systems-software-engineer-entry-level-pittsfield"
   }
 ]

@@ -1,56 +1,24 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Analytical Lead",
-    "job_city": "Washington D.C.",
-    "job_state": "DC",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Analytical Lead, Education and Careers",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/117772400585515718-analytical-lead-education-and-careers?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=3",
-    "id": "google-analytical-lead-washington-d-c"
-  },
-  {
-    "job_title": "Solution Engineer - Hub (Cloud & AI)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864568",
-    "job_posted_at_datetime_utc": "2025-09-11T21:12:36.327Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-hub-cloud-ai-redmond"
-  },
-  {
-    "job_title": "Critical Environment (CE) Field Services Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875837",
-    "job_posted_at_datetime_utc": "2025-09-11T21:12:36.327Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-critical-environment-ce-field-services-engineer-redmond"
-  },
-  {
-    "job_title": "Backend Engineer, Data",
-    "employer_name": "Stripe",
-    "job_city": "Canada",
+    "job_title": "Product Director, Community Notes & Misinformation",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
     "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6268625",
-    "job_posted_at_datetime_utc": "2025-09-11T21:07:30.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-backend-engineer-data-canada"
+    "job_description": "Product Management",
+    "job_apply_link": "https://www.metacareers.com/jobs/1525482171773246",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-director-community-notes-misinformation-menlo-park"
   },
   {
-    "job_title": "Senior Applied AI Engineer – ML for Systems & Infrastructure",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002",
-    "job_posted_at_datetime_utc": "2025-09-11T20:33:56.000Z",
+    "job_title": "Software Engineer II, Minecraft Marketplace",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874666",
+    "job_posted_at_datetime_utc": "2025-09-11T22:15:26.864Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-senior-applied-ai-engineer-ml-for-systems-infrastructure-san-francisco"
+    "id": "microsoft-software-engineer-ii-minecraft-marketplace-redmond"
   }
 ]

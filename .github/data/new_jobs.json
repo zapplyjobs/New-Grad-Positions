@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Senior Service Engineer (Security)",
+    "job_title": "Senior Product Manager - Developer Architect",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874068",
-    "job_posted_at_datetime_utc": "2025-09-11T18:17:25.884Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874858",
+    "job_posted_at_datetime_utc": "2025-09-11T19:14:26.454Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-service-engineer-security-redmond"
-  },
-  {
-    "job_title": "Entry Level Software Developer",
-    "employer_name": "Dayton Freight Lines",
-    "job_city": "Dayton",
-    "job_state": "OH",
-    "job_description": "Join Dayton Freight Lines in this exciting opportunity.",
-    "job_apply_link": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2025-09-11T17:26:46.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "dayton-freight-lines-entry-level-software-developer-dayton"
+    "id": "microsoft-senior-product-manager-developer-architect-redmond"
   }
 ]

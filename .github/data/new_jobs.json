@@ -1,68 +1,24 @@
 [
   {
-    "job_title": "Quantum Control Systems Software Design Engineer II",
-    "employer_name": "Microsoft",
+    "job_title": "Mechanical Engineer",
+    "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871900",
-    "job_posted_at_datetime_utc": "2025-09-11T01:44:20.275Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-quantum-control-systems-software-design-engineer-ii-redmond"
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1082522453920560",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-mechanical-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "Thorlabs",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_description": "Join Thorlabs in this exciting opportunity.",
-    "job_apply_link": "https://apply.workable.com/thorlabs/j/E79FA34ED4/apply",
-    "job_posted_at_datetime_utc": "2025-09-11T01:10:50.000Z",
+    "job_title": "Ads Privacy Engineer (L6)",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311907898",
+    "job_posted_at_datetime_utc": "2025-09-10T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "thorlabs-software-engineer-i-annapolis-junction"
-  },
-  {
-    "job_title": "Software Engineer I - C/C++ Linux",
-    "employer_name": "RTX",
-    "job_city": "Newport",
-    "job_state": "RI",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01791668",
-    "job_posted_at_datetime_utc": "2025-09-11T01:10:49.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-c-c-linux-newport"
-  },
-  {
-    "job_title": "Entry Level Software Engineer",
-    "employer_name": "Amentum",
-    "job_city": "Fredericksburg",
-    "job_state": "VA",
-    "job_description": "Join Amentum in this exciting opportunity.",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145732-1",
-    "job_posted_at_datetime_utc": "2025-09-11T00:52:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "amentum-entry-level-software-engineer-fredericksburg"
-  },
-  {
-    "job_title": "Software Developer – New Grad - Market Data - Libraries & Tools",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "NYC",
-    "job_state": "Locations",
-    "job_description": "Join Susquehanna International Group (SIG) in this exciting opportunity.",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/9261/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2025-09-11T00:16:38.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "susquehanna-international-group-sig-software-developer-new-grad-market-data-libraries-tools-nyc"
-  },
-  {
-    "job_title": "Entry Level Full-Stack Software Engineer",
-    "employer_name": "Integration Innovation (i3)",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_description": "Join Integration Innovation (i3) in this exciting opportunity.",
-    "job_apply_link": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2025-09-10T22:10:43.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "integration-innovation-i3-entry-level-full-stack-software-engineer-huntsville"
+    "id": "netflix-ads-privacy-engineer-l6-usa-remote"
   }
 ]

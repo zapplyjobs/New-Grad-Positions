@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Solution Engineer Cloud & AI Software",
+    "job_title": "Software Engineer II & Sr SWE",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875178",
-    "job_posted_at_datetime_utc": "2025-09-11T12:20:55.038Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1821553",
+    "job_posted_at_datetime_utc": "2025-09-11T13:20:41.494Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-cloud-ai-software-redmond"
+    "id": "microsoft-software-engineer-ii-sr-swe-redmond"
   },
   {
-    "job_title": "Senior Software Development Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873875",
-    "job_posted_at_datetime_utc": "2025-09-11T12:20:55.038Z",
+    "job_title": "Software Engineer – New College Grad",
+    "employer_name": "Visa",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Join Visa in this exciting opportunity.",
+    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000080906904",
+    "job_posted_at_datetime_utc": "2025-09-11T12:15:56.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-development-engineer-redmond"
+    "id": "visa-software-engineer-new-college-grad-austin"
   }
 ]

@@ -1,23 +1,46 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Regional Program Manager",
-    "job_city": "Clarksville",
-    "job_state": "TN",
+    "job_title": "Research Scientist Intern, Multimodal Behavioral AI (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "AI Research +4 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/789528804016392",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Regional Program Manager, Data Center Operations",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/87988315826856646-regional-program-manager-data-center-operations?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=3",
-    "id": "google-regional-program-manager-clarksville"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-multimodal-behavioral-ai-phd-redmond"
   },
   {
-    "job_title": "Software Engineer 7, Content Promotion & Distribution",
-    "employer_name": "Netflix",
-    "job_city": "Los Gatos",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311932723",
-    "job_posted_at_datetime_utc": "2025-09-12T00:00:00.000Z",
+    "job_title": "Data Center Facility Operations Reliability Engineer",
+    "employer_name": "Meta",
+    "job_city": "Remote",
+    "job_state": "US",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2219858975159570",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-center-facility-operations-reliability-engineer-remote"
+  },
+  {
+    "job_title": "Software Engineer 2 - CoreAI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873577",
+    "job_posted_at_datetime_utc": "2025-09-12T18:17:33.203Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-software-engineer-7-content-promotion-distribution-los-gatos"
+    "id": "microsoft-software-engineer-2-coreai-redmond"
+  },
+  {
+    "job_title": "Data Engineer",
+    "employer_name": "Lyft",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8164698002?gh_jid=8164698002",
+    "job_posted_at_datetime_utc": "2025-09-12T17:31:51.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-data-engineer-san-francisco"
   }
 ]

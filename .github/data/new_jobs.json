@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Senior Software Engineer, Fullstack",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915818270",
+    "job_posted_at_datetime_utc": "2025-09-12T07:15:40.662Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-senior-software-engineer-fullstack-san-jose"
+  },
+  {
+    "job_title": "Staff Software Engineer, Backend Python",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827867",
+    "job_posted_at_datetime_utc": "2025-09-12T07:15:40.662Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-staff-software-engineer-backend-python-san-jose"
+  },
+  {
+    "job_title": "Staff Software Engineer, Android",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827886",
+    "job_posted_at_datetime_utc": "2025-09-12T07:15:40.662Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-staff-software-engineer-android-san-jose"
+  }
+]

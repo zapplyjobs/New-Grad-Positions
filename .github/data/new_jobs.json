@@ -1,34 +1,66 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Mixed Methods UX Researcher",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Senior Mixed Methods UX Researcher",
+    "job_city": "San Bruno",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Mixed Methods UX Researcher, Image Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/141917126175662790-mixed-methods-ux-researcher-image-search?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
-    "id": "google-mixed-methods-ux-researcher-new-york"
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareYouTube. Posted: Recently. Full Title: Senior Mixed Methods UX Researcher, YouTube Main App",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/114336289309762246-senior-mixed-methods-ux-researcher-youtube-main-app?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=6",
+    "id": "google-senior-mixed-methods-ux-researcher-san-bruno"
   },
   {
-    "job_title": "Software Engineer II, Minecraft",
+    "employer_name": "Google",
+    "job_title": "UX Content Designer",
+    "job_city": "San Bruno",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareYouTube. Posted: Recently. Full Title: UX Content Designer, YouTube Connected TV Experience",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/131330341028668102-ux-content-designer-youtube-connected-tv-experience?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
+    "id": "google-ux-content-designer-san-bruno"
+  },
+  {
+    "job_title": "Senior Software Engineer - Azure Software Load Balancer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874684",
-    "job_posted_at_datetime_utc": "2025-09-11T23:15:35.756Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1838307",
+    "job_posted_at_datetime_utc": "2025-09-12T00:39:13.010Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-minecraft-redmond"
+    "id": "microsoft-senior-software-engineer-azure-software-load-balancer-redmond"
   },
   {
-    "job_title": "Data Engineer - Junior",
-    "employer_name": "Booz Allen",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Join Booz Allen in this exciting opportunity.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer--Junior_R0226048",
-    "job_posted_at_datetime_utc": "2025-09-11T22:22:27.000Z",
+    "job_title": "Software Engineer - CTJ - Poly",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872822",
+    "job_posted_at_datetime_utc": "2025-09-12T00:39:13.010Z",
     "job_employment_type": "FULLTIME",
-    "id": "booz-allen-data-engineer-junior-arlington"
+    "id": "microsoft-software-engineer-ctj-poly-redmond"
+  },
+  {
+    "job_title": "Site Reliability Engineer - CTJ - Top Secret",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872480",
+    "job_posted_at_datetime_utc": "2025-09-12T00:39:13.010Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-site-reliability-engineer-ctj-top-secret-redmond"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "RTX",
+    "job_city": "West Valley City",
+    "job_state": "UT",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I--Onsite-_01792630",
+    "job_posted_at_datetime_utc": "2025-09-11T23:18:28.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-software-engineer-i-west-valley-city"
   }
 ]

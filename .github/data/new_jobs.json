@@ -1,46 +1,68 @@
 [
   {
-    "job_title": "ASIC Engineer, EDA Infrastructure",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +1 locations",
-    "job_description": "Design +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/4026261767685937",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-asic-engineer-eda-infrastructure-sunnyvale"
+    "job_title": "SDE II, Android, eero Core Engineering",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3039844/sde-ii-android-eero-core-engineering",
+    "job_posted_at": "2025-09-12T22:08:21.649Z",
+    "job_posted_at_datetime_utc": "2025-09-12T22:08:21.649Z",
+    "id": "amazon-sde-ii-android-eero-core-engineering-san-francisco"
   },
   {
-    "job_title": "Research Scientist Intern, 3D Scene Understanding (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "3D Software Engineering +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/2105793109829499",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-3d-scene-understanding-phd-redmond"
-  },
-  {
-    "job_title": "Software Quality Engineer",
+    "job_title": "Finance Manager - Engineering R&D",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874937",
-    "job_posted_at_datetime_utc": "2025-09-12T22:15:07.938Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857995",
+    "job_posted_at_datetime_utc": "2025-09-12T23:15:13.617Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-quality-engineer-redmond"
+    "id": "microsoft-finance-manager-engineering-r-d-redmond"
   },
   {
-    "job_title": "Security Software Engineer (L5), Workforce Security",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311936654",
-    "job_posted_at_datetime_utc": "2025-09-12T00:00:00.000Z",
+    "job_title": "Senior Quantum Hardware Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872753",
+    "job_posted_at_datetime_utc": "2025-09-12T23:15:13.617Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-security-software-engineer-l5-workforce-security-usa-remote"
+    "id": "microsoft-senior-quantum-hardware-engineer-redmond"
+  },
+  {
+    "job_title": "Serviceability Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873805",
+    "job_posted_at_datetime_utc": "2025-09-12T23:15:13.617Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-serviceability-engineer-ii-redmond"
+  },
+  {
+    "job_title": "Quantum Hardware Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872744",
+    "job_posted_at_datetime_utc": "2025-09-12T23:15:13.617Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-quantum-hardware-engineer-redmond"
+  },
+  {
+    "job_title": "Engineering Manager, Host Pricing & Settings - Guidance Serving",
+    "employer_name": "Airbnb",
+    "job_city": "Remote",
+    "job_state": "USA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6595267?gh_jid=6595267",
+    "job_posted_at_datetime_utc": "2025-09-12T22:37:25.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-engineering-manager-host-pricing-settings-guidance-serving-remote"
   }
 ]

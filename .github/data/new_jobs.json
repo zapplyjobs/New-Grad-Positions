@@ -1,13 +1,46 @@
 [
   {
-    "job_title": "Digital Solution Engineer - Cloud & AI - Infrastructure",
+    "job_title": "Software Engineer - Frontend",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874792",
-    "job_posted_at_datetime_utc": "2025-09-12T12:20:49.466Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875110",
+    "job_posted_at_datetime_utc": "2025-09-12T13:20:26.172Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-cloud-ai-infrastructure-redmond"
+    "id": "microsoft-software-engineer-frontend-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer (Azure HPC/AI)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873590",
+    "job_posted_at_datetime_utc": "2025-09-12T13:20:26.172Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-azure-hpc-ai-redmond"
+  },
+  {
+    "job_title": "Software Engineer II (Azure HPC/AI)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872647",
+    "job_posted_at_datetime_utc": "2025-09-12T13:20:26.172Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-azure-hpc-ai-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer (Mobile Web)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874520",
+    "job_posted_at_datetime_utc": "2025-09-12T13:20:26.172Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-mobile-web-redmond"
   }
 ]

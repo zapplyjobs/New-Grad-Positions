@@ -1,44 +1,46 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Software Engineer: Fullstack Intern Opportunities for University Students",
-    "job_city": "Mountain View",
-    "job_state": "California",
+    "job_title": "Data Scientist Manager, Central Product Platform",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/24825863527043364",
     "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Fullstack Intern Opportunities for University Students",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877399/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Mountain-View",
-    "id": "microsoft-software-engineer-fullstack-intern-opportunities-for-university-students-mountain-view"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-scientist-manager-central-product-platform-menlo-park"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Technical Program Manager II",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_title": "Research Scientist Intern, Haptic Research (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1350762806662624",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareYouTube. Posted: Recently. Full Title: Technical Program Manager II, Infrastructure Engineering, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112224850637923014-technical-program-manager-ii-infrastructure-engineering-youtube?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
-    "id": "google-technical-program-manager-ii-new-york"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-haptic-research-phd-redmond"
   },
   {
-    "job_title": "Principal Software Engineer, Minecraft Core Engine",
+    "job_title": "Senior Software Engineer, Minecraft",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874671",
-    "job_posted_at_datetime_utc": "2025-09-12T20:16:05.795Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874175",
+    "job_posted_at_datetime_utc": "2025-09-12T21:14:37.076Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-minecraft-core-engine-redmond"
+    "id": "microsoft-senior-software-engineer-minecraft-redmond"
   },
   {
-    "job_title": "Software Engineer: Fullstack Intern Opportunities for University Students, Mountain View",
+    "job_title": "Senior Data Engineer - Xbox",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877399",
-    "job_posted_at_datetime_utc": "2025-09-12T20:16:05.795Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875894",
+    "job_posted_at_datetime_utc": "2025-09-12T21:14:37.076Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-fullstack-intern-opportunities-for-university-students-mountain-view-redmond"
+    "id": "microsoft-senior-data-engineer-xbox-redmond"
   }
 ]

@@ -1,46 +1,24 @@
 [
   {
-    "job_title": "Senior Software Engineer, Backend Python",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827879",
-    "job_posted_at_datetime_utc": "2025-09-13T01:42:50.014Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-senior-software-engineer-backend-python-san-jose"
-  },
-  {
-    "job_title": "Software Engineer, Backend Python",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827889",
-    "job_posted_at_datetime_utc": "2025-09-13T01:42:50.014Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-software-engineer-backend-python-san-jose"
-  },
-  {
-    "job_title": "Staff Software Engineer, Backend Java",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827894",
-    "job_posted_at_datetime_utc": "2025-09-13T01:42:50.014Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-staff-software-engineer-backend-java-san-jose"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "Strive Health",
-    "job_city": "United States",
+    "job_title": "Software Engineer I - Fullstack - Trail Data",
+    "employer_name": "AllTrails",
+    "job_city": "Remote in USA",
     "job_state": "Locations",
-    "job_description": "Join Strive Health in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/strivehealth/jobs/4601284006",
-    "job_posted_at_datetime_utc": "2025-09-13T00:35:15.000Z",
+    "job_description": "Join AllTrails in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/alltrails/eedd7a84-9fa6-4653-9ea6-1475ed813568/apply",
+    "job_posted_at_datetime_utc": "2025-09-13T02:04:11.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "strive-health-software-engineer-i-united-states"
+    "id": "alltrails-software-engineer-i-fullstack-trail-data-remote-in-usa"
+  },
+  {
+    "job_title": "Embedded Linux Software Engineer I",
+    "employer_name": "RTX",
+    "job_city": "Cedar Rapids",
+    "job_state": "IA",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Linux-Software-Engineer-I--Onsite-_01793223",
+    "job_posted_at_datetime_utc": "2025-09-13T01:50:53.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-embedded-linux-software-engineer-i-cedar-rapids"
   }
 ]

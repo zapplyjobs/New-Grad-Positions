@@ -1,57 +1,46 @@
 [
   {
-    "job_title": "Software Development Engineer, Chronicle",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3022233/software-development-engineer-chronicle",
-    "job_posted_at": "2025-09-12T23:30:26.575Z",
-    "job_posted_at_datetime_utc": "2025-09-12T23:30:26.575Z",
-    "id": "amazon-software-development-engineer-chronicle-seattle"
-  },
-  {
-    "job_title": "Senior AI Server Engineer - BigBox",
-    "employer_name": "Meta",
-    "job_city": "Seattle",
-    "job_state": "WA +1 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/24959011653690929",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-senior-ai-server-engineer-bigbox-seattle"
-  },
-  {
-    "job_title": "Product Manager - Devices",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +3 locations",
-    "job_description": "Product Management",
-    "job_apply_link": "https://www.metacareers.com/jobs/1106888494928857",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-manager-devices-sunnyvale"
-  },
-  {
-    "job_title": "Backend Engineer, Internal Systems",
-    "employer_name": "Stripe",
-    "job_city": "Seattle",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7009186",
-    "job_posted_at_datetime_utc": "2025-09-13T00:13:06.000Z",
+    "job_title": "Senior Software Engineer, Backend Python",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827879",
+    "job_posted_at_datetime_utc": "2025-09-13T01:42:50.014Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-backend-engineer-internal-systems-seattle"
+    "id": "paypal-senior-software-engineer-backend-python-san-jose"
   },
   {
-    "job_title": "Software Engineer – New Grad",
-    "employer_name": "Alphataraxia",
-    "job_city": "Washington",
-    "job_state": "DC",
-    "job_description": "Join Alphataraxia in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/alphataraxia/jobs/4875669007",
-    "job_posted_at_datetime_utc": "2025-09-12T23:57:30.000Z",
+    "job_title": "Software Engineer, Backend Python",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827889",
+    "job_posted_at_datetime_utc": "2025-09-13T01:42:50.014Z",
     "job_employment_type": "FULLTIME",
-    "id": "alphataraxia-software-engineer-new-grad-washington"
+    "id": "paypal-software-engineer-backend-python-san-jose"
+  },
+  {
+    "job_title": "Staff Software Engineer, Backend Java",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827894",
+    "job_posted_at_datetime_utc": "2025-09-13T01:42:50.014Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-staff-software-engineer-backend-java-san-jose"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "Strive Health",
+    "job_city": "United States",
+    "job_state": "Locations",
+    "job_description": "Join Strive Health in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/strivehealth/jobs/4601284006",
+    "job_posted_at_datetime_utc": "2025-09-13T00:35:15.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "strive-health-software-engineer-i-united-states"
   }
 ]

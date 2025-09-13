@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "job_title": "Product Marketing Manager",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +2 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/717538147891008",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-marketing-manager-menlo-park"
+  },
+  {
+    "job_title": "Robotics ML/CV Research Scientist, Reality Labs Research",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1406407230354776",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-robotics-ml-cv-research-scientist-reality-labs-research-redmond"
+  },
+  {
+    "job_title": "Design Program Manager",
+    "employer_name": "Meta",
+    "job_city": "Los Angeles",
+    "job_state": "CA +4 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/576472495434233",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-design-program-manager-los-angeles"
+  },
+  {
+    "job_title": "Product Lifecycle Management Analyst",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/760431053409932",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-lifecycle-management-analyst-menlo-park"
+  }
+]

@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Associate Software Software Engineer",
+    "employer_name": "Red Hat",
+    "job_city": "Durham",
+    "job_state": "NC",
+    "job_description": "Join Red Hat in this exciting opportunity.",
+    "job_apply_link": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Durham/Associate-Software-Software-Engineer_R-050446-1",
+    "job_posted_at_datetime_utc": "2025-09-15T09:39:08.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "red-hat-associate-software-software-engineer-durham"
+  },
+  {
+    "job_title": "Associate Full Stack Developer",
+    "employer_name": "TMHCC",
+    "job_city": "Kennesaw",
+    "job_state": "GA",
+    "job_description": "Join TMHCC in this exciting opportunity.",
+    "job_apply_link": "https://tmhcc.wd1.myworkdayjobs.com/en-US/external/job/Georgia---Kennesaw/Associate-Full-Stack-Developer_2025-807",
+    "job_posted_at_datetime_utc": "2025-09-15T09:35:47.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "tmhcc-associate-full-stack-developer-kennesaw"
+  },
+  {
+    "job_title": "Software Engineer 1 - Aviation Web Development",
+    "employer_name": "Garmin",
+    "job_city": "Chandler",
+    "job_state": "AZ",
+    "job_description": "Join Garmin in this exciting opportunity.",
+    "job_apply_link": "https://careers.garmin.com/jobs/16774",
+    "job_posted_at_datetime_utc": "2025-09-15T09:27:39.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "garmin-software-engineer-1-aviation-web-development-chandler"
+  }
+]

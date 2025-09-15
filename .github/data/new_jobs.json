@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "ASIC Engineer, Frontend Implementation RDC/CDC",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1831588920900340",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-asic-engineer-frontend-implementation-rdc-cdc-multiple"
+  },
+  {
+    "job_title": "Cloud Solution Architect – Software, Developer Tools & AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872848",
+    "job_posted_at_datetime_utc": "2025-09-15T14:16:48.321Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-solution-architect-software-developer-tools-ai-redmond"
+  }
+]

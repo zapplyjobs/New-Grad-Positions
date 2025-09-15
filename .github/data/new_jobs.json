@@ -1,35 +1,57 @@
 [
   {
-    "job_title": "Software Engineer, Prime Video",
+    "job_title": "Software Dev Eng (Embedded System)",
     "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
+    "job_city": "Los Gatos",
+    "job_state": "CA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3083247/software-engineer-prime-video",
-    "job_posted_at": "2025-09-15T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-15T00:00:00.000Z",
-    "id": "amazon-software-engineer-prime-video-arlington"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2871323/software-dev-eng-embedded-system",
+    "job_posted_at": "2025-09-15T17:12:34.478Z",
+    "job_posted_at_datetime_utc": "2025-09-15T17:12:34.478Z",
+    "id": "amazon-software-dev-eng-embedded-system-los-gatos"
   },
   {
-    "job_title": "Software Development Engineer, PXT CS",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3083223/software-development-engineer-pxt-cs",
-    "job_posted_at": "2025-09-15T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-15T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-pxt-cs-seattle"
+    "job_title": "Network Engineering Manager",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Network Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/973025458305447",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-network-engineering-manager-menlo-park"
   },
   {
-    "job_title": "Software Engineer II (Outlook Copilot Service)",
+    "job_title": "Research Scientist Intern, Egocentric Vision-Language Models (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "AI Research +4 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1862148277992834",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-egocentric-vision-language-models-phd-sunnyvale"
+  },
+  {
+    "job_title": "Failure Analysis Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1147844603905759",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-failure-analysis-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Senior Machine Learning Engineer – Action Models and Generative AI – Microsoft Research AI Frontiers",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862379",
-    "job_posted_at_datetime_utc": "2025-09-15T17:14:57.588Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877898",
+    "job_posted_at_datetime_utc": "2025-09-15T18:19:31.970Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-outlook-copilot-service-redmond"
+    "id": "microsoft-senior-machine-learning-engineer-action-models-and-generative-ai-microsoft-research-ai-frontiers-redmond"
   }
 ]

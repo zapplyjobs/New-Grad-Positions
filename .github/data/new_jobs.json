@@ -1,24 +1,23 @@
 [
   {
-    "job_title": "Software Development Engineer, Amazon FSx",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3083425/software-development-engineer-amazon-fsx",
-    "job_posted_at": "2025-09-15T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-15T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-amazon-fsx-redmond"
+    "job_title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Sausalito",
+    "job_state": "CA +2 locations",
+    "job_description": "AI Research +5 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/2022109075207025",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-photorealistic-telepresence-phd-sausalito"
   },
   {
-    "job_title": "Digital Solution Engineer - Copilot - Dutch Speaker",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872198",
-    "job_posted_at_datetime_utc": "2025-09-15T20:16:24.892Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-copilot-dutch-speaker-redmond"
+    "employer_name": "Google",
+    "job_title": "Program Manager I",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Program Manager I, Domains, Core",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/134478167120192198-program-manager-i-domains-core?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=7",
+    "id": "google-program-manager-i-new-york"
   }
 ]

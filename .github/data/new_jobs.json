@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Digital Solution Engineer-AI Biz Sol-F&SC",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875482",
+    "job_posted_at_datetime_utc": "2025-09-15T04:17:10.202Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-digital-solution-engineer-ai-biz-sol-f-sc-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Azure Storage Scenario Validation",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874504",
+    "job_posted_at_datetime_utc": "2025-09-15T04:17:10.202Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-azure-storage-scenario-validation-redmond"
+  }
+]

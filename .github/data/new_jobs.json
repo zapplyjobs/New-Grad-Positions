@@ -1,24 +1,46 @@
 [
   {
-    "job_title": "ASIC Engineer, Frontend Implementation RDC/CDC",
+    "job_title": "Software Development Engineer, Playback Team",
+    "employer_name": "Amazon",
+    "job_city": "Newark",
+    "job_state": "NJ",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3083065/software-development-engineer-playback-team",
+    "job_posted_at": "2025-09-15T14:10:07.323Z",
+    "job_posted_at_datetime_utc": "2025-09-15T14:10:07.323Z",
+    "id": "amazon-software-development-engineer-playback-team-newark"
+  },
+  {
+    "job_title": "Research Intern, Video & Image Generation (PhD)",
     "employer_name": "Meta",
     "job_city": "Multiple",
     "job_state": "Locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1831588920900340",
+    "job_apply_link": "https://www.metacareers.com/jobs/4110055762591641",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-asic-engineer-frontend-implementation-rdc-cdc-multiple"
+    "id": "meta-research-intern-video-image-generation-phd-multiple"
   },
   {
-    "job_title": "Cloud Solution Architect – Software, Developer Tools & AI",
-    "employer_name": "Microsoft",
+    "job_title": "Electrical Engineering Manager, Research",
+    "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872848",
-    "job_posted_at_datetime_utc": "2025-09-15T14:16:48.321Z",
+    "job_description": "Engineering +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/655650437158278",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-electrical-engineering-manager-research-redmond"
+  },
+  {
+    "job_title": "Staff Software Engineer",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915830827",
+    "job_posted_at_datetime_utc": "2025-09-15T15:17:07.559Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-solution-architect-software-developer-tools-ai-redmond"
+    "id": "paypal-staff-software-engineer-san-jose"
   }
 ]

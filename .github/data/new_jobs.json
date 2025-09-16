@@ -1,46 +1,24 @@
 [
   {
-    "job_title": "Senior Compiler Engineer",
+    "job_title": "Senior AI Business Solution Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878007",
-    "job_posted_at_datetime_utc": "2025-09-16T13:22:51.426Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877795",
+    "job_posted_at_datetime_utc": "2025-09-16T14:16:46.634Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-compiler-engineer-redmond"
+    "id": "microsoft-senior-ai-business-solution-engineer-redmond"
   },
   {
-    "job_title": "Network Engineer - CTJ - Poly",
+    "job_title": "Solution Engineering Manager Cloud & AI Platforms",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876785",
-    "job_posted_at_datetime_utc": "2025-09-16T13:22:51.426Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877798",
+    "job_posted_at_datetime_utc": "2025-09-16T14:16:46.634Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-network-engineer-ctj-poly-redmond"
-  },
-  {
-    "job_title": "Digital Solution Engineer - AI Business Solutions",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877230",
-    "job_posted_at_datetime_utc": "2025-09-16T13:22:51.426Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-ai-business-solutions-redmond"
-  },
-  {
-    "job_title": "Digital Solution Engineer - D365 Finance & Supply Chain",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877059",
-    "job_posted_at_datetime_utc": "2025-09-16T13:22:51.426Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-d365-finance-supply-chain-redmond"
+    "id": "microsoft-solution-engineering-manager-cloud-ai-platforms-redmond"
   }
 ]

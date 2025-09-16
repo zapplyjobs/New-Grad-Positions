@@ -1,12 +1,46 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Quantitative UX Researcher",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Quantitative UX Researcher, Retail Ads Consumer",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129548506737058502-quantitative-ux-researcher-retail-ads-consumer?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=6",
-    "id": "google-quantitative-ux-researcher-new-york"
+    "job_title": "Senior Software Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877915",
+    "job_posted_at_datetime_utc": "2025-09-16T00:39:02.338Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineering-redmond"
+  },
+  {
+    "job_title": "Raytheon Software Engineer I - Test Equipment",
+    "employer_name": "RTX",
+    "job_city": "Tucson",
+    "job_state": "AZ",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
+    "job_posted_at_datetime_utc": "2025-09-16T00:24:31.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-raytheon-software-engineer-i-test-equipment-tucson"
+  },
+  {
+    "job_title": "Software Engineer – New Grad",
+    "employer_name": "Eventual",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Eventual in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application",
+    "job_posted_at_datetime_utc": "2025-09-16T00:03:47.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "eventual-software-engineer-new-grad-sf"
+  },
+  {
+    "job_title": "Software Engineer – New Graduate",
+    "employer_name": "Duolingo",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_description": "Join Duolingo in this exciting opportunity.",
+    "job_apply_link": "https://careers.duolingo.com/jobs/8155283002?gh_jid=8155283002",
+    "job_posted_at_datetime_utc": "2025-09-16T00:02:31.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "duolingo-software-engineer-new-graduate-pittsburgh"
   }
 ]

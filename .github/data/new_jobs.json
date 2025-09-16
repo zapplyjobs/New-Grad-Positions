@@ -1,23 +1,57 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Connected TV Inventory and Campaign Specialist",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Connected TV Inventory and Campaign Specialist, Global Partnerships",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/127584847689327302-connected-tv-inventory-and-campaign-specialist-global-partnerships?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-connected-tv-inventory-and-campaign-specialist-new-york"
+    "job_title": "Software Development Engineer , WWGST Checkout Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3084555/software-development-engineer-wwgst-checkout-engineering",
+    "job_posted_at": "2025-09-16T17:12:44.869Z",
+    "job_posted_at_datetime_utc": "2025-09-16T17:12:44.869Z",
+    "id": "amazon-software-development-engineer-wwgst-checkout-engineering-austin"
   },
   {
-    "job_title": "Product Designer, Developer Platform & Extensibility",
-    "employer_name": "Stripe",
-    "job_city": "Canada",
+    "job_title": "Software Dev Engineer II - AMZ26535.1",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design.",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3061107/software-dev-engineer-ii-amz26535-1",
+    "job_posted_at": "2025-09-16T16:12:44.869Z",
+    "job_posted_at_datetime_utc": "2025-09-16T16:12:44.869Z",
+    "id": "amazon-software-dev-engineer-ii-amz26535-1-arlington"
+  },
+  {
+    "job_title": "Camera Systems Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7248532",
-    "job_posted_at_datetime_utc": "2025-09-16T17:01:27.000Z",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1548784896289300",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-camera-systems-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Performance & Capacity Engineer - Planning Optimization",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +3 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/737243229303616",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-performance-capacity-engineer-planning-optimization-bellevue"
+  },
+  {
+    "job_title": "Principal Sourcing Engineering Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876525",
+    "job_posted_at_datetime_utc": "2025-09-16T18:19:30.839Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-product-designer-developer-platform-extensibility-canada"
+    "id": "microsoft-principal-sourcing-engineering-manager-redmond"
   }
 ]

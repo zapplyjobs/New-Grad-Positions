@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer, Cross Domain Security, Services, & Engineering - BlackMirror",
+    "job_title": "Software Development Engineer, AGI Information",
     "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
+    "job_city": "El Segundo",
+    "job_state": "CA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3085562/software-development-engineer-cross-domain-security-services-engineering-blackmirror",
-    "job_posted_at": "2025-09-16T17:08:06.252Z",
-    "job_posted_at_datetime_utc": "2025-09-16T17:08:06.252Z",
-    "id": "amazon-software-development-engineer-cross-domain-security-services-engineering-blackmirror-arlington"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3085832/software-development-engineer-agi-information",
+    "job_posted_at": "2025-09-16T19:09:28.363Z",
+    "job_posted_at_datetime_utc": "2025-09-16T19:09:28.363Z",
+    "id": "amazon-software-development-engineer-agi-information-el-segundo"
   },
   {
-    "job_title": "Senior Software Engineer - M365 Copilot App",
+    "job_title": "Digital Cloud & AI Solution Engineer – Azure Platform",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876570",
-    "job_posted_at_datetime_utc": "2025-09-16T19:14:50.328Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871157",
+    "job_posted_at_datetime_utc": "2025-09-16T20:16:07.842Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-m365-copilot-app-redmond"
+    "id": "microsoft-digital-cloud-ai-solution-engineer-azure-platform-redmond"
   }
 ]

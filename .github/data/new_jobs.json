@@ -1,46 +1,24 @@
 [
   {
-    "job_title": "Solution Engineer, Power Platform",
-    "employer_name": "Microsoft",
+    "job_title": "Research Scientist Intern, Advanced Materials for Flexible Electronics (PhD)",
+    "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877697",
-    "job_posted_at_datetime_utc": "2025-09-16T01:43:09.407Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-power-platform-redmond"
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1469759854303881",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-advanced-materials-for-flexible-electronics-phd-redmond"
   },
   {
-    "job_title": "2025 Raytheon Systems Security Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Tucson",
-    "job_state": "AZ",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2025-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01792265",
-    "job_posted_at_datetime_utc": "2025-09-16T01:17:22.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-2025-raytheon-systems-security-engineer-i-tucson"
-  },
-  {
-    "job_title": "Software Engineer I - Raytheon",
-    "employer_name": "RTX",
-    "job_city": "Tucson",
-    "job_state": "AZ",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
-    "job_posted_at_datetime_utc": "2025-09-16T00:45:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-raytheon-tucson"
-  },
-  {
-    "job_title": "Senior Software Engineer, Backend - Institutional Product Group",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/5948819?gh_jid=5948819",
-    "job_posted_at_datetime_utc": "2025-09-16T00:43:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-backend-institutional-product-group-remote-usa"
+    "job_title": "Research Scientist Intern, Textile Actuators for Soft Robotics (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "AI Research +6 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1301044061487395",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-textile-actuators-for-soft-robotics-phd-redmond"
   }
 ]

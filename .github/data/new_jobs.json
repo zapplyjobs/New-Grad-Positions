@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Senior Development Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857051",
+    "job_posted_at_datetime_utc": "2025-09-16T16:16:48.954Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-development-engineer-redmond"
+  },
+  {
+    "job_title": "Sr. Solutions Engineer",
+    "employer_name": "Databricks",
+    "job_city": "Southeast - United States",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8160889002",
+    "job_posted_at_datetime_utc": "2025-09-16T15:54:31.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-solutions-engineer-southeast-united-states"
+  }
+]

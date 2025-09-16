@@ -1,57 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer , WWGST Checkout Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3084555/software-development-engineer-wwgst-checkout-engineering",
-    "job_posted_at": "2025-09-16T17:12:44.869Z",
-    "job_posted_at_datetime_utc": "2025-09-16T17:12:44.869Z",
-    "id": "amazon-software-development-engineer-wwgst-checkout-engineering-austin"
-  },
-  {
-    "job_title": "Software Dev Engineer II - AMZ26535.1",
+    "job_title": "Software Development Engineer, Cross Domain Security, Services, & Engineering - BlackMirror",
     "employer_name": "Amazon",
     "job_city": "Arlington",
     "job_state": "VA",
-    "job_description": "Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design.",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3061107/software-dev-engineer-ii-amz26535-1",
-    "job_posted_at": "2025-09-16T16:12:44.869Z",
-    "job_posted_at_datetime_utc": "2025-09-16T16:12:44.869Z",
-    "id": "amazon-software-dev-engineer-ii-amz26535-1-arlington"
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3085562/software-development-engineer-cross-domain-security-services-engineering-blackmirror",
+    "job_posted_at": "2025-09-16T17:08:06.252Z",
+    "job_posted_at_datetime_utc": "2025-09-16T17:08:06.252Z",
+    "id": "amazon-software-development-engineer-cross-domain-security-services-engineering-blackmirror-arlington"
   },
   {
-    "job_title": "Camera Systems Engineer",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1548784896289300",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-camera-systems-engineer-sunnyvale"
-  },
-  {
-    "job_title": "Performance & Capacity Engineer - Planning Optimization",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +3 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/737243229303616",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-performance-capacity-engineer-planning-optimization-bellevue"
-  },
-  {
-    "job_title": "Principal Sourcing Engineering Manager",
+    "job_title": "Senior Software Engineer - M365 Copilot App",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876525",
-    "job_posted_at_datetime_utc": "2025-09-16T18:19:30.839Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876570",
+    "job_posted_at_datetime_utc": "2025-09-16T19:14:50.328Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-sourcing-engineering-manager-redmond"
+    "id": "microsoft-senior-software-engineer-m365-copilot-app-redmond"
   }
 ]

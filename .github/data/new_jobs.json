@@ -1,46 +1,46 @@
 [
   {
-    "job_title": "Senior Software Engineering",
+    "job_title": "Solution Engineer, Power Platform",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877915",
-    "job_posted_at_datetime_utc": "2025-09-16T00:39:02.338Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877697",
+    "job_posted_at_datetime_utc": "2025-09-16T01:43:09.407Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineering-redmond"
+    "id": "microsoft-solution-engineer-power-platform-redmond"
   },
   {
-    "job_title": "Raytheon Software Engineer I - Test Equipment",
+    "job_title": "2025 Raytheon Systems Security Engineer I",
     "employer_name": "RTX",
     "job_city": "Tucson",
     "job_state": "AZ",
     "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
-    "job_posted_at_datetime_utc": "2025-09-16T00:24:31.000Z",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2025-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01792265",
+    "job_posted_at_datetime_utc": "2025-09-16T01:17:22.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-raytheon-software-engineer-i-test-equipment-tucson"
+    "id": "rtx-2025-raytheon-systems-security-engineer-i-tucson"
   },
   {
-    "job_title": "Software Engineer – New Grad",
-    "employer_name": "Eventual",
-    "job_city": "SF",
-    "job_state": "Locations",
-    "job_description": "Join Eventual in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application",
-    "job_posted_at_datetime_utc": "2025-09-16T00:03:47.000Z",
+    "job_title": "Software Engineer I - Raytheon",
+    "employer_name": "RTX",
+    "job_city": "Tucson",
+    "job_state": "AZ",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
+    "job_posted_at_datetime_utc": "2025-09-16T00:45:20.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "eventual-software-engineer-new-grad-sf"
+    "id": "rtx-software-engineer-i-raytheon-tucson"
   },
   {
-    "job_title": "Software Engineer – New Graduate",
-    "employer_name": "Duolingo",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_description": "Join Duolingo in this exciting opportunity.",
-    "job_apply_link": "https://careers.duolingo.com/jobs/8155283002?gh_jid=8155283002",
-    "job_posted_at_datetime_utc": "2025-09-16T00:02:31.000Z",
+    "job_title": "Senior Software Engineer, Backend - Institutional Product Group",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/5948819?gh_jid=5948819",
+    "job_posted_at_datetime_utc": "2025-09-16T00:43:20.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "duolingo-software-engineer-new-graduate-pittsburgh"
+    "id": "coinbase-senior-software-engineer-backend-institutional-product-group-remote-usa"
   }
 ]

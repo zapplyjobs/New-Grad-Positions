@@ -1,79 +1,35 @@
 [
   {
-    "job_title": "Associate Software Engineer",
-    "employer_name": "Hireology",
-    "job_city": "Remote in USA",
-    "job_state": "Locations",
-    "job_description": "Join Hireology in this exciting opportunity.",
-    "job_apply_link": "https://careers.hireology.com/hireology2/2521103/description",
-    "job_posted_at_datetime_utc": "2025-09-16T09:16:32.000Z",
+    "job_title": "Group Engineering Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877938",
+    "job_posted_at_datetime_utc": "2025-09-16T10:16:08.164Z",
     "job_employment_type": "FULLTIME",
-    "id": "hireology-associate-software-engineer-remote-in-usa"
+    "id": "microsoft-group-engineering-manager-redmond"
   },
   {
     "job_title": "Software Engineer",
     "employer_name": "Lucid Software",
-    "job_city": "Raleigh",
-    "job_state": "NC",
+    "job_city": "Salt Lake City",
+    "job_state": "UT",
     "job_description": "Join Lucid Software in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585768004",
-    "job_posted_at_datetime_utc": "2025-09-16T09:14:45.000Z",
+    "job_apply_link": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585759004",
+    "job_posted_at_datetime_utc": "2025-09-16T09:24:22.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "lucid-software-software-engineer-raleigh"
+    "id": "lucid-software-software-engineer-salt-lake-city"
   },
   {
-    "job_title": "Analyst, Data & Software Engineering",
-    "employer_name": "Ovative Group",
-    "job_city": "Minneapolis",
-    "job_state": "MN",
-    "job_description": "Join Ovative Group in this exciting opportunity.",
-    "job_apply_link": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---October-2025-Start-Date_JR100105",
-    "job_posted_at_datetime_utc": "2025-09-16T09:05:45.000Z",
+    "job_title": "Engineering Assistant I – Software",
+    "employer_name": "BAE Systems",
+    "job_city": "Dayton",
+    "job_state": "OH",
+    "job_description": "Join BAE Systems in this exciting opportunity.",
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/BAE1US115922BREXTERNAL/Engineering-Assistant-I-Software-Part-Time",
+    "job_posted_at_datetime_utc": "2025-09-16T09:19:57.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "ovative-group-analyst-data-software-engineering-minneapolis"
-  },
-  {
-    "job_title": "Software Engineer",
-    "employer_name": "Anima",
-    "job_city": "Remote in USA",
-    "job_state": "Locations",
-    "job_description": "Join Anima in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/Anima/a6b86f92-0679-423b-b575-a23f8677dfd1",
-    "job_posted_at_datetime_utc": "2025-09-16T08:44:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "anima-software-engineer-remote-in-usa"
-  },
-  {
-    "job_title": "Associate Software Engineer",
-    "employer_name": "NAVEX",
-    "job_city": "Hybrid Lake Oswego",
-    "job_state": "OR",
-    "job_description": "Join NAVEX in this exciting opportunity.",
-    "job_apply_link": "https://navexglobal.wd5.myworkdayjobs.com/navex/job/Hybrid-Lake-Oswego-OR/Associate-Software-Engineer_R6157",
-    "job_posted_at_datetime_utc": "2025-09-16T08:40:42.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "navex-associate-software-engineer-hybrid-lake-oswego"
-  },
-  {
-    "job_title": "Associate Software Engineer",
-    "employer_name": "Light & Wonder",
-    "job_city": "Reno",
-    "job_state": "NV",
-    "job_description": "Join Light & Wonder in this exciting opportunity.",
-    "job_apply_link": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511",
-    "job_posted_at_datetime_utc": "2025-09-16T08:38:48.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "light-wonder-associate-software-engineer-reno"
-  },
-  {
-    "job_title": "Associate Software Engineer",
-    "employer_name": "CoStar",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_description": "Join CoStar in this exciting opportunity.",
-    "job_apply_link": "https://costar.wd1.myworkdayjobs.com/costar_campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014",
-    "job_posted_at_datetime_utc": "2025-09-16T08:37:22.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "costar-associate-software-engineer-san-diego"
+    "id": "bae-systems-engineering-assistant-i-software-dayton"
   }
 ]

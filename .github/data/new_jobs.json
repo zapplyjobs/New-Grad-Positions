@@ -1,35 +1,46 @@
 [
   {
-    "job_title": "Software Development Engineer",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
+    "job_title": "Software Engineer I",
+    "employer_name": "RTX",
+    "job_city": "San Jose",
     "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3086754/software-development-engineer",
-    "job_posted_at": "2025-09-17T20:07:34.057Z",
-    "job_posted_at_datetime_utc": "2025-09-17T20:07:34.057Z",
-    "id": "amazon-software-development-engineer-cupertino"
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01791041",
+    "job_posted_at_datetime_utc": "2025-09-17T21:20:36.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-software-engineer-i-san-jose"
   },
   {
-    "job_title": "Senior Software Engineer, Audio/Video Client",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
+    "job_title": "Semiconductor Display Product Test Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/7966411002",
-    "job_posted_at_datetime_utc": "2025-09-17T20:44:24.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-senior-software-engineer-audio-video-client-san-francisco-bay-area"
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1839401506655946",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-semiconductor-display-product-test-engineer-sunnyvale"
   },
   {
-    "job_title": "Software Engineer L7 - Enterprise Solutions",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311994058",
-    "job_posted_at_datetime_utc": "2025-09-15T00:00:00.000Z",
+    "job_title": "Applied AI Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876010",
+    "job_posted_at_datetime_utc": "2025-09-17T22:15:14.357Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-software-engineer-l7-enterprise-solutions-usa-remote"
+    "id": "microsoft-applied-ai-engineer-ii-redmond"
+  },
+  {
+    "job_title": "Senior Machine Learning Engineer (Multiple Positions)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876528",
+    "job_posted_at_datetime_utc": "2025-09-17T22:15:14.357Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-machine-learning-engineer-multiple-positions-redmond"
   }
 ]

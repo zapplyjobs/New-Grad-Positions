@@ -1,57 +1,68 @@
 [
   {
-    "job_title": "Embedded Software Engineer, eero",
-    "employer_name": "Amazon",
-    "job_city": "Boise",
-    "job_state": "ID",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3086684/embedded-software-engineer-eero",
-    "job_posted_at": "2025-09-17T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-17T00:00:00.000Z",
-    "id": "amazon-embedded-software-engineer-eero-boise"
-  },
-  {
-    "job_title": "Product Analyst, Product Quality and Experience",
-    "employer_name": "Meta",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1102181618337533",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-analyst-product-quality-and-experience-san-francisco"
-  },
-  {
-    "job_title": "Software Engineer Intern, Systems & Infrastructure (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
+    "job_title": "Service Engineer II - CTJ - Poly",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2264036150724937",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-intern-systems-infrastructure-phd-bellevue"
-  },
-  {
-    "job_title": "Research Scientist, Machine Learning (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +5 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1693450804688168",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-machine-learning-phd-bellevue"
-  },
-  {
-    "job_title": "Autonomous Vehicle Safety & Compliance Engineer",
-    "employer_name": "Lyft",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8155142002?gh_jid=8155142002",
-    "job_posted_at_datetime_utc": "2025-09-17T18:48:10.000Z",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878041",
+    "job_posted_at_datetime_utc": "2025-09-17T20:16:13.860Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-autonomous-vehicle-safety-compliance-engineer-new-york"
+    "id": "microsoft-service-engineer-ii-ctj-poly-redmond"
+  },
+  {
+    "job_title": "Cloud Network Engineering IC3",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879756",
+    "job_posted_at_datetime_utc": "2025-09-17T20:16:13.860Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-network-engineering-ic3-redmond"
+  },
+  {
+    "job_title": "Principal Logic Design Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879163",
+    "job_posted_at_datetime_utc": "2025-09-17T20:16:13.860Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-logic-design-engineer-redmond"
+  },
+  {
+    "job_title": "Principal Software Engineering Manager - CTJ - Top Secret",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879591",
+    "job_posted_at_datetime_utc": "2025-09-17T20:16:13.860Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineering-manager-ctj-top-secret-redmond"
+  },
+  {
+    "job_title": "Senior Incident Response Engineer-CIRT",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852677",
+    "job_posted_at_datetime_utc": "2025-09-17T20:16:13.860Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-incident-response-engineer-cirt-redmond"
+  },
+  {
+    "job_title": "Manager, Software Engineering - Community",
+    "employer_name": "Figma",
+    "job_city": "San Francisco",
+    "job_state": "CA • New York",
+    "job_description": "Join Figma to make design accessible to all.",
+    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5648358004?gh_jid=5648358004",
+    "job_posted_at_datetime_utc": "2025-09-17T20:00:48.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "figma-manager-software-engineering-community-san-francisco"
   }
 ]

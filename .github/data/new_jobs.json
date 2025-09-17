@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Offensive Security Engineer",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Offensive Security Engineer, Google Public Sector",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/73743116191834822-senior-offensive-security-engineer-google-public-sector?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=5",
+    "id": "google-senior-offensive-security-engineer-reston"
+  },
+  {
+    "job_title": "Digital Solution Engineer—Cloud & AI Apps",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877875",
+    "job_posted_at_datetime_utc": "2025-09-17T08:18:13.848Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-digital-solution-engineer-cloud-ai-apps-redmond"
+  }
+]

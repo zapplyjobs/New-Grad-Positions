@@ -1,35 +1,57 @@
 [
   {
-    "job_title": "Data Solution Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1834283",
-    "job_posted_at_datetime_utc": "2025-09-17T09:16:27.683Z",
+    "job_title": "Sentinel Gatekeeper Associate Software Engineer/Software Engineer",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Roy",
+    "job_state": "UT",
+    "job_description": "Join Northrop Grumman in this exciting opportunity.",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Gatekeeper-Associate-Software-Engineer-Software-Engineer----15039-_R10207436",
+    "job_posted_at_datetime_utc": "2025-09-17T10:10:56.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-data-solution-engineer-redmond"
+    "id": "northrop-grumman-sentinel-gatekeeper-associate-software-engineer-software-engineer-roy"
   },
   {
-    "job_title": "Software Engineer II, Microsoft Entra",
+    "job_title": "Technical Support Engineer (Microsoft Teams, Microsoft Copilot, Skype for Business)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876153",
-    "job_posted_at_datetime_utc": "2025-09-17T09:16:27.683Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876902",
+    "job_posted_at_datetime_utc": "2025-09-17T10:16:15.150Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-microsoft-entra-redmond"
+    "id": "microsoft-technical-support-engineer-microsoft-teams-microsoft-copilot-skype-for-business-redmond"
   },
   {
-    "job_title": "Cloud & AI Solution Engineer – Data",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879336",
-    "job_posted_at_datetime_utc": "2025-09-17T09:16:27.683Z",
+    "job_title": "Security Software Engineer",
+    "employer_name": "Verkada",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_description": "Join Verkada in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/4872797007",
+    "job_posted_at_datetime_utc": "2025-09-17T10:09:08.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-data-redmond"
+    "id": "verkada-security-software-engineer-san-mateo"
+  },
+  {
+    "job_title": "AI Research Engineer",
+    "employer_name": "Duolingo",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Duolingo in this exciting opportunity.",
+    "job_apply_link": "https://careers.duolingo.com/jobs/8169815002",
+    "job_posted_at_datetime_utc": "2025-09-17T10:08:03.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "duolingo-ai-research-engineer-new-york"
+  },
+  {
+    "job_title": "AI Research Engineer",
+    "employer_name": "Duolingo",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_description": "Join Duolingo in this exciting opportunity.",
+    "job_apply_link": "https://careers.duolingo.com/jobs/8151163002",
+    "job_posted_at_datetime_utc": "2025-09-17T10:07:29.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "duolingo-ai-research-engineer-pittsburgh"
   }
 ]

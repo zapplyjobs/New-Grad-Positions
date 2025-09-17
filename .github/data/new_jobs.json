@@ -1,68 +1,35 @@
 [
   {
-    "job_title": "Software Engineer Intern",
+    "job_title": "Software Engineering Manager, Computer Vision and Machine Learning",
     "employer_name": "Meta",
     "job_city": "Multiple",
     "job_state": "Locations",
-    "job_description": "Internship - Engineering, Tech & Design",
-    "job_apply_link": "https://www.metacareers.com/jobs/1177716950861965",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/719778597261484",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-intern-multiple"
+    "id": "meta-software-engineering-manager-computer-vision-and-machine-learning-multiple"
   },
   {
-    "job_title": "Sensor Electrical Engineer",
+    "job_title": "Optical 3D Printing Software System Engineering Manager",
     "employer_name": "Meta",
     "job_city": "Sunnyvale",
     "job_state": "CA +1 locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/708800821869155",
+    "job_apply_link": "https://www.metacareers.com/jobs/1045164961012724",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-sensor-electrical-engineer-sunnyvale"
+    "id": "meta-optical-3d-printing-software-system-engineering-manager-sunnyvale"
   },
   {
-    "job_title": "Production Systems Engineer, Fleet Systems",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +1 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/724366743442370",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-production-systems-engineer-fleet-systems-bellevue"
-  },
-  {
-    "job_title": "Embedded Software Engineering Manager",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +3 locations",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/2539669449700644",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-embedded-software-engineering-manager-sunnyvale"
-  },
-  {
-    "job_title": "Security Engineer Investigator, Insider Trust",
-    "employer_name": "Meta",
-    "job_city": "Remote",
-    "job_state": "US",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/756939767126753",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-security-engineer-investigator-insider-trust-remote"
-  },
-  {
-    "job_title": "Firmware Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879058",
-    "job_posted_at_datetime_utc": "2025-09-17T12:21:02.661Z",
+    "job_title": "Sr. Solutions Engineer - Communications, Media, Entertainment and Gaming ",
+    "employer_name": "Databricks",
+    "job_city": "Southeast - United States",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8160889002",
+    "job_posted_at_datetime_utc": "2025-09-17T12:21:21.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-firmware-engineer-redmond"
+    "id": "databricks-sr-solutions-engineer-communications-media-entertainment-and-gaming-southeast-united-states"
   }
 ]

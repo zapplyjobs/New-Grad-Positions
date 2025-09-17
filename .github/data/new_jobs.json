@@ -1,46 +1,33 @@
 [
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "San Jose",
+    "employer_name": "Google",
+    "job_title": "Customer Engineer",
+    "job_city": "San Diego",
     "job_state": "CA",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01791041",
-    "job_posted_at_datetime_utc": "2025-09-17T21:20:36.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-san-jose"
-  },
-  {
-    "job_title": "Semiconductor Display Product Test Engineer",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1839401506655946",
     "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-semiconductor-display-product-test-engineer-sunnyvale"
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Customer Engineer, Data Analytics, HCLS, Google Cloud",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/135298308305232582-customer-engineer-data-analytics-hcls-google-cloud?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=2",
+    "id": "google-customer-engineer-san-diego"
   },
   {
-    "job_title": "Applied AI Engineer II",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876010",
-    "job_posted_at_datetime_utc": "2025-09-17T22:15:14.357Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-applied-ai-engineer-ii-redmond"
+    "employer_name": "Google",
+    "job_title": "Product Marketing Manager",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Marketing Manager, Responsible AI, Consumer Apps Marketing",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/111657798990734022-product-marketing-manager-responsible-ai-consumer-apps-marketing?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=9",
+    "id": "google-product-marketing-manager-new-york"
   },
   {
-    "job_title": "Senior Machine Learning Engineer (Multiple Positions)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876528",
-    "job_posted_at_datetime_utc": "2025-09-17T22:15:14.357Z",
+    "job_title": "Senior Machine Learning Engineer, Infrastructure",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6764143?gh_jid=6764143",
+    "job_posted_at_datetime_utc": "2025-09-17T22:30:06.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-machine-learning-engineer-multiple-positions-redmond"
+    "id": "airbnb-senior-machine-learning-engineer-infrastructure-united-states"
   }
 ]

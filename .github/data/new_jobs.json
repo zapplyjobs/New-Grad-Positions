@@ -1,45 +1,68 @@
 [
   {
-    "job_title": "Software Engineer, Intern/Co-op",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Internship - Engineering, Tech & Design",
+    "job_apply_link": "https://www.metacareers.com/jobs/1177716950861965",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-intern-multiple"
+  },
+  {
+    "job_title": "Sensor Electrical Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/708800821869155",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-sensor-electrical-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Production Systems Engineer, Fleet Systems",
     "employer_name": "Meta",
     "job_city": "Bellevue",
-    "job_state": "WA +3 locations",
-    "job_description": "Internship - Engineering, Tech & Design",
-    "job_apply_link": "https://www.metacareers.com/jobs/1471056164046415",
+    "job_state": "WA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/724366743442370",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-intern-co-op-bellevue"
+    "id": "meta-production-systems-engineer-fleet-systems-bellevue"
   },
   {
-    "job_title": "Software Engineering Manager - GPU AI Systems Co-Design",
+    "job_title": "Embedded Software Engineering Manager",
     "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +3 locations",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/2539669449700644",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-embedded-software-engineering-manager-sunnyvale"
+  },
+  {
+    "job_title": "Security Engineer Investigator, Insider Trust",
+    "employer_name": "Meta",
+    "job_city": "Remote",
+    "job_state": "US",
     "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2188092941624188",
+    "job_apply_link": "https://www.metacareers.com/jobs/756939767126753",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-gpu-ai-systems-co-design-menlo-park"
+    "id": "meta-security-engineer-investigator-insider-trust-remote"
   },
   {
-    "job_title": "Research Scientist Manager - ML Modeling & Applied Research",
-    "employer_name": "Meta",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "AI Research +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1757720828318105",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-manager-ml-modeling-applied-research-new-york"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Research Software Engineer",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Research Software Engineer, Multimodal AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83724482748785350-research-software-engineer-multimodal-ai?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-research-software-engineer-san-jose"
+    "job_title": "Firmware Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879058",
+    "job_posted_at_datetime_utc": "2025-09-17T12:21:02.661Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-firmware-engineer-redmond"
   }
 ]

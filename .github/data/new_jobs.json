@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Product Security Engineer, Intern",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +1 locations",
-    "job_description": "University Grad - Engineering, Tech & Design",
-    "job_apply_link": "https://www.metacareers.com/jobs/1993387314912727",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-security-engineer-intern-menlo-park"
-  },
-  {
-    "job_title": "2026 Raytheon Systems Security Engineer I",
+    "job_title": "Software Engineer I",
     "employer_name": "RTX",
-    "job_city": "Tucson",
-    "job_state": "AZ",
+    "job_city": "Salt Lake City",
+    "job_state": "UT",
     "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331",
-    "job_posted_at_datetime_utc": "2025-09-16T22:53:57.000Z",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT205-1128-W-2400-South-Salt-Lake-C-1128-West-2400-South-AST---Salt-Lake-City-Salt-Lake-City-UT-84119-USA/Software-Engineer-I--Onsite-_01794082",
+    "job_posted_at_datetime_utc": "2025-09-16T23:17:48.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-2026-raytheon-systems-security-engineer-i-tucson"
+    "id": "rtx-software-engineer-i-salt-lake-city"
   },
   {
     "job_title": "Software Engineer I",
-    "employer_name": "O'Reilly Auto Parts",
-    "job_city": "Colorado",
-    "job_state": "Locations",
-    "job_description": "Join O'Reilly Auto Parts in this exciting opportunity.",
-    "job_apply_link": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Remote-Colorado/Software-Engineer-I_R144461",
-    "job_posted_at_datetime_utc": "2025-09-16T22:52:34.000Z",
+    "employer_name": "RTX",
+    "job_city": "Anaheim",
+    "job_state": "CA",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA620-AST160N-Riverview-Anaheim-Hill-160-North-Riverview-Drive-Suite-300-Anaheim-CA-92808-USA/Software-Engineer-I--Onsite-_01793337",
+    "job_posted_at_datetime_utc": "2025-09-16T23:17:33.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "o-reilly-auto-parts-software-engineer-i-colorado"
+    "id": "rtx-software-engineer-i-anaheim"
   }
 ]

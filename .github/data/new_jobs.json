@@ -1,35 +1,12 @@
 [
   {
-    "job_title": "Software Engineering Manager, Computer Vision and Machine Learning",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/719778597261484",
+    "employer_name": "Google",
+    "job_title": "Business Development Manager",
+    "job_city": "Gurugram",
+    "job_state": "Haryana",
     "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-computer-vision-and-machine-learning-multiple"
-  },
-  {
-    "job_title": "Optical 3D Printing Software System Engineering Manager",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +1 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1045164961012724",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-optical-3d-printing-software-system-engineering-manager-sunnyvale"
-  },
-  {
-    "job_title": "Sr. Solutions Engineer - Communications, Media, Entertainment and Gaming ",
-    "employer_name": "Databricks",
-    "job_city": "Southeast - United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8160889002",
-    "job_posted_at_datetime_utc": "2025-09-17T12:21:21.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-solutions-engineer-communications-media-entertainment-and-gaming-southeast-united-states"
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business Development Manager",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115477674184319686-business-development-manager?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
+    "id": "google-business-development-manager-gurugram"
   }
 ]

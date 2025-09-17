@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Senior Software Engineer, Ads (UI/UX Specialist)",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8149391002",
-    "job_posted_at_datetime_utc": "2025-09-17T16:50:36.000Z",
+    "job_title": "Software engineer, new grad",
+    "employer_name": "Watershed",
+    "job_city": "San Francisco",
+    "job_state": "Locations",
+    "job_description": "Join Watershed in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8",
+    "job_posted_at_datetime_utc": "2025-09-17T17:53:49.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "discord-senior-software-engineer-ads-ui-ux-specialist-san-francisco-bay-area"
+    "id": "watershed-software-engineer-new-grad-san-francisco"
+  },
+  {
+    "job_title": "Senior Machine Learning Engineer, AI Experience ",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6764143?gh_jid=6764143",
+    "job_posted_at_datetime_utc": "2025-09-17T17:50:38.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-senior-machine-learning-engineer-ai-experience-united-states"
   }
 ]

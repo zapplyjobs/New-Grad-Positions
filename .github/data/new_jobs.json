@@ -1,57 +1,45 @@
 [
   {
-    "job_title": "Sentinel Gatekeeper Associate Software Engineer/Software Engineer",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Roy",
-    "job_state": "UT",
-    "job_description": "Join Northrop Grumman in this exciting opportunity.",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Gatekeeper-Associate-Software-Engineer-Software-Engineer----15039-_R10207436",
-    "job_posted_at_datetime_utc": "2025-09-17T10:10:56.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "northrop-grumman-sentinel-gatekeeper-associate-software-engineer-software-engineer-roy"
+    "job_title": "Software Engineer, Intern/Co-op",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +3 locations",
+    "job_description": "Internship - Engineering, Tech & Design",
+    "job_apply_link": "https://www.metacareers.com/jobs/1471056164046415",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-intern-co-op-bellevue"
   },
   {
-    "job_title": "Technical Support Engineer (Microsoft Teams, Microsoft Copilot, Skype for Business)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876902",
-    "job_posted_at_datetime_utc": "2025-09-17T10:16:15.150Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-microsoft-teams-microsoft-copilot-skype-for-business-redmond"
-  },
-  {
-    "job_title": "Security Software Engineer",
-    "employer_name": "Verkada",
-    "job_city": "San Mateo",
+    "job_title": "Software Engineering Manager - GPU AI Systems Co-Design",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
     "job_state": "CA",
-    "job_description": "Join Verkada in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/4872797007",
-    "job_posted_at_datetime_utc": "2025-09-17T10:09:08.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "verkada-security-software-engineer-san-mateo"
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2188092941624188",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-manager-gpu-ai-systems-co-design-menlo-park"
   },
   {
-    "job_title": "AI Research Engineer",
-    "employer_name": "Duolingo",
+    "job_title": "Research Scientist Manager - ML Modeling & Applied Research",
+    "employer_name": "Meta",
     "job_city": "New York",
     "job_state": "NY",
-    "job_description": "Join Duolingo in this exciting opportunity.",
-    "job_apply_link": "https://careers.duolingo.com/jobs/8169815002",
-    "job_posted_at_datetime_utc": "2025-09-17T10:08:03.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "duolingo-ai-research-engineer-new-york"
+    "job_description": "AI Research +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1757720828318105",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-manager-ml-modeling-applied-research-new-york"
   },
   {
-    "job_title": "AI Research Engineer",
-    "employer_name": "Duolingo",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_description": "Join Duolingo in this exciting opportunity.",
-    "job_apply_link": "https://careers.duolingo.com/jobs/8151163002",
-    "job_posted_at_datetime_utc": "2025-09-17T10:07:29.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "duolingo-ai-research-engineer-pittsburgh"
+    "employer_name": "Google",
+    "job_title": "Research Software Engineer",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Research Software Engineer, Multimodal AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83724482748785350-research-software-engineer-multimodal-ai?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
+    "id": "google-research-software-engineer-san-jose"
   }
 ]

@@ -1,68 +1,35 @@
 [
   {
-    "job_title": "Service Engineer II - CTJ - Poly",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878041",
-    "job_posted_at_datetime_utc": "2025-09-17T20:16:13.860Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-service-engineer-ii-ctj-poly-redmond"
+    "job_title": "Software Development Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3086754/software-development-engineer",
+    "job_posted_at": "2025-09-17T20:07:34.057Z",
+    "job_posted_at_datetime_utc": "2025-09-17T20:07:34.057Z",
+    "id": "amazon-software-development-engineer-cupertino"
   },
   {
-    "job_title": "Cloud Network Engineering IC3",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879756",
-    "job_posted_at_datetime_utc": "2025-09-17T20:16:13.860Z",
+    "job_title": "Senior Software Engineer, Audio/Video Client",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/7966411002",
+    "job_posted_at_datetime_utc": "2025-09-17T20:44:24.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-network-engineering-ic3-redmond"
+    "id": "discord-senior-software-engineer-audio-video-client-san-francisco-bay-area"
   },
   {
-    "job_title": "Principal Logic Design Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879163",
-    "job_posted_at_datetime_utc": "2025-09-17T20:16:13.860Z",
+    "job_title": "Software Engineer L7 - Enterprise Solutions",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311994058",
+    "job_posted_at_datetime_utc": "2025-09-15T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-logic-design-engineer-redmond"
-  },
-  {
-    "job_title": "Principal Software Engineering Manager - CTJ - Top Secret",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879591",
-    "job_posted_at_datetime_utc": "2025-09-17T20:16:13.860Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineering-manager-ctj-top-secret-redmond"
-  },
-  {
-    "job_title": "Senior Incident Response Engineer-CIRT",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852677",
-    "job_posted_at_datetime_utc": "2025-09-17T20:16:13.860Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-incident-response-engineer-cirt-redmond"
-  },
-  {
-    "job_title": "Manager, Software Engineering - Community",
-    "employer_name": "Figma",
-    "job_city": "San Francisco",
-    "job_state": "CA • New York",
-    "job_description": "Join Figma to make design accessible to all.",
-    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5648358004?gh_jid=5648358004",
-    "job_posted_at_datetime_utc": "2025-09-17T20:00:48.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "figma-manager-software-engineering-community-san-francisco"
+    "id": "netflix-software-engineer-l7-enterprise-solutions-usa-remote"
   }
 ]

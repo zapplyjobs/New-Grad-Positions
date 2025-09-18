@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "UX Researcher, Quantitative",
-    "employer_name": "Meta",
-    "job_city": "Remote",
-    "job_state": "US",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/785443042902505",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-ux-researcher-quantitative-remote"
-  },
-  {
-    "job_title": "Manager, Field Engineering",
-    "employer_name": "Databricks",
-    "job_city": "Northeast - United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7830778002",
-    "job_posted_at_datetime_utc": "2025-09-18T18:12:04.000Z",
+    "job_title": "Software Engineer II – Kernel, Drivers & Optics",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873586",
+    "job_posted_at_datetime_utc": "2025-09-18T19:14:33.324Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-manager-field-engineering-northeast-united-states"
+    "id": "microsoft-software-engineer-ii-kernel-drivers-optics-redmond"
   },
   {
-    "job_title": "Software Engineer, Blockchain Platform (Blockchain Enablement)",
+    "job_title": "Senior Product Designer - Developer Platform",
     "employer_name": "Coinbase",
     "job_city": "Remote - USA",
     "job_state": "CA",
     "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7233872?gh_jid=7233872",
-    "job_posted_at_datetime_utc": "2025-09-18T17:49:52.000Z",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7260895?gh_jid=7260895",
+    "job_posted_at_datetime_utc": "2025-09-18T18:29:54.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-blockchain-platform-blockchain-enablement-remote-usa"
+    "id": "coinbase-senior-product-designer-developer-platform-remote-usa"
   }
 ]

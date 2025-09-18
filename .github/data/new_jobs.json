@@ -1,56 +1,57 @@
 [
   {
-    "job_title": "Creative Director, Design",
+    "job_title": "Research Scientist, Systems and Infrastructure (PhD)",
     "employer_name": "Meta",
-    "job_city": "Los Angeles",
-    "job_state": "CA +3 locations",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +4 locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/928843073234832",
+    "job_apply_link": "https://www.metacareers.com/jobs/24107647492210540",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-creative-director-design-los-angeles"
+    "id": "meta-research-scientist-systems-and-infrastructure-phd-sunnyvale"
   },
   {
-    "job_title": "Research Scientist, Imaging Systems and Image Processing (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Research +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/634823046122595",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-imaging-systems-and-image-processing-phd-redmond"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Account Manager",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Account Manager, Large Customer Sales, Telecom",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96493334620447430-account-manager-large-customer-sales-telecom?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States",
-    "id": "google-account-manager-new-york"
-  },
-  {
-    "job_title": "Azure AI Infrastructure Solution Engineering APAC",
+    "job_title": "Technical Support Engineer – Windows Device and Deployment",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876141",
-    "job_posted_at_datetime_utc": "2025-09-18T00:39:02.203Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846787",
+    "job_posted_at_datetime_utc": "2025-09-18T01:43:08.360Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-azure-ai-infrastructure-solution-engineering-apac-redmond"
+    "id": "microsoft-technical-support-engineer-windows-device-and-deployment-redmond"
   },
   {
-    "job_title": "Senior Systems Engineer - Identity Platform",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6727037?gh_jid=6727037",
-    "job_posted_at_datetime_utc": "2025-09-18T00:23:53.000Z",
+    "job_title": "Software Engineer I - Innovation",
+    "employer_name": "Nike",
+    "job_city": "Beaverton",
+    "job_state": "OR",
+    "job_description": "Join Nike in this exciting opportunity.",
+    "job_apply_link": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655",
+    "job_posted_at_datetime_utc": "2025-09-18T01:25:28.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-systems-engineer-identity-platform-remote-usa"
+    "id": "nike-software-engineer-i-innovation-beaverton"
+  },
+  {
+    "job_title": "Macy's Tech Early Careers - Software Engineer",
+    "employer_name": "Macy's",
+    "job_city": "Johns Creek",
+    "job_state": "GA",
+    "job_description": "Join Macy's in this exciting opportunity.",
+    "job_apply_link": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534",
+    "job_posted_at_datetime_utc": "2025-09-18T01:15:06.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "macy-s-macy-s-tech-early-careers-software-engineer-johns-creek"
+  },
+  {
+    "job_title": "Entry Level - C Software Developer",
+    "employer_name": "mthree",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_description": "Join mthree in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602555006",
+    "job_posted_at_datetime_utc": "2025-09-18T00:38:56.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "mthree-entry-level-c-software-developer-tampa"
   }
 ]

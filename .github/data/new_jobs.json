@@ -1,57 +1,57 @@
 [
   {
-    "job_title": "Research Scientist, Systems and Infrastructure (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +4 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/24107647492210540",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-systems-and-infrastructure-phd-sunnyvale"
-  },
-  {
-    "job_title": "Technical Support Engineer – Windows Device and Deployment",
+    "job_title": "Principal Software Engineer(MAI Copilot)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846787",
-    "job_posted_at_datetime_utc": "2025-09-18T01:43:08.360Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880122",
+    "job_posted_at_datetime_utc": "2025-09-18T02:41:10.706Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-windows-device-and-deployment-redmond"
+    "id": "microsoft-principal-software-engineer-mai-copilot-redmond"
   },
   {
-    "job_title": "Software Engineer I - Innovation",
-    "employer_name": "Nike",
-    "job_city": "Beaverton",
-    "job_state": "OR",
-    "job_description": "Join Nike in this exciting opportunity.",
-    "job_apply_link": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655",
-    "job_posted_at_datetime_utc": "2025-09-18T01:25:28.000Z",
+    "job_title": "Technical Support Engineer (Exchange)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878101",
+    "job_posted_at_datetime_utc": "2025-09-18T02:41:10.706Z",
     "job_employment_type": "FULLTIME",
-    "id": "nike-software-engineer-i-innovation-beaverton"
+    "id": "microsoft-technical-support-engineer-exchange-redmond"
   },
   {
-    "job_title": "Macy's Tech Early Careers - Software Engineer",
-    "employer_name": "Macy's",
-    "job_city": "Johns Creek",
-    "job_state": "GA",
-    "job_description": "Join Macy's in this exciting opportunity.",
-    "job_apply_link": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534",
-    "job_posted_at_datetime_utc": "2025-09-18T01:15:06.000Z",
+    "job_title": "Senior Software Engineer(Data)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878681",
+    "job_posted_at_datetime_utc": "2025-09-18T02:41:10.706Z",
     "job_employment_type": "FULLTIME",
-    "id": "macy-s-macy-s-tech-early-careers-software-engineer-johns-creek"
+    "id": "microsoft-senior-software-engineer-data-redmond"
   },
   {
-    "job_title": "Entry Level - C Software Developer",
-    "employer_name": "mthree",
-    "job_city": "Tampa",
-    "job_state": "FL",
-    "job_description": "Join mthree in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602555006",
-    "job_posted_at_datetime_utc": "2025-09-18T00:38:56.000Z",
+    "job_title": "Embedded Cybersecurity Software Engineer I",
+    "employer_name": "RTX",
+    "job_city": "Cedar Rapids",
+    "job_state": "IA",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01792039",
+    "job_posted_at_datetime_utc": "2025-09-18T02:22:12.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "mthree-entry-level-c-software-developer-tampa"
+    "id": "rtx-embedded-cybersecurity-software-engineer-i-cedar-rapids"
+  },
+  {
+    "job_title": "Software engineer – New grad",
+    "employer_name": "Watershed",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Watershed in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8/application",
+    "job_posted_at_datetime_utc": "2025-09-18T01:53:08.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "watershed-software-engineer-new-grad-sf"
   }
 ]

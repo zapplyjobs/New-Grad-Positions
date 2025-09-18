@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Technical Support Engineer - Windows",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854549",
+    "job_posted_at_datetime_utc": "2025-09-18T15:16:13.256Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-windows-redmond"
+  },
+  {
+    "job_title": "Incident Response Engineer - CIRT",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868632",
+    "job_posted_at_datetime_utc": "2025-09-18T15:16:13.256Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-incident-response-engineer-cirt-redmond"
+  },
+  {
+    "job_title": "Senior Service Engineer - CTJ - Poly",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851404",
+    "job_posted_at_datetime_utc": "2025-09-18T15:16:13.256Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-service-engineer-ctj-poly-redmond"
+  }
+]

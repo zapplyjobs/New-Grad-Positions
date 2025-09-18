@@ -1,33 +1,56 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Customer Engineer",
-    "job_city": "San Diego",
-    "job_state": "CA",
+    "job_title": "Creative Director, Design",
+    "employer_name": "Meta",
+    "job_city": "Los Angeles",
+    "job_state": "CA +3 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/928843073234832",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Customer Engineer, Data Analytics, HCLS, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/135298308305232582-customer-engineer-data-analytics-hcls-google-cloud?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=2",
-    "id": "google-customer-engineer-san-diego"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-creative-director-design-los-angeles"
+  },
+  {
+    "job_title": "Research Scientist, Imaging Systems and Image Processing (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Research +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/634823046122595",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-imaging-systems-and-image-processing-phd-redmond"
   },
   {
     "employer_name": "Google",
-    "job_title": "Product Marketing Manager",
+    "job_title": "Account Manager",
     "job_city": "New York",
     "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Marketing Manager, Responsible AI, Consumer Apps Marketing",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/111657798990734022-product-marketing-manager-responsible-ai-consumer-apps-marketing?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=9",
-    "id": "google-product-marketing-manager-new-york"
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Account Manager, Large Customer Sales, Telecom",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96493334620447430-account-manager-large-customer-sales-telecom?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States",
+    "id": "google-account-manager-new-york"
   },
   {
-    "job_title": "Senior Machine Learning Engineer, Infrastructure",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/6764143?gh_jid=6764143",
-    "job_posted_at_datetime_utc": "2025-09-17T22:30:06.000Z",
+    "job_title": "Azure AI Infrastructure Solution Engineering APAC",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876141",
+    "job_posted_at_datetime_utc": "2025-09-18T00:39:02.203Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-machine-learning-engineer-infrastructure-united-states"
+    "id": "microsoft-azure-ai-infrastructure-solution-engineering-apac-redmond"
+  },
+  {
+    "job_title": "Senior Systems Engineer - Identity Platform",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6727037?gh_jid=6727037",
+    "job_posted_at_datetime_utc": "2025-09-18T00:23:53.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-systems-engineer-identity-platform-remote-usa"
   }
 ]

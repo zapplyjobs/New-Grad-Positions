@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Software Engineer II – Kernel, Drivers & Optics",
+    "job_title": "Software Development Engineer in Test II, GNC Software",
+    "employer_name": "Amazon",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3087685/software-development-engineer-in-test-ii-gnc-software",
+    "job_posted_at": "2025-09-18T19:09:44.665Z",
+    "job_posted_at_datetime_utc": "2025-09-18T19:09:44.665Z",
+    "id": "amazon-software-development-engineer-in-test-ii-gnc-software-redmond"
+  },
+  {
+    "job_title": "Senior Cloud & AI Solution Engineer - AI Applications",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873586",
-    "job_posted_at_datetime_utc": "2025-09-18T19:14:33.324Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856273",
+    "job_posted_at_datetime_utc": "2025-09-18T20:16:31.469Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-kernel-drivers-optics-redmond"
-  },
-  {
-    "job_title": "Senior Product Designer - Developer Platform",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7260895?gh_jid=7260895",
-    "job_posted_at_datetime_utc": "2025-09-18T18:29:54.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-product-designer-developer-platform-remote-usa"
+    "id": "microsoft-senior-cloud-ai-solution-engineer-ai-applications-redmond"
   }
 ]

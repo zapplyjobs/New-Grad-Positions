@@ -1,35 +1,46 @@
 [
   {
-    "job_title": "Research Scientist Intern, Feed Recommendations (PhD)",
+    "job_title": "Depth Systems Engineer",
     "employer_name": "Meta",
-    "job_city": "Menlo Park",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "AI Research +4 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/3830966620528119",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1340130350788484",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-feed-recommendations-phd-menlo-park"
+    "id": "meta-depth-systems-engineer-sunnyvale"
   },
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Largo",
-    "job_state": "FL",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL410-Largo-FL-MFG-7887-Bryan-Dairy-Road---Largo-FL-33777-USA/Software-Engineer-I--Onsite-_01794320",
-    "job_posted_at_datetime_utc": "2025-09-18T21:44:56.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-largo"
+    "job_title": "Research Scientist Intern, Video Recommendations (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +1 locations",
+    "job_description": "AI Research +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/811526438099620",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-video-recommendations-phd-bellevue"
   },
   {
-    "job_title": "Data Engineer - Junior",
-    "employer_name": "Booz Allen",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_description": "Join Booz Allen in this exciting opportunity.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Data-Engineer--Junior_R0226464",
-    "job_posted_at_datetime_utc": "2025-09-18T21:26:12.000Z",
+    "job_title": "Principal Software Engineer - AI Ads",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877948",
+    "job_posted_at_datetime_utc": "2025-09-18T23:15:14.922Z",
     "job_employment_type": "FULLTIME",
-    "id": "booz-allen-data-engineer-junior-huntsville"
+    "id": "microsoft-principal-software-engineer-ai-ads-redmond"
+  },
+  {
+    "job_title": "Software Engineer, Application Security",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6863924?gh_jid=6863924",
+    "job_posted_at_datetime_utc": "2025-09-18T22:54:49.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-software-engineer-application-security-remote-usa"
   }
 ]

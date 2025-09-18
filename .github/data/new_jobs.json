@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Development Engineer",
-    "employer_name": "Amazon",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3086499/software-development-engineer",
-    "job_posted_at": "2025-09-17T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-17T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-mountain-view"
-  },
-  {
-    "job_title": "Research Scientist, Machine Learning (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +6 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1693450804688168",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-machine-learning-phd-sunnyvale"
+    "job_title": "Principal Sofware Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879618",
+    "job_posted_at_datetime_utc": "2025-09-18T06:18:57.404Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-sofware-engineer-redmond"
   }
 ]

@@ -1,24 +1,57 @@
 [
   {
-    "job_title": "Senior Software Engineer, Agent Framework (CoreAI)",
+    "job_title": "Principal Firmware (UEFI) Development Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878875",
-    "job_posted_at_datetime_utc": "2025-09-18T16:16:19.322Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880335",
+    "job_posted_at_datetime_utc": "2025-09-18T17:14:38.238Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-agent-framework-coreai-redmond"
+    "id": "microsoft-principal-firmware-uefi-development-engineer-redmond"
   },
   {
-    "job_title": "Engineering Manager, Core Product",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area (U.S.)",
+    "job_title": "Software Engineer, Applied Emerging Talent",
+    "employer_name": "OpenAI",
+    "job_city": "San Francisco",
     "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8161010002",
-    "job_posted_at_datetime_utc": "2025-09-18T15:52:13.000Z",
+    "job_description": "Join OpenAI in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/openai/83002509-5242-4145-a717-b31bcac1d4aa",
+    "job_posted_at_datetime_utc": "2025-09-18T16:37:34.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "discord-engineering-manager-core-product-san-francisco-bay-area-u-s"
+    "id": "openai-software-engineer-applied-emerging-talent-san-francisco"
+  },
+  {
+    "job_title": "Sr. Solutions Engineer - Enterprise Greenfield Saudi Arabia",
+    "employer_name": "Databricks",
+    "job_city": "Riyadh",
+    "job_state": "Saudi Arabia ",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8160181002",
+    "job_posted_at_datetime_utc": "2025-09-18T16:36:40.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-solutions-engineer-enterprise-greenfield-saudi-arabia-riyadh"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "TeleTracking",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_description": "Join TeleTracking in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/4921410008",
+    "job_posted_at_datetime_utc": "2025-09-18T16:25:48.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "teletracking-software-engineer-i-pittsburgh"
+  },
+  {
+    "job_title": "Junior Artificial Intelligence (AI) / Machine Learning (ML) Engineer",
+    "employer_name": "PingWind",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join PingWind in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/pingwind/d8ebf7d2-98f0-4bd7-ae70-5b8d91e4edc6",
+    "job_posted_at_datetime_utc": "2025-09-18T16:24:16.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "pingwind-junior-artificial-intelligence-ai-machine-learning-ml-engineer-remote-in-usa"
   }
 ]

@@ -1,77 +1,101 @@
 [
   {
-    "job_title": "Software Engineer - AI SysML (Technical Leadership)",
+    "job_title": "Software Engineer, Graphics",
     "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "AI Research +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/596583419835692",
+    "job_city": "Bellevue",
+    "job_state": "WA +1 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2311575059313612",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-ai-sysml-technical-leadership-menlo-park"
+    "id": "meta-software-engineer-graphics-bellevue"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Engineering Analyst",
-    "job_city": "San Bruno",
+    "job_title": "Research Scientist Intern, Physics-based Simulation for Avatars and Robotics PhD",
+    "employer_name": "Meta",
+    "job_city": "Sausalito",
     "job_state": "CA",
+    "job_description": "Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/572739279259874",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareYouTube. Posted: Recently. Full Title: Engineering Analyst, YouTube Scaled Abuse",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/79743297173496518-engineering-analyst-youtube-scaled-abuse?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=4",
-    "id": "google-engineering-analyst-san-bruno"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-physics-based-simulation-for-avatars-and-robotics-phd-sausalito"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
+    "job_title": "Software Engineering Manager",
+    "employer_name": "Meta",
+    "job_city": "Seattle",
+    "job_state": "WA +2 locations",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/804667355407636",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Engineer III, Site Reliability Engineering",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/88044609963205318-software-engineer-iii-site-reliability-engineering?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=5",
-    "id": "google-software-engineer-iii-pittsburgh"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-manager-seattle"
   },
   {
-    "job_title": "Senior Software Engineer - Microsoft Ads",
+    "job_title": "Software Engineer - Azure Real-time Messaging Services",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877448",
-    "job_posted_at_datetime_utc": "2025-09-19T00:39:50.303Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878265",
+    "job_posted_at_datetime_utc": "2025-09-19T01:43:37.961Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-microsoft-ads-redmond"
+    "id": "microsoft-software-engineer-azure-real-time-messaging-services-redmond"
   },
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "UiPath",
-    "job_city": "Bellevue",
+    "job_title": "Senior Software Engineer, Data Platform (CoreAI)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join UiPath in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/uipath/d83070a1-72b3-408f-a0ab-7d88388addd7/application",
-    "job_posted_at_datetime_utc": "2025-09-19T00:16:41.000Z",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878871",
+    "job_posted_at_datetime_utc": "2025-09-19T01:43:37.961Z",
     "job_employment_type": "FULLTIME",
-    "id": "uipath-software-engineer-i-bellevue"
+    "id": "microsoft-senior-software-engineer-data-platform-coreai-redmond"
   },
   {
-    "job_title": "Entry Level Software Engineer - Flight Simulation",
-    "employer_name": "The Boeing Company",
-    "job_city": "Hazelwood",
-    "job_state": "MO",
-    "job_description": "Join The Boeing Company in this exciting opportunity.",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Software-Engineer---Flight-Simulation_JR2025466011",
-    "job_posted_at_datetime_utc": "2025-09-19T00:16:19.000Z",
+    "job_title": "Senior Software Engineer – Microsoft Teams",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879071",
+    "job_posted_at_datetime_utc": "2025-09-19T01:43:37.961Z",
     "job_employment_type": "FULLTIME",
-    "id": "the-boeing-company-entry-level-software-engineer-flight-simulation-hazelwood"
+    "id": "microsoft-senior-software-engineer-microsoft-teams-redmond"
   },
   {
-    "job_title": "Data Engineer I",
-    "employer_name": "Centene",
-    "job_city": "Florida",
+    "job_title": "New Grad – Software Engineer - Backend Developer - Sofi Money",
+    "employer_name": "SoFi",
+    "job_city": "NYC",
     "job_state": "Locations",
-    "job_description": "Join Centene in this exciting opportunity.",
-    "job_apply_link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Engineer-I_1600164",
-    "job_posted_at_datetime_utc": "2025-09-19T00:12:46.000Z",
+    "job_description": "Join SoFi in this exciting opportunity.",
+    "job_apply_link": "https://www.sofi.com/careers/sofi-university/7174926003?gh_jid=7174926003",
+    "job_posted_at_datetime_utc": "2025-09-19T01:07:57.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "centene-data-engineer-i-florida"
+    "id": "sofi-new-grad-software-engineer-backend-developer-sofi-money-nyc"
+  },
+  {
+    "job_title": "Backend Engineer, Internal Identity",
+    "employer_name": "Stripe",
+    "job_city": "N/A",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7261266",
+    "job_posted_at_datetime_utc": "2025-09-19T00:53:04.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-backend-engineer-internal-identity-n-a"
+  },
+  {
+    "job_title": "New Grad – Software Engineer - Backend Developer - Sofi Money",
+    "employer_name": "Galileo Financial Technologies",
+    "job_city": "NYC",
+    "job_state": "Locations",
+    "job_description": "Join Galileo Financial Technologies in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7174922003",
+    "job_posted_at_datetime_utc": "2025-09-19T00:30:13.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "galileo-financial-technologies-new-grad-software-engineer-backend-developer-sofi-money-nyc"
   }
 ]

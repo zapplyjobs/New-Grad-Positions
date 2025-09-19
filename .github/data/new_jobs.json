@@ -1,56 +1,57 @@
 [
   {
-    "job_title": "Software Engineer (Leadership) - Infrastructure | Ingénieur logiciel (leadership) – Infrastructure",
+    "job_title": "Director of Robotics Product Operations",
     "employer_name": "Meta",
-    "job_city": "Remote",
-    "job_state": "US",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1357076289119971",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/779841117803924",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-leadership-infrastructure-ing-nieur-logiciel-leadership-infrastructure-remote"
+    "id": "meta-director-of-robotics-product-operations-sunnyvale"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Software Engineer: PhD Intern Opportunities",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: PhD Intern Opportunities",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880482/Software-Engineer%3A-PhD-Intern-Opportunities%2C-Redmond",
-    "id": "microsoft-software-engineer-phd-intern-opportunities-redmond"
-  },
-  {
-    "job_title": "Software Engineer: PhD Intern Opportunities, Redmond",
+    "job_title": "Software Engineer (Networking & Telemetry Systems)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880482",
-    "job_posted_at_datetime_utc": "2025-09-19T15:15:51.722Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877550",
+    "job_posted_at_datetime_utc": "2025-09-19T16:16:20.930Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-phd-intern-opportunities-redmond-redmond"
+    "id": "microsoft-software-engineer-networking-telemetry-systems-redmond"
   },
   {
-    "job_title": "Principal Software Engineerlucas hoba",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880873",
-    "job_posted_at_datetime_utc": "2025-09-19T15:15:51.722Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineerlucas-hoba-redmond"
-  },
-  {
-    "job_title": "Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra) ",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
+    "job_title": "Software Engineer",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7260614?gh_jid=7260614",
-    "job_posted_at_datetime_utc": "2025-09-19T14:52:25.000Z",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8177727002",
+    "job_posted_at_datetime_utc": "2025-09-19T16:15:52.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-staff-software-engineer-backend-consumer-growth-app-infra-remote-usa"
+    "id": "discord-software-engineer-san-francisco-bay-area"
+  },
+  {
+    "job_title": "Senior Software Engineer - Ad Infra, Lyft Media",
+    "employer_name": "Lyft",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002",
+    "job_posted_at_datetime_utc": "2025-09-19T16:06:21.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-senior-software-engineer-ad-infra-lyft-media-new-york"
+  },
+  {
+    "job_title": "Android Software Engineer 4 – Foundations Teams",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312031373",
+    "job_posted_at_datetime_utc": "2025-09-18T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-android-software-engineer-4-foundations-teams-usa-remote"
   }
 ]

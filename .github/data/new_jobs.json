@@ -1,101 +1,24 @@
 [
   {
-    "job_title": "Software Engineer, Graphics",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +1 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2311575059313612",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-graphics-bellevue"
-  },
-  {
-    "job_title": "Research Scientist Intern, Physics-based Simulation for Avatars and Robotics PhD",
-    "employer_name": "Meta",
-    "job_city": "Sausalito",
-    "job_state": "CA",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/572739279259874",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-physics-based-simulation-for-avatars-and-robotics-phd-sausalito"
-  },
-  {
-    "job_title": "Software Engineering Manager",
-    "employer_name": "Meta",
-    "job_city": "Seattle",
-    "job_state": "WA +2 locations",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/804667355407636",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-seattle"
-  },
-  {
-    "job_title": "Software Engineer - Azure Real-time Messaging Services",
+    "job_title": "Principal Software Engineer, AI Data Platform (CoreAI)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878265",
-    "job_posted_at_datetime_utc": "2025-09-19T01:43:37.961Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879180",
+    "job_posted_at_datetime_utc": "2025-09-19T02:42:29.646Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-azure-real-time-messaging-services-redmond"
+    "id": "microsoft-principal-software-engineer-ai-data-platform-coreai-redmond"
   },
   {
-    "job_title": "Senior Software Engineer, Data Platform (CoreAI)",
+    "job_title": "Senior Software Engineer, AI Data Platform (CoreAI)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
     "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878871",
-    "job_posted_at_datetime_utc": "2025-09-19T01:43:37.961Z",
+    "job_posted_at_datetime_utc": "2025-09-19T02:42:29.646Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-data-platform-coreai-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer – Microsoft Teams",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879071",
-    "job_posted_at_datetime_utc": "2025-09-19T01:43:37.961Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-microsoft-teams-redmond"
-  },
-  {
-    "job_title": "New Grad – Software Engineer - Backend Developer - Sofi Money",
-    "employer_name": "SoFi",
-    "job_city": "NYC",
-    "job_state": "Locations",
-    "job_description": "Join SoFi in this exciting opportunity.",
-    "job_apply_link": "https://www.sofi.com/careers/sofi-university/7174926003?gh_jid=7174926003",
-    "job_posted_at_datetime_utc": "2025-09-19T01:07:57.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "sofi-new-grad-software-engineer-backend-developer-sofi-money-nyc"
-  },
-  {
-    "job_title": "Backend Engineer, Internal Identity",
-    "employer_name": "Stripe",
-    "job_city": "N/A",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7261266",
-    "job_posted_at_datetime_utc": "2025-09-19T00:53:04.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-backend-engineer-internal-identity-n-a"
-  },
-  {
-    "job_title": "New Grad – Software Engineer - Backend Developer - Sofi Money",
-    "employer_name": "Galileo Financial Technologies",
-    "job_city": "NYC",
-    "job_state": "Locations",
-    "job_description": "Join Galileo Financial Technologies in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7174922003",
-    "job_posted_at_datetime_utc": "2025-09-19T00:30:13.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "galileo-financial-technologies-new-grad-software-engineer-backend-developer-sofi-money-nyc"
+    "id": "microsoft-senior-software-engineer-ai-data-platform-coreai-redmond"
   }
 ]

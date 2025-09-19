@@ -1,46 +1,90 @@
 [
   {
-    "job_title": "Research Scientist Intern, Monetization Computer Vision (PhD)",
+    "job_title": "Software Engineer 3",
+    "employer_name": "PayPal",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915958977",
+    "job_posted_at_datetime_utc": "2025-09-19T18:18:18.360Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-software-engineer-3-austin"
+  },
+  {
+    "job_title": "Semiconductor Display Product Test Engineer",
     "employer_name": "Meta",
     "job_city": "Multiple",
     "job_state": "Locations",
-    "job_description": "AI Research +4 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/646384458529693",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-monetization-computer-vision-phd-multiple"
-  },
-  {
-    "job_title": "Research Program Manager, Governance",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +2 locations",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/1282169343607402",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-program-manager-governance-menlo-park"
-  },
-  {
-    "job_title": "Performance & Capacity Engineer, FinOps",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +3 locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1525869555088912",
+    "job_apply_link": "https://www.metacareers.com/jobs/1839401506655946",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-performance-capacity-engineer-finops-bellevue"
+    "id": "meta-semiconductor-display-product-test-engineer-multiple"
   },
   {
-    "job_title": "Senior Software Engineer, Lyft Ads",
-    "employer_name": "Lyft",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002",
-    "job_posted_at_datetime_utc": "2025-09-19T16:52:45.000Z",
+    "job_title": "Software Engineer 2",
+    "employer_name": "PayPal",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915958981",
+    "job_posted_at_datetime_utc": "2025-09-19T18:18:18.360Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-senior-software-engineer-lyft-ads-new-york"
+    "id": "paypal-software-engineer-2-austin"
+  },
+  {
+    "job_title": "Software Engineer 2",
+    "employer_name": "PayPal",
+    "job_city": "Scottsdale",
+    "job_state": "Arizona",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915958982",
+    "job_posted_at_datetime_utc": "2025-09-19T18:18:18.360Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-software-engineer-2-scottsdale"
+  },
+  {
+    "job_title": "Software Engineer 3",
+    "employer_name": "PayPal",
+    "job_city": "New York City",
+    "job_state": "New York",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915958983",
+    "job_posted_at_datetime_utc": "2025-09-19T18:18:18.360Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-software-engineer-3-new-york-city"
+  },
+  {
+    "job_title": "Senior Mechanical Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875050",
+    "job_posted_at_datetime_utc": "2025-09-19T18:18:10.794Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-mechanical-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer - Security for AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881105",
+    "job_posted_at_datetime_utc": "2025-09-19T18:18:10.794Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-security-for-ai-redmond"
+  },
+  {
+    "job_title": "Staff Software Engineer, Growth Platform",
+    "employer_name": "Airbnb",
+    "job_city": "Remote",
+    "job_state": "USA ",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6886222?gh_jid=6886222",
+    "job_posted_at_datetime_utc": "2025-09-19T17:39:56.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-staff-software-engineer-growth-platform-remote"
   }
 ]

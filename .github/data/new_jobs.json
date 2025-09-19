@@ -1,33 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior UX Designer",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareYouTube. Posted: Recently. Full Title: Senior UX Designer, Ads Planning, YouTube Ads",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/81716834646008518-senior-ux-designer-ads-planning-youtube-ads?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=6",
-    "id": "google-senior-ux-designer-los-angeles"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Survey Scientist",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Survey Scientist, AI Mode, Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/112970452665541318-senior-survey-scientist-ai-mode-search?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-senior-survey-scientist-san-francisco"
-  },
-  {
-    "job_title": "Senior Software Engineer, Frontend (Consumer - Growth)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961",
-    "job_posted_at_datetime_utc": "2025-09-19T07:13:12.000Z",
+    "job_title": "Senior Business Applications Developer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879158",
+    "job_posted_at_datetime_utc": "2025-09-19T08:18:25.356Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-frontend-consumer-growth-remote-usa"
+    "id": "microsoft-senior-business-applications-developer-redmond"
   }
 ]

@@ -1,35 +1,57 @@
 [
   {
-    "job_title": "Embedded Software Engineer, Firmware",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +3 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1951039452359477",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-embedded-software-engineer-firmware-sunnyvale"
-  },
-  {
-    "job_title": "Embedded Software Engineer, Connectivity/Wireless",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +4 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2204488406728710",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-embedded-software-engineer-connectivity-wireless-sunnyvale"
-  },
-  {
-    "job_title": "Autonomy/AI Software Engineer-Early Career",
-    "employer_name": "Kodiak Robotics",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_description": "Join Kodiak Robotics in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/kodiak/jobs/4028715009",
-    "job_posted_at_datetime_utc": "2025-09-19T19:07:54.000Z",
+    "job_title": "Manager, Software Engineering",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915970609",
+    "job_posted_at_datetime_utc": "2025-09-19T21:14:33.547Z",
     "job_employment_type": "FULLTIME",
-    "id": "kodiak-robotics-autonomy-ai-software-engineer-early-career-mountain-view"
+    "id": "paypal-manager-software-engineering-san-jose"
+  },
+  {
+    "job_title": "Software Development Engineer, Advertiser Experience",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3088713/software-development-engineer-advertiser-experience",
+    "job_posted_at": "2025-09-19T17:07:49.095Z",
+    "job_posted_at_datetime_utc": "2025-09-19T17:07:49.095Z",
+    "id": "amazon-software-development-engineer-advertiser-experience-new-york"
+  },
+  {
+    "job_title": "Optical Systems Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1340130350788484",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-optical-systems-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Senior AI Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880604",
+    "job_posted_at_datetime_utc": "2025-09-19T21:14:26.127Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-ai-software-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer, Mobile",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8177727002",
+    "job_posted_at_datetime_utc": "2025-09-19T20:50:24.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-software-engineer-mobile-san-francisco-bay-area"
   }
 ]

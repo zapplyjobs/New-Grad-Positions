@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Embedded Software Engineer, Firmware",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +3 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1951039452359477",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-embedded-software-engineer-firmware-sunnyvale"
+  },
+  {
+    "job_title": "Embedded Software Engineer, Connectivity/Wireless",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +4 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2204488406728710",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-embedded-software-engineer-connectivity-wireless-sunnyvale"
+  },
+  {
+    "job_title": "Autonomy/AI Software Engineer-Early Career",
+    "employer_name": "Kodiak Robotics",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_description": "Join Kodiak Robotics in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/kodiak/jobs/4028715009",
+    "job_posted_at_datetime_utc": "2025-09-19T19:07:54.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "kodiak-robotics-autonomy-ai-software-engineer-early-career-mountain-view"
+  }
+]

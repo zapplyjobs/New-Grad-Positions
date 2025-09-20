@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Embedded Software Engineer, BSP/Kernel",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +4 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1083454357329613",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-embedded-software-engineer-bsp-kernel-sunnyvale"
+    "job_title": "Software Dev Engineer II, Echo Platform",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3066653/software-dev-engineer-ii-echo-platform",
+    "job_posted_at": "2025-09-19T16:31:44.652Z",
+    "job_posted_at_datetime_utc": "2025-09-19T16:31:44.652Z",
+    "id": "amazon-software-dev-engineer-ii-echo-platform-austin"
   },
   {
-    "job_title": "Director Solution Engineer Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877168",
-    "job_posted_at_datetime_utc": "2025-09-19T23:15:15.790Z",
+    "job_title": "New Grads 2026 - Software Engineer - Algorithm",
+    "employer_name": "WeRide",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join WeRide in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/weride/1dc0209a-f90b-4f1c-a614-75f5b7883e6d/apply",
+    "job_posted_at_datetime_utc": "2025-09-19T23:55:12.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-director-solution-engineer-manager-redmond"
+    "id": "weride-new-grads-2026-software-engineer-algorithm-san-jose"
+  },
+  {
+    "job_title": "New Grads 2026 - General Software Engineer",
+    "employer_name": "WeRide",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join WeRide in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply",
+    "job_posted_at_datetime_utc": "2025-09-19T23:55:10.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "weride-new-grads-2026-general-software-engineer-san-jose"
   }
 ]

@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Machine Learning Engineer 1",
-    "employer_name": "Pinterest",
-    "job_city": "SF",
-    "job_state": "Locations",
-    "job_description": "Join Pinterest in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/7264418",
-    "job_posted_at_datetime_utc": "2025-09-20T01:23:24.000Z",
+    "job_title": "Cybersecurity Engineer 1",
+    "employer_name": "Sev1Tech",
+    "job_city": "North Charleston",
+    "job_state": "SC",
+    "job_description": "Join Sev1Tech in this exciting opportunity.",
+    "job_apply_link": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2025-09-19T18:44:54.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "pinterest-machine-learning-engineer-1-sf"
-  },
-  {
-    "job_title": "Entry Level Software Engineer - Kotlin - Java",
-    "employer_name": "Motorola",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_description": "Join Motorola in this exciting opportunity.",
-    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Software-Engineer---Kotlin---Java_R55107",
-    "job_posted_at_datetime_utc": "2025-09-20T01:16:23.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "motorola-entry-level-software-engineer-kotlin-java-cambridge"
+    "id": "sev1tech-cybersecurity-engineer-1-north-charleston"
   }
 ]

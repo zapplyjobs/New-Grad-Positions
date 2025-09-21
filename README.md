@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 53+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 459+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 53+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 458+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -20,9 +20,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 459
+- **🔥 Current Positions**: 458
 - **🏢 Companies**: 53 elite tech companies
-- **⭐ FAANG+ Jobs**: 313 premium opportunities
+- **⭐ FAANG+ Jobs**: 312 premium opportunities
 - **📅 Last Updated**: September 21, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 798 (older than 1 week)
@@ -67,13 +67,13 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (313 positions)
+### 🏢 **FAANG+** (312 positions)
 
 #### 📦 **Amazon** (20 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Dev Engineer, Project Kuiper | Redmond, WA | 12h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3081262/software-dev-engineer-project-kuiper) |
+| Software Dev Engineer, Project Kuiper | Redmond, WA | 13h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3081262/software-dev-engineer-project-kuiper) |
 | Embedded Software Development Engineer II, AWS Hardware Engineering Services | Austin, TX | 2d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2916518/embedded-software-development-engineer-ii-aws-hardware-engineering-services) |
 | Software Development Engineer, Advertiser Experience | New York, NY | 2d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3088713/software-development-engineer-advertiser-experience) |
 | Software Dev Engineer II, Echo Platform | Austin, TX | 2d ago | Mid-Level | DevOps & Infrastructure | [Apply](https://amazon.jobs/en-gb/jobs/3066653/software-dev-engineer-ii-echo-platform) |
@@ -94,7 +94,7 @@
 | Software Development Engineer, Amazon Stores | Bellevue, WA | 6d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2880820/software-development-engineer-amazon-stores) |
 | Software Development Engineer, Simulation Foundations | Redmond, WA | 6d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3021014/software-development-engineer-simulation-foundations) |
 
-#### 🟦 **Microsoft** (24 positions)
+#### 🟦 **Microsoft** (23 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -102,9 +102,9 @@
 | Systems | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1869430/Software-Engineer---Systems%2C-Multiple-Locations) |
 | AI/ML | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1869402/Software-Engineer---AI%2FML%2C-Multiple-Locations) |
 | Software Engineer: Frontend Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Frontend Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861019/Software-Engineer%3A-Frontend-Intern-Opportunities-for-University-Students%2C-Redmond) |
-| Software Engineer: Systems Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860982/Software-Engineer%3A-Systems-Intern-Opportunities-for-University-Students%2C-Redmond) |
-| Software Engineer: Fullstack Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860947/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond) |
 | Software Engineer: Security Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861017/Software-Engineer%3A-Security-Intern-Opportunities-for-University-Students%2C-Redmond) |
+| Software Engineer: Fullstack Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860947/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Redmond) |
+| Software Engineer: Systems Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860982/Software-Engineer%3A-Systems-Intern-Opportunities-for-University-Students%2C-Redmond) |
 | Software Engineer: Fullstack Intern Opportunities for University Students | Atlanta, Georgia | Recently | Entry-Level | Full Stack Development | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861022/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Atlanta) |
 | Software Engineer: Applied AI/ML Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1872468/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Redmond) |
 | Software Engineer: Applied AI/ML Intern Opportunities for University Students | Mountain View, California | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1877249/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Mountain-View) |
@@ -121,7 +121,6 @@
 | ​​Principal Software Engineer​ | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1879884) |
 | Software Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1864981) |
 | Senior Azure Customer Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1857489) |
-| Software Engineer II - CTJ - Poly | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1851548) |
 
 <details>
 <summary><h4>🔵 <strong>Meta</strong> (53 positions)</h4></summary>
@@ -515,16 +514,16 @@
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
 | Senior Systems Engineer - Identity Platform | Remote - USA, CA | 1d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6727037?gh_jid=6727037) |
-| Senior Product Designer - Developer Platform | Remote - USA, CA | 1d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7260895?gh_jid=7260895) |
-| Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra)  | Remote - USA, CA | 1d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7260614?gh_jid=7260614) |
+| Senior Product Designer - Developer Platform | Remote - USA, CA | 2d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7260895?gh_jid=7260895) |
+| Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra)  | Remote - USA, CA | 2d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7260614?gh_jid=7260614) |
 | Senior Staff Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | 2d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955) |
 | Senior Software Engineer, Frontend (Consumer - Growth) | Remote - USA, CA | 2d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961) |
 | Software Engineer, Application Security | Remote - USA, CA | 2d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6863924?gh_jid=6863924) |
 | Engineering Manager (Platform - Risk Platform, Payments Risk) | Remote - USA, CA | 2d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7261297?gh_jid=7261297) |
 | Senior Staff Software Engineer, Backend - (Platform - Core Automation) | Remote - USA, CA | 2d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7171141?gh_jid=7171141) |
 | Software Engineer, Blockchain Platform (Blockchain Enablement) | Remote - USA, CA | 2d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7233872?gh_jid=7233872) |
-| Threat Intelligence Engineer | Remote - USA, CA | 2d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6937732?gh_jid=6937732) |
-| Vertex Synapse Engineer, Threat Intelligence | Remote - USA, CA | 2d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6864001?gh_jid=6864001) |
+| Threat Intelligence Engineer | Remote - USA, CA | 3d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6937732?gh_jid=6937732) |
+| Vertex Synapse Engineer, Threat Intelligence | Remote - USA, CA | 3d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6864001?gh_jid=6864001) |
 | Offensive Security Engineer, Assessments (Web3) | Remote - USA, CA | 3d ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6995309?gh_jid=6995309) |
 | Senior Software Engineer, Backend (Consumer - Coinbase One) | Remote - USA, CA | 3d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7135202?gh_jid=7135202) |
 | Senior Software Engineer, Backend (Consumer - Coinbase Card) | Remote - USA, CA | 3d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6535338?gh_jid=6535338) |
@@ -584,7 +583,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 82 | 18% | No or minimal experience |
-| 🟡 Beginner & Early Career | 276 | 60% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 275 | 60% | 1-2 years of experience |
 | 🔴 Manager         | 101 | 22% | 2+ years of experience |
 
 ---
@@ -596,14 +595,14 @@
 - **Remote - USA, CA**: 24 positions
 - **San Francisco, CA**: 21 positions
 - **Chicago, IL**: 15 positions
-- **Redmond, WA**: 14 positions
+- **Redmond, WA**: 13 positions
 - **Redmond, Washington**: 13 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (214 positions)
-🏢 PayPal • 📦 Amazon
+#### 💻 Software Engineering (213 positions)
+📦 Amazon
 
 #### 🎨 Frontend Development (66 positions)
 📦 Amazon
@@ -639,7 +638,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 459+ verified roles for Software Engineering roles from 53 elite tech companies.
+- ✅ **100% Real Jobs**: 458+ verified roles for Software Engineering roles from 53 elite tech companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1488,7 +1487,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 
 <div align="center">
 
-**🎯 459 current opportunities from 53 elite companies**
+**🎯 458 current opportunities from 53 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

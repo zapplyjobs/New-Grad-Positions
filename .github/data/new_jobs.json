@@ -1,24 +1,90 @@
 [
   {
-    "job_title": "Embedded Software Engineer, Silicon Infrastructure",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +2 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/772656515477486",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-embedded-software-engineer-silicon-infrastructure-sunnyvale"
-  },
-  {
-    "job_title": "Senior Product Manager - Customer Experience Engineering (CxE)",
+    "job_title": "Technical Support Engineer - Microsoft 365 Apps / Office (Copilot)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874859",
-    "job_posted_at_datetime_utc": "2025-09-22T17:15:17.745Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849405",
+    "job_posted_at_datetime_utc": "2025-09-22T18:19:08.489Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-product-manager-customer-experience-engineering-cxe-redmond"
+    "id": "microsoft-technical-support-engineer-microsoft-365-apps-office-copilot-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineer - Power Platform",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854797",
+    "job_posted_at_datetime_utc": "2025-09-22T18:19:08.489Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-power-platform-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineering - Power BI / Data Fabric / SQL BI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881691",
+    "job_posted_at_datetime_utc": "2025-09-22T18:19:08.489Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineering-power-bi-data-fabric-sql-bi-redmond"
+  },
+  {
+    "job_title": "IP Verification Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880555",
+    "job_posted_at_datetime_utc": "2025-09-22T18:19:08.489Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-ip-verification-engineer-ii-redmond"
+  },
+  {
+    "job_title": "Senior Signal and Power Integrity Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879915",
+    "job_posted_at_datetime_utc": "2025-09-22T18:19:08.489Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-signal-and-power-integrity-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Sourcing Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880522",
+    "job_posted_at_datetime_utc": "2025-09-22T18:19:08.489Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-sourcing-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Engineering Manager - Trust and Safety",
+    "employer_name": "Databricks",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002",
+    "job_posted_at_datetime_utc": "2025-09-22T18:12:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-senior-engineering-manager-trust-and-safety-mountain-view"
+  },
+  {
+    "job_title": "Staff Software Engineer, Platform Security",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8177912002",
+    "job_posted_at_datetime_utc": "2025-09-22T17:44:15.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-staff-software-engineer-platform-security-san-francisco-bay-area"
   }
 ]

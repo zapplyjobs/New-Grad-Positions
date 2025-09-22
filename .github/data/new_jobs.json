@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Software Engineer, Fulfillment",
+    "employer_name": "Lyft",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8173385002?gh_jid=8173385002",
+    "job_posted_at_datetime_utc": "2025-09-22T14:36:01.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-software-engineer-fulfillment-seattle"
+  },
+  {
+    "job_title": "Software Engineer, Fulfillment",
+    "employer_name": "Lyft",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8173374002?gh_jid=8173374002",
+    "job_posted_at_datetime_utc": "2025-09-22T14:36:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-software-engineer-fulfillment-new-york"
+  },
+  {
+    "job_title": "Software Engineer, Fulfillment",
+    "employer_name": "Lyft",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8173314002?gh_jid=8173314002",
+    "job_posted_at_datetime_utc": "2025-09-22T14:35:59.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-software-engineer-fulfillment-san-francisco"
+  }
+]

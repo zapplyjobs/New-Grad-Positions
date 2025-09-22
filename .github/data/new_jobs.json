@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Software Dev Engineer (ML), AGI Foundations",
+    "job_title": "Software Dev Engineer, Payload Antennas, Kuiper",
     "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "job_city": "Redmond",
+    "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3090523/software-dev-engineer-ml-agi-foundations",
-    "job_posted_at": "2025-09-22T18:08:05.647Z",
-    "job_posted_at_datetime_utc": "2025-09-22T18:08:05.647Z",
-    "id": "amazon-software-dev-engineer-ml-agi-foundations-sunnyvale"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3078191/software-dev-engineer-payload-antennas-kuiper",
+    "job_posted_at": "2025-09-22T18:09:57.282Z",
+    "job_posted_at_datetime_utc": "2025-09-22T18:09:57.282Z",
+    "id": "amazon-software-dev-engineer-payload-antennas-kuiper-redmond"
   },
   {
-    "job_title": "Research Scientist Intern, Modern Recommendation Systems (PhD)",
+    "job_title": "SiteOps Global Systems Engineer",
     "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +2 locations",
-    "job_description": "AI Research +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1324858306015206",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1825583421364724",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-modern-recommendation-systems-phd-bellevue"
-  },
-  {
-    "job_title": "Early Career, Software Engineer (2026) ",
-    "employer_name": "Figma",
-    "job_city": "San Francisco",
-    "job_state": "CA • New York",
-    "job_description": "Join Figma to make design accessible to all.",
-    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5616603004?gh_jid=5616603004",
-    "job_posted_at_datetime_utc": "2025-09-22T19:07:38.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "figma-early-career-software-engineer-2026-san-francisco"
+    "id": "meta-siteops-global-systems-engineer-multiple"
   }
 ]

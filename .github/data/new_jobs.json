@@ -1,13 +1,90 @@
 [
   {
-    "job_title": "Enterprise Support Engineer",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
+    "job_title": "Technical Support Engineering - Security ＆ Compliance (Messaging Protection)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859920",
+    "job_posted_at_datetime_utc": "2025-09-22T06:20:33.301Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineering-security-compliance-messaging-protection-redmond"
+  },
+  {
+    "job_title": "Data/Ai Engineer Intern",
+    "employer_name": "Jade Global",
+    "job_city": "Ogden",
+    "job_state": "UT",
+    "job_description": "Join Jade Global in this exciting opportunity.",
+    "job_apply_link": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
+    "job_posted_at_datetime_utc": "2025-09-22T06:10:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "jade-global-data-ai-engineer-intern-ogden"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Sift",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_description": "Join Sift in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6",
+    "job_posted_at_datetime_utc": "2025-09-22T06:08:26.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "sift-software-engineer-el-segundo"
+  },
+  {
+    "job_title": "Cloud Support Engineer I (Support Response)",
+    "employer_name": "Lambda",
+    "job_city": "Remote in USA",
     "job_state": "Locations",
-    "job_description": "Enterprise Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1146657820708047",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-enterprise-support-engineer-multiple"
+    "job_description": "Join Lambda in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/lambda/1147c640-8d1b-4e92-8d39-63982f3f88d7",
+    "job_posted_at_datetime_utc": "2025-09-22T06:07:32.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lambda-cloud-support-engineer-i-support-response-remote-in-usa"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Muon",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join Muon in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/muonspace/jobs/4911755007",
+    "job_posted_at_datetime_utc": "2025-09-22T06:05:09.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "muon-software-engineer-san-jose"
+  },
+  {
+    "job_title": "Analyst Rotational Program – Software Engineering",
+    "employer_name": "TD",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join TD in this exciting opportunity.",
+    "job_apply_link": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Full-Time-Analyst-Rotational-Program---Software-Engineering_R_1446300",
+    "job_posted_at_datetime_utc": "2025-09-22T06:01:19.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "td-analyst-rotational-program-software-engineering-new-york"
+  },
+  {
+    "job_title": "Cloud PaaS Associate Site Reliability Engineer",
+    "employer_name": "Tencent",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_description": "Join Tencent in this exciting opportunity.",
+    "job_apply_link": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-PaaS-Associate-Site-Reliability-Engineer_R106050-1",
+    "job_posted_at_datetime_utc": "2025-09-22T05:58:16.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "tencent-cloud-paas-associate-site-reliability-engineer-palo-alto"
+  },
+  {
+    "job_title": "Associate, Quantitative Developer",
+    "employer_name": "Capstone",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Capstone in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8176351002",
+    "job_posted_at_datetime_utc": "2025-09-22T05:52:04.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "capstone-associate-quantitative-developer-new-york"
   }
 ]

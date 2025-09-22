@@ -1,57 +1,35 @@
 [
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "Amazon",
-    "job_city": "Irvine",
+    "job_title": "Sr. Solutions Engineer",
+    "employer_name": "Databricks",
+    "job_city": "Remote - California",
     "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3090680/software-engineer-i",
-    "job_posted_at": "2025-09-22T20:07:55.628Z",
-    "job_posted_at_datetime_utc": "2025-09-22T20:07:55.628Z",
-    "id": "amazon-software-engineer-i-irvine"
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8153037002",
+    "job_posted_at_datetime_utc": "2025-09-22T22:04:32.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-solutions-engineer-remote-california"
   },
   {
-    "job_title": "Software Developer Engineer, Kuiper Security",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3090703/software-developer-engineer-kuiper-security",
-    "job_posted_at": "2025-09-22T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-22T00:00:00.000Z",
-    "id": "amazon-software-developer-engineer-kuiper-security-redmond"
-  },
-  {
-    "job_title": "Software Development Engineer , Amazon Payments",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3090715/software-development-engineer-amazon-payments",
-    "job_posted_at": "2025-09-22T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-22T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-amazon-payments-arlington"
-  },
-  {
-    "job_title": "Research Intern, AI Systems and Machine Learning (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/737591472613822",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-intern-ai-systems-and-machine-learning-phd-bellevue"
-  },
-  {
-    "job_title": "Machine Learning Engineer 5 - Content and Studio",
+    "job_title": "Software Engineer L4/L5, LLM Evaluation & Infrastructure, Machine Learning Platform",
     "employer_name": "Netflix",
     "job_city": "USA - Remote",
     "job_state": "CA",
     "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312006575",
-    "job_posted_at_datetime_utc": "2025-09-16T00:00:00.000Z",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312128382",
+    "job_posted_at_datetime_utc": "2025-09-22T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-machine-learning-engineer-5-content-and-studio-usa-remote"
+    "id": "netflix-software-engineer-l4-l5-llm-evaluation-infrastructure-machine-learning-platform-usa-remote"
+  },
+  {
+    "job_title": "Distributed Systems Engineer (L5) - Service Networking",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312128952",
+    "job_posted_at_datetime_utc": "2025-09-22T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-distributed-systems-engineer-l5-service-networking-usa-remote"
   }
 ]

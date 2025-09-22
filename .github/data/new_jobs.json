@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Product Manager, AdTech and Machine Learning",
+    "job_title": "Embedded Software Engineer, Silicon Infrastructure",
     "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Product Strategy",
-    "job_apply_link": "https://www.metacareers.com/jobs/1677201719639446",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +2 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/772656515477486",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-manager-adtech-and-machine-learning-multiple"
+    "id": "meta-embedded-software-engineer-silicon-infrastructure-sunnyvale"
+  },
+  {
+    "job_title": "Senior Product Manager - Customer Experience Engineering (CxE)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874859",
+    "job_posted_at_datetime_utc": "2025-09-22T17:15:17.745Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-product-manager-customer-experience-engineering-cxe-redmond"
   }
 ]

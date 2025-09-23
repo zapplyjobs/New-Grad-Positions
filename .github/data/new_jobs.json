@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Senior Software Engineer - Windows Cloud",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "job_title": "Software Dev Engineer, Offer Suppression",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858138",
-    "job_posted_at_datetime_utc": "2025-09-23T01:43:31.244Z",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3090883/software-dev-engineer-offer-suppression",
+    "job_posted_at": "2025-09-23T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-23T00:00:00.000Z",
+    "id": "amazon-software-dev-engineer-offer-suppression-seattle"
+  },
+  {
+    "job_title": "Entry Level Software Engineer - Test and Verification - Test and Verification",
+    "employer_name": "The Boeing Company",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
+    "job_description": "Join The Boeing Company in this exciting opportunity.",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Test---Verification--Test---Verification-_JR2025470699-2",
+    "job_posted_at_datetime_utc": "2025-09-23T02:05:54.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-windows-cloud-redmond"
+    "id": "the-boeing-company-entry-level-software-engineer-test-and-verification-test-and-verification-oklahoma-city"
   }
 ]

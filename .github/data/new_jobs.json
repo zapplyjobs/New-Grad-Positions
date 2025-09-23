@@ -1,78 +1,13 @@
 [
   {
-    "job_title": "Software Development Engineer, AWS PawPrint",
-    "employer_name": "Amazon",
-    "job_city": "Herndon",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3091151/software-development-engineer-aws-pawprint",
-    "job_posted_at": "2025-09-23T15:10:54.023Z",
-    "job_posted_at_datetime_utc": "2025-09-23T15:10:54.023Z",
-    "id": "amazon-software-development-engineer-aws-pawprint-herndon"
-  },
-  {
-    "job_title": "Software Development Engineer, AWS",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3091146/software-development-engineer-aws",
-    "job_posted_at": "2025-09-23T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-23T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-aws-arlington"
-  },
-  {
-    "job_title": "Software Development Engineer, AWS",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3091220/software-development-engineer-aws",
-    "job_posted_at": "2025-09-23T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-23T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-aws-seattle"
-  },
-  {
-    "job_title": "Software Dev Engineer II - AMZ9442131",
-    "employer_name": "Amazon",
-    "job_city": "Portland",
-    "job_state": "OR",
-    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design.#0000",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3091223/software-dev-engineer-ii-amz9442131",
-    "job_posted_at": "2025-09-23T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-23T00:00:00.000Z",
-    "id": "amazon-software-dev-engineer-ii-amz9442131-portland"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Technical Account Manager",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Account Manager, Cloud Consulting, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78262012345230022-technical-account-manager-cloud-consulting-google-cloud?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=2",
-    "id": "google-technical-account-manager-new-york"
-  },
-  {
-    "job_title": "Software Engineer \\ Senior Software Engineer  - Azure Core (Multiple Roles)",
+    "job_title": "Senior Software Engineer - CTJ - TS/SCI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882105",
-    "job_posted_at_datetime_utc": "2025-09-23T16:17:33.352Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881306",
+    "job_posted_at_datetime_utc": "2025-09-23T17:13:57.295Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-senior-software-engineer-azure-core-multiple-roles-redmond"
-  },
-  {
-    "job_title": "Sales Solution Engineer Dynamics365 Customer Engagement",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880791",
-    "job_posted_at_datetime_utc": "2025-09-23T16:17:33.352Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-sales-solution-engineer-dynamics365-customer-engagement-redmond"
+    "id": "microsoft-senior-software-engineer-ctj-ts-sci-redmond"
   }
 ]

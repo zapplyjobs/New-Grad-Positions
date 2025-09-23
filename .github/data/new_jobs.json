@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Research Scientist Intern, Perception for Human Inputs and Interactions (PhD)",
+    "job_title": "Product Marketing Manager, Wearables",
     "employer_name": "Meta",
     "job_city": "Multiple",
     "job_state": "Locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/790477720365418",
+    "job_apply_link": "https://www.metacareers.com/jobs/9173319409458456",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-perception-for-human-inputs-and-interactions-phd-multiple"
+    "id": "meta-product-marketing-manager-wearables-multiple"
   },
   {
-    "job_title": "Software Engineer, ML Compiler",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +5 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1249715279400109",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-ml-compiler-sunnyvale"
-  },
-  {
-    "job_title": "Principal Mechanical Engineering Manager",
+    "job_title": "Member of Technical Staff, Data Research Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879079",
-    "job_posted_at_datetime_utc": "2025-09-23T13:22:11.199Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882044",
+    "job_posted_at_datetime_utc": "2025-09-23T14:16:12.193Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-mechanical-engineering-manager-redmond"
+    "id": "microsoft-member-of-technical-staff-data-research-engineer-redmond"
   }
 ]

@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Software Development Engineer II, Studios Entertainment & Platform Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Culver City",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2918012/software-development-engineer-ii-studios-entertainment-platform-engineering",
-    "job_posted_at": "2025-09-22T21:09:02.940Z",
-    "job_posted_at_datetime_utc": "2025-09-22T21:09:02.940Z",
-    "id": "amazon-software-development-engineer-ii-studios-entertainment-platform-engineering-culver-city"
-  },
-  {
-    "job_title": "Software Engineer, Data Engineering (CoreAI)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877936",
-    "job_posted_at_datetime_utc": "2025-09-22T23:16:00.026Z",
+    "job_title": "Graduate Engineering Program",
+    "employer_name": "NorthMark Strategies",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_description": "Join NorthMark Strategies in this exciting opportunity.",
+    "job_apply_link": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Graduate-Program_R12714",
+    "job_posted_at_datetime_utc": "2025-09-22T23:55:51.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-data-engineering-coreai-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - CTJ - Top Secret",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881913",
-    "job_posted_at_datetime_utc": "2025-09-22T23:16:00.026Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-ctj-top-secret-redmond"
+    "id": "northmark-strategies-graduate-engineering-program-dallas"
   }
 ]

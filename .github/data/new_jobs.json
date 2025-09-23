@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Software Dev Engineer, Offer Suppression",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
+    "job_title": "Software Engineer I - Discovery Recommendations",
+    "employer_name": "Chewy",
+    "job_city": "Bellevue",
     "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3090883/software-dev-engineer-offer-suppression",
-    "job_posted_at": "2025-09-23T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-23T00:00:00.000Z",
-    "id": "amazon-software-dev-engineer-offer-suppression-seattle"
+    "job_description": "Join Chewy in this exciting opportunity.",
+    "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=7260970",
+    "job_posted_at_datetime_utc": "2025-09-23T03:12:03.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "chewy-software-engineer-i-discovery-recommendations-bellevue"
   },
   {
-    "job_title": "Entry Level Software Engineer - Test and Verification - Test and Verification",
-    "employer_name": "The Boeing Company",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_description": "Join The Boeing Company in this exciting opportunity.",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Test---Verification--Test---Verification-_JR2025470699-2",
-    "job_posted_at_datetime_utc": "2025-09-23T02:05:54.000Z",
+    "job_title": "Software Development Engineer 1 - New Product Engineering",
+    "employer_name": "NextEra Energy",
+    "job_city": "St Paul",
+    "job_state": "MN",
+    "job_description": "Join NextEra Energy in this exciting opportunity.",
+    "job_apply_link": "https://jobs.nexteraenergy.com/job/St_-Paul-Software-Development-Eng-I-MN-55107/1312731700/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2025-09-23T02:34:49.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "the-boeing-company-entry-level-software-engineer-test-and-verification-test-and-verification-oklahoma-city"
+    "id": "nextera-energy-software-development-engineer-1-new-product-engineering-st-paul"
   }
 ]

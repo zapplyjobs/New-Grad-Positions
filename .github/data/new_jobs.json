@@ -1,35 +1,79 @@
 [
   {
-    "job_title": "Product Policy Associate Manager, Commercial",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1472859200525732",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-policy-associate-manager-commercial-multiple"
+    "job_title": "Software Development Engineer, S3 Keystone",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3091555/software-development-engineer-s3-keystone",
+    "job_posted_at": "2025-09-23T19:09:38.650Z",
+    "job_posted_at_datetime_utc": "2025-09-23T19:09:38.650Z",
+    "id": "amazon-software-development-engineer-s3-keystone-seattle"
   },
   {
-    "job_title": "Solution Engineering- Cloud & AI Apps",
+    "job_title": "Senior Sourcing Engineer - Devices",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880859",
-    "job_posted_at_datetime_utc": "2025-09-23T19:14:34.645Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881240",
+    "job_posted_at_datetime_utc": "2025-09-23T20:16:19.670Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineering-cloud-ai-apps-redmond"
+    "id": "microsoft-senior-sourcing-engineer-devices-redmond"
   },
   {
-    "job_title": "Staff Software Engineer, Backend (Blockchain Platform - Platform)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7071526?gh_jid=7071526",
-    "job_posted_at_datetime_utc": "2025-09-23T18:38:47.000Z",
+    "job_title": "Forward Deployed Engineer (FDE)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876152",
+    "job_posted_at_datetime_utc": "2025-09-23T20:16:19.670Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-staff-software-engineer-backend-blockchain-platform-platform-remote-usa"
+    "id": "microsoft-forward-deployed-engineer-fde-redmond"
+  },
+  {
+    "job_title": "Graphics Software Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881220",
+    "job_posted_at_datetime_utc": "2025-09-23T20:16:19.670Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-graphics-software-engineer-ii-redmond"
+  },
+  {
+    "job_title": "Sr. GTM Analytics Engineer",
+    "employer_name": "Databricks",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8177753002",
+    "job_posted_at_datetime_utc": "2025-09-23T20:12:38.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-gtm-analytics-engineer-san-francisco"
+  },
+  {
+    "job_title": "Entry Level Software Engineer - Systems Test & Verification - Test & Verification",
+    "employer_name": "The Boeing Company",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
+    "job_description": "Join The Boeing Company in this exciting opportunity.",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Systems-Test---Verification--Test---Verification-_JR2025470683",
+    "job_posted_at_datetime_utc": "2025-09-23T20:06:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "the-boeing-company-entry-level-software-engineer-systems-test-verification-test-verification-oklahoma-city"
+  },
+  {
+    "job_title": "Fullstack Engineer, Money as a Service (MaaS)",
+    "employer_name": "Stripe",
+    "job_city": "N/A",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6789983",
+    "job_posted_at_datetime_utc": "2025-09-23T19:18:41.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-fullstack-engineer-money-as-a-service-maas-n-a"
   }
 ]

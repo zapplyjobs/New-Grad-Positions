@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "ASIC Engineer, Networking Architecture and Modeling",
+    "job_title": "Product Policy Associate Manager, Commercial",
     "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +1 locations",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/747011151654473",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1472859200525732",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-asic-engineer-networking-architecture-and-modeling-sunnyvale"
+    "id": "meta-product-policy-associate-manager-commercial-multiple"
   },
   {
-    "job_title": "Research Product Manager (Computer Vision)",
-    "employer_name": "Meta",
+    "job_title": "Solution Engineering- Cloud & AI Apps",
+    "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Product Management +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/594151926774312",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-product-manager-computer-vision-redmond"
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880859",
+    "job_posted_at_datetime_utc": "2025-09-23T19:14:34.645Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineering-cloud-ai-apps-redmond"
+  },
+  {
+    "job_title": "Staff Software Engineer, Backend (Blockchain Platform - Platform)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7071526?gh_jid=7071526",
+    "job_posted_at_datetime_utc": "2025-09-23T18:38:47.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-staff-software-engineer-backend-blockchain-platform-platform-remote-usa"
   }
 ]

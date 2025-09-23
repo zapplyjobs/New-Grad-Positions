@@ -1,13 +1,56 @@
 [
   {
-    "job_title": "Cloud & AI Solution Engineer, Data Platform - Canberra",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876047",
-    "job_posted_at_datetime_utc": "2025-09-23T05:15:55.288Z",
+    "job_title": "Security Engineer",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +4 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1311440420431368",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-security-engineer-bellevue"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager II",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager II, Colocation Infrastructure, Cloud Networking",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/139842360082080454-technical-program-manager-ii-colocation-infrastructure-cloud-networking?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7",
+    "id": "google-technical-program-manager-ii-reston"
+  },
+  {
+    "job_title": "Software Engineer – New Grad 2026",
+    "employer_name": "Nextdoor",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_description": "Join Nextdoor in this exciting opportunity.",
+    "job_apply_link": "https://about.nextdoor.com/careers-list/?gh_jid=6978039",
+    "job_posted_at_datetime_utc": "2025-09-23T05:37:05.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-data-platform-canberra-redmond"
+    "id": "nextdoor-software-engineer-new-grad-2026-dallas"
+  },
+  {
+    "job_title": "Software Engineer 1 - Multiple Teams",
+    "employer_name": "Jerry",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_description": "Join Jerry in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/jerry.ai/a25ea926-a8ed-416c-b426-4bfd73de3e38/application",
+    "job_posted_at_datetime_utc": "2025-09-23T05:32:23.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "jerry-software-engineer-1-multiple-teams-palo-alto"
+  },
+  {
+    "job_title": "Software Engineer – New Grad - Backend",
+    "employer_name": "OKX ",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join OKX  in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/okx/jobs/7384630003",
+    "job_posted_at_datetime_utc": "2025-09-23T05:24:15.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "okx-software-engineer-new-grad-backend-san-jose"
   }
 ]

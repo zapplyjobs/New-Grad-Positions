@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Senior Software Engineer - CTJ - TS/SCI",
-    "employer_name": "Microsoft",
+    "job_title": "ASIC Engineer, Networking Architecture and Modeling",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/747011151654473",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-asic-engineer-networking-architecture-and-modeling-sunnyvale"
+  },
+  {
+    "job_title": "Research Product Manager (Computer Vision)",
+    "employer_name": "Meta",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881306",
-    "job_posted_at_datetime_utc": "2025-09-23T17:13:57.295Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-ctj-ts-sci-redmond"
+    "job_description": "Product Management +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/594151926774312",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-product-manager-computer-vision-redmond"
   }
 ]

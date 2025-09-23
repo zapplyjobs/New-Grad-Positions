@@ -1,23 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Technical Program Manager Security Delivery",
-    "job_city": "Kirkland",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager Security Delivery, Network Edge, Logistics",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/86536593258488518-technical-program-manager-security-delivery-network-edge-logistics?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=4",
-    "id": "google-technical-program-manager-security-delivery-kirkland"
-  },
-  {
-    "job_title": "Principal Software Engineering Manager- GPU Inference Optimization",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881372",
-    "job_posted_at_datetime_utc": "2025-09-23T08:18:16.098Z",
+    "job_title": "Software Engineer – New College Graduate",
+    "employer_name": "SIFT",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_description": "Join SIFT in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6/application",
+    "job_posted_at_datetime_utc": "2025-09-23T09:06:35.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineering-manager-gpu-inference-optimization-redmond"
+    "id": "sift-software-engineer-new-college-graduate-el-segundo"
   }
 ]

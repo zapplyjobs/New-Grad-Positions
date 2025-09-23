@@ -1,79 +1,78 @@
 [
   {
-    "job_title": "Software Development Engineer, S3 Keystone",
+    "job_title": "Software Dev Engineer, Offer Listing Systems",
     "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3091555/software-development-engineer-s3-keystone",
-    "job_posted_at": "2025-09-23T19:09:38.650Z",
-    "job_posted_at_datetime_utc": "2025-09-23T19:09:38.650Z",
-    "id": "amazon-software-development-engineer-s3-keystone-seattle"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3090887/software-dev-engineer-offer-listing-systems",
+    "job_posted_at": "2025-09-23T02:08:11.779Z",
+    "job_posted_at_datetime_utc": "2025-09-23T02:08:11.779Z",
+    "id": "amazon-software-dev-engineer-offer-listing-systems-seattle"
   },
   {
-    "job_title": "Senior Sourcing Engineer - Devices",
+    "job_title": "Software Development Engineer, AWS Infrastructure Services",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2910165/software-development-engineer-aws-infrastructure-services",
+    "job_posted_at": "2025-09-18T21:08:11.779Z",
+    "job_posted_at_datetime_utc": "2025-09-18T21:08:11.779Z",
+    "id": "amazon-software-development-engineer-aws-infrastructure-services-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager, Infrastructure Modernization",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96890488098824902-technical-program-manager-infrastructure-modernization?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=5",
+    "id": "google-technical-program-manager-redmond"
+  },
+  {
+    "job_title": "Senior SoftwareEngineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881240",
-    "job_posted_at_datetime_utc": "2025-09-23T20:16:19.670Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882123",
+    "job_posted_at_datetime_utc": "2025-09-23T21:14:58.491Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-sourcing-engineer-devices-redmond"
+    "id": "microsoft-senior-softwareengineer-redmond"
   },
   {
-    "job_title": "Forward Deployed Engineer (FDE)",
+    "job_title": "Senior Software Engineer - Azure Databricks",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876152",
-    "job_posted_at_datetime_utc": "2025-09-23T20:16:19.670Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876096",
+    "job_posted_at_datetime_utc": "2025-09-23T21:14:58.491Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-forward-deployed-engineer-fde-redmond"
+    "id": "microsoft-senior-software-engineer-azure-databricks-redmond"
   },
   {
-    "job_title": "Graphics Software Engineer II",
+    "job_title": "Principal Machine Learning (ML) Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881220",
-    "job_posted_at_datetime_utc": "2025-09-23T20:16:19.670Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1832217",
+    "job_posted_at_datetime_utc": "2025-09-23T21:14:58.491Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-graphics-software-engineer-ii-redmond"
+    "id": "microsoft-principal-machine-learning-ml-engineer-redmond"
   },
   {
-    "job_title": "Sr. GTM Analytics Engineer",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8177753002",
-    "job_posted_at_datetime_utc": "2025-09-23T20:12:38.000Z",
+    "job_title": "Senior Innovative Data Platform Solution Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880546",
+    "job_posted_at_datetime_utc": "2025-09-23T21:14:58.491Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-gtm-analytics-engineer-san-francisco"
-  },
-  {
-    "job_title": "Entry Level Software Engineer - Systems Test & Verification - Test & Verification",
-    "employer_name": "The Boeing Company",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_description": "Join The Boeing Company in this exciting opportunity.",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Systems-Test---Verification--Test---Verification-_JR2025470683",
-    "job_posted_at_datetime_utc": "2025-09-23T20:06:42.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "the-boeing-company-entry-level-software-engineer-systems-test-verification-test-verification-oklahoma-city"
-  },
-  {
-    "job_title": "Fullstack Engineer, Money as a Service (MaaS)",
-    "employer_name": "Stripe",
-    "job_city": "N/A",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6789983",
-    "job_posted_at_datetime_utc": "2025-09-23T19:18:41.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-fullstack-engineer-money-as-a-service-maas-n-a"
+    "id": "microsoft-senior-innovative-data-platform-solution-engineer-redmond"
   }
 ]

@@ -1,24 +1,67 @@
 [
   {
-    "job_title": "Software Engineer I - Discovery Recommendations",
+    "employer_name": "Microsoft",
+    "job_title": "Azure Data",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineer. Level: Students and graduates. Posted: Recently. Full Title: Software Engineer - Azure Data",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1853826/Software-Engineer---Azure-Data",
+    "id": "microsoft-azure-data-redmond"
+  },
+  {
+    "job_title": "Machine Learning Engineer – New Grad 2026 - Machine Learning - Nextdoor",
+    "employer_name": "Nextdoor",
+    "job_city": "Dallas",
+    "job_state": "TX",
+    "job_description": "Join Nextdoor in this exciting opportunity.",
+    "job_apply_link": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
+    "job_posted_at_datetime_utc": "2025-09-23T03:29:13.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "nextdoor-machine-learning-engineer-new-grad-2026-machine-learning-nextdoor-dallas"
+  },
+  {
+    "job_title": "Senior Software Engineer, Profile & Community",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7097609?gh_jid=7097609",
+    "job_posted_at_datetime_utc": "2025-09-23T03:27:24.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-senior-software-engineer-profile-community-united-states"
+  },
+  {
+    "job_title": "Software Engineer – Early Career",
+    "employer_name": "Everlaw",
+    "job_city": "Oakland",
+    "job_state": "CA",
+    "job_description": "Join Everlaw in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/everlaw/jobs/4597021006",
+    "job_posted_at_datetime_utc": "2025-09-23T03:20:33.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "everlaw-software-engineer-early-career-oakland"
+  },
+  {
+    "job_title": "University Graduate - Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join Adobe in this exciting opportunity.",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133",
+    "job_posted_at_datetime_utc": "2025-09-23T03:20:05.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "adobe-university-graduate-machine-learning-engineer-seattle"
+  },
+  {
+    "job_title": "Software Engineer 1 - Discovery Recommendations",
     "employer_name": "Chewy",
     "job_city": "Bellevue",
     "job_state": "WA",
     "job_description": "Join Chewy in this exciting opportunity.",
-    "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=7260970",
-    "job_posted_at_datetime_utc": "2025-09-23T03:12:03.000Z",
+    "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=7187320",
+    "job_posted_at_datetime_utc": "2025-09-23T03:12:02.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "chewy-software-engineer-i-discovery-recommendations-bellevue"
-  },
-  {
-    "job_title": "Software Development Engineer 1 - New Product Engineering",
-    "employer_name": "NextEra Energy",
-    "job_city": "St Paul",
-    "job_state": "MN",
-    "job_description": "Join NextEra Energy in this exciting opportunity.",
-    "job_apply_link": "https://jobs.nexteraenergy.com/job/St_-Paul-Software-Development-Eng-I-MN-55107/1312731700/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2025-09-23T02:34:49.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "nextera-energy-software-development-engineer-1-new-product-engineering-st-paul"
+    "id": "chewy-software-engineer-1-discovery-recommendations-bellevue"
   }
 ]

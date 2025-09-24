@@ -1,12 +1,79 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Discover DS Data Scientist",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "job_title": "Software Development Engineer, AWS Polly",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069433/software-development-engineer-aws-polly",
+    "job_posted_at": "2025-09-24T21:08:44.967Z",
+    "job_posted_at_datetime_utc": "2025-09-24T21:08:44.967Z",
+    "id": "amazon-software-development-engineer-aws-polly-boston"
+  },
+  {
+    "job_title": "Software Development Engineer, Amazon FSx",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092535/software-development-engineer-amazon-fsx",
+    "job_posted_at": "2025-09-24T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-24T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-amazon-fsx-new-york"
+  },
+  {
+    "job_title": "Research Scientist",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/2308584682855332",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Discover DS Data Scientist, Research",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133191053468410566-discover-ds-data-scientist-research?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
-    "id": "google-discover-ds-data-scientist-mountain-view"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-multiple"
+  },
+  {
+    "job_title": "Software Engineer - Product (Technical Leadership)",
+    "employer_name": "Meta",
+    "job_city": "Remote",
+    "job_state": "US",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/4043567932553615",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-product-technical-leadership-remote"
+  },
+  {
+    "job_title": "Area Schedule Lead - Data Center Design, Engineering and Construction",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Data Center Design, Engineering, & Construction",
+    "job_apply_link": "https://www.metacareers.com/jobs/1326514215677521",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-area-schedule-lead-data-center-design-engineering-and-construction-multiple"
+  },
+  {
+    "job_title": "Software Engineer II, Surface",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882081",
+    "job_posted_at_datetime_utc": "2025-09-24T22:15:22.770Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-surface-redmond"
+  },
+  {
+    "job_title": "UX Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882620",
+    "job_posted_at_datetime_utc": "2025-09-24T22:15:22.770Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-ux-engineer-redmond"
   }
 ]

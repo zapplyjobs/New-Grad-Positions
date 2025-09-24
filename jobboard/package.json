@@ -15,7 +15,7 @@
     "express": "^5.1.0",
     "framer-motion": "^12.23.12",
     "node-fetch": "^3.3.2",
-    "puppeteer": "^24.22.2",
+    "puppeteer": "^24.22.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.3",

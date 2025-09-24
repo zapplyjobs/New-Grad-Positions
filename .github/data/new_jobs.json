@@ -1,46 +1,24 @@
 [
   {
-    "job_title": "Software Engineer II",
-    "employer_name": "Amazon",
-    "job_city": "Irvine",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3090680/software-engineer-ii",
-    "job_posted_at": "2025-09-22T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-22T00:00:00.000Z",
-    "id": "amazon-software-engineer-ii-irvine"
+    "job_title": "Planning & Capacity Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +2 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1453611162567436",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-planning-capacity-engineer-sunnyvale"
   },
   {
-    "job_title": "Solution Engineer Dynamics 365 Sales & Service",
+    "job_title": "Software Engineer II - Full Stack",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845916",
-    "job_posted_at_datetime_utc": "2025-09-24T19:14:33.716Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880968",
+    "job_posted_at_datetime_utc": "2025-09-24T20:16:27.700Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-dynamics-365-sales-service-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer, UI/UX Specialist",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area or Remote (U.S.)",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8181501002",
-    "job_posted_at_datetime_utc": "2025-09-24T18:57:06.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-senior-software-engineer-ui-ux-specialist-san-francisco-bay-area-or-remote-u-s"
-  },
-  {
-    "job_title": "Software Engineer University Grad",
-    "employer_name": "Pinterest",
-    "job_city": "San Francisco",
-    "job_state": "Locations",
-    "job_description": "Join Pinterest in this exciting opportunity.",
-    "job_apply_link": "https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
-    "job_posted_at_datetime_utc": "2025-09-24T18:20:03.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "pinterest-software-engineer-university-grad-san-francisco"
+    "id": "microsoft-software-engineer-ii-full-stack-redmond"
   }
 ]

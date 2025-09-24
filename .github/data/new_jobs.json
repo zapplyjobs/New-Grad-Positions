@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Cloud & AI Solution Engineer Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882446",
-    "job_posted_at_datetime_utc": "2025-09-24T06:19:52.881Z",
+    "job_title": "Entry Level Digital Signal Processing Software Engineer - Mastodon Design Team",
+    "employer_name": "CACI",
+    "job_city": "Rochester",
+    "job_state": "NY",
+    "job_description": "Join CACI in this exciting opportunity.",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_317777",
+    "job_posted_at_datetime_utc": "2025-09-24T06:59:07.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-manager-redmond"
-  },
-  {
-    "job_title": "Software Engineer",
-    "employer_name": "Figma",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Figma in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/figma/jobs/5616603004",
-    "job_posted_at_datetime_utc": "2025-09-24T05:32:06.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "figma-software-engineer-san-francisco"
+    "id": "caci-entry-level-digital-signal-processing-software-engineer-mastodon-design-team-rochester"
   }
 ]

@@ -1,79 +1,57 @@
 [
   {
-    "job_title": "Software Development Engineer, AWS Polly",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3069433/software-development-engineer-aws-polly",
-    "job_posted_at": "2025-09-24T21:08:44.967Z",
-    "job_posted_at_datetime_utc": "2025-09-24T21:08:44.967Z",
-    "id": "amazon-software-development-engineer-aws-polly-boston"
-  },
-  {
-    "job_title": "Software Development Engineer, Amazon FSx",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092535/software-development-engineer-amazon-fsx",
-    "job_posted_at": "2025-09-24T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-24T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-amazon-fsx-new-york"
-  },
-  {
-    "job_title": "Research Scientist",
+    "job_title": "Opto-Mechanical Engineer, Reality Labs Research, Hardware Engineering",
     "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/2308584682855332",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-multiple"
-  },
-  {
-    "job_title": "Software Engineer - Product (Technical Leadership)",
-    "employer_name": "Meta",
-    "job_city": "Remote",
-    "job_state": "US",
+    "job_city": "Redmond",
+    "job_state": "WA",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/4043567932553615",
+    "job_apply_link": "https://www.metacareers.com/jobs/788327850585195",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-product-technical-leadership-remote"
+    "id": "meta-opto-mechanical-engineer-reality-labs-research-hardware-engineering-redmond"
   },
   {
-    "job_title": "Area Schedule Lead - Data Center Design, Engineering and Construction",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
+    "job_title": "Software Engineer II (Networking & Telemetry Systems)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882267",
+    "job_posted_at_datetime_utc": "2025-09-24T23:15:15.787Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-networking-telemetry-systems-redmond"
+  },
+  {
+    "job_title": "Junior Software Developer - Go Lang",
+    "employer_name": "mthree",
+    "job_city": "United Kingdom",
     "job_state": "Locations",
-    "job_description": "Data Center Design, Engineering, & Construction",
-    "job_apply_link": "https://www.metacareers.com/jobs/1326514215677521",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-area-schedule-lead-data-center-design-engineering-and-construction-multiple"
+    "job_description": "Join mthree in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
+    "job_posted_at_datetime_utc": "2025-09-24T23:03:55.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "mthree-junior-software-developer-go-lang-united-kingdom"
   },
   {
-    "job_title": "Software Engineer II, Surface",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882081",
-    "job_posted_at_datetime_utc": "2025-09-24T22:15:22.770Z",
+    "job_title": "Junior Software Developer - Java/Scala",
+    "employer_name": "mthree",
+    "job_city": "Ireland",
+    "job_state": "Locations",
+    "job_description": "Join mthree in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
+    "job_posted_at_datetime_utc": "2025-09-24T23:03:47.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-surface-redmond"
+    "id": "mthree-junior-software-developer-java-scala-ireland"
   },
   {
-    "job_title": "UX Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882620",
-    "job_posted_at_datetime_utc": "2025-09-24T22:15:22.770Z",
+    "job_title": "Manager, Software Engineering - Collaboration Tools",
+    "employer_name": "Figma",
+    "job_city": "San Francisco",
+    "job_state": "CA • New York",
+    "job_description": "Join Figma to make design accessible to all.",
+    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5654898004?gh_jid=5654898004",
+    "job_posted_at_datetime_utc": "2025-09-24T22:26:18.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-ux-engineer-redmond"
+    "id": "figma-manager-software-engineering-collaboration-tools-san-francisco"
   }
 ]

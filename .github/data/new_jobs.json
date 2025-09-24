@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Research Scientist Intern, AI & System Co-Design (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "AI Research +6 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1859723961565682",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-ai-system-co-design-phd-menlo-park"
+    "job_title": "Digital Solution Engineer - Cloud & Data",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876172",
+    "job_posted_at_datetime_utc": "2025-09-24T03:25:43.859Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-digital-solution-engineer-cloud-data-redmond"
+  },
+  {
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Warner Bros.",
+    "job_city": "Salt Lake City",
+    "job_state": "UT",
+    "job_description": "Join Warner Bros. in this exciting opportunity.",
+    "job_apply_link": "https://warnerbros.wd5.myworkdayjobs.com/global/job/UT-Salt-Lake-City-175-East-400-South/Junior-Software-Engineer_R000098752-1",
+    "job_posted_at_datetime_utc": "2025-09-24T03:11:07.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "warner-bros-junior-software-engineer-salt-lake-city"
+  },
+  {
+    "job_title": "Entry Level Java Developer/Software Engineer and Technology Business Analysts - Technology Business Analysis - Applications Development",
+    "employer_name": "Citigroup",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_description": "Join Citigroup in this exciting opportunity.",
+    "job_apply_link": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Entry-Level-Java-Developer-Software-Engineer-and-Technology-Business-Analysts_25908328",
+    "job_posted_at_datetime_utc": "2025-09-24T02:30:47.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "citigroup-entry-level-java-developer-software-engineer-and-technology-business-analysts-technology-business-analysis-applications-development-tampa"
   }
 ]

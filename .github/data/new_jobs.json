@@ -1,24 +1,34 @@
 [
   {
-    "job_title": "Fiori Front End Developer – Entry level",
-    "employer_name": "RTX",
-    "job_city": "Waterbury",
-    "job_state": "CT",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RCT99-RTN-Remote-Connecticut/Fiori-Front-End-Developer--Entry-level-_01796231",
-    "job_posted_at_datetime_utc": "2025-09-25T07:49:23.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-fiori-front-end-developer-entry-level-waterbury"
+    "employer_name": "Google",
+    "job_title": "Strategic Partnerships Development Manager",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: Strategic Partnerships Development Manager, YouTube",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/87401823010202310-strategic-partnerships-development-manager-youtube?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-strategic-partnerships-development-manager-new-york"
   },
   {
-    "job_title": "Data Engineer 1",
-    "employer_name": "Trend Health Partners",
-    "job_city": "Remote in USA",
-    "job_state": "Locations",
-    "job_description": "Join Trend Health Partners in this exciting opportunity.",
-    "job_apply_link": "https://jobs.lever.co/Trend-Health-Partners/5a892ec7-a7b0-4afc-81d1-c191e6796e59/apply",
-    "job_posted_at_datetime_utc": "2025-09-25T07:35:00.000Z",
+    "job_title": "Principal Software Engineering Manager- SxG",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879172",
+    "job_posted_at_datetime_utc": "2025-09-25T09:16:56.990Z",
     "job_employment_type": "FULLTIME",
-    "id": "trend-health-partners-data-engineer-1-remote-in-usa"
+    "id": "microsoft-principal-software-engineering-manager-sxg-redmond"
+  },
+  {
+    "job_title": "Cloud & AI Solution Engineer – Azure Platform - Early in Career",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880351",
+    "job_posted_at_datetime_utc": "2025-09-25T09:16:56.990Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-solution-engineer-azure-platform-early-in-career-redmond"
   }
 ]

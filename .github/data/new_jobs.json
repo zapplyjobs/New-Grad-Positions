@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Fiori Front End Developer – Entry level",
+    "employer_name": "RTX",
+    "job_city": "Waterbury",
+    "job_state": "CT",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RCT99-RTN-Remote-Connecticut/Fiori-Front-End-Developer--Entry-level-_01796231",
+    "job_posted_at_datetime_utc": "2025-09-25T07:49:23.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-fiori-front-end-developer-entry-level-waterbury"
+  },
+  {
+    "job_title": "Data Engineer 1",
+    "employer_name": "Trend Health Partners",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join Trend Health Partners in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/Trend-Health-Partners/5a892ec7-a7b0-4afc-81d1-c191e6796e59/apply",
+    "job_posted_at_datetime_utc": "2025-09-25T07:35:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "trend-health-partners-data-engineer-1-remote-in-usa"
+  }
+]

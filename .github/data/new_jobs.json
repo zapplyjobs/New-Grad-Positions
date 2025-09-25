@@ -1,57 +1,35 @@
 [
   {
-    "job_title": "Opto-Mechanical Engineer, Reality Labs Research, Hardware Engineering",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/788327850585195",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-opto-mechanical-engineer-reality-labs-research-hardware-engineering-redmond"
+    "job_title": "iOS Software Development Engineer, Ring",
+    "employer_name": "Amazon",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092585/ios-software-development-engineer-ring",
+    "job_posted_at": "2025-09-24T23:34:10.899Z",
+    "job_posted_at_datetime_utc": "2025-09-24T23:34:10.899Z",
+    "id": "amazon-ios-software-development-engineer-ring-hawthorne"
   },
   {
-    "job_title": "Software Engineer II (Networking & Telemetry Systems)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882267",
-    "job_posted_at_datetime_utc": "2025-09-24T23:15:15.787Z",
+    "job_title": "Software Engineer 1 - Multiple Teams",
+    "employer_name": "Comcast",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_description": "Join Comcast in this exciting opportunity.",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1---Chicago--IL-OR-Reston--VA_R420695",
+    "job_posted_at_datetime_utc": "2025-09-25T00:01:18.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-networking-telemetry-systems-redmond"
+    "id": "comcast-software-engineer-1-multiple-teams-chicago"
   },
   {
-    "job_title": "Junior Software Developer - Go Lang",
-    "employer_name": "mthree",
-    "job_city": "United Kingdom",
-    "job_state": "Locations",
-    "job_description": "Join mthree in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
-    "job_posted_at_datetime_utc": "2025-09-24T23:03:55.000Z",
+    "job_title": "Engineering Manager, Data Frameworks",
+    "employer_name": "Airbnb",
+    "job_city": "Remote - US",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7271799?gh_jid=7271799",
+    "job_posted_at_datetime_utc": "2025-09-24T23:36:30.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "mthree-junior-software-developer-go-lang-united-kingdom"
-  },
-  {
-    "job_title": "Junior Software Developer - Java/Scala",
-    "employer_name": "mthree",
-    "job_city": "Ireland",
-    "job_state": "Locations",
-    "job_description": "Join mthree in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
-    "job_posted_at_datetime_utc": "2025-09-24T23:03:47.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "mthree-junior-software-developer-java-scala-ireland"
-  },
-  {
-    "job_title": "Manager, Software Engineering - Collaboration Tools",
-    "employer_name": "Figma",
-    "job_city": "San Francisco",
-    "job_state": "CA • New York",
-    "job_description": "Join Figma to make design accessible to all.",
-    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5654898004?gh_jid=5654898004",
-    "job_posted_at_datetime_utc": "2025-09-24T22:26:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "figma-manager-software-engineering-collaboration-tools-san-francisco"
+    "id": "airbnb-engineering-manager-data-frameworks-remote-us"
   }
 ]

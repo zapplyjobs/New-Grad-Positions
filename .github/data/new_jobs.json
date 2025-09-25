@@ -1,79 +1,35 @@
 [
   {
-    "job_title": "Director - Supply Chain Strategy & Engineering",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +2 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1085687569599373",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-director-supply-chain-strategy-engineering-bellevue"
+    "job_title": "Principal Verification Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883136",
+    "job_posted_at_datetime_utc": "2025-09-25T18:19:30.291Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-verification-engineer-redmond"
   },
   {
-    "job_title": "Research Scientist, Neuromotor Interfaces, ML & Signal Proc, Leadership",
-    "employer_name": "Meta",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1081017844128762",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-neuromotor-interfaces-ml-signal-proc-leadership-new-york"
+    "job_title": "Software Engineer - Artificial Intelligence",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883330",
+    "job_posted_at_datetime_utc": "2025-09-25T18:19:30.291Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-artificial-intelligence-redmond"
   },
   {
-    "job_title": "Software Engineer, Front End",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +4 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2289312681523504",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-front-end-bellevue"
-  },
-  {
-    "job_title": "Research Engineer, Language - Generative AI",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +3 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/657040463014594",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-engineer-language-generative-ai-sunnyvale"
-  },
-  {
-    "job_title": "Audio Transducer Design Engineer",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
+    "job_title": "Senior Staff Engineer - Cloud Infrastructure (Compute)",
+    "employer_name": "Airbnb",
+    "job_city": "Remote - USA",
     "job_state": "CA",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/682210158314599",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-audio-transducer-design-engineer-sunnyvale"
-  },
-  {
-    "job_title": "AI Business Process Solution Engineer - Finance & Supply Chain (ERP)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876002",
-    "job_posted_at_datetime_utc": "2025-09-25T17:14:59.465Z",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7276961?gh_jid=7276961",
+    "job_posted_at_datetime_utc": "2025-09-25T18:18:37.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-business-process-solution-engineer-finance-supply-chain-erp-redmond"
-  },
-  {
-    "job_title": "Sourcing Engineer II",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880527",
-    "job_posted_at_datetime_utc": "2025-09-25T17:14:59.465Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-sourcing-engineer-ii-redmond"
+    "id": "airbnb-senior-staff-engineer-cloud-infrastructure-compute-remote-usa"
   }
 ]

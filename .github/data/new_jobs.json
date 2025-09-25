@@ -1,24 +1,34 @@
 [
   {
-    "job_title": "Software Development Engineer, EC2 Instance Networking",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3010819/software-development-engineer-ec2-instance-networking",
-    "job_posted_at": "2025-09-24T22:09:45.552Z",
-    "job_posted_at_datetime_utc": "2025-09-24T22:09:45.552Z",
-    "id": "amazon-software-development-engineer-ec2-instance-networking-seattle"
+    "employer_name": "Google",
+    "job_title": "Product Marketing Manager",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Marketing Manager, Core Products GTM, Geo Makers",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/117203961127019206-product-marketing-manager-core-products-gtm-geo-makers?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7",
+    "id": "google-product-marketing-manager-mountain-view"
   },
   {
-    "job_title": "Product Designer",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Design",
-    "job_apply_link": "https://www.metacareers.com/jobs/810455878167301",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-designer-multiple"
+    "job_title": "Senior Cloud Network Engineer - Physical Network",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879159",
+    "job_posted_at_datetime_utc": "2025-09-25T16:17:05.379Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-cloud-network-engineer-physical-network-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Identity",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7090083?gh_jid=7090083",
+    "job_posted_at_datetime_utc": "2025-09-25T15:55:40.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-identity-remote-usa"
   }
 ]

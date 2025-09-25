@@ -1,35 +1,89 @@
 [
   {
-    "job_title": "Principal Verification Engineer",
+    "job_title": "Software Dev Engineer II, Startup Team",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3092918/software-dev-engineer-ii-startup-team",
+    "job_posted_at": "2025-09-25T14:07:49.233Z",
+    "job_posted_at_datetime_utc": "2025-09-25T14:07:49.233Z",
+    "id": "amazon-software-dev-engineer-ii-startup-team-seattle"
+  },
+  {
+    "job_title": "Research Scientist Intern, Physics-based Simulation for Avatars and Robotics PhD",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "AI Research +5 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1019792683517806",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-physics-based-simulation-for-avatars-and-robotics-phd-multiple"
+  },
+  {
+    "job_title": "Research Scientist Intern, Machine Learning, Character Animation (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/791706973548682",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-machine-learning-character-animation-phd-multiple"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "RiSE group (Formal Methods",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Research Intern. Level: Students and graduates. Posted: Recently. Full Title: Research Intern - RiSE group (Formal Methods",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883443/Research-Intern---RiSE-group-(Formal-Methods%2C-High-Performance-Computing%2C-ML-Systems%2C-Programming-Languages%2C-Software-Engineering)",
+    "id": "microsoft-rise-group-formal-methods-redmond"
+  },
+  {
+    "job_title": "Research Intern - RiSE group (Formal Methods, High-Performance Computing, ML Systems, Programming Languages, Software Engineering)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883136",
-    "job_posted_at_datetime_utc": "2025-09-25T18:19:30.291Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883443",
+    "job_posted_at_datetime_utc": "2025-09-25T19:14:36.555Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-verification-engineer-redmond"
+    "id": "microsoft-research-intern-rise-group-formal-methods-high-performance-computing-ml-systems-programming-languages-software-engineering-redmond"
   },
   {
-    "job_title": "Software Engineer - Artificial Intelligence",
+    "job_title": "Principal Software Engineering Manager - Applied Sciences Group",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883330",
-    "job_posted_at_datetime_utc": "2025-09-25T18:19:30.291Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882128",
+    "job_posted_at_datetime_utc": "2025-09-25T19:14:36.555Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-artificial-intelligence-redmond"
+    "id": "microsoft-principal-software-engineering-manager-applied-sciences-group-redmond"
   },
   {
-    "job_title": "Senior Staff Engineer - Cloud Infrastructure (Compute)",
-    "employer_name": "Airbnb",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/7276961?gh_jid=7276961",
-    "job_posted_at_datetime_utc": "2025-09-25T18:18:37.000Z",
+    "job_title": "Software Engineer 2026 New Grad",
+    "employer_name": "Persona",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Persona in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application",
+    "job_posted_at_datetime_utc": "2025-09-25T18:47:34.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-staff-engineer-cloud-infrastructure-compute-remote-usa"
+    "id": "persona-software-engineer-2026-new-grad-sf"
+  },
+  {
+    "job_title": "Software Developer – Entry Level - Summer 2026",
+    "employer_name": "ICF International",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_description": "Join ICF International in this exciting opportunity.",
+    "job_apply_link": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Software-Developer--Summer-2026--Entry-Level--Remote-_R2502713",
+    "job_posted_at_datetime_utc": "2025-09-25T18:43:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "icf-international-software-developer-entry-level-summer-2026-reston"
   }
 ]

@@ -1,35 +1,46 @@
 [
   {
-    "job_title": "Software Development Engineer, Kuiper Network Services",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3090714/software-development-engineer-kuiper-network-services",
-    "job_posted_at": "2025-09-22T13:16:09.872Z",
-    "job_posted_at_datetime_utc": "2025-09-22T13:16:09.872Z",
-    "id": "amazon-software-development-engineer-kuiper-network-services-redmond"
-  },
-  {
-    "job_title": "Software Dev Engineer II - Amazon Store",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2960873/software-dev-engineer-ii-amazon-store",
-    "job_posted_at": "2025-09-19T13:16:09.872Z",
-    "job_posted_at_datetime_utc": "2025-09-19T13:16:09.872Z",
-    "id": "amazon-software-dev-engineer-ii-amazon-store-austin"
-  },
-  {
-    "job_title": "Systems Security Engineer 1 - Systems Security Engineering",
-    "employer_name": "RTX",
-    "job_city": "Tewksbury",
-    "job_state": "MA",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA131-Tewksbury-MA-Bldg--1-Assabet-50-Apple-Hill-Drive-Assabet---Building-1-Tewksbury-MA-01876-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Massachusetts_01790370",
-    "job_posted_at_datetime_utc": "2025-09-25T12:55:35.000Z",
+    "job_title": "Software Engineer New College Grad - Masters Degree",
+    "employer_name": "Applied Materials",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Join Applied Materials in this exciting opportunity.",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2517309",
+    "job_posted_at_datetime_utc": "2025-09-25T13:52:58.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-systems-security-engineer-1-systems-security-engineering-tewksbury"
+    "id": "applied-materials-software-engineer-new-college-grad-masters-degree-santa-clara"
+  },
+  {
+    "job_title": "Software Operations Engineer I",
+    "employer_name": "Medtronic",
+    "job_city": "Northridge",
+    "job_state": "CA",
+    "job_description": "Join Medtronic in this exciting opportunity.",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476",
+    "job_posted_at_datetime_utc": "2025-09-25T13:40:34.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "medtronic-software-operations-engineer-i-northridge"
+  },
+  {
+    "job_title": "C++ Software Engineer",
+    "employer_name": "Wolverine Trading",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_description": "Join Wolverine Trading in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216",
+    "job_posted_at_datetime_utc": "2025-09-25T13:39:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "wolverine-trading-c-software-engineer-chicago"
+  },
+  {
+    "job_title": "Engineer I - AI Business Engineer",
+    "employer_name": "Western Alliance Bancorporation",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_description": "Join Western Alliance Bancorporation in this exciting opportunity.",
+    "job_apply_link": "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11486",
+    "job_posted_at_datetime_utc": "2025-09-25T13:36:13.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "western-alliance-bancorporation-engineer-i-ai-business-engineer-phoenix"
   }
 ]

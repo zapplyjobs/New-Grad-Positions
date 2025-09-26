@@ -1,13 +1,24 @@
 [
   {
-    "job_title": " Cloud & AI Solution Engineer - Infrastructure",
+    "job_title": "Critical Environment Platform Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882463",
-    "job_posted_at_datetime_utc": "2025-09-26T13:21:44.799Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880533",
+    "job_posted_at_datetime_utc": "2025-09-26T14:14:54.956Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-infrastructure-redmond"
+    "id": "microsoft-critical-environment-platform-engineer-redmond"
+  },
+  {
+    "job_title": "High Performance Computing Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883837",
+    "job_posted_at_datetime_utc": "2025-09-26T14:14:54.956Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-high-performance-computing-engineer-redmond"
   }
 ]

@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer 1",
-    "employer_name": "RTX",
-    "job_city": "Cedar Rapids",
-    "job_state": "IA",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01796448",
-    "job_posted_at_datetime_utc": "2025-09-26T11:57:05.000Z",
+    "job_title": " Cloud & AI Solution Engineer - Infrastructure",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882463",
+    "job_posted_at_datetime_utc": "2025-09-26T13:21:44.799Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-1-cedar-rapids"
-  },
-  {
-    "job_title": "Software Engineer University Grad",
-    "employer_name": "Pinterest",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_description": "Join Pinterest in this exciting opportunity.",
-    "job_apply_link": "https://www.pinterestcareers.com/job-form?gh_jid=7211012",
-    "job_posted_at_datetime_utc": "2025-09-26T11:45:32.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "pinterest-software-engineer-university-grad-palo-alto"
+    "id": "microsoft-cloud-ai-solution-engineer-infrastructure-redmond"
   }
 ]

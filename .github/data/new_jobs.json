@@ -1,78 +1,24 @@
 [
   {
-    "job_title": "Data Center Network Engineer Intern",
+    "job_title": "Software Engineering - Sys ML Engineer - US - IC5",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2162644207557525",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-sys-ml-engineer-us-ic5-menlo-park"
+  },
+  {
+    "job_title": "Data Center Production Operations Engineering Intern",
     "employer_name": "Meta",
     "job_city": "Multiple",
     "job_state": "Locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1140102618098566",
+    "job_apply_link": "https://www.metacareers.com/jobs/798271609275977",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-data-center-network-engineer-intern-multiple"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior UX Program Manager",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior UX Program Manager, Retail Ads",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/88342021416067782-senior-ux-program-manager-retail-ads?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=5",
-    "id": "google-senior-ux-program-manager-new-york"
-  },
-  {
-    "job_title": "Principal Software Engineering Manager – Microsoft 365 Copilot Growth",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882748",
-    "job_posted_at_datetime_utc": "2025-09-26T21:14:52.291Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineering-manager-microsoft-365-copilot-growth-redmond"
-  },
-  {
-    "job_title": "Software Engineer 1 - Industrial Automation",
-    "employer_name": "Honeywell",
-    "job_city": "Fort Mill",
-    "job_state": "SC",
-    "job_description": "Join Honeywell in this exciting opportunity.",
-    "job_apply_link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
-    "job_posted_at_datetime_utc": "2025-09-26T20:17:33.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "honeywell-software-engineer-1-industrial-automation-fort-mill"
-  },
-  {
-    "job_title": "Cyber Security Engineer 1 - Multiple Teams",
-    "employer_name": "Honeywell",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_description": "Join Honeywell in this exciting opportunity.",
-    "job_apply_link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116423",
-    "job_posted_at_datetime_utc": "2025-09-26T20:16:55.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "honeywell-cyber-security-engineer-1-multiple-teams-phoenix"
-  },
-  {
-    "job_title": "Flight Controls Hardware Engineer 1 - Flight Control Systems",
-    "employer_name": "Honeywell",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_description": "Join Honeywell in this exciting opportunity.",
-    "job_apply_link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119199",
-    "job_posted_at_datetime_utc": "2025-09-26T20:15:56.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "honeywell-flight-controls-hardware-engineer-1-flight-control-systems-phoenix"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "Honeywell",
-    "job_city": "Clearwater",
-    "job_state": "FL",
-    "job_description": "Join Honeywell in this exciting opportunity.",
-    "job_apply_link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
-    "job_posted_at_datetime_utc": "2025-09-26T20:14:38.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "honeywell-software-engineer-i-clearwater"
+    "id": "meta-data-center-production-operations-engineering-intern-multiple"
   }
 ]

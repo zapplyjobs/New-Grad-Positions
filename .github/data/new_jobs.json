@@ -1,46 +1,57 @@
 [
   {
-    "job_title": "Software Engineer – New Grad",
-    "employer_name": "Parafin",
+    "job_title": "Junior Developer Consultant - Geospatial Software Development",
+    "employer_name": "Ardent",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join Ardent in this exciting opportunity.",
+    "job_apply_link": "https://boards.greenhouse.io/ardentmc/jobs/7278159",
+    "job_posted_at_datetime_utc": "2025-09-26T19:58:13.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "ardent-junior-developer-consultant-geospatial-software-development-remote-in-usa"
+  },
+  {
+    "job_title": "Quant Research Engineer – New Grad",
+    "employer_name": "Gauntlet Networks",
     "job_city": "SF",
     "job_state": "Locations",
-    "job_description": "Join Parafin in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application",
-    "job_posted_at_datetime_utc": "2025-09-26T18:21:22.000Z",
+    "job_description": "Join Gauntlet Networks in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad/apply",
+    "job_posted_at_datetime_utc": "2025-09-26T19:45:02.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "parafin-software-engineer-new-grad-sf"
+    "id": "gauntlet-networks-quant-research-engineer-new-grad-sf"
   },
   {
-    "job_title": "Software Engineer II - Software Defined Networking",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882250",
-    "job_posted_at_datetime_utc": "2025-09-26T19:14:15.131Z",
+    "job_title": "Senior iOS Engineer, Storefronts",
+    "employer_name": "Airbnb",
+    "job_city": "Remote",
+    "job_state": "USA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7279189?gh_jid=7279189",
+    "job_posted_at_datetime_utc": "2025-09-26T19:30:58.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-software-defined-networking-redmond"
+    "id": "airbnb-senior-ios-engineer-storefronts-remote"
   },
   {
-    "job_title": "Full Stack Engineer, Managed Operations",
-    "employer_name": "Stripe",
-    "job_city": "Seattle",
+    "job_title": "Data Engineer 1 - Insurance Industry",
+    "employer_name": "RELX",
+    "job_city": "Alpharetta",
+    "job_state": "GA",
+    "job_description": "Join RELX in this exciting opportunity.",
+    "job_apply_link": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-I_R100031-1",
+    "job_posted_at_datetime_utc": "2025-09-26T19:20:36.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "relx-data-engineer-1-insurance-industry-alpharetta"
+  },
+  {
+    "job_title": "Software Engineer 4 - Consumer Web Foundations",
+    "employer_name": "Netflix",
+    "job_city": "Los Gatos",
     "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7271571",
-    "job_posted_at_datetime_utc": "2025-09-26T18:46:22.000Z",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312265793",
+    "job_posted_at_datetime_utc": "2025-09-26T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-full-stack-engineer-managed-operations-seattle"
-  },
-  {
-    "job_title": "Senior Software Engineer - Safety Experience",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area (U.S.)",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8183147002",
-    "job_posted_at_datetime_utc": "2025-09-26T18:33:05.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-senior-software-engineer-safety-experience-san-francisco-bay-area-u-s"
+    "id": "netflix-software-engineer-4-consumer-web-foundations-los-gatos"
   }
 ]

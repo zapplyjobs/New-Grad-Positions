@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Software Engineer - Embedded Flight Software, Kuiper Flight Systems / Software",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3094973/software-engineer-embedded-flight-software-kuiper-flight-systems-software",
-    "job_posted_at": "2025-09-27T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-27T00:00:00.000Z",
-    "id": "amazon-software-engineer-embedded-flight-software-kuiper-flight-systems-software-redmond"
+    "job_title": "Software Engineer – Early Career - Software Development",
+    "employer_name": "General Motors",
+    "job_city": "Milford Charter Twp",
+    "job_state": "MI",
+    "job_description": "Join General Motors in this exciting opportunity.",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
+    "job_posted_at_datetime_utc": "2025-09-27T19:28:30.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "general-motors-software-engineer-early-career-software-development-milford-charter-twp"
+  },
+  {
+    "job_title": "Junior Data Engineer",
+    "employer_name": "Sonepar",
+    "job_city": "Jackson",
+    "job_state": "MS",
+    "job_description": "Join Sonepar in this exciting opportunity.",
+    "job_apply_link": "https://career.sonepar.com/job/Jackson-Junior-Data-Engineer-MS-39201/1212241101/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2025-09-27T19:23:09.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "sonepar-junior-data-engineer-jackson"
   }
 ]

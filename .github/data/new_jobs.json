@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "job_title": "Connectivity/Wireless Health Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +3 locations",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1424915462094937",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-connectivity-wireless-health-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Research Engineer, Language",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2780884748740452",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-engineer-language-multiple"
+  },
+  {
+    "job_title": "Planning & Capacity Engineer",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/778122525289001",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-planning-capacity-engineer-menlo-park"
+  },
+  {
+    "job_title": "Product Design Manager - Monetization",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +3 locations",
+    "job_description": "Design & User Experience",
+    "job_apply_link": "https://www.metacareers.com/jobs/2706905472836815",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-design-manager-monetization-bellevue"
+  },
+  {
+    "job_title": "Display Systems Optical Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +4 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/628387513188948",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-display-systems-optical-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Software Engineer - OS Frameworks (Technical Leadership)",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +5 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1199102218593386",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-os-frameworks-technical-leadership-sunnyvale"
+  },
+  {
+    "job_title": "Product Technical Program Manager",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/872300668254107",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-technical-program-manager-multiple"
+  },
+  {
+    "job_title": "Staff Engineer HW Platform Architecture IE-IOT",
+    "employer_name": "Qualcomm",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_description": "Join Qualcomm to invent breakthrough technologies.",
+    "job_apply_link": "https://careers.qualcomm.com/careers/job/446705951117",
+    "job_posted_at_datetime_utc": "2025-09-27T01:42:51.810Z",
+    "job_employment_type": "FULLTIME",
+    "id": "qualcomm-staff-engineer-hw-platform-architecture-ie-iot-san-diego"
+  }
+]

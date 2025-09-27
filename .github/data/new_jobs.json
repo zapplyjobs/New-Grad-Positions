@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Engineer – Early Career",
+    "employer_name": "General Motors",
+    "job_city": "Milford Charter Twp",
+    "job_state": "MI",
+    "job_description": "Join General Motors in this exciting opportunity.",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer---Early-Career_JR-202518329",
+    "job_posted_at_datetime_utc": "2025-09-27T17:52:28.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "general-motors-software-engineer-early-career-milford-charter-twp"
+  },
+  {
+    "job_title": "Software Development Engineer I",
+    "employer_name": "Stackline",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join Stackline in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/stackline/jobs/4613319005",
+    "job_posted_at_datetime_utc": "2025-09-27T17:43:53.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stackline-software-development-engineer-i-seattle"
+  }
+]

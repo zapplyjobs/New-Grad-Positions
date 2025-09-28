@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Senior Software Engineering Manager - Azure Fleet Resource Lifecycle Mgmt Team",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881525",
+    "job_posted_at_datetime_utc": "2025-09-28T04:16:48.506Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineering-manager-azure-fleet-resource-lifecycle-mgmt-team-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer Manager - Azure Core New Tech team",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881587",
+    "job_posted_at_datetime_utc": "2025-09-28T04:16:48.506Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-manager-azure-core-new-tech-team-redmond"
+  }
+]

@@ -1,88 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer II - FPGA/CPLD, AWS Hardware Engineering",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2913963/software-development-engineer-ii-fpga-cpld-aws-hardware-engineering",
-    "job_posted_at": "2025-09-29T20:08:00.375Z",
-    "job_posted_at_datetime_utc": "2025-09-29T20:08:00.375Z",
-    "id": "amazon-software-development-engineer-ii-fpga-cpld-aws-hardware-engineering-cupertino"
-  },
-  {
-    "job_title": "Software Development Engineer II - AWS GenAI/ML Accelerators, AWS Hardware Engineering Services",
-    "employer_name": "Amazon",
-    "job_city": "Cupertino",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3097558/software-development-engineer-ii-aws-genai-ml-accelerators-aws-hardware-engineering-services",
-    "job_posted_at": "2025-09-29T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-09-29T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-ii-aws-genai-ml-accelerators-aws-hardware-engineering-services-cupertino"
-  },
-  {
-    "job_title": "System Validation Engineer",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/784919951107077",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-system-validation-engineer-multiple"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Explore Program Internship Opportunities: Second-Year Students",
-    "job_city": "Atlanta",
-    "job_state": "Georgia",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Explore Program Internship Opportunities: Second-Year Students",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884627/Explore-Program-Internship-Opportunities%3A-Second-Year-Students%2C-Atlanta",
-    "id": "microsoft-explore-program-internship-opportunities-second-year-students-atlanta"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Reliability of Cloud and AI Systems",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Research Intern. Level: Students and graduates. Posted: Recently. Full Title: Research Intern - Reliability of Cloud and AI Systems",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885164/Research-Intern---Reliability-of-Cloud-and-AI-Systems",
-    "id": "microsoft-reliability-of-cloud-and-ai-systems-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - Virtualization",
+    "job_title": "General LAB Support Hardware Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882690",
-    "job_posted_at_datetime_utc": "2025-09-29T21:14:33.717Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883038",
+    "job_posted_at_datetime_utc": "2025-09-29T22:15:12.806Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-virtualization-redmond"
+    "id": "microsoft-general-lab-support-hardware-engineer-redmond"
   },
   {
-    "job_title": "Developer Partner Manager - XBOX",
+    "job_title": "Principal Engineer Manager - Azure Storage",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883666",
-    "job_posted_at_datetime_utc": "2025-09-29T21:14:33.717Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880695",
+    "job_posted_at_datetime_utc": "2025-09-29T22:15:12.806Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-developer-partner-manager-xbox-redmond"
-  },
-  {
-    "job_title": "Senior Security Infrastructure Assurance Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882312",
-    "job_posted_at_datetime_utc": "2025-09-29T21:14:33.717Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-security-infrastructure-assurance-engineer-redmond"
+    "id": "microsoft-principal-engineer-manager-azure-storage-redmond"
   }
 ]

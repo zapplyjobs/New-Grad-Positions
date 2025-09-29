@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Network Engineer, Operations and Support (Labs)",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/9842275459200990",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-network-engineer-operations-and-support-labs-multiple"
+  },
+  {
+    "job_title": "Copilot Solution Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884367",
+    "job_posted_at_datetime_utc": "2025-09-29T01:43:56.011Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-copilot-solution-engineering-redmond"
+  }
+]

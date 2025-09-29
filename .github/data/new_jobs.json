@@ -1,90 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer, Woot!",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3095815/software-development-engineer-woot",
-    "job_posted_at": "2025-09-29T17:12:56.491Z",
-    "job_posted_at_datetime_utc": "2025-09-29T17:12:56.491Z",
-    "id": "amazon-software-development-engineer-woot-seattle"
-  },
-  {
-    "job_title": "Software Engineer 1 - iOS - iOS",
-    "employer_name": "McDonald's",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_description": "Join McDonald's in this exciting opportunity.",
-    "job_apply_link": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2025-09-29T16:59:16.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "mcdonald-s-software-engineer-1-ios-ios-chicago"
-  },
-  {
-    "job_title": "Research Scientist Intern, Embodied AI (PhD)",
+    "job_title": "System Validation Engineer",
     "employer_name": "Meta",
-    "job_city": "Menlo Park",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/778113191645498",
+    "job_apply_link": "https://www.metacareers.com/jobs/784919951107077",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-embodied-ai-phd-menlo-park"
+    "id": "meta-system-validation-engineer-sunnyvale"
   },
   {
-    "job_title": "Research Scientist Intern, Rendering and Reconstruction (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1141581024586584",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-rendering-and-reconstruction-phd-multiple"
-  },
-  {
-    "job_title": "Technical Support Engineer Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868379",
-    "job_posted_at_datetime_utc": "2025-09-29T18:19:36.834Z",
+    "job_title": "Engineering Manager - Money",
+    "employer_name": "Databricks",
+    "job_city": "Bellevue",
+    "job_state": "Washington; Seattle",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7529558002",
+    "job_posted_at_datetime_utc": "2025-09-29T18:50:25.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-manager-redmond"
-  },
-  {
-    "job_title": "Critical Infrastructure Network Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880529",
-    "job_posted_at_datetime_utc": "2025-09-29T18:19:36.834Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-critical-infrastructure-network-engineer-redmond"
-  },
-  {
-    "job_title": "Machine Learning Engineer 5 - Content & Studio",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312289381",
-    "job_posted_at_datetime_utc": "2025-09-29T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-machine-learning-engineer-5-content-studio-usa-remote"
-  },
-  {
-    "job_title": "Software Engineering Associate",
-    "employer_name": "Bloomberg Industry Group",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Join Bloomberg Industry Group in this exciting opportunity.",
-    "job_apply_link": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137896",
-    "job_posted_at_datetime_utc": "2025-09-26T06:47:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "bloomberg-industry-group-software-engineering-associate-arlington"
+    "id": "databricks-engineering-manager-money-bellevue"
   }
 ]

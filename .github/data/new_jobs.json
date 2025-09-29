@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineering, Associate",
-    "employer_name": "Peraton",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Join Peraton in this exciting opportunity.",
-    "job_apply_link": "https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job",
-    "job_posted_at_datetime_utc": "2025-09-29T03:25:23.000Z",
+    "job_title": "Software Engineer II (Security)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882854",
+    "job_posted_at_datetime_utc": "2025-09-29T04:17:24.476Z",
     "job_employment_type": "FULLTIME",
-    "id": "peraton-software-engineering-associate-santa-clara"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "Honeywell",
-    "job_city": "Fort Mill",
-    "job_state": "SC",
-    "job_description": "Join Honeywell in this exciting opportunity.",
-    "job_apply_link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
-    "job_posted_at_datetime_utc": "2025-09-26T20:17:33.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "honeywell-software-engineer-i-fort-mill"
+    "id": "microsoft-software-engineer-ii-security-redmond"
   }
 ]

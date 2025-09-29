@@ -1,57 +1,90 @@
 [
   {
-    "job_title": "Software Development Engineer, Ops & Tech Channels",
+    "job_title": "Software Development Engineer, Woot!",
     "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3095707/software-development-engineer-ops-tech-channels",
-    "job_posted_at": "2025-09-29T16:09:06.697Z",
-    "job_posted_at_datetime_utc": "2025-09-29T16:09:06.697Z",
-    "id": "amazon-software-development-engineer-ops-tech-channels-new-york"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3095815/software-development-engineer-woot",
+    "job_posted_at": "2025-09-29T17:12:56.491Z",
+    "job_posted_at_datetime_utc": "2025-09-29T17:12:56.491Z",
+    "id": "amazon-software-development-engineer-woot-seattle"
   },
   {
-    "job_title": "Cloud & AI - Senior Data Solution Engineer - German Speaking",
+    "job_title": "Software Engineer 1 - iOS - iOS",
+    "employer_name": "McDonald's",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_description": "Join McDonald's in this exciting opportunity.",
+    "job_apply_link": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
+    "job_posted_at_datetime_utc": "2025-09-29T16:59:16.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "mcdonald-s-software-engineer-1-ios-ios-chicago"
+  },
+  {
+    "job_title": "Research Scientist Intern, Embodied AI (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/778113191645498",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-embodied-ai-phd-menlo-park"
+  },
+  {
+    "job_title": "Research Scientist Intern, Rendering and Reconstruction (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1141581024586584",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-rendering-and-reconstruction-phd-multiple"
+  },
+  {
+    "job_title": "Technical Support Engineer Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884514",
-    "job_posted_at_datetime_utc": "2025-09-29T17:15:44.209Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1868379",
+    "job_posted_at_datetime_utc": "2025-09-29T18:19:36.834Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-senior-data-solution-engineer-german-speaking-redmond"
+    "id": "microsoft-technical-support-engineer-manager-redmond"
   },
   {
-    "job_title": "IT Engineer",
-    "employer_name": "Figma",
-    "job_city": "San Francisco",
-    "job_state": "CA • New York",
-    "job_description": "Join Figma to make design accessible to all.",
-    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5659323004?gh_jid=5659323004",
-    "job_posted_at_datetime_utc": "2025-09-29T16:52:45.000Z",
+    "job_title": "Critical Infrastructure Network Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880529",
+    "job_posted_at_datetime_utc": "2025-09-29T18:19:36.834Z",
     "job_employment_type": "FULLTIME",
-    "id": "figma-it-engineer-san-francisco"
+    "id": "microsoft-critical-infrastructure-network-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer, Lyft Ads ",
-    "employer_name": "Lyft",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8187854002?gh_jid=8187854002",
-    "job_posted_at_datetime_utc": "2025-09-29T16:22:58.000Z",
+    "job_title": "Machine Learning Engineer 5 - Content & Studio",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312289381",
+    "job_posted_at_datetime_utc": "2025-09-29T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-software-engineer-lyft-ads-new-york"
+    "id": "netflix-machine-learning-engineer-5-content-studio-usa-remote"
   },
   {
-    "job_title": "Senior Staff Software Engineer, Guest & Host",
-    "employer_name": "Airbnb",
-    "job_city": "Remote",
-    "job_state": "USA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/6781895?gh_jid=6781895",
-    "job_posted_at_datetime_utc": "2025-09-29T16:18:19.000Z",
+    "job_title": "Software Engineering Associate",
+    "employer_name": "Bloomberg Industry Group",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Join Bloomberg Industry Group in this exciting opportunity.",
+    "job_apply_link": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137896",
+    "job_posted_at_datetime_utc": "2025-09-26T06:47:09.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-staff-software-engineer-guest-host-remote"
+    "id": "bloomberg-industry-group-software-engineering-associate-arlington"
   }
 ]

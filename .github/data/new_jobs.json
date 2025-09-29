@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Senior Solution Engineer - Cloud & AI Apps",
+    "job_title": "Software Engineering Student Workers Opportunities",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849350",
-    "job_posted_at_datetime_utc": "2025-09-29T12:21:36.926Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884557",
+    "job_posted_at_datetime_utc": "2025-09-29T13:23:33.418Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-solution-engineer-cloud-ai-apps-redmond"
-  },
-  {
-    "job_title": "Incident Response Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882800",
-    "job_posted_at_datetime_utc": "2025-09-29T12:21:36.926Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-incident-response-engineer-redmond"
+    "id": "microsoft-software-engineering-student-workers-opportunities-redmond"
   }
 ]

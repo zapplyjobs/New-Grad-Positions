@@ -1,33 +1,57 @@
 [
   {
-    "job_title": "Software Engineer 1",
-    "employer_name": "McDonald's",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_description": "Join McDonald's in this exciting opportunity.",
-    "job_apply_link": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2025-09-29T15:43:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "mcdonald-s-software-engineer-1-chicago"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Mixed Methods UX Researcher",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Mixed Methods UX Researcher, AI Innovation and Research",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96832891513643718-mixed-methods-ux-researcher-ai-innovation-and-research?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
-    "id": "google-mixed-methods-ux-researcher-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Associate Competition Economist",
+    "job_title": "Software Development Engineer, Ops & Tech Channels",
+    "employer_name": "Amazon",
     "job_city": "New York",
     "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Associate Competition Economist",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84994449817379526-associate-competition-economist?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States",
-    "id": "google-associate-competition-economist-new-york"
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3095707/software-development-engineer-ops-tech-channels",
+    "job_posted_at": "2025-09-29T16:09:06.697Z",
+    "job_posted_at_datetime_utc": "2025-09-29T16:09:06.697Z",
+    "id": "amazon-software-development-engineer-ops-tech-channels-new-york"
+  },
+  {
+    "job_title": "Cloud & AI - Senior Data Solution Engineer - German Speaking",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884514",
+    "job_posted_at_datetime_utc": "2025-09-29T17:15:44.209Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-senior-data-solution-engineer-german-speaking-redmond"
+  },
+  {
+    "job_title": "IT Engineer",
+    "employer_name": "Figma",
+    "job_city": "San Francisco",
+    "job_state": "CA • New York",
+    "job_description": "Join Figma to make design accessible to all.",
+    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5659323004?gh_jid=5659323004",
+    "job_posted_at_datetime_utc": "2025-09-29T16:52:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "figma-it-engineer-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer, Lyft Ads ",
+    "employer_name": "Lyft",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8187854002?gh_jid=8187854002",
+    "job_posted_at_datetime_utc": "2025-09-29T16:22:58.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-software-engineer-lyft-ads-new-york"
+  },
+  {
+    "job_title": "Senior Staff Software Engineer, Guest & Host",
+    "employer_name": "Airbnb",
+    "job_city": "Remote",
+    "job_state": "USA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6781895?gh_jid=6781895",
+    "job_posted_at_datetime_utc": "2025-09-29T16:18:19.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-senior-staff-software-engineer-guest-host-remote"
   }
 ]

@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Android Software Development Engineer, Ring",
+    "employer_name": "Amazon",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3097862/android-software-development-engineer-ring",
+    "job_posted_at": "2025-09-30T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-09-30T00:00:00.000Z",
+    "id": "amazon-android-software-development-engineer-ring-hawthorne"
+  },
+  {
+    "job_title": "Cloud & AI Solution Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885390",
+    "job_posted_at_datetime_utc": "2025-09-30T04:17:12.030Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-solution-engineer-redmond"
+  },
+  {
+    "job_title": "Cloud & AI Solution Engineer: Internship Opportunity",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885394",
+    "job_posted_at_datetime_utc": "2025-09-30T04:17:12.030Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-solution-engineer-internship-opportunity-redmond"
+  }
+]

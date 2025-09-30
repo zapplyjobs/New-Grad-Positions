@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer - Digital Twin, Project Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3097445/software-engineer-digital-twin-project-kuiper",
-    "job_posted_at": "2025-09-29T18:36:09.160Z",
-    "job_posted_at_datetime_utc": "2025-09-29T18:36:09.160Z",
-    "id": "amazon-software-engineer-digital-twin-project-kuiper-redmond"
-  },
-  {
-    "job_title": "UX Engineer 2",
+    "job_title": "Software Engineer - Azure Core Compute Platform Team",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884159",
-    "job_posted_at_datetime_utc": "2025-09-30T01:42:54.986Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885365",
+    "job_posted_at_datetime_utc": "2025-09-30T02:41:10.433Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-ux-engineer-2-redmond"
+    "id": "microsoft-software-engineer-azure-core-compute-platform-team-redmond"
   }
 ]

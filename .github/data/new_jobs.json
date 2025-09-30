@@ -1,35 +1,68 @@
 [
   {
-    "job_title": "Associate Software Engineer",
-    "employer_name": "CoStar Group",
-    "job_city": "Nashville",
-    "job_state": "TN",
-    "job_description": "Join CoStar Group in this exciting opportunity.",
-    "job_apply_link": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1",
-    "job_posted_at_datetime_utc": "2025-09-30T13:35:25.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "costar-group-associate-software-engineer-nashville"
+    "job_title": "Software Engineer, Camera",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1057972999603315",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-camera-multiple"
   },
   {
-    "job_title": "Principal Software Engineer, Observability (CoreAI)",
+    "job_title": "Software Engineer, Audio",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1133340288262607",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-audio-multiple"
+  },
+  {
+    "job_title": "Software Engineer, Camera & Multimedia Frameworks",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1151504310242601",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-camera-multimedia-frameworks-multiple"
+  },
+  {
+    "job_title": "Senior Software Engineer - Apple Platforms",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882687",
-    "job_posted_at_datetime_utc": "2025-09-30T14:16:45.979Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882827",
+    "job_posted_at_datetime_utc": "2025-09-30T15:14:57.490Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-observability-coreai-redmond"
+    "id": "microsoft-senior-software-engineer-apple-platforms-redmond"
   },
   {
-    "job_title": "Engineer I - Software Development",
-    "employer_name": "LPL Financial Holdings",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Join LPL Financial Holdings in this exciting opportunity.",
-    "job_apply_link": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/Engineer-I--Software-Development_R-046445",
-    "job_posted_at_datetime_utc": "2025-09-30T13:18:00.000Z",
+    "job_title": "Software Engineer II - Apple Platforms",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882831",
+    "job_posted_at_datetime_utc": "2025-09-30T15:14:57.490Z",
     "job_employment_type": "FULLTIME",
-    "id": "lpl-financial-holdings-engineer-i-software-development-austin"
+    "id": "microsoft-software-engineer-ii-apple-platforms-redmond"
+  },
+  {
+    "job_title": " Senior Software Engineer, Observability (CoreAI)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882695",
+    "job_posted_at_datetime_utc": "2025-09-30T15:14:57.490Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-observability-coreai-redmond"
   }
 ]

@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "job_title": "Senior Software Engineer – Xbox Graphics",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883971",
+    "job_posted_at_datetime_utc": "2025-09-30T18:18:33.843Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-xbox-graphics-redmond"
+  },
+  {
+    "job_title": "Solution Engineering – Intern Opportunities",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885599",
+    "job_posted_at_datetime_utc": "2025-09-30T18:18:33.843Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineering-intern-opportunities-redmond"
+  },
+  {
+    "job_title": "Vaga de Estágio Afirmativa em engenharia de soluções (Solution Engineering) para Pessoas com Deficiência",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885661",
+    "job_posted_at_datetime_utc": "2025-09-30T18:18:33.843Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-vaga-de-est-gio-afirmativa-em-engenharia-de-solu-es-solution-engineering-para-pessoas-com-defici-ncia-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - IAM",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7286163?gh_jid=7286163",
+    "job_posted_at_datetime_utc": "2025-09-30T18:17:34.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-iam-remote-usa"
+  }
+]

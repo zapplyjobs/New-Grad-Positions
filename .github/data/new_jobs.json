@@ -1,68 +1,24 @@
 [
   {
-    "job_title": "Software Engineer, Camera",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1057972999603315",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-camera-multiple"
-  },
-  {
-    "job_title": "Software Engineer, Audio",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1133340288262607",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-audio-multiple"
-  },
-  {
-    "job_title": "Software Engineer, Camera & Multimedia Frameworks",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1151504310242601",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-camera-multimedia-frameworks-multiple"
-  },
-  {
-    "job_title": "Senior Software Engineer - Apple Platforms",
+    "job_title": "Principal Serviceability Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882827",
-    "job_posted_at_datetime_utc": "2025-09-30T15:14:57.490Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884633",
+    "job_posted_at_datetime_utc": "2025-09-30T16:17:35.869Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-apple-platforms-redmond"
+    "id": "microsoft-principal-serviceability-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer II - Apple Platforms",
+    "job_title": "Security Operations Engineering Intern",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882831",
-    "job_posted_at_datetime_utc": "2025-09-30T15:14:57.490Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884502",
+    "job_posted_at_datetime_utc": "2025-09-30T16:17:35.869Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-apple-platforms-redmond"
-  },
-  {
-    "job_title": " Senior Software Engineer, Observability (CoreAI)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882695",
-    "job_posted_at_datetime_utc": "2025-09-30T15:14:57.490Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-observability-coreai-redmond"
+    "id": "microsoft-security-operations-engineering-intern-redmond"
   }
 ]

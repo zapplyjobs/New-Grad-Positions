@@ -1,34 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Business Data Scientist",
-    "job_city": "San Bruno",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareYouTube. Posted: Recently. Full Title: Business Data Scientist, YouTube Music Partners",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83449842138784454-business-data-scientist-youtube-music-partners?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
-    "id": "google-business-data-scientist-san-bruno"
-  },
-  {
-    "job_title": "Copilot Solution Engineer - Sydney",
+    "job_title": "Sr. Solution Engineer GBB – AI Security",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882323",
-    "job_posted_at_datetime_utc": "2025-09-30T07:16:20.359Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884008",
+    "job_posted_at_datetime_utc": "2025-09-30T08:19:42.856Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-copilot-solution-engineer-sydney-redmond"
-  },
-  {
-    "job_title": "(CHILD) Senior Software Engineer - Fabric Graph",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842989",
-    "job_posted_at_datetime_utc": "2025-09-30T07:16:20.359Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-child-senior-software-engineer-fabric-graph-redmond"
+    "id": "microsoft-sr-solution-engineer-gbb-ai-security-redmond"
   }
 ]

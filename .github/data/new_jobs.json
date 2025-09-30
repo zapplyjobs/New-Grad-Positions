@@ -1,45 +1,35 @@
 [
   {
-    "job_title": "Software Engineer 1 with AWS & Python",
-    "employer_name": "Comcast",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_description": "Join Comcast in this exciting opportunity.",
-    "job_apply_link": "https://jobs.comcast.com/job/-/-/45483/86516813920",
-    "job_posted_at_datetime_utc": "2025-09-30T13:21:03.000Z",
+    "job_title": "Associate Software Engineer",
+    "employer_name": "CoStar Group",
+    "job_city": "Nashville",
+    "job_state": "TN",
+    "job_description": "Join CoStar Group in this exciting opportunity.",
+    "job_apply_link": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-TN-Nashville/Associate-Software-Engineer---Nashville--TN_R37023-1",
+    "job_posted_at_datetime_utc": "2025-09-30T13:35:25.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "comcast-software-engineer-1-with-aws-python-chicago"
+    "id": "costar-group-associate-software-engineer-nashville"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Technical Program Manager II",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager II, Learning and Sustainability, Sustainability Metrics Accounting",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124925619761750726-technical-program-manager-ii-learning-and-sustainability-sustainability-metrics-accounting?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=6",
-    "id": "google-technical-program-manager-ii-san-francisco"
+    "job_title": "Principal Software Engineer, Observability (CoreAI)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882687",
+    "job_posted_at_datetime_utc": "2025-09-30T14:16:45.979Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-observability-coreai-redmond"
   },
   {
-    "job_title": "Systems Software Engineer – New College Grad 2026 - AV Platform Scheduling",
-    "employer_name": "NVIDIA",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Join NVIDIA in this exciting opportunity.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--AV-Platform-Scheduling---New-College-Grad-2026_JR2005098",
-    "job_posted_at_datetime_utc": "2025-09-30T12:50:11.000Z",
+    "job_title": "Engineer I - Software Development",
+    "employer_name": "LPL Financial Holdings",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Join LPL Financial Holdings in this exciting opportunity.",
+    "job_apply_link": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/Engineer-I--Software-Development_R-046445",
+    "job_posted_at_datetime_utc": "2025-09-30T13:18:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "nvidia-systems-software-engineer-new-college-grad-2026-av-platform-scheduling-santa-clara"
-  },
-  {
-    "job_title": "Early Career Firmware Engineer",
-    "employer_name": "Anduril",
-    "job_city": "Newport Beach",
-    "job_state": "CA",
-    "job_description": "Join Anduril in this exciting opportunity.",
-    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4871546007",
-    "job_posted_at_datetime_utc": "2025-09-30T12:35:11.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "anduril-early-career-firmware-engineer-newport-beach"
+    "id": "lpl-financial-holdings-engineer-i-software-development-austin"
   }
 ]

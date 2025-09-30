@@ -1,45 +1,24 @@
 [
   {
-    "job_title": "Data Scientist, Product Analytics",
-    "employer_name": "Meta",
-    "job_city": "Burlingame",
-    "job_state": "CA +1 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1132866414844525",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-data-scientist-product-analytics-burlingame"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Explore Program Internship Opportunities: Second-Year Students",
+    "job_title": "Software Engineer - Digital Twin, Project Kuiper",
+    "employer_name": "Amazon",
     "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Explore Program Internship Opportunities: Second-Year Students",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884365/Explore-Program-Internship-Opportunities%3A-Second-Year-Students%2C-Redmond",
-    "id": "microsoft-explore-program-internship-opportunities-second-year-students-redmond"
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3097445/software-engineer-digital-twin-project-kuiper",
+    "job_posted_at": "2025-09-29T18:36:09.160Z",
+    "job_posted_at_datetime_utc": "2025-09-29T18:36:09.160Z",
+    "id": "amazon-software-engineer-digital-twin-project-kuiper-redmond"
   },
   {
-    "job_title": "Software Engineer II, OPG",
+    "job_title": "UX Engineer 2",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884162",
-    "job_posted_at_datetime_utc": "2025-09-30T00:40:22.732Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884159",
+    "job_posted_at_datetime_utc": "2025-09-30T01:42:54.986Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-opg-redmond"
-  },
-  {
-    "job_title": "TV UI Engineer (L5) - Games Player Experiences",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312291966",
-    "job_posted_at_datetime_utc": "2025-09-29T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-tv-ui-engineer-l5-games-player-experiences-usa-remote"
+    "id": "microsoft-ux-engineer-2-redmond"
   }
 ]

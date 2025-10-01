@@ -1,13 +1,23 @@
 [
   {
-    "job_title": "Solution Engineer Dynamics365 Finance & Supply Chain",
+    "employer_name": "Google",
+    "job_title": "Associate Product Marketing Manager (APMM)",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Associate Product Marketing Manager (APMM)",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/130327949885743814-associate-product-marketing-manager-apmm?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
+    "id": "google-associate-product-marketing-manager-apmm-san-francisco"
+  },
+  {
+    "job_title": "Senior Research Data Engineer:  MSR AI for Science",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885470",
-    "job_posted_at_datetime_utc": "2025-10-01T07:16:21.570Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885786",
+    "job_posted_at_datetime_utc": "2025-10-01T08:19:08.623Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-dynamics365-finance-supply-chain-redmond"
+    "id": "microsoft-senior-research-data-engineer-msr-ai-for-science-redmond"
   }
 ]

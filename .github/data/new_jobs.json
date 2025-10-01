@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "job_title": "Research Scientist Intern, Multimodal Eye Tracking Algorithms (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "AI Research +3 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/700627076381476",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-multimodal-eye-tracking-algorithms-phd-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Microsoft AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883504",
+    "job_posted_at_datetime_utc": "2025-10-01T17:15:19.433Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-microsoft-ai-redmond"
+  },
+  {
+    "job_title": "Software Engineer II - Microsoft AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883532",
+    "job_posted_at_datetime_utc": "2025-10-01T17:15:19.433Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-microsoft-ai-redmond"
+  },
+  {
+    "job_title": "Metrology Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883959",
+    "job_posted_at_datetime_utc": "2025-10-01T17:15:19.433Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-metrology-engineer-ii-redmond"
+  }
+]

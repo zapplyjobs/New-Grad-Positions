@@ -1,24 +1,34 @@
 [
   {
-    "job_title": "Early Career Analyst - Gen AI Technology - Software Engineering",
-    "employer_name": "AIG",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_description": "Join AIG in this exciting opportunity.",
-    "job_apply_link": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026---Early-Career---Gen-AI-Technology---Software-Engineering-Analyst---United-States--Atlanta--GA-_JR2505378-1",
-    "job_posted_at_datetime_utc": "2025-10-01T12:21:03.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "aig-early-career-analyst-gen-ai-technology-software-engineering-atlanta"
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Fullstack Intern Opportunities for University Students",
+    "job_city": "Cambridge",
+    "job_state": "Massachusetts",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Fullstack Intern Opportunities for University Students",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886465/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Cambridge",
+    "id": "microsoft-software-engineer-fullstack-intern-opportunities-for-university-students-cambridge"
   },
   {
-    "job_title": "Innovation Hub Solution Engineering - Cloud & AI",
+    "job_title": "Digital Solution Engineer - Infra - Danish Market",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872150",
-    "job_posted_at_datetime_utc": "2025-10-01T13:23:31.274Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884642",
+    "job_posted_at_datetime_utc": "2025-10-01T14:16:18.924Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-innovation-hub-solution-engineering-cloud-ai-redmond"
+    "id": "microsoft-digital-solution-engineer-infra-danish-market-redmond"
+  },
+  {
+    "job_title": "Software Engineer: Fullstack Intern Opportunities for University Students, Cambridge",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886465",
+    "job_posted_at_datetime_utc": "2025-10-01T14:16:18.924Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-fullstack-intern-opportunities-for-university-students-cambridge-redmond"
   }
 ]

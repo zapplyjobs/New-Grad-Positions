@@ -1,34 +1,55 @@
 [
   {
-    "employer_name": "Microsoft",
-    "job_title": "Software Engineer: Fullstack Intern Opportunities for University Students",
-    "job_city": "Cambridge",
-    "job_state": "Massachusetts",
+    "job_title": "Software Engineer, Agent",
+    "employer_name": "Sierra",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Sierra in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96",
+    "job_posted_at_datetime_utc": "2025-10-01T14:42:20.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "sierra-software-engineer-agent-san-francisco"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager Intern",
+    "job_city": "Reston",
+    "job_state": "VA",
     "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Fullstack Intern Opportunities for University Students",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886465/Software-Engineer%3A-Fullstack-Intern-Opportunities-for-University-Students%2C-Cambridge",
-    "id": "microsoft-software-engineer-fullstack-intern-opportunities-for-university-students-cambridge"
+    "job_description": "Category: Engineering and Technology Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager Intern, Google Public Sector, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/72548751285068486-technical-program-manager-intern-google-public-sector-summer-2026?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=9",
+    "id": "google-technical-program-manager-intern-reston"
   },
   {
-    "job_title": "Digital Solution Engineer - Infra - Danish Market",
+    "employer_name": "Google",
+    "job_title": "Program Manager Intern",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Program Manager Intern, Google Public Sector, Summer 2026",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/106878802839118534-program-manager-intern-google-public-sector-summer-2026?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=7",
+    "id": "google-program-manager-intern-reston"
+  },
+  {
+    "job_title": "Member of Technical Staff - Site Reliability Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884642",
-    "job_posted_at_datetime_utc": "2025-10-01T14:16:18.924Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/MIC085943",
+    "job_posted_at_datetime_utc": "2025-10-01T15:16:08.002Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-infra-danish-market-redmond"
+    "id": "microsoft-member-of-technical-staff-site-reliability-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer: Fullstack Intern Opportunities for University Students, Cambridge",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886465",
-    "job_posted_at_datetime_utc": "2025-10-01T14:16:18.924Z",
+    "job_title": "Senior Software Engineer, Backend (Institutional - Reporting & Monetization)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7291170?gh_jid=7291170",
+    "job_posted_at_datetime_utc": "2025-10-01T15:14:32.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-fullstack-intern-opportunities-for-university-students-cambridge-redmond"
+    "id": "coinbase-senior-software-engineer-backend-institutional-reporting-monetization-remote-usa"
   }
 ]

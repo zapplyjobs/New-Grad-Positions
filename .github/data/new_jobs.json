@@ -1,23 +1,44 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Associate Product Marketing Manager (APMM)",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Associate Product Marketing Manager (APMM)",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/130327949885743814-associate-product-marketing-manager-apmm?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
-    "id": "google-associate-product-marketing-manager-apmm-san-francisco"
+    "job_title": "IT Software Engineer 1 - Multiple Teams",
+    "employer_name": "World Kinect",
+    "job_city": "Miami",
+    "job_state": "FL",
+    "job_description": "Join World Kinect in this exciting opportunity.",
+    "job_apply_link": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21907",
+    "job_posted_at_datetime_utc": "2025-10-01T08:51:37.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "world-kinect-it-software-engineer-1-multiple-teams-miami"
   },
   {
-    "job_title": "Senior Research Data Engineer:  MSR AI for Science",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "job_title": "Engineering Manager - Computer Vision (Spatial AI)",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "AI Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/4094491037488336",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-engineering-manager-computer-vision-spatial-ai-multiple"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Product Manager I",
+    "job_city": "Kirkland",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885786",
-    "job_posted_at_datetime_utc": "2025-10-01T08:19:08.623Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-research-data-engineer-msr-ai-for-science-redmond"
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Manager I, Offline Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/99999021145170630-product-manager-i-offline-ads?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2",
+    "id": "google-product-manager-i-kirkland"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Partner Operations Manager",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Partner Operations Manager, Users and Products, Gemini",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136379661885022918-partner-operations-manager-users-and-products-gemini?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=8",
+    "id": "google-partner-operations-manager-sunnyvale"
   }
 ]

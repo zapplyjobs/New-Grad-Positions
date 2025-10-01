@@ -1,35 +1,68 @@
 [
   {
-    "job_title": "Manager, Research Science",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1238748458022573",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-manager-research-science-menlo-park"
+    "job_title": "Software Development Engineer II, Amazon",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099296/software-development-engineer-ii-amazon",
+    "job_posted_at": "2025-10-01T19:10:07.536Z",
+    "job_posted_at_datetime_utc": "2025-10-01T19:10:07.536Z",
+    "id": "amazon-software-development-engineer-ii-amazon-seattle"
   },
   {
-    "job_title": "Software Engineering Manager, MTIA",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2331183993968215",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-mtia-menlo-park"
+    "job_title": "Software Development Engineer II, Foundational AI",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099294/software-development-engineer-ii-foundational-ai",
+    "job_posted_at": "2025-10-01T19:10:07.536Z",
+    "job_posted_at_datetime_utc": "2025-10-01T19:10:07.536Z",
+    "id": "amazon-software-development-engineer-ii-foundational-ai-seattle"
   },
   {
-    "job_title": "Senior Software Engineer",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area (U.S.)",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8184654002",
-    "job_posted_at_datetime_utc": "2025-10-01T18:19:36.000Z",
+    "job_title": "Software Engineer 1 - .Net - Node.js",
+    "employer_name": "The Travelers Companies",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_description": "Join The Travelers Companies in this exciting opportunity.",
+    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--NET--Nodejs--React-_R-47074",
+    "job_posted_at_datetime_utc": "2025-10-01T19:00:14.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "discord-senior-software-engineer-san-francisco-bay-area-u-s"
+    "id": "the-travelers-companies-software-engineer-1-net-node-js-hartford"
+  },
+  {
+    "job_title": "Research Scientist Intern, Applied Vision (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1111427061108639",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-applied-vision-phd-redmond"
+  },
+  {
+    "job_title": "Software Engineer, Server Efficiency",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/3392541494219324",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-server-efficiency-bellevue"
+  },
+  {
+    "job_title": "Research Scientist - Embodied Intelligence",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1367114671411148",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-embodied-intelligence-multiple"
   }
 ]

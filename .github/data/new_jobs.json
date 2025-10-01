@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Copilot Solution Engineer - AI Business Solutions ",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885706",
-    "job_posted_at_datetime_utc": "2025-10-01T12:21:59.819Z",
+    "job_title": "Early Career Analyst - Gen AI Technology - Software Engineering",
+    "employer_name": "AIG",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_description": "Join AIG in this exciting opportunity.",
+    "job_apply_link": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026---Early-Career---Gen-AI-Technology---Software-Engineering-Analyst---United-States--Atlanta--GA-_JR2505378-1",
+    "job_posted_at_datetime_utc": "2025-10-01T12:21:03.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-copilot-solution-engineer-ai-business-solutions-redmond"
+    "id": "aig-early-career-analyst-gen-ai-technology-software-engineering-atlanta"
   },
   {
-    "job_title": "Principal Software Engineer (Mobile)",
+    "job_title": "Innovation Hub Solution Engineering - Cloud & AI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884454",
-    "job_posted_at_datetime_utc": "2025-10-01T12:21:59.819Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872150",
+    "job_posted_at_datetime_utc": "2025-10-01T13:23:31.274Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-mobile-redmond"
-  },
-  {
-    "job_title": "Digital Solution Engineer - AI Workforce (Modern Work)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882466",
-    "job_posted_at_datetime_utc": "2025-10-01T12:21:59.819Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-ai-workforce-modern-work-redmond"
+    "id": "microsoft-innovation-hub-solution-engineering-cloud-ai-redmond"
   }
 ]

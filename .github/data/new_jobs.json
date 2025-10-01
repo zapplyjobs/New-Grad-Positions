@@ -1,46 +1,34 @@
 [
   {
-    "job_title": "Security Engineer Posture Management, Intern",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +1 locations",
-    "job_description": "Internship - Engineering, Tech & Design",
-    "job_apply_link": "https://www.metacareers.com/jobs/1529043521440305",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-security-engineer-posture-management-intern-bellevue"
+    "job_title": "Software Engineer 1 - Radar Product Line Team",
+    "employer_name": "RTX",
+    "job_city": "Marlborough",
+    "job_state": "MA",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
+    "job_posted_at_datetime_utc": "2025-10-01T05:07:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-software-engineer-1-radar-product-line-team-marlborough"
   },
   {
-    "job_title": "AI Research Scientist - Language - MRS AI",
+    "job_title": "AR Display Calibration Engineer",
     "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +2 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/704570099271667",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-ai-research-scientist-language-mrs-ai-bellevue"
-  },
-  {
-    "job_title": "Data Scientist Intern, Product Analytics (Summer 2026)",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +3 locations",
+    "job_city": "Redmond",
+    "job_state": "WA",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/804300811922734",
+    "job_apply_link": "https://www.metacareers.com/jobs/690217720371153",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-data-scientist-intern-product-analytics-summer-2026-menlo-park"
+    "id": "meta-ar-display-calibration-engineer-redmond"
   },
   {
-    "job_title": "Data Engineer Intern (Summer 2026)",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +2 locations",
-    "job_description": "Data Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1285593229833650",
+    "employer_name": "Google",
+    "job_title": "Senior Software Test Engineer",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-data-engineer-intern-summer-2026-menlo-park"
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Software Test Engineer, Embedded Systems, Silicon",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/106871724733014726-senior-software-test-engineer-embedded-systems-silicon?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
+    "id": "google-senior-software-test-engineer-mountain-view"
   }
 ]

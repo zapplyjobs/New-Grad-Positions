@@ -1,45 +1,13 @@
 [
   {
-    "job_title": "Software Development Engineer, Veteran Opportunity",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2829138/software-development-engineer-veteran-opportunity",
-    "job_posted_at": "2025-10-01T00:37:39.310Z",
-    "job_posted_at_datetime_utc": "2025-10-01T00:37:39.310Z",
-    "id": "amazon-software-development-engineer-veteran-opportunity-arlington"
-  },
-  {
-    "job_title": "Software Dev Engineer II - AMZ9085054",
-    "employer_name": "Amazon",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design. #0000",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2981040/software-dev-engineer-ii-amz9085054",
-    "job_posted_at": "2025-10-01T00:37:39.310Z",
-    "job_posted_at_datetime_utc": "2025-10-01T00:37:39.310Z",
-    "id": "amazon-software-dev-engineer-ii-amz9085054-denver"
-  },
-  {
-    "job_title": "Software Dev Engineer II - AMZ9084320",
-    "employer_name": "Amazon",
-    "job_city": "Boulder",
-    "job_state": "CO",
-    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design.#0000",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3006523/software-dev-engineer-ii-amz9084320",
-    "job_posted_at": "2025-10-01T00:37:39.310Z",
-    "job_posted_at_datetime_utc": "2025-10-01T00:37:39.310Z",
-    "id": "amazon-software-dev-engineer-ii-amz9084320-boulder"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Business Operations Strategy Program Manager",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business Operations Strategy Program Manager, Google Data Centers",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84193352517329606-business-operations-strategy-program-manager-google-data-centers?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
-    "id": "google-business-operations-strategy-program-manager-new-york"
+    "job_title": "Software Engineer - Entry Level - Multiple Teams",
+    "employer_name": "General Dynamics Mission Systems",
+    "job_city": "Bloomington",
+    "job_state": "MN",
+    "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+    "job_apply_link": "https://careers-gdms.icims.com/jobs/68386/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2025-10-01T02:01:08.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "general-dynamics-mission-systems-software-engineer-entry-level-multiple-teams-bloomington"
   }
 ]

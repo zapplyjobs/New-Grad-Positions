@@ -1,12 +1,35 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Software Engineer",
-    "job_city": "Durham",
-    "job_state": "NC",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Software Engineer, Sustainability and Efficiency",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/99231218431599302-senior-software-engineer-sustainability-and-efficiency?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=9",
-    "id": "google-senior-software-engineer-durham"
+    "job_title": "Copilot Solution Engineer - AI Business Solutions ",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885706",
+    "job_posted_at_datetime_utc": "2025-10-01T12:21:59.819Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-copilot-solution-engineer-ai-business-solutions-redmond"
+  },
+  {
+    "job_title": "Principal Software Engineer (Mobile)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884454",
+    "job_posted_at_datetime_utc": "2025-10-01T12:21:59.819Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-mobile-redmond"
+  },
+  {
+    "job_title": "Digital Solution Engineer - AI Workforce (Modern Work)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882466",
+    "job_posted_at_datetime_utc": "2025-10-01T12:21:59.819Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-digital-solution-engineer-ai-workforce-modern-work-redmond"
   }
 ]

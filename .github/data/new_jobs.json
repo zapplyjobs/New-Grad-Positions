@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Development Engineer II",
+    "employer_name": "Amazon",
+    "job_city": "Detroit",
+    "job_state": "MI",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099950/software-development-engineer-ii",
+    "job_posted_at": "2025-10-02T16:07:41.417Z",
+    "job_posted_at_datetime_utc": "2025-10-02T16:07:41.417Z",
+    "id": "amazon-software-development-engineer-ii-detroit"
+  },
+  {
+    "job_title": "Device Safety And Compliance Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Engineering +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1152351653476280",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-device-safety-and-compliance-engineer-sunnyvale"
+  }
+]

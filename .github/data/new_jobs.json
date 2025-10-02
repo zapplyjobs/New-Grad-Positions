@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Senior Software Engineer - Workspace Experience",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885724",
-    "job_posted_at_datetime_utc": "2025-10-02T21:14:52.198Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-workspace-experience-redmond"
-  },
-  {
-    "job_title": "Principal ML Engineer, ML Foundations",
-    "employer_name": "Stripe",
-    "job_city": "US-SF",
-    "job_state": "US-NYC",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7278350",
-    "job_posted_at_datetime_utc": "2025-10-02T20:33:27.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-principal-ml-engineer-ml-foundations-us-sf"
+    "job_title": "Software Dev Engineer II - AMZ9442073",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design.#0000",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3017867/software-dev-engineer-ii-amz9442073",
+    "job_posted_at": "2025-10-02T21:08:52.119Z",
+    "job_posted_at_datetime_utc": "2025-10-02T21:08:52.119Z",
+    "id": "amazon-software-dev-engineer-ii-amz9442073-boston"
   }
 ]

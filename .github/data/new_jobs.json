@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Research Scientist Intern, Computational Imaging (PhD)",
-    "employer_name": "Meta",
+    "job_title": "Senior Software Engineer-Xbox -PlayFab Party and Core SDKs",
+    "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "AI Research +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1569764051069442",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-computational-imaging-phd-redmond"
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885244",
+    "job_posted_at_datetime_utc": "2025-10-02T00:39:05.184Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-xbox-playfab-party-and-core-sdks-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer, Platform as a Service",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area (U.S.)",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8168090002",
+    "job_posted_at_datetime_utc": "2025-10-01T23:35:59.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-senior-software-engineer-platform-as-a-service-san-francisco-bay-area-u-s"
   }
 ]

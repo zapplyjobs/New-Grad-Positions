@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Software Dev Engineer II - AMZ9442073",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design.#0000",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3017867/software-dev-engineer-ii-amz9442073",
-    "job_posted_at": "2025-10-02T21:08:52.119Z",
-    "job_posted_at_datetime_utc": "2025-10-02T21:08:52.119Z",
-    "id": "amazon-software-dev-engineer-ii-amz9442073-boston"
+    "job_title": "Staff Software Engineer, Infrastructure",
+    "employer_name": "Airbnb",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/5667237?gh_jid=5667237",
+    "job_posted_at_datetime_utc": "2025-10-02T23:02:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-staff-software-engineer-infrastructure-san-francisco"
+  },
+  {
+    "job_title": "Software Security Engineer II - CTJ - Top Secret",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884297",
+    "job_posted_at_datetime_utc": "2025-10-02T23:15:22.004Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-security-engineer-ii-ctj-top-secret-redmond"
+  },
+  {
+    "job_title": "Director, Software Engineering - Product Platform",
+    "employer_name": "Figma",
+    "job_city": "San Francisco",
+    "job_state": "CA • New York",
+    "job_description": "Join Figma to make design accessible to all.",
+    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5600388004?gh_jid=5600388004",
+    "job_posted_at_datetime_utc": "2025-10-02T22:36:36.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "figma-director-software-engineering-product-platform-san-francisco"
   }
 ]

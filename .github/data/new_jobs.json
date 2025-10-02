@@ -1,46 +1,35 @@
 [
   {
-    "job_title": "Network Production Engineer, Backbone & Edge Networks",
+    "job_title": "Research Scientist Intern, Language & Multimodal Foundations (PhD)",
     "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Network Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/980270410930528",
+    "job_city": "Menlo Park",
+    "job_state": "CA +1 locations",
+    "job_description": "AI Research +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/24536664159369645",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-network-production-engineer-backbone-edge-networks-multiple"
+    "id": "meta-research-scientist-intern-language-multimodal-foundations-phd-menlo-park"
   },
   {
-    "job_title": "Digital Solution Engineering IC4",
+    "job_title": "CFE - Data Scientist",
+    "employer_name": "Meta",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1926112871299466",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-cfe-data-scientist-seattle"
+  },
+  {
+    "job_title": "Principal Software Engineer - Architecture & Design",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887582",
-    "job_posted_at_datetime_utc": "2025-10-02T18:19:04.663Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883435",
+    "job_posted_at_datetime_utc": "2025-10-02T19:14:34.215Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineering-ic4-redmond"
-  },
-  {
-    "job_title": "Customer Experience Engineering-Azure Customer Experience",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884148",
-    "job_posted_at_datetime_utc": "2025-10-02T18:19:04.663Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-customer-experience-engineering-azure-customer-experience-redmond"
-  },
-  {
-    "job_title": "Sr. AI Engineer - FDE (Forward Deployed Engineer)",
-    "employer_name": "Databricks",
-    "job_city": "United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8196104002",
-    "job_posted_at_datetime_utc": "2025-10-02T18:05:36.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-ai-engineer-fde-forward-deployed-engineer-united-states"
+    "id": "microsoft-principal-software-engineer-architecture-design-redmond"
   }
 ]

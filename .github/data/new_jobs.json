@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "job_title": "Software Engineer Intern, Machine Learning (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1810076966260242",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-intern-machine-learning-phd-multiple"
+  },
+  {
+    "job_title": "Security Engineer, Intern - Identity & Access Management",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Internship - Engineering, Tech & Design +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/770613715578381",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-security-engineer-intern-identity-access-management-multiple"
+  },
+  {
+    "job_title": "Display Optical Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1379792369900294",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-display-optical-engineer-multiple"
+  },
+  {
+    "job_title": "Security Engineer - Surface Coverage, Detection Engineering",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +2 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1100270808640246",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-security-engineer-surface-coverage-detection-engineering-menlo-park"
+  },
+  {
+    "job_title": "Audio Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/10001068770000604",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-audio-engineer-multiple"
+  },
+  {
+    "job_title": "Product Security Engineer, Instagram",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +2 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1936038900547675",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-security-engineer-instagram-menlo-park"
+  },
+  {
+    "job_title": "Data Center Facilities Engineering, DCIM Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1511179643179557",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-center-facilities-engineering-dcim-engineer-multiple"
+  },
+  {
+    "job_title": "Senior Software Engineer (.NET)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883812",
+    "job_posted_at_datetime_utc": "2025-10-02T06:18:57.422Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-net-redmond"
+  }
+]

@@ -1,24 +1,46 @@
 [
   {
-    "job_title": "Software Development Engineer II",
-    "employer_name": "Amazon",
-    "job_city": "Detroit",
-    "job_state": "MI",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099950/software-development-engineer-ii",
-    "job_posted_at": "2025-10-02T16:07:41.417Z",
-    "job_posted_at_datetime_utc": "2025-10-02T16:07:41.417Z",
-    "id": "amazon-software-development-engineer-ii-detroit"
-  },
-  {
-    "job_title": "Device Safety And Compliance Engineer",
+    "job_title": "Network Production Engineer, Backbone & Edge Networks",
     "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Engineering +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1152351653476280",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Network Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/980270410930528",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-device-safety-and-compliance-engineer-sunnyvale"
+    "id": "meta-network-production-engineer-backbone-edge-networks-multiple"
+  },
+  {
+    "job_title": "Digital Solution Engineering IC4",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887582",
+    "job_posted_at_datetime_utc": "2025-10-02T18:19:04.663Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-digital-solution-engineering-ic4-redmond"
+  },
+  {
+    "job_title": "Customer Experience Engineering-Azure Customer Experience",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884148",
+    "job_posted_at_datetime_utc": "2025-10-02T18:19:04.663Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-customer-experience-engineering-azure-customer-experience-redmond"
+  },
+  {
+    "job_title": "Sr. AI Engineer - FDE (Forward Deployed Engineer)",
+    "employer_name": "Databricks",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8196104002",
+    "job_posted_at_datetime_utc": "2025-10-02T18:05:36.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-ai-engineer-fde-forward-deployed-engineer-united-states"
   }
 ]

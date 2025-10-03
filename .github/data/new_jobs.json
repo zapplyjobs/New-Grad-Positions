@@ -1,44 +1,57 @@
 [
   {
-    "job_title": "Software Engineer, Browser | Ingénieur logiciel, navigateur",
+    "job_title": "User Experience Research Manager - Facebook Marketplace",
     "employer_name": "Meta",
-    "job_city": "Remote",
-    "job_state": "US",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1259305929334573",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Research +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1781785442443486",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-browser-ing-nieur-logiciel-navigateur-remote"
+    "id": "meta-user-experience-research-manager-facebook-marketplace-menlo-park"
   },
   {
-    "job_title": "Manager, Manufacturing Test & Automation Engineering",
+    "job_title": "Softgoods Designer",
     "employer_name": "Meta",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/4146216875651305",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Design & User Experience +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1712198206147643",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-manager-manufacturing-test-automation-engineering-fremont"
+    "id": "meta-softgoods-designer-seattle"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Business Solutions Lead",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business Solutions Lead, Tools and Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/98740449698554566-business-solutions-lead-tools-and-infrastructure?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=9",
-    "id": "google-business-solutions-lead-mountain-view"
+    "job_title": "Principle Engineer-Networking",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885877",
+    "job_posted_at_datetime_utc": "2025-10-03T19:14:20.896Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principle-engineer-networking-redmond"
   },
   {
-    "employer_name": "Google",
-    "job_title": "AI Search Engineering Analyst",
-    "job_city": "Mountain View",
+    "job_title": "Senior Software Engineer, Application Security",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: AI Search Engineering Analyst, Safety Risk and Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/113663227669160646-ai-search-engineering-analyst-safety-risk-and-platform?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=9",
-    "id": "google-ai-search-engineering-analyst-mountain-view"
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/6863924?gh_jid=6863924",
+    "job_posted_at_datetime_utc": "2025-10-03T18:29:21.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-application-security-remote-usa"
+  },
+  {
+    "job_title": "Software Engineer 1 or 2 - Aurora Software and Digital Engineering",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Aurora",
+    "job_state": "CO",
+    "job_description": "Join Northrop Grumman in this exciting opportunity.",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10209913",
+    "job_posted_at_datetime_utc": "2025-10-03T18:06:54.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "northrop-grumman-software-engineer-1-or-2-aurora-software-and-digital-engineering-aurora"
   }
 ]

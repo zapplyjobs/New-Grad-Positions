@@ -1,57 +1,56 @@
 [
   {
-    "job_title": "User Experience Research Manager - Facebook Marketplace",
+    "job_title": "Software Engineer 1 - Multiple Teams",
+    "employer_name": "Medtronic",
+    "job_city": "Northridge",
+    "job_state": "LA",
+    "job_description": "Join Medtronic in this exciting opportunity.",
+    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Engineer-I--Northridge--CA-_R47859",
+    "job_posted_at_datetime_utc": "2025-10-03T19:02:31.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "medtronic-software-engineer-1-multiple-teams-northridge"
+  },
+  {
+    "job_title": "Prototyping Engineer - Casting and Molding",
     "employer_name": "Meta",
-    "job_city": "Menlo Park",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
-    "job_description": "Research +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1781785442443486",
+    "job_description": "Engineering +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1012296804304261",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-user-experience-research-manager-facebook-marketplace-menlo-park"
+    "id": "meta-prototyping-engineer-casting-and-molding-sunnyvale"
   },
   {
-    "job_title": "Softgoods Designer",
-    "employer_name": "Meta",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Design & User Experience +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1712198206147643",
+    "employer_name": "Microsoft",
+    "job_title": "Azure Core Compute Team",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
     "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-softgoods-designer-seattle"
+    "job_description": "Category: Software Engineer. Level: Students and graduates. Posted: Recently. Full Title: Software Engineer - Azure Core Compute Team",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889324/Software-Engineer---Azure-Core-Compute-Team",
+    "id": "microsoft-azure-core-compute-team-multiple-locations"
   },
   {
-    "job_title": "Principle Engineer-Networking",
+    "job_title": "Software Engineer - Azure Core Compute Team",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885877",
-    "job_posted_at_datetime_utc": "2025-10-03T19:14:20.896Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889324",
+    "job_posted_at_datetime_utc": "2025-10-03T20:15:39.949Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principle-engineer-networking-redmond"
+    "id": "microsoft-software-engineer-azure-core-compute-team-redmond"
   },
   {
-    "job_title": "Senior Software Engineer, Application Security",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
+    "job_title": "Security Engineer (L5), Security Incident Response Team",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6863924?gh_jid=6863924",
-    "job_posted_at_datetime_utc": "2025-10-03T18:29:21.000Z",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312337716",
+    "job_posted_at_datetime_utc": "2025-10-01T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-application-security-remote-usa"
-  },
-  {
-    "job_title": "Software Engineer 1 or 2 - Aurora Software and Digital Engineering",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Aurora",
-    "job_state": "CO",
-    "job_description": "Join Northrop Grumman in this exciting opportunity.",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10209913",
-    "job_posted_at_datetime_utc": "2025-10-03T18:06:54.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "northrop-grumman-software-engineer-1-or-2-aurora-software-and-digital-engineering-aurora"
+    "id": "netflix-security-engineer-l5-security-incident-response-team-usa-remote"
   }
 ]

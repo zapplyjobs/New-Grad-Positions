@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Data Engineer 1",
-    "employer_name": "Modernizing Medicine",
-    "job_city": "Boca Raton",
-    "job_state": "FL",
-    "job_description": "Join Modernizing Medicine in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8194195002",
-    "job_posted_at_datetime_utc": "2025-10-03T20:26:14.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "modernizing-medicine-data-engineer-1-boca-raton"
+    "job_title": "AI Quantitative User Experience Research Lead",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +2 locations",
+    "job_description": "Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/1145355504217532",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-ai-quantitative-user-experience-research-lead-menlo-park"
   },
   {
-    "job_title": "Dynamics 365 Sales, Service and Power Platform Solution Engineer",
+    "job_title": "Senior Software Engineer - Real-Time Communications",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884363",
-    "job_posted_at_datetime_utc": "2025-10-03T21:14:34.517Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886631",
+    "job_posted_at_datetime_utc": "2025-10-03T22:14:31.133Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-dynamics-365-sales-service-and-power-platform-solution-engineer-redmond"
+    "id": "microsoft-senior-software-engineer-real-time-communications-redmond"
+  },
+  {
+    "job_title": "Software Engineer II - Windows Debugging",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862774",
+    "job_posted_at_datetime_utc": "2025-10-03T22:14:31.133Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-windows-debugging-redmond"
   }
 ]

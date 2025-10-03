@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "CoreOS Engineer(Technical Leadership)",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1076063424382383",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-coreos-engineer-technical-leadership-multiple"
-  },
-  {
-    "job_title": "Software Engineer, Connectivity (Bluetooth/Wi-Fi)",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/2151208938705264",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-connectivity-bluetooth-wi-fi-multiple"
-  },
-  {
-    "job_title": "Software Engineer, Connectivity (Bluetooth)",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1328481822344508",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-connectivity-bluetooth-multiple"
+    "job_title": "Software Engineer 1 - C/C++ Linux",
+    "employer_name": "RTX",
+    "job_city": "Newport",
+    "job_state": "RI",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01796278",
+    "job_posted_at_datetime_utc": "2025-10-03T01:41:13.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-software-engineer-1-c-c-linux-newport"
   }
 ]

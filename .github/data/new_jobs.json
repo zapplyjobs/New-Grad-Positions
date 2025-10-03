@@ -1,57 +1,46 @@
 [
   {
-    "job_title": "Software Development Engineer 1 - SEM Engineering",
-    "employer_name": "Expedia Group",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Expedia Group in this exciting opportunity.",
-    "job_apply_link": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98187-2",
-    "job_posted_at_datetime_utc": "2025-10-03T03:10:13.000Z",
+    "job_title": "Software Engineer – New Grad - Summer 2026",
+    "employer_name": "Replit",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_description": "Join Replit in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application",
+    "job_posted_at_datetime_utc": "2025-10-03T04:09:33.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "expedia-group-software-development-engineer-1-sem-engineering-seattle"
+    "id": "replit-software-engineer-new-grad-summer-2026-san-mateo"
   },
   {
-    "job_title": "Software Engineer 1 - Technology",
-    "employer_name": "American Express",
-    "job_city": "Plantation",
-    "job_state": "FL",
-    "job_description": "Join American Express in this exciting opportunity.",
-    "job_apply_link": "https://aexp.eightfold.ai/careers/job/38270703",
-    "job_posted_at_datetime_utc": "2025-10-03T02:53:50.000Z",
+    "job_title": "Engineering Manager, Asset Data Platform",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7286426?gh_jid=7286426",
+    "job_posted_at_datetime_utc": "2025-10-03T04:11:14.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "american-express-software-engineer-1-technology-plantation"
+    "id": "coinbase-engineering-manager-asset-data-platform-remote-usa"
   },
   {
-    "job_title": "Campus Undergraduate Full-Time - Software Engineer 1 - Technology",
-    "employer_name": "American Express",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_description": "Join American Express in this exciting opportunity.",
-    "job_apply_link": "https://aexp.eightfold.ai/careers/job/38270714",
-    "job_posted_at_datetime_utc": "2025-10-03T02:53:48.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "american-express-campus-undergraduate-full-time-software-engineer-1-technology-phoenix"
-  },
-  {
-    "job_title": "Machine Learning Engineer 1",
-    "employer_name": "Trend Health Partners",
-    "job_city": "Remote in USA",
+    "job_title": "Software Engineer I - Video Platform",
+    "employer_name": "Twitch",
+    "job_city": "SF",
     "job_state": "Locations",
-    "job_description": "Join Trend Health Partners in this exciting opportunity.",
-    "job_apply_link": "https://jobs.lever.co/Trend-Health-Partners/ed68f037-97d3-4f32-b24a-fa8a544db7db/apply",
-    "job_posted_at_datetime_utc": "2025-10-03T02:49:12.000Z",
+    "job_description": "Join Twitch in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/twitch/jobs/8181483002",
+    "job_posted_at_datetime_utc": "2025-10-03T03:56:44.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "trend-health-partners-machine-learning-engineer-1-remote-in-usa"
+    "id": "twitch-software-engineer-i-video-platform-sf"
   },
   {
-    "job_title": "Data Engineer I",
-    "employer_name": "Centene",
-    "job_city": "Texas",
-    "job_state": "Locations",
-    "job_description": "Join Centene in this exciting opportunity.",
-    "job_apply_link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624",
-    "job_posted_at_datetime_utc": "2025-10-03T02:29:31.000Z",
+    "job_title": "Software Engineer – New Grad - Multiple Teams",
+    "employer_name": "ZipRecruiter",
+    "job_city": "Santa Monica",
+    "job_state": "CA",
+    "job_description": "Join ZipRecruiter in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130",
+    "job_posted_at_datetime_utc": "2025-10-03T03:20:53.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "centene-data-engineer-i-texas"
+    "id": "ziprecruiter-software-engineer-new-grad-multiple-teams-santa-monica"
   }
 ]

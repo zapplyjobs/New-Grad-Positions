@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "job_title": "Software Engineer 1 - Digital Health Engineering",
+    "employer_name": "Abbott",
+    "job_city": "Pacoima",
+    "job_state": "LA",
+    "job_description": "Join Abbott in this exciting opportunity.",
+    "job_apply_link": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Engineer-I_31130840-1",
+    "job_posted_at_datetime_utc": "2025-10-03T06:06:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "abbott-software-engineer-1-digital-health-engineering-pacoima"
+  },
+  {
+    "job_title": "Software Engineer - Performance and Power Efficiency (Technical Leadership)",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/851224384088446",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-performance-and-power-efficiency-technical-leadership-multiple"
+  },
+  {
+    "job_title": "Software Engineer - Performance and Power Efficiency",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1109176448073978",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-performance-and-power-efficiency-multiple"
+  },
+  {
+    "job_title": "Data Engineering Manager, Analytics (Monetization)",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +2 locations",
+    "job_description": "Data Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/3613938402245439",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-engineering-manager-analytics-monetization-bellevue"
+  },
+  {
+    "job_title": "Software Engineer, OS Frameworks",
+    "employer_name": "Meta",
+    "job_city": "Los Angeles",
+    "job_state": "CA +5 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/627248663708498",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-os-frameworks-los-angeles"
+  },
+  {
+    "job_title": "Software Engineer - Browser",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +4 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1221947349420308",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-browser-menlo-park"
+  },
+  {
+    "job_title": "Network Production Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Network Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1525867345323315",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-network-production-engineer-multiple"
+  },
+  {
+    "job_title": "Product Management Manager",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +1 locations",
+    "job_description": "Product Management",
+    "job_apply_link": "https://www.metacareers.com/jobs/603264285647236",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-management-manager-bellevue"
+  }
+]

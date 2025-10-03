@@ -1,6 +1,6 @@
 [
   {
-    "job_title": "Software Engineer",
+    "job_title": "Software Engineer - New Grad - Summer 2026",
     "employer_name": "Replit",
     "job_city": "Foster City",
     "job_state": "CA",
@@ -8,10 +8,10 @@
     "job_apply_link": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
     "job_posted_at_datetime_utc": "2025-10-03T13:37:57.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "replit-software-engineer-foster-city"
+    "id": "replit-software-engineer-new-grad-summer-2026-foster-city"
   },
   {
-    "job_title": "Quantitative Strategy Developer",
+    "job_title": "Quantitative Strategy Developer - New Grad",
     "employer_name": "Susquehanna",
     "job_city": "Bala Cynwyd",
     "job_state": "PA",
@@ -19,6 +19,6 @@
     "job_apply_link": "https://careers-sig.icims.com/jobs/9531/quantitative-strategy-developer---new-grad/job",
     "job_posted_at_datetime_utc": "2025-10-03T13:36:10.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "susquehanna-quantitative-strategy-developer-bala-cynwyd"
+    "id": "susquehanna-quantitative-strategy-developer-new-grad-bala-cynwyd"
   }
 ]

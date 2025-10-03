@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Training and Compliance Coordinator",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Training and Compliance Coordinator",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124731805067551430-training-and-compliance-coordinator?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
+    "id": "google-training-and-compliance-coordinator-mountain-view"
+  },
+  {
+    "job_title": "Software Engineer Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884294",
+    "job_posted_at_datetime_utc": "2025-10-03T17:14:18.060Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-manager-redmond"
+  },
+  {
+    "job_title": "Distributed Systems Engineer (L5) - Delivery",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312358865",
+    "job_posted_at_datetime_utc": "2025-10-03T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-distributed-systems-engineer-l5-delivery-usa-remote"
+  }
+]

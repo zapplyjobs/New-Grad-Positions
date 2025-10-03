@@ -1,56 +1,24 @@
 [
   {
-    "job_title": "Software Engineer 1 - Multiple Teams",
-    "employer_name": "Medtronic",
-    "job_city": "Northridge",
-    "job_state": "LA",
-    "job_description": "Join Medtronic in this exciting opportunity.",
-    "job_apply_link": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Engineer-I--Northridge--CA-_R47859",
-    "job_posted_at_datetime_utc": "2025-10-03T19:02:31.000Z",
+    "job_title": "Data Engineer 1",
+    "employer_name": "Modernizing Medicine",
+    "job_city": "Boca Raton",
+    "job_state": "FL",
+    "job_description": "Join Modernizing Medicine in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8194195002",
+    "job_posted_at_datetime_utc": "2025-10-03T20:26:14.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "medtronic-software-engineer-1-multiple-teams-northridge"
+    "id": "modernizing-medicine-data-engineer-1-boca-raton"
   },
   {
-    "job_title": "Prototyping Engineer - Casting and Molding",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Engineering +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1012296804304261",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-prototyping-engineer-casting-and-molding-sunnyvale"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Azure Core Compute Team",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineer. Level: Students and graduates. Posted: Recently. Full Title: Software Engineer - Azure Core Compute Team",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889324/Software-Engineer---Azure-Core-Compute-Team",
-    "id": "microsoft-azure-core-compute-team-multiple-locations"
-  },
-  {
-    "job_title": "Software Engineer - Azure Core Compute Team",
+    "job_title": "Dynamics 365 Sales, Service and Power Platform Solution Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889324",
-    "job_posted_at_datetime_utc": "2025-10-03T20:15:39.949Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884363",
+    "job_posted_at_datetime_utc": "2025-10-03T21:14:34.517Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-azure-core-compute-team-redmond"
-  },
-  {
-    "job_title": "Security Engineer (L5), Security Incident Response Team",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312337716",
-    "job_posted_at_datetime_utc": "2025-10-01T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-security-engineer-l5-security-incident-response-team-usa-remote"
+    "id": "microsoft-dynamics-365-sales-service-and-power-platform-solution-engineer-redmond"
   }
 ]

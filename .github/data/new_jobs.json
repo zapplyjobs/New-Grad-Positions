@@ -1,13 +1,57 @@
 [
   {
-    "job_title": "Software Engineer 1 - C/C++ Linux",
-    "employer_name": "RTX",
-    "job_city": "Newport",
-    "job_state": "RI",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01796278",
-    "job_posted_at_datetime_utc": "2025-10-03T01:41:13.000Z",
+    "job_title": "Software Development Engineer 1 - SEM Engineering",
+    "employer_name": "Expedia Group",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join Expedia Group in this exciting opportunity.",
+    "job_apply_link": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98187-2",
+    "job_posted_at_datetime_utc": "2025-10-03T03:10:13.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-1-c-c-linux-newport"
+    "id": "expedia-group-software-development-engineer-1-sem-engineering-seattle"
+  },
+  {
+    "job_title": "Software Engineer 1 - Technology",
+    "employer_name": "American Express",
+    "job_city": "Plantation",
+    "job_state": "FL",
+    "job_description": "Join American Express in this exciting opportunity.",
+    "job_apply_link": "https://aexp.eightfold.ai/careers/job/38270703",
+    "job_posted_at_datetime_utc": "2025-10-03T02:53:50.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "american-express-software-engineer-1-technology-plantation"
+  },
+  {
+    "job_title": "Campus Undergraduate Full-Time - Software Engineer 1 - Technology",
+    "employer_name": "American Express",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_description": "Join American Express in this exciting opportunity.",
+    "job_apply_link": "https://aexp.eightfold.ai/careers/job/38270714",
+    "job_posted_at_datetime_utc": "2025-10-03T02:53:48.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "american-express-campus-undergraduate-full-time-software-engineer-1-technology-phoenix"
+  },
+  {
+    "job_title": "Machine Learning Engineer 1",
+    "employer_name": "Trend Health Partners",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join Trend Health Partners in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/Trend-Health-Partners/ed68f037-97d3-4f32-b24a-fa8a544db7db/apply",
+    "job_posted_at_datetime_utc": "2025-10-03T02:49:12.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "trend-health-partners-machine-learning-engineer-1-remote-in-usa"
+  },
+  {
+    "job_title": "Data Engineer I",
+    "employer_name": "Centene",
+    "job_city": "Texas",
+    "job_state": "Locations",
+    "job_description": "Join Centene in this exciting opportunity.",
+    "job_apply_link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624",
+    "job_posted_at_datetime_utc": "2025-10-03T02:29:31.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "centene-data-engineer-i-texas"
   }
 ]

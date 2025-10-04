@@ -35,8 +35,8 @@ const CHANNEL_CONFIG = {
   'hr': process.env.DISCORD_HR_CHANNEL_ID
 };
 
-// Check if multi-channel mode is enabled
-const MULTI_CHANNEL_MODE = Object.values(CHANNEL_CONFIG).some(id => id !== undefined);
+// Check if multi-channel mode is enabled (check for actual values, not just defined)
+const MULTI_CHANNEL_MODE = Object.values(CHANNEL_CONFIG).some(id => id && id.trim() !== '');
 
 // Data paths
 const dataDir = path.join(process.cwd(), '.github', 'data');
@@ -607,7 +607,7 @@ client.once('ready', async () => {
     const jobsByChannel = {};
     for (const job of unpostedJobs) {
       const channelId = getJobChannel(job);
-      if (!channelId) {
+      if (!channelId || channelId.trim() === '') {
         console.warn(`⚠️ No channel configured for job: ${job.job_title} - skipping`);
         continue;
       }

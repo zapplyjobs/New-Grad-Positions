@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Test Software Engineer",
+    "employer_name": "Meta",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Test job for Discord bot testing",
+    "job_apply_link": "https://example.com/test1",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "2025-01-15T10:00:00Z",
+    "id": "test-meta-swe-sf-1"
+  },
+  {
+    "job_title": "Test Product Manager",
+    "employer_name": "Google",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_description": "Test PM role for bot testing",
+    "job_apply_link": "https://example.com/test2",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "2025-01-15T09:00:00Z",
+    "id": "test-google-pm-mv-1"
+  },
+  {
+    "job_title": "Test Sales Representative",
+    "employer_name": "Salesforce",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Test sales role for bot testing",
+    "job_apply_link": "https://example.com/test3",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "2025-01-15T08:00:00Z",
+    "id": "test-salesforce-sales-ny-1"
+  }
+]

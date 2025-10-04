@@ -51,7 +51,7 @@ jobs:
       run: npm install discord.js@14
 
     - name: Post new jobs via Enhanced Bot
-      run: node .github/scripts/enhanced-discord-bot.js
+      run: node .github/scripts/save-discord-logs.js
       env:
         DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
         DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
@@ -68,12 +68,31 @@ jobs:
         DISCORD_PM_CHANNEL_ID:         ${{ secrets.DISCORD_PM_CHANNEL_ID }}
         DISCORD_HR_CHANNEL_ID:         ${{ secrets.DISCORD_HR_CHANNEL_ID }}
 
+    - name: Save Discord bot logs
+      if: always()  # Always save logs, even if bot fails
+      run: |
+        # Check if logs were created
+        if [ -d ".github/logs" ]; then
+          echo "📁 Discord bot logs found, preparing to save..."
+
+          # Add logs to git (but not in main history)
+          git add .github/logs/
+
+          # Also create a summary of the latest log
+          if [ -f ".github/logs/latest.log" ]; then
+            echo "📄 Latest log summary:"
+            tail -50 .github/logs/latest.log
+          fi
+        else
+          echo "📭 No Discord bot logs found"
+        fi
+
     - name: Check for changes
       id: verify-changed-files
       run: |
         if [ -n "$(git status --porcelain)" ]; then
           echo "changed=true" >> $GITHUB_OUTPUT
-          echo "Found changes in README"
+          echo "Found changes in files"
         else
           echo "changed=false" >> $GITHUB_OUTPUT
           echo "No changes detected"

@@ -623,10 +623,11 @@ client.once('ready', async () => {
     let totalFailed = 0;
 
     for (const [channelId, channelJobs] of Object.entries(jobsByChannel)) {
-      const channel = client.channels.cache.get(channelId);
-
-      if (!channel) {
-        console.error(`❌ Channel not found: ${channelId}`);
+      let channel;
+      try {
+        channel = await client.channels.fetch(channelId);
+      } catch (error) {
+        console.error(`❌ Channel not found or accessible: ${channelId}`, error.message);
         totalFailed += channelJobs.length;
         continue;
       }
@@ -659,9 +660,11 @@ client.once('ready', async () => {
     // Legacy single-channel mode
     console.log('📝 Single-channel mode - posting to configured channel');
 
-    const channel = client.channels.cache.get(CHANNEL_ID);
-    if (!channel) {
-      console.error('❌ Channel not found:', CHANNEL_ID);
+    let channel;
+    try {
+      channel = await client.channels.fetch(CHANNEL_ID);
+    } catch (error) {
+      console.error('❌ Channel not found or accessible:', CHANNEL_ID, error.message);
       client.destroy();
       process.exit(1);
       return;
@@ -712,10 +715,11 @@ client.once('ready', async () => {
     console.log('🎉 All jobs posted successfully!');
   }
 
-  // Clean exit
-  setTimeout(() => {
-    process.exit(0);
-  }, 2000);
+  // Clean exit AFTER all async operations complete
+  console.log('✅ All posting operations complete, cleaning up...');
+  await new Promise(resolve => setTimeout(resolve, 2000)); // Grace period for final operations
+  client.destroy();
+  process.exit(0);
 });
 
 // Handle slash commands (only if not running in GitHub Actions)

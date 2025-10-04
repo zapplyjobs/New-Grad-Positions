@@ -2,9 +2,31 @@
 
 ## Overview
 
-The enhanced Discord bot now includes auto-generated tags, subscription alerts, and slash commands for job filtering.
+The enhanced Discord bot now includes multi-channel forum posting, auto-generated tags, subscription alerts, and slash commands for job filtering.
 
-## New Features
+## Latest Updates (December 2024)
+
+### Critical Fixes
+- ✅ **Fixed Date Handling**: Shows "Today", "Yesterday", "X days ago" instead of "Invalid Date"
+- ✅ **Fixed Emoji Consistency**: Removed random job emojis, only shows company emoji when found
+- ✅ **Clean Descriptions**: Removes debug metadata (Category:, Level:, etc.) from job descriptions
+- ✅ **Better Error Handling**: Graceful fallbacks for all missing data fields
+
+### New Multi-Channel Forum Support
+Jobs now automatically route to 9 dedicated forum channels based on job type:
+- 💻 `tech-jobs` - Software, engineering, data science, DevOps roles
+- 💸 `sales-jobs` - Sales, business development, account management
+- 🎯 `marketing-jobs` - Marketing, growth, SEO, brand management
+- 💰 `finance-jobs` - Finance, accounting, financial analysis
+- 🩺 `healthcare-jobs` - Healthcare, medical, clinical roles
+- 📦 `product-jobs` - Product management, product strategy
+- 🏭 `supply-chain-jobs` - Supply chain, logistics, operations
+- 📊 `project-management-jobs` - Project/program management, Scrum Masters
+- 👥 `human-resources-jobs` - HR, recruiting, talent acquisition
+
+**Forum Post Format**: Each job creates a forum post with title: `Job Title | Company Name`
+
+## Core Features
 
 ### 1. Auto-Generated Tags
 
@@ -41,23 +63,48 @@ Advanced job search with filtering capabilities:
 
 ## Required Environment Variables
 
-Add these to your GitHub secrets:
+### Multi-Channel Mode (Recommended)
+Add these to your GitHub secrets for forum channel routing:
 
+```bash
+DISCORD_TOKEN=your_bot_token
+
+# Forum Channel IDs (all required for multi-channel mode)
+DISCORD_TECH_CHANNEL_ID=xxx
+DISCORD_SALES_CHANNEL_ID=xxx
+DISCORD_MARKETING_CHANNEL_ID=xxx
+DISCORD_FINANCE_CHANNEL_ID=xxx
+DISCORD_HEALTHCARE_CHANNEL_ID=xxx
+DISCORD_PRODUCT_CHANNEL_ID=xxx
+DISCORD_SUPPLY_CHANNEL_ID=xxx
+DISCORD_PM_CHANNEL_ID=xxx        # Project Management
+DISCORD_HR_CHANNEL_ID=xxx        # Human Resources
+
+# Optional: For slash commands
+DISCORD_CLIENT_ID=xxx
+DISCORD_GUILD_ID=xxx
 ```
-DISCORD_TOKEN        # Bot token from Discord Developer Portal
-DISCORD_CHANNEL_ID   # Channel where jobs are posted
-DISCORD_CLIENT_ID    # Application ID from Discord Developer Portal  
-DISCORD_GUILD_ID     # Server ID where bot operates
+
+### Legacy Single-Channel Mode
+For backwards compatibility:
+
+```bash
+DISCORD_TOKEN=your_bot_token
+DISCORD_CHANNEL_ID=xxx           # Single channel for all jobs
+DISCORD_CLIENT_ID=xxx            # Optional
+DISCORD_GUILD_ID=xxx             # Optional
 ```
 
 ## Bot Permissions Required
 
 The bot needs these Discord permissions:
 - Send Messages
-- Use Slash Commands
-- Create Public Threads
-- Mention Everyone (for subscription alerts)
+- **Create Public Threads** (Required for forum channels)
+- Manage Threads
 - Embed Links
+- View Channels
+- Use Slash Commands (optional)
+- Mention Everyone (optional, for subscription alerts)
 
 ## File Structure
 
@@ -80,24 +127,26 @@ The bot needs these Discord permissions:
 3. **User Interaction**: Users can subscribe, search, and filter jobs via slash commands
 4. **Notifications**: Subscribed users get mentioned when matching jobs are posted
 
-## Example Job Post
+## Example Forum Post
 
+**Forum Channel**: #tech-jobs
+**Post Title**: `Senior Software Engineer - iOS | Apple`
+
+**Post Content**:
 ```
-🔔 @user1 @user2 - New job matching your subscriptions!
-
 🍎 Senior Software Engineer - iOS
 
 🏢 Company: Apple
-📍 Location: Cupertino, CA  
-⏰ Posted: 1/15/2024
+📍 Location: Cupertino, CA
+⏰ Posted: 2 days ago
 
-🏷️ Tags: #Senior #iOS #Mobile #FAANG #Swift
+🏷️ Tags: #Senior #iOS #Mobile #FAANG
 
-📋 Description: Join Apple's iOS team to build the next generation of mobile experiences...
+📋 Description: Join Apple's iOS team to build the next generation of mobile
+experiences. Work with cutting-edge technologies and collaborate with world-class
+engineers to deliver products used by millions...
 
-[💼 Apply Now] [🔔 Get Similar Jobs]
-
-💬 Senior Software Engineer - iOS at Apple (Thread)
+[🚀 Apply Now]
 ```
 
 ## Testing
@@ -110,10 +159,13 @@ node .github/scripts/test-bot-features.js
 
 ## Troubleshooting
 
-1. **Bot not posting**: Check DISCORD_TOKEN and CHANNEL_ID
-2. **Slash commands not working**: Verify CLIENT_ID and GUILD_ID  
-3. **No subscriptions**: Ensure bot has permission to mention users
-4. **Tags not generating**: Check companies.json is accessible
+1. **Bot not posting**: Check DISCORD_TOKEN and channel IDs are correct
+2. **"Channel not found"**: Verify channel IDs and bot has access to channels
+3. **"Cannot create thread"**: Ensure channels are forum channels and bot has thread permissions
+4. **Jobs in wrong channel**: Review job title/description and adjust categorization keywords
+5. **"Invalid Date"**: Should be fixed, but check job_posted_at_datetime_utc format
+6. **Slash commands not working**: Verify CLIENT_ID and GUILD_ID
+7. **Rate limiting**: Adjust delays between posts if getting 429 errors
 
 ## Future Enhancements
 

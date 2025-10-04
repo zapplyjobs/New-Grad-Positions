@@ -2,24 +2,41 @@
 
 const fs = require('fs');
 const path = require('path');
-const { 
-  Client, 
-  GatewayIntentBits, 
-  EmbedBuilder, 
-  ActionRowBuilder, 
-  ButtonBuilder, 
+const {
+  Client,
+  GatewayIntentBits,
+  EmbedBuilder,
+  ActionRowBuilder,
+  ButtonBuilder,
   ButtonStyle,
   SlashCommandBuilder,
   Collection,
   REST,
-  Routes
+  Routes,
+  ChannelType
 } = require('discord.js');
 
 // Environment variables
 const TOKEN = process.env.DISCORD_TOKEN;
-const CHANNEL_ID = process.env.DISCORD_CHANNEL_ID;
+const CHANNEL_ID = process.env.DISCORD_CHANNEL_ID; // Legacy single channel support
 const CLIENT_ID = process.env.DISCORD_CLIENT_ID;
 const GUILD_ID = process.env.DISCORD_GUILD_ID;
+
+// Multi-channel configuration for forum channels
+const CHANNEL_CONFIG = {
+  'tech': process.env.DISCORD_TECH_CHANNEL_ID,
+  'sales': process.env.DISCORD_SALES_CHANNEL_ID,
+  'marketing': process.env.DISCORD_MARKETING_CHANNEL_ID,
+  'finance': process.env.DISCORD_FINANCE_CHANNEL_ID,
+  'healthcare': process.env.DISCORD_HEALTHCARE_CHANNEL_ID,
+  'product': process.env.DISCORD_PRODUCT_CHANNEL_ID,
+  'supply-chain': process.env.DISCORD_SUPPLY_CHANNEL_ID,
+  'project-management': process.env.DISCORD_PM_CHANNEL_ID,
+  'hr': process.env.DISCORD_HR_CHANNEL_ID
+};
+
+// Check if multi-channel mode is enabled
+const MULTI_CHANNEL_MODE = Object.values(CHANNEL_CONFIG).some(id => id !== undefined);
 
 // Data paths
 const dataDir = path.join(process.cwd(), '.github', 'data');
@@ -167,6 +184,119 @@ class PostedJobsManager {
 
 const postedJobsManager = new PostedJobsManager();
 
+// Helper function to format posted date with graceful fallbacks
+function formatPostedDate(dateString) {
+  if (!dateString) return 'Recently';
+
+  try {
+    const date = new Date(dateString);
+    if (isNaN(date.getTime())) return 'Recently';
+
+    // Calculate relative time
+    const now = new Date();
+    const diffMs = now - date;
+    const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+
+    if (diffDays === 0) return 'Today';
+    if (diffDays === 1) return 'Yesterday';
+    if (diffDays < 7) return `${diffDays} days ago`;
+    if (diffDays < 30) return `${Math.floor(diffDays / 7)} week${diffDays >= 14 ? 's' : ''} ago`;
+
+    // For older posts, show the actual date
+    return date.toLocaleDateString('en-US', {
+      month: 'short',
+      day: 'numeric',
+      year: date.getFullYear() !== now.getFullYear() ? 'numeric' : undefined
+    });
+  } catch (error) {
+    console.error('Date parsing error:', error);
+    return 'Recently';
+  }
+}
+
+// Helper function to clean job descriptions
+function cleanJobDescription(description) {
+  if (!description || typeof description !== 'string') return null;
+
+  // Remove metadata patterns
+  let cleaned = description
+    .replace(/Category:\s*[\w\s]+\.\s*/gi, '')
+    .replace(/Level:\s*[\w_]+\.\s*/gi, '')
+    .replace(/Posted:\s*[\w\s]+\.\s*/gi, '')
+    .replace(/Full Title:\s*[^.]+\.\s*/gi, '')
+    // Remove HTML tags if present
+    .replace(/<[^>]*>/g, '')
+    // Remove excessive whitespace
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  // If description is too short after cleaning, return null
+  if (cleaned.length < 20) return null;
+
+  // Truncate at word boundary if too long
+  if (cleaned.length > 300) {
+    cleaned = cleaned.substring(0, 300);
+    const lastSpace = cleaned.lastIndexOf(' ');
+    if (lastSpace > 250) {
+      cleaned = cleaned.substring(0, lastSpace);
+    }
+    cleaned += '...';
+  }
+
+  return cleaned;
+}
+
+// Determine which channel a job should go to
+function getJobChannel(job) {
+  const title = (job.job_title || '').toLowerCase();
+  const description = (job.job_description || '').toLowerCase();
+  const combined = `${title} ${description}`;
+
+  // Sales roles - Check first as they're very specific
+  if (/\b(sales|account executive|account manager|bdr|sdr|business development|customer success|revenue|quota)\b/.test(combined)) {
+    return CHANNEL_CONFIG.sales;
+  }
+
+  // Marketing roles
+  if (/\b(marketing|growth|seo|sem|content marketing|brand|campaign|digital marketing|social media|copywriter|creative director)\b/.test(combined)) {
+    return CHANNEL_CONFIG.marketing;
+  }
+
+  // Finance roles
+  if (/\b(finance|accounting|financial analyst|controller|treasury|audit|tax|bookkeep|cfo|actuarial|investment|banker)\b/.test(combined)) {
+    return CHANNEL_CONFIG.finance;
+  }
+
+  // Healthcare roles
+  if (/\b(healthcare|medical|clinical|health|nurse|doctor|physician|therapist|pharmaceutical|biotech|hospital|patient care)\b/.test(combined)) {
+    return CHANNEL_CONFIG.healthcare;
+  }
+
+  // Product Management roles - Be specific to avoid false positives
+  if (/\b(product manager|product owner|product marketing|(\bpm\b)|product lead|product strategy|product analyst)\b/.test(combined)) {
+    return CHANNEL_CONFIG.product;
+  }
+
+  // Supply Chain/Operations roles - Exclude "people operations"
+  if (/\b(supply chain|logistics|(?<!people )operations manager|procurement|inventory|warehouse|distribution|sourcing|fulfillment|shipping)\b/.test(combined)) {
+    return CHANNEL_CONFIG['supply-chain'];
+  }
+
+  // Project Management roles - Be specific to avoid confusion with Product Management
+  if (/\b(project manager|program manager|scrum master|agile coach|pmo|project coordinator|delivery manager)\b/.test(combined)) {
+    return CHANNEL_CONFIG['project-management'];
+  }
+
+  // HR roles
+  if (/\b(human resources|(\bhr\b)|recruiter|talent acquisition|people operations|compensation|benefits|hiring manager|recruitment|workforce)\b/.test(combined)) {
+    return CHANNEL_CONFIG.hr;
+  }
+
+  // Default to tech for all engineering/technical roles
+  // This includes: Software Engineer, Data Scientist, DevOps, QA, IT, Security, etc.
+  return CHANNEL_CONFIG.tech;
+}
+
 // Enhanced tag generation
 function generateTags(job) {
   const tags = [];
@@ -260,17 +390,20 @@ function buildJobEmbed(job) {
                   companies.fintech.find(c => c.name === job.employer_name) ||
                   companies.gaming.find(c => c.name === job.employer_name) ||
                   companies.top_tech.find(c => c.name === job.employer_name) ||
-                  companies.enterprise_saas.find(c => c.name === job.employer_name) ||
-                  { emoji: '🏢' };
+                  companies.enterprise_saas.find(c => c.name === job.employer_name);
+
+  // Build title - only use company emoji if company is found
+  // Note: Don't include emoji in title for forum posts as Discord handles it differently
+  const title = job.job_title;
 
   const embed = new EmbedBuilder()
-    .setTitle(`${company.emoji} ${job.job_title}`)
+    .setTitle(title)
     .setURL(job.job_apply_link)
     .setColor(0x00A8E8)
     .addFields(
-      { name: '🏢 Company', value: job.employer_name, inline: true },
+      { name: '🏢 Company', value: job.employer_name || 'Not specified', inline: true },
       { name: '📍 Location', value: `${job.job_city || 'Not specified'}, ${job.job_state || 'Remote'}`, inline: true },
-      { name: '⏰ Posted', value: new Date(job.job_posted_at_datetime_utc).toLocaleDateString(), inline: true }
+      { name: '💰 Posted', value: formatPostedDate(job.job_posted_at_datetime_utc), inline: true }
     );
 
   // Add tags field with hashtag formatting
@@ -282,16 +415,15 @@ function buildJobEmbed(job) {
     });
   }
 
-  // Add description preview if available
-  if (job.job_description && job.job_description.length > 100) {
-    const preview = job.job_description.substring(0, 200) + '...';
+  // Add cleaned description preview if available
+  const cleanedDescription = cleanJobDescription(job.job_description);
+  if (cleanedDescription) {
     embed.addFields({
       name: '📋 Description',
-      value: preview,
+      value: cleanedDescription,
       inline: false
     });
   }
-
 
   return embed;
 }
@@ -425,15 +557,7 @@ client.once('ready', async () => {
     await registerCommands();
   }
   
-  // Post new jobs if any exist
-  const channel = client.channels.cache.get(CHANNEL_ID);
-  if (!channel) {
-    console.error('❌ Channel not found:', CHANNEL_ID);
-    client.destroy();
-    process.exit(1);
-    return;
-  }
-
+  // Load jobs to post
   let jobs = [];
   try {
     const newJobsPath = path.join(dataDir, 'new_jobs.json');
@@ -458,7 +582,7 @@ client.once('ready', async () => {
   const unpostedJobs = jobs.filter(job => {
     const jobId = generateJobId(job);
     const hasBeenPosted = postedJobsManager.hasBeenPosted(jobId);
-    
+
     if (hasBeenPosted) {
       console.log(`⏭️ Skipping already posted: ${job.job_title} at ${job.employer_name}`);
       return false;
@@ -475,56 +599,123 @@ client.once('ready', async () => {
 
   console.log(`📬 Posting ${unpostedJobs.length} new jobs (${jobs.length - unpostedJobs.length} already posted)...`);
 
-  for (const job of unpostedJobs) {
-    try {
-      const jobId = generateJobId(job);
-      const tags = generateTags(job);
-      const embed = buildJobEmbed(job);
-      const actionRow = buildActionRow(job);
+  // Check if multi-channel mode is enabled
+  if (MULTI_CHANNEL_MODE) {
+    console.log('🔀 Multi-channel mode enabled - routing jobs to appropriate forums');
 
-      // Get users subscribed to these tags (only if not in GitHub Actions)
-      let content = '';
-      
-      if (!process.env.GITHUB_ACTIONS) {
-        const subscribedUsers = subscriptionManager.getUsersForTags(tags);
-        if (subscribedUsers.length > 0) {
-          content = `🔔 ${subscribedUsers.map(id => `<@${id}>`).join(' ')} - New job matching your subscriptions!`;
-        }
+    // Group jobs by channel
+    const jobsByChannel = {};
+    for (const job of unpostedJobs) {
+      const channelId = getJobChannel(job);
+      if (!channelId) {
+        console.warn(`⚠️ No channel configured for job: ${job.job_title} - skipping`);
+        continue;
       }
 
-      const messageData = {
-        content,
-        embeds: [embed]
-      };
-      
-      // Only add components if actionRow has buttons
-      if (actionRow.components.length > 0) {
-        messageData.components = [actionRow];
+      if (!jobsByChannel[channelId]) {
+        jobsByChannel[channelId] = [];
       }
-      
-      const message = await channel.send(messageData);
-
-      // Thread creation disabled - bot lacks thread permissions
-      // await message.startThread({
-      //   name: `💬 ${job.job_title} at ${job.employer_name}`,
-      //   autoArchiveDuration: 1440 // 24 hours
-      // });
-
-      // Mark this job as posted AFTER successful posting
-      postedJobsManager.markAsPosted(jobId);
-
-      console.log(`✅ Posted: ${job.job_title} at ${job.employer_name}`);
-      
-      // Small delay to avoid rate limits
-      await new Promise(resolve => setTimeout(resolve, 1000));
-      
-    } catch (error) {
-      console.error(`❌ Error posting job ${job.job_title}:`, error);
+      jobsByChannel[channelId].push(job);
     }
+
+    // Post jobs to their respective channels (batch by channel)
+    let totalPosted = 0;
+    let totalFailed = 0;
+
+    for (const [channelId, channelJobs] of Object.entries(jobsByChannel)) {
+      const channel = client.channels.cache.get(channelId);
+
+      if (!channel) {
+        console.error(`❌ Channel not found: ${channelId}`);
+        totalFailed += channelJobs.length;
+        continue;
+      }
+
+      console.log(`\n📌 Posting ${channelJobs.length} jobs to #${channel.name}`);
+
+      // Post jobs with rate limiting within each batch
+      for (const job of channelJobs) {
+        const jobId = generateJobId(job);
+        const result = await postJobToForum(job, channel);
+
+        if (result.success) {
+          // Mark as posted after successful post
+          postedJobsManager.markAsPosted(jobId);
+          totalPosted++;
+        } else {
+          totalFailed++;
+        }
+
+        // Rate limiting: 1.5 seconds between posts in the same channel
+        await new Promise(resolve => setTimeout(resolve, 1500));
+      }
+
+      // Longer delay between different channels (3 seconds)
+      await new Promise(resolve => setTimeout(resolve, 3000));
+    }
+
+    console.log(`\n🎉 Posting complete! Successfully posted: ${totalPosted}, Failed: ${totalFailed}`);
+  } else {
+    // Legacy single-channel mode
+    console.log('📝 Single-channel mode - posting to configured channel');
+
+    const channel = client.channels.cache.get(CHANNEL_ID);
+    if (!channel) {
+      console.error('❌ Channel not found:', CHANNEL_ID);
+      client.destroy();
+      process.exit(1);
+      return;
+    }
+
+    for (const job of unpostedJobs) {
+      try {
+        const jobId = generateJobId(job);
+        const tags = generateTags(job);
+        const embed = buildJobEmbed(job);
+        const actionRow = buildActionRow(job);
+
+        // Get users subscribed to these tags (only if not in GitHub Actions)
+        let content = '';
+
+        if (!process.env.GITHUB_ACTIONS) {
+          const subscribedUsers = subscriptionManager.getUsersForTags(tags);
+          if (subscribedUsers.length > 0) {
+            content = `🔔 ${subscribedUsers.map(id => `<@${id}>`).join(' ')} - New job matching your subscriptions!`;
+          }
+        }
+
+        const messageData = {
+          content,
+          embeds: [embed]
+        };
+
+        // Only add components if actionRow has buttons
+        if (actionRow.components.length > 0) {
+          messageData.components = [actionRow];
+        }
+
+        const message = await channel.send(messageData);
+
+        // Mark this job as posted AFTER successful posting
+        postedJobsManager.markAsPosted(jobId);
+
+        console.log(`✅ Posted: ${job.job_title} at ${job.employer_name}`);
+
+        // Small delay to avoid rate limits
+        await new Promise(resolve => setTimeout(resolve, 1000));
+
+      } catch (error) {
+        console.error(`❌ Error posting job ${job.job_title}:`, error);
+      }
+    }
+
+    console.log('🎉 All jobs posted successfully!');
   }
 
-  console.log('🎉 All jobs posted successfully!');
-  process.exit(0);
+  // Clean exit
+  setTimeout(() => {
+    process.exit(0);
+  }, 2000);
 });
 
 // Handle slash commands (only if not running in GitHub Actions)
@@ -676,6 +867,86 @@ client.on('interactionCreate', async interaction => {
     }
   }
 });
+
+// Function to post job to forum channel
+async function postJobToForum(job, channel) {
+  try {
+    const jobId = generateJobId(job);
+    const embed = buildJobEmbed(job);
+    const actionRow = buildActionRow(job);
+    const tags = generateTags(job);
+
+    // Find company emoji if available
+    const company = companies.faang_plus.find(c => c.name === job.employer_name) ||
+                    companies.unicorn_startups.find(c => c.name === job.employer_name) ||
+                    companies.fintech.find(c => c.name === job.employer_name) ||
+                    companies.gaming.find(c => c.name === job.employer_name) ||
+                    companies.top_tech.find(c => c.name === job.employer_name) ||
+                    companies.enterprise_saas.find(c => c.name === job.employer_name);
+
+    // Create forum post title with company emoji if available
+    // Format: [emoji] Job Title @ Company Name
+    const companyEmoji = company ? company.emoji : '🏢';
+    const threadName = `${companyEmoji} ${job.job_title} @ ${job.employer_name}`.substring(0, 100);
+
+    // Build message data
+    const messageData = {
+      embeds: [embed]
+    };
+
+    // Only add components if actionRow has buttons
+    if (actionRow.components.length > 0) {
+      messageData.components = [actionRow];
+    }
+
+    // Check if this is a forum channel
+    if (channel.type === ChannelType.GuildForum) {
+      // Determine tags for the forum post based on job characteristics
+      const appliedTags = [];
+
+      // Try to find matching forum tags (these need to be pre-configured in Discord)
+      // Forum channels can have predefined tags that can be applied to posts
+      if (channel.availableTags && channel.availableTags.length > 0) {
+        // Match job tags with forum tags
+        for (const tag of tags) {
+          const forumTag = channel.availableTags.find(t =>
+            t.name.toLowerCase() === tag.toLowerCase() ||
+            t.name.toLowerCase().includes(tag.toLowerCase())
+          );
+          if (forumTag && appliedTags.length < 5) { // Discord allows max 5 tags
+            appliedTags.push(forumTag.id);
+          }
+        }
+      }
+
+      // Create a new forum post
+      const threadOptions = {
+        name: threadName,
+        message: messageData,
+        autoArchiveDuration: 10080, // Archive after 7 days of inactivity
+        reason: `New job posting: ${job.job_title} at ${job.employer_name}`
+      };
+
+      // Add tags if any were found
+      if (appliedTags.length > 0) {
+        threadOptions.appliedTags = appliedTags;
+      }
+
+      const thread = await channel.threads.create(threadOptions);
+
+      console.log(`✅ Created forum post: ${threadName} in #${channel.name}`);
+      return { success: true, thread };
+    } else {
+      // Fallback for regular text channels (legacy support)
+      const message = await channel.send(messageData);
+      console.log(`✅ Posted message: ${job.job_title} at ${job.employer_name} in #${channel.name}`);
+      return { success: true, message };
+    }
+  } catch (error) {
+    console.error(`❌ Error posting job ${job.job_title}:`, error);
+    return { success: false, error };
+  }
+}
 
 // Error handling
 client.on('error', error => {

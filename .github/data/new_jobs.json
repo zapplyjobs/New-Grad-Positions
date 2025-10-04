@@ -1,12 +1,1 @@
-[
-  {
-    "job_title": "Test Software Engineer",
-    "employer_name": "TestCorp",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Test job for debugging",
-    "job_apply_link": "https://example.com/apply",
-    "job_posted_at": "Recently",
-    "id": "testcorp-test-software-engineer-san-francisco"
-  }
-]
+[]

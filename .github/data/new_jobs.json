@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Research Scientist, Neural Interfaces (PhD)",
+    "job_title": "Senior Software Engineering Manager",
     "employer_name": "Meta",
-    "job_city": "Burlingame",
-    "job_state": "CA +1 locations",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/1281394133455997",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1889547535208479",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-neural-interfaces-phd-burlingame"
-  },
-  {
-    "job_title": "Senior Software Engineer - OneDrive & SharePoint AI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887944",
-    "job_posted_at_datetime_utc": "2025-10-04T01:14:11.544Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-onedrive-sharepoint-ai-redmond"
+    "id": "meta-senior-software-engineering-manager-multiple"
   }
 ]

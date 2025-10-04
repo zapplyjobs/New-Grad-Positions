@@ -69,74 +69,42 @@ jobs:
           echo "No changes detected"
         fi
       
-    - name: Commit updated job board
+    - name: Commit and Push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
         git config --local user.email "team@zapply.ai"
         git config --local user.name "Zapply Team"
+
+        # Pull latest changes BEFORE committing
+        echo "Pulling latest changes before commit..."
+        git pull origin main --no-edit || echo "No remote changes to pull"
+
+        # Now add and commit our changes
         git add -A
-        
+
         # Get job count from README for commit message
         JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
         COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-        
+
         git commit -m "Update jobs - $(date +'%Y-%m-%d')
-        
+
         Found $JOB_COUNT positions from $COMPANY_COUNT companies
         Updated categories, locations, and experience levels
         Next update tomorrow"
-        
-    - name: Push changes
-      if: steps.verify-changed-files.outputs.changed == 'true'
-      run: |
-        # Configure git for retries
-        git config pull.rebase true
-        git config rebase.autoStash true
 
-        # Function to retry push with exponential backoff
-        push_with_retry() {
-          local max_attempts=3
-          local attempt=1
-          local wait_time=5
-
-          while [ $attempt -le $max_attempts ]; do
-            echo "Push attempt $attempt of $max_attempts..."
-
-            # Try to push
-            if git push origin main; then
-              echo "✅ Successfully pushed changes!"
-              return 0
-            fi
-
-            # If push failed, pull latest changes and try again
-            echo "Push failed, pulling latest changes..."
-            git fetch origin main
-
-            # Try rebasing first (cleaner history)
-            if git rebase origin/main; then
-              echo "Rebased successfully, retrying push..."
-            else
-              echo "Rebase failed, aborting and trying merge..."
-              git rebase --abort
-              git pull origin main --no-edit --strategy-option=theirs
-            fi
-
-            # Wait before next attempt (exponential backoff)
-            if [ $attempt -lt $max_attempts ]; then
-              echo "Waiting ${wait_time} seconds before retry..."
-              sleep $wait_time
-              wait_time=$((wait_time * 2))
-            fi
-
-            attempt=$((attempt + 1))
-          done
-
-          echo "❌ Failed to push after $max_attempts attempts"
-          return 1
-        }
-
-        # Execute the push with retry logic
-        push_with_retry
+        # Push with retry
+        echo "Pushing changes..."
+        for i in 1 2 3; do
+          echo "Push attempt $i of 3..."
+          if git push origin main; then
+            echo "✅ Successfully pushed changes!"
+            break
+          else
+            echo "Push failed, pulling and retrying..."
+            git pull origin main --rebase --autostash || git pull origin main --no-edit
+            sleep 5
+          fi
+        done
         
     - name: Create job summary
       run: |

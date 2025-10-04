@@ -1,45 +1,24 @@
 [
   {
-    "job_title": "Research Scientist Intern, Generative AI Digital Characters (PhD)",
+    "job_title": "Research Scientist, Neural Interfaces (PhD)",
     "employer_name": "Meta",
-    "job_city": "Sausalito",
-    "job_state": "CA",
-    "job_description": "AI Research +5 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/2085498252200262",
+    "job_city": "Burlingame",
+    "job_state": "CA +1 locations",
+    "job_description": "Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/1281394133455997",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-generative-ai-digital-characters-phd-sausalito"
+    "id": "meta-research-scientist-neural-interfaces-phd-burlingame"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Analytics Lead",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Analytics Lead, Cloud Runtimes Strategy and Operations",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124637693744161478-analytics-lead-cloud-runtimes-strategy-and-operations?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-analytics-lead-san-francisco"
-  },
-  {
-    "job_title": "Senior Software Engineer- Minecraft Marketplace",
+    "job_title": "Senior Software Engineer - OneDrive & SharePoint AI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883599",
-    "job_posted_at_datetime_utc": "2025-10-03T23:15:07.412Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887944",
+    "job_posted_at_datetime_utc": "2025-10-04T01:14:11.544Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-minecraft-marketplace-redmond"
-  },
-  {
-    "job_title": "Principal Software Engineer - Front End",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885814",
-    "job_posted_at_datetime_utc": "2025-10-03T23:15:07.412Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-front-end-redmond"
+    "id": "microsoft-senior-software-engineer-onedrive-sharepoint-ai-redmond"
   }
 ]

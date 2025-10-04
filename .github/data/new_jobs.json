@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "job_title": "Data Engineer 1",
+    "employer_name": "Cox",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_description": "Join Cox in this exciting opportunity.",
+    "job_apply_link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I_R202567376",
+    "job_posted_at_datetime_utc": "2025-10-04T14:34:41.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "cox-data-engineer-1-atlanta"
+  }
+]

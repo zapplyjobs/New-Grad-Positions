@@ -57,6 +57,16 @@ jobs:
         DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
         DISCORD_CLIENT_ID:   ${{ secrets.DISCORD_CLIENT_ID }}
         DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID }}
+        # Multi-channel forum configuration
+        DISCORD_TECH_CHANNEL_ID:      ${{ secrets.DISCORD_TECH_CHANNEL_ID }}
+        DISCORD_SALES_CHANNEL_ID:     ${{ secrets.DISCORD_SALES_CHANNEL_ID }}
+        DISCORD_MARKETING_CHANNEL_ID: ${{ secrets.DISCORD_MARKETING_CHANNEL_ID }}
+        DISCORD_FINANCE_CHANNEL_ID:   ${{ secrets.DISCORD_FINANCE_CHANNEL_ID }}
+        DISCORD_HEALTHCARE_CHANNEL_ID:${{ secrets.DISCORD_HEALTHCARE_CHANNEL_ID }}
+        DISCORD_PRODUCT_CHANNEL_ID:   ${{ secrets.DISCORD_PRODUCT_CHANNEL_ID }}
+        DISCORD_SUPPLY_CHANNEL_ID:    ${{ secrets.DISCORD_SUPPLY_CHANNEL_ID }}
+        DISCORD_PM_CHANNEL_ID:         ${{ secrets.DISCORD_PM_CHANNEL_ID }}
+        DISCORD_HR_CHANNEL_ID:         ${{ secrets.DISCORD_HR_CHANNEL_ID }}
 
     - name: Check for changes
       id: verify-changed-files

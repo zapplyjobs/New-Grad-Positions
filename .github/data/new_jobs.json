@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer- (XR-Graphics)",
-    "employer_name": "Meta",
-    "job_city": "Remote",
-    "job_state": "US",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1194830642179449",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-xr-graphics-remote"
-  },
-  {
-    "job_title": "Software Engineer, Audio",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA +3 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/24331082576541857",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-audio-redmond"
+    "job_title": "Machine Learning Engineer 1 - Machine Learning - Full-stack Engineering",
+    "employer_name": "Klaviyo",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Klaviyo in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7484845003",
+    "job_posted_at_datetime_utc": "2025-10-05T07:57:58.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "klaviyo-machine-learning-engineer-1-machine-learning-full-stack-engineering-sf"
   }
 ]

@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Senior AI Applied Engineer",
+    "job_title": "Embedded Software Engineer for Professional Services",
+    "employer_name": "Wind River",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Join Wind River in this exciting opportunity.",
+    "job_apply_link": "https://jobs.jobvite.com/windriver/job/o97iyfwQ",
+    "job_posted_at_datetime_utc": "2025-10-06T07:58:38.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "wind-river-embedded-software-engineer-for-professional-services-san-diego"
+  },
+  {
+    "job_title": "Software Solution Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885581",
-    "job_posted_at_datetime_utc": "2025-10-06T07:13:11.086Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860204",
+    "job_posted_at_datetime_utc": "2025-10-06T08:13:38.131Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-ai-applied-engineer-redmond"
+    "id": "microsoft-software-solution-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer 1 or 2",
+    "employer_name": "Northrop Grumman",
+    "job_city": "Aurora",
+    "job_state": "CO",
+    "job_description": "Join Northrop Grumman in this exciting opportunity.",
+    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10209913",
+    "job_posted_at_datetime_utc": "2025-10-03T18:06:54.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "northrop-grumman-software-engineer-1-or-2-aurora"
   }
 ]

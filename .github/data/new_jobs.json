@@ -1,35 +1,12 @@
 [
   {
-    "job_title": "Software Development Engineer, Ring Neighbors",
-    "employer_name": "Amazon",
-    "job_city": "Hawthorne",
+    "employer_name": "Google",
+    "job_title": "Product Strategy Lead",
+    "job_city": "Mountain View",
     "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3101632/software-development-engineer-ring-neighbors",
-    "job_posted_at": "2025-10-06T13:05:42.047Z",
-    "job_posted_at_datetime_utc": "2025-10-06T13:05:42.047Z",
-    "id": "amazon-software-development-engineer-ring-neighbors-hawthorne"
-  },
-  {
-    "job_title": "Principal Software Engineer - M365 Copilot App",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875989",
-    "job_posted_at_datetime_utc": "2025-10-06T14:12:27.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-m365-copilot-app-redmond"
-  },
-  {
-    "job_title": "Staff Software Engineer, Data Transformation",
-    "employer_name": "Stripe",
-    "job_city": "US remote",
-    "job_state": "SF",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7300600",
-    "job_posted_at_datetime_utc": "2025-10-06T14:11:50.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-staff-software-engineer-data-transformation-us-remote"
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Strategy Lead, Go-To-Market, Data Signals",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/118085596580061894-product-strategy-lead-gotomarket-data-signals?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=3",
+    "id": "google-product-strategy-lead-mountain-view"
   }
 ]

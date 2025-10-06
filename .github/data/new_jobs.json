@@ -1,46 +1,35 @@
 [
   {
-    "job_title": "Data Center Electrical Engineer (On-Site)",
+    "job_title": "Staff Engineer, Solutions Engineering",
+    "employer_name": "Qualcomm",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_description": "Join Qualcomm to invent breakthrough technologies.",
+    "job_apply_link": "https://careers.qualcomm.com/careers/job/446714975338",
+    "job_posted_at_datetime_utc": "2025-10-06T19:11:53.660Z",
+    "job_employment_type": "FULLTIME",
+    "id": "qualcomm-staff-engineer-solutions-engineering-austin"
+  },
+  {
+    "job_title": "Emulation Engineer II",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857310",
-    "job_posted_at_datetime_utc": "2025-10-06T18:14:08.749Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879167",
+    "job_posted_at_datetime_utc": "2025-10-06T19:11:48.907Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-data-center-electrical-engineer-on-site-redmond"
+    "id": "microsoft-emulation-engineer-ii-redmond"
   },
   {
-    "job_title": "Principal Solution Engineer, Global Black Belt (GBB) Cloud & AI Applications",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884034",
-    "job_posted_at_datetime_utc": "2025-10-06T18:14:08.749Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-solution-engineer-global-black-belt-gbb-cloud-ai-applications-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer, BizTech",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
+    "job_title": "Staff Software Engineer, Audio/Video Infrastructure",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
     "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/7175614?gh_jid=7175614",
-    "job_posted_at_datetime_utc": "2025-10-06T18:08:34.000Z",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/7953473002",
+    "job_posted_at_datetime_utc": "2025-10-06T18:47:30.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-software-engineer-biztech-united-states"
-  },
-  {
-    "job_title": "Senior Staff Software Engineer, Backend (Consumer - Financial Services and Loyalty)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7260606?gh_jid=7260606",
-    "job_posted_at_datetime_utc": "2025-10-06T18:04:52.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-staff-software-engineer-backend-consumer-financial-services-and-loyalty-remote-usa"
+    "id": "discord-staff-software-engineer-audio-video-infrastructure-san-francisco-bay-area"
   }
 ]

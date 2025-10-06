@@ -1,110 +1,35 @@
 [
   {
-    "job_title": "Configuration and Logistics Data Analyst I, II, Engineering",
-    "employer_name": "General Dynamics",
-    "job_city": "Brunswick",
-    "job_state": "ME",
-    "job_description": "Join General Dynamics in this exciting opportunity.",
-    "job_apply_link": "https://careers-gdbiw.icims.com/jobs/4839",
-    "job_posted_at_datetime_utc": "2025-10-06T08:56:09.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "general-dynamics-configuration-and-logistics-data-analyst-i-ii-engineering-brunswick"
-  },
-  {
-    "job_title": "Research Scientist Intern, Reinforcement Learning and Large Language Models, PhD",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "AI Research +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/4182214268661504",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-reinforcement-learning-and-large-language-models-phd-multiple"
-  },
-  {
-    "job_title": "Research Scientist Intern, Reinforcement Learning (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "AI Research +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/4309913522621735",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-reinforcement-learning-phd-multiple"
-  },
-  {
-    "job_title": "Research Scientist Intern, Generative AI (PhD)",
+    "job_title": "Research Scientist Intern, Central Applied Science (PhD)",
     "employer_name": "Meta",
     "job_city": "Multiple",
     "job_state": "Locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/24406076589087632",
+    "job_apply_link": "https://www.metacareers.com/jobs/4071759773088800",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-generative-ai-phd-multiple"
+    "id": "meta-research-scientist-intern-central-applied-science-phd-multiple"
   },
   {
-    "job_title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+    "job_title": "Research Scientist Intern, AI Core Machine Learning",
     "employer_name": "Meta",
     "job_city": "Multiple",
     "job_state": "Locations",
     "job_description": "AI Research +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1511958233258883",
+    "job_apply_link": "https://www.metacareers.com/jobs/1259537295928193",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-ai-core-machine-learning-phd-multiple"
+    "id": "meta-research-scientist-intern-ai-core-machine-learning-multiple"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Search Webspam Engineering Analyst",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Search Webspam Engineering Analyst",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/106281858219549382-search-webspam-engineering-analyst?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
-    "id": "google-search-webspam-engineering-analyst-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Software Tools Engineer",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Software Tools Engineer, Pixel Platform Realization",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/132057022114734790-senior-software-tools-engineer-pixel-platform-realization?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2",
-    "id": "google-senior-software-tools-engineer-mountain-view"
-  },
-  {
-    "job_title": "C++ Junior Software Developer",
-    "employer_name": "Amentum",
-    "job_city": "Dahlgren",
-    "job_state": "VA",
-    "job_description": "Join Amentum in this exciting opportunity.",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C---Junioe-Software-Developer_R0147255",
-    "job_posted_at_datetime_utc": "2025-10-06T08:33:07.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "amentum-c-junior-software-developer-dahlgren"
-  },
-  {
-    "job_title": "Junior Software Engineer",
-    "employer_name": "General Dynamics Mission Systems",
-    "job_city": "Dedham",
-    "job_state": "MA",
-    "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
-    "job_apply_link": "https://careers-gdms.icims.com/jobs/68413",
-    "job_posted_at_datetime_utc": "2025-10-06T08:29:49.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "general-dynamics-mission-systems-junior-software-engineer-dedham"
-  },
-  {
-    "job_title": "Data Engineer I",
-    "employer_name": "Centene",
-    "job_city": "Remote in MO",
+    "job_title": "Research Scientist Intern, Code Generation (Msc)",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
     "job_state": "Locations",
-    "job_description": "Join Centene in this exciting opportunity.",
-    "job_apply_link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624",
-    "job_posted_at_datetime_utc": "2025-10-03T02:29:31.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "centene-data-engineer-i-remote-in-mo"
+    "job_description": "AI Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/1292794442321475",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-code-generation-msc-multiple"
   }
 ]

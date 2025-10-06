@@ -1,23 +1,35 @@
 [
   {
-    "job_title": "Software Engineer - Data Collection",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Engineering +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/2525057417866923",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-data-collection-multiple"
+    "job_title": "Software Development Engineer, Ring Neighbors",
+    "employer_name": "Amazon",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3101632/software-development-engineer-ring-neighbors",
+    "job_posted_at": "2025-10-06T13:05:42.047Z",
+    "job_posted_at_datetime_utc": "2025-10-06T13:05:42.047Z",
+    "id": "amazon-software-development-engineer-ring-neighbors-hawthorne"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Program Manager",
-    "job_city": "Fort Wayne",
-    "job_state": "IN",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Program Manager, Environmental, Health and Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78147073651679942-program-manager-environmental-health-and-safety?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2",
-    "id": "google-program-manager-fort-wayne"
+    "job_title": "Principal Software Engineer - M365 Copilot App",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875989",
+    "job_posted_at_datetime_utc": "2025-10-06T14:12:27.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-m365-copilot-app-redmond"
+  },
+  {
+    "job_title": "Staff Software Engineer, Data Transformation",
+    "employer_name": "Stripe",
+    "job_city": "US remote",
+    "job_state": "SF",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7300600",
+    "job_posted_at_datetime_utc": "2025-10-06T14:11:50.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-staff-software-engineer-data-transformation-us-remote"
   }
 ]

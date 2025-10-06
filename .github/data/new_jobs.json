@@ -1,24 +1,55 @@
 [
   {
-    "job_title": "System Engineer",
+    "job_title": "Research Scientist Intern, Computer Use Agents (PhD)",
     "employer_name": "Meta",
-    "job_city": "Burlingame",
-    "job_state": "CA",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/804737575653534",
+    "job_city": "Menlo Park",
+    "job_state": "CA +1 locations",
+    "job_description": "AI Research +3 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/833442005836796",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-system-engineer-burlingame"
+    "id": "meta-research-scientist-intern-computer-use-agents-phd-menlo-park"
   },
   {
-    "job_title": "Technical Support Engineering - Identity Authentication",
+    "job_title": "Research Scientist Intern, Language and Agents",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +3 locations",
+    "job_description": "AI Research +3 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/679961588479426",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-language-and-agents-bellevue"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Developer III",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Developer III, Mobile (Android), AR",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/84351411608789702-software-developer-iii-mobile-android-ar?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
+    "id": "google-software-developer-iii-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Senior Security Engineer",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Security Engineer, Abuse and AI VRP",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/80615820853420742-senior-security-engineer-abuse-and-ai-vrp?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=4",
+    "id": "google-senior-security-engineer-seattle"
+  },
+  {
+    "job_title": "Software Engineering Student Worker Opportunities",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872716",
-    "job_posted_at_datetime_utc": "2025-10-06T16:13:25.117Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890458",
+    "job_posted_at_datetime_utc": "2025-10-06T17:12:13.930Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-identity-authentication-redmond"
+    "id": "microsoft-software-engineering-student-worker-opportunities-redmond"
   }
 ]

@@ -1,79 +1,57 @@
 [
   {
-    "job_title": "Research Scientist Intern, Soft Wearable Tactile Sensors (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "AI Research +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/833432782356431",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-soft-wearable-tactile-sensors-phd-redmond"
+    "job_title": "iOS Tooling Engineer",
+    "employer_name": "Lyft",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8181311002?gh_jid=8181311002",
+    "job_posted_at_datetime_utc": "2025-10-07T21:48:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-ios-tooling-engineer-san-francisco"
   },
   {
-    "job_title": "Cloud Security Engineer",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +1 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1571698844195577",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-cloud-security-engineer-bellevue"
-  },
-  {
-    "job_title": "Reality Labs Image Sensor Application Engineer",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/754434054243851",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-reality-labs-image-sensor-application-engineer-redmond"
-  },
-  {
-    "job_title": "Product Marketing Manager Lead, Metaverse Trust and Platform Foundations",
-    "employer_name": "Meta",
-    "job_city": "Los Angeles",
-    "job_state": "CA +3 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1309014874103298",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-marketing-manager-lead-metaverse-trust-and-platform-foundations-los-angeles"
-  },
-  {
-    "job_title": "Software Engineer, Systems ML - SW/HW Co-design",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +1 locations",
-    "job_description": "Software Engineering +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1838924999834487",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-systems-ml-sw-hw-co-design-sunnyvale"
-  },
-  {
-    "job_title": "Principal Research Engineer / Technical Director - CoreAI Studio & Outbound Product",
+    "job_title": "Senior Software Engineer (iOS)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883632",
-    "job_posted_at_datetime_utc": "2025-10-07T21:11:55.403Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883184",
+    "job_posted_at_datetime_utc": "2025-10-07T22:12:20.860Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-research-engineer-technical-director-coreai-studio-outbound-product-redmond"
+    "id": "microsoft-senior-software-engineer-ios-redmond"
   },
   {
-    "job_title": "Senior Software Engineer, Host Pricing & Settings",
-    "employer_name": "Airbnb",
-    "job_city": "Remote USA",
+    "job_title": "Senior Software Engineer, Backend (Developer - Foundations)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
     "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/6718415?gh_jid=6718415",
-    "job_posted_at_datetime_utc": "2025-10-07T21:08:17.000Z",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7306817?gh_jid=7306817",
+    "job_posted_at_datetime_utc": "2025-10-07T22:09:41.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-software-engineer-host-pricing-settings-remote-usa"
+    "id": "coinbase-senior-software-engineer-backend-developer-foundations-remote-usa"
+  },
+  {
+    "job_title": "Director of Engineering, Developer Platform",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area ",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8187999002",
+    "job_posted_at_datetime_utc": "2025-10-07T21:23:39.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-director-of-engineering-developer-platform-san-francisco-bay-area"
+  },
+  {
+    "job_title": "AI/ML Engineering Manager, Payment Intelligence",
+    "employer_name": "Stripe",
+    "job_city": "US-SF",
+    "job_state": "US-NYC",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7286376",
+    "job_posted_at_datetime_utc": "2025-10-07T21:16:41.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-ai-ml-engineering-manager-payment-intelligence-us-sf"
   }
 ]

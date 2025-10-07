@@ -1,35 +1,79 @@
 [
   {
-    "job_title": "Global Systems & Software Engineer",
+    "job_title": "iOS Engineer, Mobile Foundations",
+    "employer_name": "Lyft",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8181338002?gh_jid=8181338002",
+    "job_posted_at_datetime_utc": "2025-10-07T17:20:53.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-ios-engineer-mobile-foundations-san-francisco"
+  },
+  {
+    "job_title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+    "employer_name": "Meta",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "AI Research +3 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/4419698284933008",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-ai-core-machine-learning-phd-new-york"
+  },
+  {
+    "job_title": "Research Scientist Intern, FAIR - Multimodal & Video Foundations (PhD) | Stagiaire chercheur scientifique, FAIR - Fondements multimodaux et vidéo (PhD)",
     "employer_name": "Meta",
     "job_city": "Multiple",
     "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/3193805630802225",
+    "job_description": "AI Research +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1490788172120101",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-global-systems-software-engineer-multiple"
+    "id": "meta-research-scientist-intern-fair-multimodal-video-foundations-phd-stagiaire-chercheur-scientifique-fair-fondements-multimodaux-et-vid-o-phd-multiple"
   },
   {
-    "job_title": "Solution Engineering: Full-Time Opportunities for University Graduates",
+    "job_title": "Director, Go-To-Market Management, Azure Developer Audience, Commercial",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890136",
-    "job_posted_at_datetime_utc": "2025-10-07T17:12:10.492Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886974",
+    "job_posted_at_datetime_utc": "2025-10-07T18:14:11.604Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineering-full-time-opportunities-for-university-graduates-redmond"
+    "id": "microsoft-director-go-to-market-management-azure-developer-audience-commercial-redmond"
   },
   {
-    "job_title": "Senior Technical Program Manager – Engineering Excellence, Security Engineering",
+    "job_title": "Senior Director of Global Data Center Engineering Strategy",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1888039",
-    "job_posted_at_datetime_utc": "2025-10-07T17:12:10.492Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889524",
+    "job_posted_at_datetime_utc": "2025-10-07T18:14:11.604Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-technical-program-manager-engineering-excellence-security-engineering-redmond"
+    "id": "microsoft-senior-director-of-global-data-center-engineering-strategy-redmond"
+  },
+  {
+    "job_title": "Senior Solution Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884028",
+    "job_posted_at_datetime_utc": "2025-10-07T18:14:11.604Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-solution-engineer-redmond"
+  },
+  {
+    "job_title": "Analytics Engineer (L5) - Consumer Insights DSE",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312412262",
+    "job_posted_at_datetime_utc": "2025-10-07T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-analytics-engineer-l5-consumer-insights-dse-usa-remote"
   }
 ]

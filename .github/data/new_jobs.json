@@ -1,68 +1,57 @@
 [
   {
-    "job_title": "Software Dev Engineer II, F2 subsidiaries",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3103398/software-dev-engineer-ii-f2-subsidiaries",
-    "job_posted_at": "2025-10-07T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-07T00:00:00.000Z",
-    "id": "amazon-software-dev-engineer-ii-f2-subsidiaries-new-york"
-  },
-  {
-    "job_title": "Research Scientist Intern, AI Alignment",
+    "job_title": "Security Engineer, Builder",
     "employer_name": "Meta",
     "job_city": "Bellevue",
-    "job_state": "WA +4 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1782902493113620",
+    "job_state": "WA +1 locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1571698844195577",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-ai-alignment-bellevue"
+    "id": "meta-security-engineer-builder-bellevue"
   },
   {
-    "job_title": "Software Engineer II, Agent Services (CoreAI)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889559",
-    "job_posted_at_datetime_utc": "2025-10-07T19:12:04.557Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-agent-services-coreai-redmond"
-  },
-  {
-    "job_title": "Software Engineer (AI/ML)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884240",
-    "job_posted_at_datetime_utc": "2025-10-07T19:12:04.557Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ai-ml-redmond"
-  },
-  {
-    "job_title": "Fiber Delivery Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886641",
-    "job_posted_at_datetime_utc": "2025-10-07T19:12:04.557Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-fiber-delivery-engineer-redmond"
-  },
-  {
-    "job_title": "Engineering Manager (Blockchain Platform)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
+    "job_title": "Product Management,Director (Threads Growth)",
+    "employer_name": "Meta",
+    "job_city": "San Francisco",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7071575?gh_jid=7071575",
-    "job_posted_at_datetime_utc": "2025-10-07T18:22:57.000Z",
+    "job_description": "Product Management",
+    "job_apply_link": "https://www.metacareers.com/jobs/794272936542936",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-management-director-threads-growth-san-francisco"
+  },
+  {
+    "job_title": "Principle Software Engineering Manager - Copilot Notebooks",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889390",
+    "job_posted_at_datetime_utc": "2025-10-07T20:12:24.051Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-engineering-manager-blockchain-platform-remote-usa"
+    "id": "microsoft-principle-software-engineering-manager-copilot-notebooks-redmond"
+  },
+  {
+    "job_title": "Machine Learning Engineer, Foundation Model",
+    "employer_name": "Stripe",
+    "job_city": "US - San Francisco; Seattle; New York City",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7275014",
+    "job_posted_at_datetime_utc": "2025-10-07T19:15:31.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-machine-learning-engineer-foundation-model-us-san-francisco-seattle-new-york-city"
+  },
+  {
+    "job_title": "Software Engineer (L5), Member Commerce - Growth Product Experiences",
+    "employer_name": "Netflix",
+    "job_city": "Los Gatos",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312401094",
+    "job_posted_at_datetime_utc": "2025-10-06T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-software-engineer-l5-member-commerce-growth-product-experiences-los-gatos"
   }
 ]

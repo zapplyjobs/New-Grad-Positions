@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Software Engineer (Data)",
+    "job_title": "Principal Software Engineer - Observability",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862346",
-    "job_posted_at_datetime_utc": "2025-10-07T11:11:44.425Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887957",
+    "job_posted_at_datetime_utc": "2025-10-07T12:15:46.691Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-data-redmond"
+    "id": "microsoft-principal-software-engineer-observability-redmond"
   },
   {
-    "job_title": "Senior Solution Engineer -  Cloud Endpoint",
+    "job_title": "Cloud Network Engineer - Azure Fiber",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881515",
-    "job_posted_at_datetime_utc": "2025-10-07T11:11:44.425Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891352",
+    "job_posted_at_datetime_utc": "2025-10-07T12:15:46.691Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-solution-engineer-cloud-endpoint-redmond"
+    "id": "microsoft-cloud-network-engineer-azure-fiber-redmond"
   }
 ]

@@ -1,79 +1,68 @@
 [
   {
-    "job_title": "iOS Engineer, Mobile Foundations",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8181338002?gh_jid=8181338002",
-    "job_posted_at_datetime_utc": "2025-10-07T17:20:53.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-ios-engineer-mobile-foundations-san-francisco"
-  },
-  {
-    "job_title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
-    "employer_name": "Meta",
+    "job_title": "Software Dev Engineer II, F2 subsidiaries",
+    "employer_name": "Amazon",
     "job_city": "New York",
     "job_state": "NY",
-    "job_description": "AI Research +3 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/4419698284933008",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-ai-core-machine-learning-phd-new-york"
-  },
-  {
-    "job_title": "Research Scientist Intern, FAIR - Multimodal & Video Foundations (PhD) | Stagiaire chercheur scientifique, FAIR - Fondements multimodaux et vidéo (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "AI Research +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1490788172120101",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-fair-multimodal-video-foundations-phd-stagiaire-chercheur-scientifique-fair-fondements-multimodaux-et-vid-o-phd-multiple"
-  },
-  {
-    "job_title": "Director, Go-To-Market Management, Azure Developer Audience, Commercial",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886974",
-    "job_posted_at_datetime_utc": "2025-10-07T18:14:11.604Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-director-go-to-market-management-azure-developer-audience-commercial-redmond"
-  },
-  {
-    "job_title": "Senior Director of Global Data Center Engineering Strategy",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889524",
-    "job_posted_at_datetime_utc": "2025-10-07T18:14:11.604Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-director-of-global-data-center-engineering-strategy-redmond"
-  },
-  {
-    "job_title": "Senior Solution Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884028",
-    "job_posted_at_datetime_utc": "2025-10-07T18:14:11.604Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-solution-engineer-redmond"
-  },
-  {
-    "job_title": "Analytics Engineer (L5) - Consumer Insights DSE",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312412262",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3103398/software-dev-engineer-ii-f2-subsidiaries",
+    "job_posted_at": "2025-10-07T00:00:00.000Z",
     "job_posted_at_datetime_utc": "2025-10-07T00:00:00.000Z",
+    "id": "amazon-software-dev-engineer-ii-f2-subsidiaries-new-york"
+  },
+  {
+    "job_title": "Research Scientist Intern, AI Alignment",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +4 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1782902493113620",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-ai-alignment-bellevue"
+  },
+  {
+    "job_title": "Software Engineer II, Agent Services (CoreAI)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889559",
+    "job_posted_at_datetime_utc": "2025-10-07T19:12:04.557Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-analytics-engineer-l5-consumer-insights-dse-usa-remote"
+    "id": "microsoft-software-engineer-ii-agent-services-coreai-redmond"
+  },
+  {
+    "job_title": "Software Engineer (AI/ML)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884240",
+    "job_posted_at_datetime_utc": "2025-10-07T19:12:04.557Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ai-ml-redmond"
+  },
+  {
+    "job_title": "Fiber Delivery Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886641",
+    "job_posted_at_datetime_utc": "2025-10-07T19:12:04.557Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-fiber-delivery-engineer-redmond"
+  },
+  {
+    "job_title": "Engineering Manager (Blockchain Platform)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7071575?gh_jid=7071575",
+    "job_posted_at_datetime_utc": "2025-10-07T18:22:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-engineering-manager-blockchain-platform-remote-usa"
   }
 ]

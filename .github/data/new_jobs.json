@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Junior Software Engineer",
-    "employer_name": "Reach Financial",
-    "job_city": "Remote in USA",
-    "job_state": "Locations",
-    "job_description": "Join Reach Financial in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/reach/jobs/8191593002",
-    "job_posted_at_datetime_utc": "2025-10-07T08:47:42.000Z",
+    "job_title": "Software Engineer 1 - Air Dominance Modeling and Analysis",
+    "employer_name": "RTX",
+    "job_city": "Tucson",
+    "job_state": "AZ",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2025-Full-Time-Raytheon-Software-Engineer-I_01797272",
+    "job_posted_at_datetime_utc": "2025-10-07T09:46:36.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "reach-financial-junior-software-engineer-remote-in-usa"
+    "id": "rtx-software-engineer-1-air-dominance-modeling-and-analysis-tucson"
   },
   {
-    "job_title": "Software Development Engineer-II for AI frameworks",
+    "job_title": "Digital Solutions Engineer - D365 Finance and Operations for Central Europe Market",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890216",
-    "job_posted_at_datetime_utc": "2025-10-07T09:13:14.918Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887230",
+    "job_posted_at_datetime_utc": "2025-10-07T10:12:22.281Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-development-engineer-ii-for-ai-frameworks-redmond"
+    "id": "microsoft-digital-solutions-engineer-d365-finance-and-operations-for-central-europe-market-redmond"
+  },
+  {
+    "job_title": "Cloud & AI Solution Engineer - Data Platform (Public Sector)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883778",
+    "job_posted_at_datetime_utc": "2025-10-07T10:12:22.281Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-solution-engineer-data-platform-public-sector-redmond"
   }
 ]

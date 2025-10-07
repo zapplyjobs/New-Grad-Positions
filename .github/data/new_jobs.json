@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineering Manager, Embedded Systems",
-    "employer_name": "Meta",
-    "job_city": "Burlingame",
-    "job_state": "CA",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2033408680798936",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-embedded-systems-burlingame"
-  },
-  {
-    "job_title": "Chief of Staff, Field Engineering ",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7979125002",
-    "job_posted_at_datetime_utc": "2025-10-07T02:07:06.000Z",
+    "job_title": "Manufacturing Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885774",
+    "job_posted_at_datetime_utc": "2025-10-07T03:22:35.270Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-chief-of-staff-field-engineering-san-francisco"
+    "id": "microsoft-manufacturing-engineer-ii-redmond"
   }
 ]

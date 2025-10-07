@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Software Developer Associate - TS/SCI w/Poly",
-    "employer_name": "General Dynamics Information Technology",
-    "job_city": "Annapolis Junction",
-    "job_state": "MD",
-    "job_description": "Join General Dynamics Information Technology in this exciting opportunity.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ199001",
-    "job_posted_at_datetime_utc": "2025-10-07T12:44:32.000Z",
+    "job_title": "Deep Learning Algorithm Engineer, Dynamo",
+    "employer_name": "NVIDIA",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Join NVIDIA in this exciting opportunity.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Deep-Learning-Algorithm-Engineer--Dynamo---New-College-Grad-2025_JR2001320-1",
+    "job_posted_at_datetime_utc": "2025-10-07T13:40:39.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "general-dynamics-information-technology-software-developer-associate-ts-sci-w-poly-annapolis-junction"
+    "id": "nvidia-deep-learning-algorithm-engineer-dynamo-santa-clara"
   },
   {
-    "job_title": "Senior Data Scientist -  Industry Solutions Engineering",
+    "job_title": "Software Engineer II - Microsoft Word Copilot",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885601",
-    "job_posted_at_datetime_utc": "2025-10-07T13:19:46.088Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884178",
+    "job_posted_at_datetime_utc": "2025-10-07T14:12:46.765Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-data-scientist-industry-solutions-engineering-redmond"
+    "id": "microsoft-software-engineer-ii-microsoft-word-copilot-redmond"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "USA",
+    "job_state": "Locations",
+    "job_description": "Join Microsoft in this exciting opportunity.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879561/Software-Engineer",
+    "job_posted_at_datetime_utc": "2025-10-07T13:38:37.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-usa"
   }
 ]

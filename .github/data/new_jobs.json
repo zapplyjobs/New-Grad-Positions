@@ -1,57 +1,46 @@
 [
   {
-    "job_title": "iOS Tooling Engineer",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8181311002?gh_jid=8181311002",
-    "job_posted_at_datetime_utc": "2025-10-07T21:48:42.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-ios-tooling-engineer-san-francisco"
+    "job_title": "Software Dev Engineer II, Amazon",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3103819/software-dev-engineer-ii-amazon",
+    "job_posted_at": "2025-10-07T22:05:24.953Z",
+    "job_posted_at_datetime_utc": "2025-10-07T22:05:24.953Z",
+    "id": "amazon-software-dev-engineer-ii-amazon-seattle"
   },
   {
-    "job_title": "Senior Software Engineer (iOS)",
+    "job_title": "Software Dev Engineer, FinTech, General Ledger",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3099447/software-dev-engineer-fintech-general-ledger",
+    "job_posted_at": "2025-10-07T15:05:24.953Z",
+    "job_posted_at_datetime_utc": "2025-10-07T15:05:24.953Z",
+    "id": "amazon-software-dev-engineer-fintech-general-ledger-seattle"
+  },
+  {
+    "job_title": "Display System Engineer",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1494662195191120",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-display-system-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Software Engineer II - CTJ - Top Secret",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883184",
-    "job_posted_at_datetime_utc": "2025-10-07T22:12:20.860Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890324",
+    "job_posted_at_datetime_utc": "2025-10-07T23:11:53.795Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-ios-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer, Backend (Developer - Foundations)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7306817?gh_jid=7306817",
-    "job_posted_at_datetime_utc": "2025-10-07T22:09:41.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-backend-developer-foundations-remote-usa"
-  },
-  {
-    "job_title": "Director of Engineering, Developer Platform",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area ",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8187999002",
-    "job_posted_at_datetime_utc": "2025-10-07T21:23:39.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-director-of-engineering-developer-platform-san-francisco-bay-area"
-  },
-  {
-    "job_title": "AI/ML Engineering Manager, Payment Intelligence",
-    "employer_name": "Stripe",
-    "job_city": "US-SF",
-    "job_state": "US-NYC",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7286376",
-    "job_posted_at_datetime_utc": "2025-10-07T21:16:41.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-ai-ml-engineering-manager-payment-intelligence-us-sf"
+    "id": "microsoft-software-engineer-ii-ctj-top-secret-redmond"
   }
 ]

@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Software Engineer 1 - Air Dominance Modeling and Analysis",
-    "employer_name": "RTX",
-    "job_city": "Tucson",
-    "job_state": "AZ",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2025-Full-Time-Raytheon-Software-Engineer-I_01797272",
-    "job_posted_at_datetime_utc": "2025-10-07T09:46:36.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-1-air-dominance-modeling-and-analysis-tucson"
-  },
-  {
-    "job_title": "Digital Solutions Engineer - D365 Finance and Operations for Central Europe Market",
+    "job_title": "Software Engineer (Data)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887230",
-    "job_posted_at_datetime_utc": "2025-10-07T10:12:22.281Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862346",
+    "job_posted_at_datetime_utc": "2025-10-07T11:11:44.425Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solutions-engineer-d365-finance-and-operations-for-central-europe-market-redmond"
+    "id": "microsoft-software-engineer-data-redmond"
   },
   {
-    "job_title": "Cloud & AI Solution Engineer - Data Platform (Public Sector)",
+    "job_title": "Senior Solution Engineer -  Cloud Endpoint",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883778",
-    "job_posted_at_datetime_utc": "2025-10-07T10:12:22.281Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881515",
+    "job_posted_at_datetime_utc": "2025-10-07T11:11:44.425Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-data-platform-public-sector-redmond"
+    "id": "microsoft-senior-solution-engineer-cloud-endpoint-redmond"
   }
 ]

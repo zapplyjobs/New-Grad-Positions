@@ -1,45 +1,13 @@
 [
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "Fullbay",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_description": "Join Fullbay in this exciting opportunity.",
-    "job_apply_link": "https://fullbay.bamboohr.com/careers/178/",
-    "job_posted_at_datetime_utc": "2025-10-07T03:45:42.000Z",
+    "job_title": "Senior Software Engineer- Database Infrastructure",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area ",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8200328002",
+    "job_posted_at_datetime_utc": "2025-10-07T04:30:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "fullbay-software-engineer-i-phoenix"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Software Engineer: Fullstack Internship Opportunities",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Fullstack Internship Opportunities",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886973/Software-Engineer%3A-Fullstack-Internship-Opportunities%2C-Neurodiversity-Hiring-Program",
-    "id": "microsoft-software-engineer-fullstack-internship-opportunities-redmond"
-  },
-  {
-    "job_title": "AI Architect/Developer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891303",
-    "job_posted_at_datetime_utc": "2025-10-07T04:13:04.882Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-architect-developer-redmond"
-  },
-  {
-    "job_title": "Software Engineer: Fullstack Internship Opportunities, Neurodiversity Hiring Program",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886973",
-    "job_posted_at_datetime_utc": "2025-10-07T04:13:04.882Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-fullstack-internship-opportunities-neurodiversity-hiring-program-redmond"
+    "id": "discord-senior-software-engineer-database-infrastructure-san-francisco-bay-area"
   }
 ]

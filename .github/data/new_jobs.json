@@ -1,35 +1,45 @@
 [
   {
-    "job_title": "Deep Learning Algorithm Engineer, Dynamo",
-    "employer_name": "NVIDIA",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Join NVIDIA in this exciting opportunity.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Deep-Learning-Algorithm-Engineer--Dynamo---New-College-Grad-2025_JR2001320-1",
-    "job_posted_at_datetime_utc": "2025-10-07T13:40:39.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "nvidia-deep-learning-algorithm-engineer-dynamo-santa-clara"
+    "job_title": "Research Scientist Intern, AI Alignment",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +2 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1782902493113620",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-ai-alignment-menlo-park"
   },
   {
-    "job_title": "Software Engineer II - Microsoft Word Copilot",
+    "employer_name": "Google",
+    "job_title": "GPU Performance Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: GPU Performance Engineer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/81754810746839750-gpu-performance-engineer?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=6",
+    "id": "google-gpu-performance-engineer-sunnyvale"
+  },
+  {
+    "job_title": "Hardware Engineering Intern",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884178",
-    "job_posted_at_datetime_utc": "2025-10-07T14:12:46.765Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1886646",
+    "job_posted_at_datetime_utc": "2025-10-07T15:12:41.023Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-microsoft-word-copilot-redmond"
+    "id": "microsoft-hardware-engineering-intern-redmond"
   },
   {
-    "job_title": "Software Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "USA",
-    "job_state": "Locations",
-    "job_description": "Join Microsoft in this exciting opportunity.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879561/Software-Engineer",
-    "job_posted_at_datetime_utc": "2025-10-07T13:38:37.000Z",
+    "job_title": "Senior Software Engineer, Frontend - Identity",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/5948976?gh_jid=5948976",
+    "job_posted_at_datetime_utc": "2025-10-07T14:56:20.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-usa"
+    "id": "coinbase-senior-software-engineer-frontend-identity-remote-usa"
   }
 ]

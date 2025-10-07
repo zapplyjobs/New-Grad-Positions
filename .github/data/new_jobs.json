@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Product Data Operations, Reality Labs Project Manager",
+    "job_title": "Global Systems & Software Engineer",
     "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA +1 locations",
+    "job_city": "Multiple",
+    "job_state": "Locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/804991255239521",
+    "job_apply_link": "https://www.metacareers.com/jobs/3193805630802225",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-data-operations-reality-labs-project-manager-redmond"
+    "id": "meta-global-systems-software-engineer-multiple"
   },
   {
-    "job_title": "Machine Learning Engineer",
-    "employer_name": "PayPal",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274916329305",
-    "job_posted_at_datetime_utc": "2025-10-07T16:13:15.700Z",
+    "job_title": "Solution Engineering: Full-Time Opportunities for University Graduates",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890136",
+    "job_posted_at_datetime_utc": "2025-10-07T17:12:10.492Z",
     "job_employment_type": "FULLTIME",
-    "id": "paypal-machine-learning-engineer-austin"
+    "id": "microsoft-solution-engineering-full-time-opportunities-for-university-graduates-redmond"
+  },
+  {
+    "job_title": "Senior Technical Program Manager – Engineering Excellence, Security Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1888039",
+    "job_posted_at_datetime_utc": "2025-10-07T17:12:10.492Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-technical-program-manager-engineering-excellence-security-engineering-redmond"
   }
 ]

@@ -1,67 +1,46 @@
 [
   {
-    "job_title": "Software Development Manager, P13N",
-    "employer_name": "Amazon",
-    "job_city": "Newark",
-    "job_state": "NJ",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3104555/software-development-manager-p13n",
-    "job_posted_at": "2025-10-08T19:05:50.439Z",
-    "job_posted_at_datetime_utc": "2025-10-08T19:05:50.439Z",
-    "id": "amazon-software-development-manager-p13n-newark"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Senior Revenue Accountant",
-    "job_city": "Chicago",
-    "job_state": "IL",
+    "job_title": "AI Research Scientist, 3D Machine Learning & Computer Vision",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA +1 locations",
+    "job_description": "AI Research +3 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1180307684205195",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Revenue Accountant",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77978479005442758-senior-revenue-accountant?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States",
-    "id": "google-senior-revenue-accountant-chicago"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-ai-research-scientist-3d-machine-learning-computer-vision-redmond"
   },
   {
-    "job_title": "Security Engineer - Red Team",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883496",
-    "job_posted_at_datetime_utc": "2025-10-08T20:12:26.308Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-security-engineer-red-team-redmond"
+    "job_title": "AI Efficiency Software Engineering Manager",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1012099654334207",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-ai-efficiency-software-engineering-manager-menlo-park"
   },
   {
-    "job_title": "Escalation Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "job_title": "CFE - Human Factors Design Engineer",
+    "employer_name": "Meta",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891105",
-    "job_posted_at_datetime_utc": "2025-10-08T20:12:26.308Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-escalation-engineer-redmond"
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/670663656086883",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-cfe-human-factors-design-engineer-seattle"
   },
   {
-    "job_title": "Senior Analog Design Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890403",
-    "job_posted_at_datetime_utc": "2025-10-08T20:12:26.308Z",
+    "job_title": "UI Engineer L4, Ads Engineering",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312429100",
+    "job_posted_at_datetime_utc": "2025-10-08T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-analog-design-engineer-redmond"
-  },
-  {
-    "job_title": "Principal Data Privacy Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891683",
-    "job_posted_at_datetime_utc": "2025-10-08T20:12:26.308Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-data-privacy-engineer-redmond"
+    "id": "netflix-ui-engineer-l4-ads-engineering-usa-remote"
   }
 ]

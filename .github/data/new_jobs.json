@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer II – Finance Data & Experiences (FD&E) AI",
+    "job_title": "Digital Solution Engineer - Copilot",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885301",
-    "job_posted_at_datetime_utc": "2025-10-08T05:11:50.101Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890134",
+    "job_posted_at_datetime_utc": "2025-10-08T06:14:49.286Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-finance-data-experiences-fd-e-ai-redmond"
-  },
-  {
-    "job_title": "Staff Software Engineer, Experimentation Data",
-    "employer_name": "Airbnb",
-    "job_city": "Remote USA",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/7306868?gh_jid=7306868",
-    "job_posted_at_datetime_utc": "2025-10-08T04:58:27.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-staff-software-engineer-experimentation-data-remote-usa"
+    "id": "microsoft-digital-solution-engineer-copilot-redmond"
   }
 ]

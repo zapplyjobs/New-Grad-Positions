@@ -1,65 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer, AGI Data Services",
+    "job_title": "Software Development Engineer - II, Amazon Ads",
     "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
+    "job_city": "Chicago",
+    "job_state": "IL",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3104411/software-development-engineer-agi-data-services",
-    "job_posted_at": "2025-10-08T17:07:17.900Z",
-    "job_posted_at_datetime_utc": "2025-10-08T17:07:17.900Z",
-    "id": "amazon-software-development-engineer-agi-data-services-bellevue"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3104530/software-development-engineer-ii-amazon-ads",
+    "job_posted_at": "2025-10-08T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-08T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-ii-amazon-ads-chicago"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Azure Core Resource Graph & Resource Manager Team",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineer. Level: Students and graduates. Posted: Recently. Full Title: Software Engineer - Azure Core Resource Graph & Resource Manager Team",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892461/Software-Engineer---Azure-Core-Resource-Graph-%26-Resource-Manager-Team",
-    "id": "microsoft-azure-core-resource-graph-resource-manager-team-multiple-locations"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Regional Program Manager",
-    "job_city": "Midlothian",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Regional Program Manager, Project Controls and Cost",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/126803641456566982-regional-program-manager-project-controls-and-cost?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2",
-    "id": "google-regional-program-manager-midlothian"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "New Business Sales Manager",
-    "job_city": "San Francisco",
+    "job_title": "Web Software Engineer 4 - Client API Foundations",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: New Business Sales Manager, Google Customer Solutions",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/133629409641800390-new-business-sales-manager-google-customer-solutions?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=7",
-    "id": "google-new-business-sales-manager-san-francisco"
-  },
-  {
-    "job_title": "Software Engineer - GenAI inference ",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002",
-    "job_posted_at_datetime_utc": "2025-10-08T17:49:45.000Z",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312428613",
+    "job_posted_at_datetime_utc": "2025-10-08T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-software-engineer-genai-inference-san-francisco"
-  },
-  {
-    "job_title": "Software Engineer, Graphics and Media Engineer",
-    "employer_name": "Figma",
-    "job_city": "San Francisco",
-    "job_state": "CA • New York",
-    "job_description": "Join Figma to make design accessible to all.",
-    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004",
-    "job_posted_at_datetime_utc": "2025-10-08T17:22:59.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "figma-software-engineer-graphics-and-media-engineer-san-francisco"
+    "id": "netflix-web-software-engineer-4-client-api-foundations-usa-remote"
   }
 ]

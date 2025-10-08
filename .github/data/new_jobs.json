@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Physical Security Engineer - CTJ - Poly",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881632",
-    "job_posted_at_datetime_utc": "2025-10-08T01:39:28.662Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-physical-security-engineer-ctj-poly-redmond"
-  },
-  {
-    "job_title": "Sr. Software Engineer - Applied AI ",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7859597002",
-    "job_posted_at_datetime_utc": "2025-10-08T01:01:26.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-software-engineer-applied-ai-san-francisco"
+    "job_title": "Software Engineer, Power and Performance Automation",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/24986250204396820",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-power-and-performance-automation-multiple"
   }
 ]

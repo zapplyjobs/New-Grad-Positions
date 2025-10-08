@@ -1,109 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Regional Program Manager",
-    "job_city": "Texas",
-    "job_state": "USA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Regional Program Manager, Project Controls and Cost",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/126803641456566982-regional-program-manager-project-controls-and-cost?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2",
-    "id": "google-regional-program-manager-texas"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Regional Program Manager",
-    "job_city": "Reno",
-    "job_state": "NV",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Regional Program Manager, Project Controls and Cost",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/136758619734450886-regional-program-manager-project-controls-and-cost?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=5",
-    "id": "google-regional-program-manager-reno"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Programmatic Account Manager",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Programmatic Account Manager, Home and Personal Care",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129162643653960390-programmatic-account-manager-home-and-personal-care?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=2",
-    "id": "google-programmatic-account-manager-chicago"
-  },
-  {
-    "job_title": "Back-End Senior Software Engineer - Security AI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887378",
-    "job_posted_at_datetime_utc": "2025-10-08T07:12:44.960Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-back-end-senior-software-engineer-security-ai-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - Editor Service",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884225",
-    "job_posted_at_datetime_utc": "2025-10-08T07:12:44.960Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-editor-service-redmond"
-  },
-  {
-    "job_title": "Embedded Firmware Engineer I - Security",
-    "employer_name": "Aurora Innovation",
-    "job_city": "SF",
-    "job_state": "Locations",
-    "job_description": "Join Aurora Innovation in this exciting opportunity.",
-    "job_apply_link": "https://aurora.tech/jobs/8201705002?gh_jid=8201705002",
-    "job_posted_at_datetime_utc": "2025-10-08T06:46:07.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "aurora-innovation-embedded-firmware-engineer-i-security-sf"
-  },
-  {
-    "job_title": "Embedded Firmware Engineer I - Security",
-    "employer_name": "Aurora Innovation",
+    "job_title": "Software Engineer I - Developer Enablement Platform",
+    "employer_name": "Expedia Group",
     "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Join Aurora Innovation in this exciting opportunity.",
-    "job_apply_link": "https://aurora.tech/jobs/8201816002?gh_jid=8201816002",
-    "job_posted_at_datetime_utc": "2025-10-08T06:46:05.000Z",
+    "job_description": "Join Expedia Group in this exciting opportunity.",
+    "job_apply_link": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Engineer-I---Developer-Enablement-Platform_R-98318-1",
+    "job_posted_at_datetime_utc": "2025-10-08T07:39:56.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "aurora-innovation-embedded-firmware-engineer-i-security-seattle"
-  },
-  {
-    "job_title": "Embedded Firmware Engineer I - Security",
-    "employer_name": "Aurora Innovation",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_description": "Join Aurora Innovation in this exciting opportunity.",
-    "job_apply_link": "https://aurora.tech/jobs/8170469002?gh_jid=8170469002",
-    "job_posted_at_datetime_utc": "2025-10-08T06:46:04.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "aurora-innovation-embedded-firmware-engineer-i-security-mountain-view"
-  },
-  {
-    "job_title": "Embedded Firmware Engineer I - Security",
-    "employer_name": "Aurora Innovation",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_description": "Join Aurora Innovation in this exciting opportunity.",
-    "job_apply_link": "https://aurora.tech/jobs/8201817002?gh_jid=8201817002",
-    "job_posted_at_datetime_utc": "2025-10-08T06:46:04.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "aurora-innovation-embedded-firmware-engineer-i-security-pittsburgh"
-  },
-  {
-    "job_title": "WebGL Software Engineer 1 - Online Team",
-    "employer_name": "Esri",
-    "job_city": "West Redlands",
-    "job_state": "Redlands",
-    "job_description": "Join Esri in this exciting opportunity.",
-    "job_apply_link": "https://www.esri.com/careers/4859692007?gh_jid=4859692007",
-    "job_posted_at_datetime_utc": "2025-10-08T06:43:27.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "esri-webgl-software-engineer-1-online-team-west-redlands"
+    "id": "expedia-group-software-engineer-i-developer-enablement-platform-seattle"
   }
 ]

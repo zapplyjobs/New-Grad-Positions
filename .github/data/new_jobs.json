@@ -1,45 +1,68 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Product Marketing Manager",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Marketing Manager, Google Slides and Vids",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/131724505746678470-product-marketing-manager-google-slides-and-vids?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
-    "id": "google-product-marketing-manager-seattle"
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Sunwater Capital",
+    "job_city": "North Bethesda",
+    "job_state": "MD",
+    "job_description": "Join Sunwater Capital in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/sunwatercapital/06f08a38-95a0-4dac-9997-4c46b3ae8fed/",
+    "job_posted_at_datetime_utc": "2025-10-08T16:28:41.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "sunwater-capital-junior-software-engineer-north-bethesda"
   },
   {
-    "job_title": "Software Engineer II - Office Product Group Collab Services",
+    "job_title": "Software Engineer - Azure Core Resource Graph & Resource Manager Team",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889462",
-    "job_posted_at_datetime_utc": "2025-10-08T16:13:06.889Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892461",
+    "job_posted_at_datetime_utc": "2025-10-08T17:12:22.571Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-office-product-group-collab-services-redmond"
+    "id": "microsoft-software-engineer-azure-core-resource-graph-resource-manager-team-redmond"
   },
   {
-    "job_title": "Senior Software Engineer - AI for Security",
+    "job_title": "Senior Engineer - Design for Test (DFT)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891637",
-    "job_posted_at_datetime_utc": "2025-10-08T16:13:06.889Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890492",
+    "job_posted_at_datetime_utc": "2025-10-08T17:12:22.571Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-ai-for-security-redmond"
+    "id": "microsoft-senior-engineer-design-for-test-dft-redmond"
   },
   {
-    "job_title": "Sr. Software Engineer - Applied ML",
-    "employer_name": "Databricks",
+    "job_title": "Senior Software Engineer - Compiler",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884200",
+    "job_posted_at_datetime_utc": "2025-10-08T17:12:22.571Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-compiler-redmond"
+  },
+  {
+    "job_title": "Senior Research Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889671",
+    "job_posted_at_datetime_utc": "2025-10-08T17:12:22.571Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-research-software-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer, Pixel Engine",
+    "employer_name": "Figma",
     "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002",
-    "job_posted_at_datetime_utc": "2025-10-08T16:09:14.000Z",
+    "job_state": "CA • New York",
+    "job_description": "Join Figma to make design accessible to all.",
+    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5552522004?gh_jid=5552522004",
+    "job_posted_at_datetime_utc": "2025-10-08T16:50:03.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-software-engineer-applied-ml-san-francisco"
+    "id": "figma-software-engineer-pixel-engine-san-francisco"
   }
 ]

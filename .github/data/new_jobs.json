@@ -1,45 +1,24 @@
 [
   {
-    "job_title": "Business Support Engineer - Connectivity",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/31884627857819804",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-business-support-engineer-connectivity-multiple"
+    "job_title": "Senior Technical Support Engineer - Azure",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887366",
+    "job_posted_at_datetime_utc": "2025-10-08T10:12:34.515Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-technical-support-engineer-azure-redmond"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Strategic Negotiator",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Strategic Negotiator, Network Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93725383890739910-strategic-negotiator-network-infrastructure?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
-    "id": "google-strategic-negotiator-reston"
-  },
-  {
-    "job_title": "Software Engineer – Entry Level - Secret Clearance Required",
-    "employer_name": "General Dynamics Mission Systems",
-    "job_city": "Dedham",
+    "job_title": "Software Engineer I",
+    "employer_name": "Klaviyo",
+    "job_city": "Boston",
     "job_state": "MA",
-    "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
-    "job_apply_link": "https://careers-gdms.icims.com/jobs/68432/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2025-10-08T08:54:12.000Z",
+    "job_description": "Join Klaviyo in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7489745003",
+    "job_posted_at_datetime_utc": "2025-10-08T09:10:42.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "general-dynamics-mission-systems-software-engineer-entry-level-secret-clearance-required-dedham"
-  },
-  {
-    "job_title": "Entry Level Software Engineer-Systems",
-    "employer_name": "The Boeing Company",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_description": "Join The Boeing Company in this exciting opportunity.",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Software-Engineer-Systems--Systems-_JR2025467015-2",
-    "job_posted_at_datetime_utc": "2025-10-08T08:19:58.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "the-boeing-company-entry-level-software-engineer-systems-oklahoma-city"
+    "id": "klaviyo-software-engineer-i-boston"
   }
 ]

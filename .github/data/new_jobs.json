@@ -1,56 +1,35 @@
 [
   {
-    "job_title": "Software Dev Engineer II - AMZ9443289",
-    "employer_name": "Amazon",
-    "job_city": "East Palo Alto",
-    "job_state": "CA",
-    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design.#0000",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3102487/software-dev-engineer-ii-amz9443289",
-    "job_posted_at": "2025-10-06T23:05:36.934Z",
-    "job_posted_at_datetime_utc": "2025-10-06T23:05:36.934Z",
-    "id": "amazon-software-dev-engineer-ii-amz9443289-east-palo-alto"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Google Cloud Platform Territory Manager III",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Google Cloud Platform Territory Manager III, SMB",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/110022345237635782-google-cloud-platform-territory-manager-iii-smb?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States",
-    "id": "google-google-cloud-platform-territory-manager-iii-austin"
-  },
-  {
-    "job_title": "Software Engineer II  - Azure Resource Builder",
+    "job_title": "Principal Software Engineering Manager - Azure Core",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889161",
-    "job_posted_at_datetime_utc": "2025-10-08T23:12:10.390Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892906",
+    "job_posted_at_datetime_utc": "2025-10-09T00:24:09.147Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-azure-resource-builder-redmond"
+    "id": "microsoft-principal-software-engineering-manager-azure-core-redmond"
   },
   {
-    "job_title": "Sr. Staff Software Engineer - Metadata Intelligence",
-    "employer_name": "Databricks",
-    "job_city": "Mountain View",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8204016002",
-    "job_posted_at_datetime_utc": "2025-10-08T22:46:41.000Z",
+    "job_title": "Principal Software Engineer - Azure Core",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891952",
+    "job_posted_at_datetime_utc": "2025-10-09T00:24:09.147Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-staff-software-engineer-metadata-intelligence-mountain-view"
+    "id": "microsoft-principal-software-engineer-azure-core-redmond"
   },
   {
-    "job_title": "Full Stack Software Engineer (L4), Content Middleware Infrastructure Messaging",
-    "employer_name": "Netflix",
-    "job_city": "Los Gatos",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790302833484",
-    "job_posted_at_datetime_utc": "2025-10-08T00:00:00.000Z",
+    "job_title": "Entry Level Software Developer",
+    "employer_name": "Leidos",
+    "job_city": "Bethesda",
+    "job_state": "MD",
+    "job_description": "Join Leidos in this exciting opportunity.",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Software-Developer_R-00167822",
+    "job_posted_at_datetime_utc": "2025-10-09T00:07:34.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-full-stack-software-engineer-l4-content-middleware-infrastructure-messaging-los-gatos"
+    "id": "leidos-entry-level-software-developer-bethesda"
   }
 ]

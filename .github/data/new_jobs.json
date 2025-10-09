@@ -1,57 +1,56 @@
 [
   {
-    "job_title": "Senior Machine Learning Engineer",
-    "employer_name": "PayPal",
-    "job_city": "Chicago",
-    "job_state": "Illinois",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274916177592",
-    "job_posted_at_datetime_utc": "2025-10-09T17:12:51.029Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-senior-machine-learning-engineer-chicago"
+    "employer_name": "Google",
+    "job_title": "Civics Outreach Manager",
+    "job_city": "Washington D.C.",
+    "job_state": "DC",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Civics Outreach Manager",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/87460770362598086-civics-outreach-manager?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States",
+    "id": "google-civics-outreach-manager-washington-d-c"
   },
   {
-    "job_title": "Senior Unreal Engineer, Shared Technology - World's Edge",
+    "job_title": "Senior Software Engineer - Forward Deployment Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887942",
-    "job_posted_at_datetime_utc": "2025-10-09T17:12:44.112Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887064",
+    "job_posted_at_datetime_utc": "2025-10-09T18:13:50.315Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-unreal-engineer-shared-technology-world-s-edge-redmond"
+    "id": "microsoft-senior-software-engineer-forward-deployment-engineer-redmond"
   },
   {
-    "job_title": "Principal Unreal Engineer, Gameplay - World's Edge",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887907",
-    "job_posted_at_datetime_utc": "2025-10-09T17:12:44.112Z",
+    "job_title": "Fixed Wing Displays Software Engineer I - Onsite",
+    "employer_name": "RTX",
+    "job_city": "Cedar Rapids",
+    "job_state": "IA",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Fixed-Wing-Displays-Software-Engineer-I--Onsite-_01799192",
+    "job_posted_at_datetime_utc": "2025-10-09T17:56:06.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-unreal-engineer-gameplay-world-s-edge-redmond"
+    "id": "rtx-fixed-wing-displays-software-engineer-i-onsite-cedar-rapids"
   },
   {
-    "job_title": "Staff Engineer, App Platform",
-    "employer_name": "Stripe",
-    "job_city": "San Francisco",
-    "job_state": "Seattle",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6885408",
-    "job_posted_at_datetime_utc": "2025-10-09T16:39:22.000Z",
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Forage",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Forage in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/joinforage/jobs/4892105007",
+    "job_posted_at_datetime_utc": "2025-10-09T17:41:14.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-staff-engineer-app-platform-san-francisco"
+    "id": "forage-junior-software-engineer-sf"
   },
   {
-    "job_title": "Software Engineer 5 - Ads Inventory Management & Forecasting",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
+    "job_title": "Machine Learning Engineer - Junior - Recommendation",
+    "employer_name": "NewsBreak",
+    "job_city": "Mountain View",
     "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312441730",
-    "job_posted_at_datetime_utc": "2025-10-09T00:00:00.000Z",
+    "job_description": "Join NewsBreak in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/newsbreak/jobs/4608368006",
+    "job_posted_at_datetime_utc": "2025-10-09T17:15:38.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-software-engineer-5-ads-inventory-management-forecasting-usa-remote"
+    "id": "newsbreak-machine-learning-engineer-junior-recommendation-mountain-view"
   }
 ]

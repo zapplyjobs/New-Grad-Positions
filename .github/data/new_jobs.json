@@ -1,13 +1,34 @@
 [
   {
-    "job_title": "Applied Machine Learning Engineer – New College Grad 2025 - Circuit Design",
-    "employer_name": "NVIDIA",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Join NVIDIA in this exciting opportunity.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2025_JR2005860",
-    "job_posted_at_datetime_utc": "2025-10-09T21:36:05.000Z",
+    "employer_name": "Google",
+    "job_title": "Data Transformation Lead",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Data Transformation Lead, Global Sales, Large Customer Sales",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/96303850327024326-data-transformation-lead-global-sales-large-customer-sales?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=3",
+    "id": "google-data-transformation-lead-chicago"
+  },
+  {
+    "job_title": "Ingénieur des données / Data Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887323",
+    "job_posted_at_datetime_utc": "2025-10-09T23:11:59.485Z",
     "job_employment_type": "FULLTIME",
-    "id": "nvidia-applied-machine-learning-engineer-new-college-grad-2025-circuit-design-santa-clara"
+    "id": "microsoft-ing-nieur-des-donn-es-data-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer 1 - Embedded C++ - Avionics Systems",
+    "employer_name": "Honeywell",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_description": "Join Honeywell in this exciting opportunity.",
+    "job_apply_link": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/122027",
+    "job_posted_at_datetime_utc": "2025-10-09T22:50:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "honeywell-software-engineer-1-embedded-c-avionics-systems-phoenix"
   }
 ]

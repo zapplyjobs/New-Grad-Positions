@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Senior Cloud Software Engineer - Storage",
+    "job_title": "Support Engineering Manager - Endpoint Protection",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885392",
-    "job_posted_at_datetime_utc": "2025-10-09T06:14:01.814Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1835735",
+    "job_posted_at_datetime_utc": "2025-10-09T07:12:20.851Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-cloud-software-engineer-storage-redmond"
+    "id": "microsoft-support-engineering-manager-endpoint-protection-redmond"
+  },
+  {
+    "job_title": "Cloud Solution Architecture - Developer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885082",
+    "job_posted_at_datetime_utc": "2025-10-09T07:12:20.851Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-solution-architecture-developer-redmond"
   }
 ]

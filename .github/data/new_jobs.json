@@ -1,12 +1,57 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Scaled Abuse Detection Analyst",
-    "job_city": "San Bruno",
+    "job_title": "Senior Machine Learning Engineer",
+    "employer_name": "PayPal",
+    "job_city": "Chicago",
+    "job_state": "Illinois",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274916177592",
+    "job_posted_at_datetime_utc": "2025-10-09T17:12:51.029Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-senior-machine-learning-engineer-chicago"
+  },
+  {
+    "job_title": "Senior Unreal Engineer, Shared Technology - World's Edge",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887942",
+    "job_posted_at_datetime_utc": "2025-10-09T17:12:44.112Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-unreal-engineer-shared-technology-world-s-edge-redmond"
+  },
+  {
+    "job_title": "Principal Unreal Engineer, Gameplay - World's Edge",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887907",
+    "job_posted_at_datetime_utc": "2025-10-09T17:12:44.112Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-unreal-engineer-gameplay-world-s-edge-redmond"
+  },
+  {
+    "job_title": "Staff Engineer, App Platform",
+    "employer_name": "Stripe",
+    "job_city": "San Francisco",
+    "job_state": "Seattle",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6885408",
+    "job_posted_at_datetime_utc": "2025-10-09T16:39:22.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-staff-engineer-app-platform-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer 5 - Ads Inventory Management & Forecasting",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
     "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: Scaled Abuse Detection Analyst, YouTube Trust and Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/106827894591759046-scaled-abuse-detection-analyst-youtube-trust-and-safety?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=7",
-    "id": "google-scaled-abuse-detection-analyst-san-bruno"
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312441730",
+    "job_posted_at_datetime_utc": "2025-10-09T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-software-engineer-5-ads-inventory-management-forecasting-usa-remote"
   }
 ]

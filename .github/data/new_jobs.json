@@ -1,35 +1,35 @@
 [
   {
-    "job_title": "Principal Software Engineering Manager - Azure Core",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892906",
-    "job_posted_at_datetime_utc": "2025-10-09T00:24:09.147Z",
+    "job_title": "Software Engineer 2026 Graduate",
+    "employer_name": "Point72",
+    "job_city": "NYC",
+    "job_state": "Locations",
+    "job_description": "Join Point72 in this exciting opportunity.",
+    "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8202068002",
+    "job_posted_at_datetime_utc": "2025-10-08T06:21:24.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineering-manager-azure-core-redmond"
+    "id": "point72-software-engineer-2026-graduate-nyc"
   },
   {
-    "job_title": "Principal Software Engineer - Azure Core",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891952",
-    "job_posted_at_datetime_utc": "2025-10-09T00:24:09.147Z",
+    "job_title": "Support Solutions Engineer (L5), Security,Privacy and Assurance",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312034753",
+    "job_posted_at_datetime_utc": "2025-10-08T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-azure-core-redmond"
+    "id": "netflix-support-solutions-engineer-l5-security-privacy-and-assurance-usa-remote"
   },
   {
-    "job_title": "Entry Level Software Developer",
-    "employer_name": "Leidos",
-    "job_city": "Bethesda",
-    "job_state": "MD",
-    "job_description": "Join Leidos in this exciting opportunity.",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Software-Developer_R-00167822",
-    "job_posted_at_datetime_utc": "2025-10-09T00:07:34.000Z",
+    "job_title": "Systems Development Engineer L4",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312429476",
+    "job_posted_at_datetime_utc": "2025-10-08T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "leidos-entry-level-software-developer-bethesda"
+    "id": "netflix-systems-development-engineer-l4-usa-remote"
   }
 ]

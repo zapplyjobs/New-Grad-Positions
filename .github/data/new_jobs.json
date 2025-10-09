@@ -1,24 +1,23 @@
 [
   {
-    "job_title": "Associate Software Engineer/Software Engineer (PGS Space Systems)",
-    "employer_name": "Northrop Grumman",
-    "job_city": "Redondo Beach",
+    "employer_name": "Google",
+    "job_title": "Optics and Display Test Engineer",
+    "job_city": "Mountain View",
     "job_state": "CA",
-    "job_description": "Join Northrop Grumman in this exciting opportunity.",
-    "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Software-Engineer-Software-Engineer---PGS-Space-Systems-_R10210446",
-    "job_posted_at_datetime_utc": "2025-10-09T14:09:22.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "northrop-grumman-associate-software-engineer-software-engineer-pgs-space-systems-redondo-beach"
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Optics and Display Test Engineer, Consumer Hardware",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93182955291058886-optics-and-display-test-engineer-consumer-hardware?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=6",
+    "id": "google-optics-and-display-test-engineer-mountain-view"
   },
   {
-    "job_title": "Junior Frontend Engineer",
-    "employer_name": "Vultr",
-    "job_city": "Remote in USA",
-    "job_state": "Locations",
-    "job_description": "Join Vultr in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/vultr/jobs/4602862006",
-    "job_posted_at_datetime_utc": "2025-10-09T13:31:02.000Z",
+    "job_title": "CAD Engineer, Physical Design",
+    "employer_name": "NVIDIA",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Join NVIDIA in this exciting opportunity.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/CAD-Engineer--Physical-Design---New-College-Grad-2026_JR2005254",
+    "job_posted_at_datetime_utc": "2025-10-09T14:28:40.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "vultr-junior-frontend-engineer-remote-in-usa"
+    "id": "nvidia-cad-engineer-physical-design-santa-clara"
   }
 ]

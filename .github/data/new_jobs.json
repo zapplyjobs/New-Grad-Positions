@@ -1,57 +1,13 @@
 [
   {
-    "job_title": "Software Engineer II",
-    "employer_name": "Amazon",
-    "job_city": "San Francisco",
+    "job_title": "Applied Machine Learning Engineer – New College Grad 2025 - Circuit Design",
+    "employer_name": "NVIDIA",
+    "job_city": "Santa Clara",
     "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3105344/software-engineer-ii",
-    "job_posted_at": "2025-10-09T20:05:19.538Z",
-    "job_posted_at_datetime_utc": "2025-10-09T20:05:19.538Z",
-    "id": "amazon-software-engineer-ii-san-francisco"
-  },
-  {
-    "job_title": "Principal Silicon Design Verification Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893471",
-    "job_posted_at_datetime_utc": "2025-10-09T21:11:17.819Z",
+    "job_description": "Join NVIDIA in this exciting opportunity.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2025_JR2005860",
+    "job_posted_at_datetime_utc": "2025-10-09T21:36:05.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-silicon-design-verification-engineer-redmond"
-  },
-  {
-    "job_title": "Signal and Power Integrity Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892475",
-    "job_posted_at_datetime_utc": "2025-10-09T21:11:17.819Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-signal-and-power-integrity-engineer-redmond"
-  },
-  {
-    "job_title": "Hardware Engineering Director, AC/DC Power",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891096",
-    "job_posted_at_datetime_utc": "2025-10-09T21:11:17.819Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-hardware-engineering-director-ac-dc-power-redmond"
-  },
-  {
-    "job_title": "Software Engineer – Entry Level - Front End",
-    "employer_name": "Truveta",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Truveta in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/truveta/jobs/5674617004",
-    "job_posted_at_datetime_utc": "2025-10-09T20:51:33.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "truveta-software-engineer-entry-level-front-end-seattle"
+    "id": "nvidia-applied-machine-learning-engineer-new-college-grad-2025-circuit-design-santa-clara"
   }
 ]

@@ -1,35 +1,46 @@
 [
   {
-    "job_title": "Software Design Engineer, Amazon Device OS",
-    "employer_name": "Amazon",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3105251/software-design-engineer-amazon-device-os",
-    "job_posted_at": "2025-10-09T18:05:16.298Z",
-    "job_posted_at_datetime_utc": "2025-10-09T18:05:16.298Z",
-    "id": "amazon-software-design-engineer-amazon-device-os-sunnyvale"
-  },
-  {
-    "job_title": "Principal Silicon Debug Engineer",
+    "job_title": "Senior SoC HW (Security/Functional) Validation Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890914",
-    "job_posted_at_datetime_utc": "2025-10-09T19:12:05.329Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890957",
+    "job_posted_at_datetime_utc": "2025-10-09T20:12:39.568Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-silicon-debug-engineer-redmond"
+    "id": "microsoft-senior-soc-hw-security-functional-validation-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer 1 - Identity Security",
-    "employer_name": "Abnormal Security",
-    "job_city": "SF",
-    "job_state": "Locations",
-    "job_description": "Join Abnormal Security in this exciting opportunity.",
-    "job_apply_link": "https://abnormal.ai/careers/jobs/7491522003?gh_jid=7491522003",
-    "job_posted_at_datetime_utc": "2025-10-09T18:04:48.000Z",
+    "job_title": "Solution Engineering: Student Worker Opportunities",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893525",
+    "job_posted_at_datetime_utc": "2025-10-09T20:12:39.568Z",
     "job_employment_type": "FULLTIME",
-    "id": "abnormal-security-software-engineer-1-identity-security-sf"
+    "id": "microsoft-solution-engineering-student-worker-opportunities-redmond"
+  },
+  {
+    "job_title": "Configuration Manager- Technical Support Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885792",
+    "job_posted_at_datetime_utc": "2025-10-09T20:12:39.568Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-configuration-manager-technical-support-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer, Machine Learning Platform Engineer (Platform)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7311430?gh_jid=7311430",
+    "job_posted_at_datetime_utc": "2025-10-09T19:43:34.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-software-engineer-machine-learning-platform-engineer-platform-remote-usa"
   }
 ]

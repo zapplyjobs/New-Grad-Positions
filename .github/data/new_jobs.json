@@ -1,57 +1,13 @@
 [
   {
-    "job_title": "Staff Software Engineer Android SDK",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274916264951",
-    "job_posted_at_datetime_utc": "2025-10-10T00:24:45.438Z",
+    "job_title": "Sr. Staff Software Engineer - Data Platform",
+    "employer_name": "Databricks",
+    "job_city": "Mountain View",
+    "job_state": "California; San Francisco",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7823561002",
+    "job_posted_at_datetime_utc": "2025-10-10T01:06:25.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "paypal-staff-software-engineer-android-sdk-san-jose"
-  },
-  {
-    "job_title": "Software Engineer II - Windows AI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891430",
-    "job_posted_at_datetime_utc": "2025-10-10T00:24:37.493Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-windows-ai-redmond"
-  },
-  {
-    "job_title": "Software Engineer II-Xbox-Front-End",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891629",
-    "job_posted_at_datetime_utc": "2025-10-10T00:24:37.492Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-xbox-front-end-redmond"
-  },
-  {
-    "job_title": "Software Engineer – New Grad 2026",
-    "employer_name": "Anyscale",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_description": "Join Anyscale in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200/application",
-    "job_posted_at_datetime_utc": "2025-10-09T23:42:41.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "anyscale-software-engineer-new-grad-2026-palo-alto"
-  },
-  {
-    "job_title": "Data Engineer 1",
-    "employer_name": "Centene",
-    "job_city": "Washington",
-    "job_state": "Locations",
-    "job_description": "Join Centene in this exciting opportunity.",
-    "job_apply_link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1610112",
-    "job_posted_at_datetime_utc": "2025-10-09T23:14:45.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "centene-data-engineer-1-washington"
+    "id": "databricks-sr-staff-software-engineer-data-platform-mountain-view"
   }
 ]

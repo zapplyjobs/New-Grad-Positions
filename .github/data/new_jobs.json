@@ -1,24 +1,56 @@
 [
   {
-    "job_title": "Full-Stack Developer - Junior",
-    "employer_name": "Booz Allen",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_description": "Join Booz Allen in this exciting opportunity.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Software-Developer_R0226649",
-    "job_posted_at_datetime_utc": "2025-10-10T14:45:35.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "booz-allen-full-stack-developer-junior-huntsville"
+    "job_title": "Software Development Engineer, Amazon MSK",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106069/software-development-engineer-amazon-msk",
+    "job_posted_at": "2025-10-10T15:07:00.726Z",
+    "job_posted_at_datetime_utc": "2025-10-10T15:07:00.726Z",
+    "id": "amazon-software-development-engineer-amazon-msk-seattle"
   },
   {
-    "job_title": "Software Engineer L5 - Ads, CRM",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311890398",
-    "job_posted_at_datetime_utc": "2025-10-10T00:00:00.000Z",
+    "employer_name": "Microsoft",
+    "job_title": "Product Management: Internship Opportunities",
+    "job_city": "New York",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Product Management: Internship Opportunities",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894215/Product-Management%3A-Internship-Opportunities",
+    "id": "microsoft-product-management-internship-opportunities-new-york"
+  },
+  {
+    "job_title": "Principal Software Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887053",
+    "job_posted_at_datetime_utc": "2025-10-10T16:13:35.499Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-software-engineer-l5-ads-crm-usa-remote"
+    "id": "microsoft-principal-software-engineering-redmond"
+  },
+  {
+    "job_title": "Global Critical Environment (CE) Application Service Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1839108",
+    "job_posted_at_datetime_utc": "2025-10-10T16:13:35.499Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-global-critical-environment-ce-application-service-engineer-redmond"
+  },
+  {
+    "job_title": "Digital Solution Engineer Manager - Cloud & AI - German speaking",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1837649",
+    "job_posted_at_datetime_utc": "2025-10-10T16:13:35.499Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-digital-solution-engineer-manager-cloud-ai-german-speaking-redmond"
   }
 ]

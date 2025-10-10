@@ -1,79 +1,23 @@
 [
   {
-    "job_title": "Sr. Solution Engineer (AI application and Agent)",
+    "employer_name": "Google",
+    "job_title": "Program Manager",
+    "job_city": "Muskogee",
+    "job_state": "OK",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Program Manager, Google Data Centers",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/129933478614442694-program-manager-google-data-centers?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
+    "id": "google-program-manager-muskogee"
+  },
+  {
+    "job_title": "Software Engineer for AI/Model-first Business Solutions",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885889",
-    "job_posted_at_datetime_utc": "2025-10-10T09:13:01.149Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892754",
+    "job_posted_at_datetime_utc": "2025-10-10T10:12:52.331Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-sr-solution-engineer-ai-application-and-agent-redmond"
-  },
-  {
-    "job_title": "Software Engineer 2 (Essential Protocols)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885777",
-    "job_posted_at_datetime_utc": "2025-10-10T09:13:01.149Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-2-essential-protocols-redmond"
-  },
-  {
-    "job_title": "Software Engineer, Test & Infrastructure I",
-    "employer_name": "Vail Systems",
-    "job_city": "Greater Chicago Area",
-    "job_state": "IL",
-    "job_description": "Join Vail Systems in this exciting opportunity.",
-    "job_apply_link": "https://jobs.lever.co/vailsys/ad5c0c59-c301-4ac5-983b-bbd62b736c94/",
-    "job_posted_at_datetime_utc": "2025-10-10T09:03:13.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "vail-systems-software-engineer-test-infrastructure-i-greater-chicago-area"
-  },
-  {
-    "job_title": "Global Software Support Engineer I",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Join Applied Materials in this exciting opportunity.",
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Global-Software-Support-Engineer-I_R2517230",
-    "job_posted_at_datetime_utc": "2025-10-10T08:59:02.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "applied-materials-global-software-support-engineer-i-santa-clara"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "Disney",
-    "job_city": "Santa Monica",
-    "job_state": "CA",
-    "job_description": "Join Disney in this exciting opportunity.",
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10131168",
-    "job_posted_at_datetime_utc": "2025-10-10T08:53:44.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "disney-software-engineer-i-santa-monica"
-  },
-  {
-    "job_title": "Firmware Engineering Early Career Program Associate - Hardware Engineering - RFID and IoT",
-    "employer_name": "Avery Dennison",
-    "job_city": "Miamisburg",
-    "job_state": "OH",
-    "job_description": "Join Avery Dennison in this exciting opportunity.",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AveryDennison/744000086898306",
-    "job_posted_at_datetime_utc": "2025-10-10T08:50:04.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "avery-dennison-firmware-engineering-early-career-program-associate-hardware-engineering-rfid-and-iot-miamisburg"
-  },
-  {
-    "job_title": "Machine Learning Engineer - AI Research (PhD)",
-    "employer_name": "General Motors",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_description": "Join General Motors in this exciting opportunity.",
-    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114",
-    "job_posted_at_datetime_utc": "2025-10-10T08:40:13.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "general-motors-machine-learning-engineer-ai-research-phd-mountain-view"
+    "id": "microsoft-software-engineer-for-ai-model-first-business-solutions-redmond"
   }
 ]

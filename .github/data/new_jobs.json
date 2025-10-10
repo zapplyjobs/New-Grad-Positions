@@ -1,46 +1,45 @@
 [
   {
-    "job_title": "Principal Firmware Engineer (Silicon Modeling)",
+    "employer_name": "Google",
+    "job_title": "UX Writer and Content Designer",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: UX Writer and Content Designer, Google Play Developer",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/78723724550775494-ux-writer-and-content-designer-google-play-developer?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=5",
+    "id": "google-ux-writer-and-content-designer-new-york"
+  },
+  {
+    "job_title": "Principal Engineer, Front-End Computer-Aided Design Software",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892392",
-    "job_posted_at_datetime_utc": "2025-10-10T18:14:23.310Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890935",
+    "job_posted_at_datetime_utc": "2025-10-10T19:11:29.986Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-firmware-engineer-silicon-modeling-redmond"
+    "id": "microsoft-principal-engineer-front-end-computer-aided-design-software-redmond"
   },
   {
-    "job_title": "Senior AI Hardware Engineer",
+    "job_title": "Principal Software Engineer - Azure Compute",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892463",
-    "job_posted_at_datetime_utc": "2025-10-10T18:14:23.310Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894202",
+    "job_posted_at_datetime_utc": "2025-10-10T19:11:29.986Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-ai-hardware-engineer-redmond"
+    "id": "microsoft-principal-software-engineer-azure-compute-redmond"
   },
   {
-    "job_title": "Software Engineer 1 - Salesforce - Backend Services",
-    "employer_name": "Cox",
-    "job_city": "Carmel",
-    "job_state": "IN",
-    "job_description": "Join Cox in this exciting opportunity.",
-    "job_apply_link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202567898",
-    "job_posted_at_datetime_utc": "2025-10-10T17:49:56.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "cox-software-engineer-1-salesforce-backend-services-carmel"
-  },
-  {
-    "job_title": "Software Engineer 5, Android - Live, DVX",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
+    "job_title": "Senior Software Engineer, Fullstack (Developer - Stablecoin Payments)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
     "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312359533",
-    "job_posted_at_datetime_utc": "2025-10-10T00:00:00.000Z",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7306954?gh_jid=7306954",
+    "job_posted_at_datetime_utc": "2025-10-10T18:30:31.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-software-engineer-5-android-live-dvx-usa-remote"
+    "id": "coinbase-senior-software-engineer-fullstack-developer-stablecoin-payments-remote-usa"
   }
 ]

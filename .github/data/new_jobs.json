@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "job_title": "Security Engineer II - CTJ - Poly",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883491",
+    "job_posted_at_datetime_utc": "2025-10-10T22:11:59.398Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-security-engineer-ii-ctj-poly-redmond"
+  },
+  {
+    "job_title": "Senior Android Engineer, Guest & Host",
+    "employer_name": "Airbnb",
+    "job_city": "Remote",
+    "job_state": "USA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6602371?gh_jid=6602371",
+    "job_posted_at_datetime_utc": "2025-10-10T22:08:25.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-senior-android-engineer-guest-host-remote"
+  },
+  {
+    "job_title": "Security Engineer 1 - Corporate Services Security",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Join Amazon in this exciting opportunity.",
+    "job_apply_link": "https://amazon.jobs/en/jobs/3099188/security-engineer-i-corporate-services-security",
+    "job_posted_at_datetime_utc": "2025-10-10T21:35:21.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "amazon-security-engineer-1-corporate-services-security-arlington"
+  },
+  {
+    "job_title": "Senior Engineering Manager, Client Platforms",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8045535002",
+    "job_posted_at_datetime_utc": "2025-10-10T21:23:11.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-senior-engineering-manager-client-platforms-san-francisco-bay-area"
+  },
+  {
+    "job_title": "Senior Staff Software Engineer, Client Platform",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/7803984002",
+    "job_posted_at_datetime_utc": "2025-10-10T21:23:11.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-senior-staff-software-engineer-client-platform-san-francisco-bay-area"
+  },
+  {
+    "job_title": "Staff Software Engineer, Machine Learning",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area or Remote (U.S)",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8090744002",
+    "job_posted_at_datetime_utc": "2025-10-10T21:23:11.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-staff-software-engineer-machine-learning-san-francisco-bay-area-or-remote-u-s"
+  },
+  {
+    "job_title": "Staff Software Engineer - UI and Interactions (Full-Stack)",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area or Remote (U.S.)",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8058456002",
+    "job_posted_at_datetime_utc": "2025-10-10T21:23:11.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-staff-software-engineer-ui-and-interactions-full-stack-san-francisco-bay-area-or-remote-u-s"
+  },
+  {
+    "job_title": "Staff Software Engineer – UI/UX Specialist",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area or Remote (U.S.)",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/7854326002",
+    "job_posted_at_datetime_utc": "2025-10-10T21:23:11.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-staff-software-engineer-ui-ux-specialist-san-francisco-bay-area-or-remote-u-s"
+  },
+  {
+    "job_title": "Staff Engineer, IAM Control Plane",
+    "employer_name": "Stripe",
+    "job_city": "Us Remote",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7309416",
+    "job_posted_at_datetime_utc": "2025-10-10T21:13:59.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-staff-engineer-iam-control-plane-us-remote"
+  }
+]

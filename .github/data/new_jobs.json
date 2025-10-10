@@ -1,56 +1,46 @@
 [
   {
-    "job_title": "Software Development Engineer, Amazon MSK",
+    "job_title": "Software Development Engineer",
     "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_city": "San Luis Obispo",
+    "job_state": "CA",
     "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106069/software-development-engineer-amazon-msk",
-    "job_posted_at": "2025-10-10T15:07:00.726Z",
-    "job_posted_at_datetime_utc": "2025-10-10T15:07:00.726Z",
-    "id": "amazon-software-development-engineer-amazon-msk-seattle"
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106112/software-development-engineer",
+    "job_posted_at": "2025-10-10T16:05:56.811Z",
+    "job_posted_at_datetime_utc": "2025-10-10T16:05:56.811Z",
+    "id": "amazon-software-development-engineer-san-luis-obispo"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Product Management: Internship Opportunities",
-    "job_city": "New York",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Product Management: Internship Opportunities",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894215/Product-Management%3A-Internship-Opportunities",
-    "id": "microsoft-product-management-internship-opportunities-new-york"
+    "job_title": "Software Dev Engineer II - TEST - AMZ25394.1",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics or a related field and one year of experience in the job offered, or as a Software Engineer or Tester, or a related occupation. Employer will accept three years of experience in the job offered or a related occupation as equivalent to the Bachelor's degree and one year of experience. Must have one year of experience in the following skill(s): designing, implementing, documenting, and maintaining test automation programs for large-scale, distributed software systems or applications using: Java, C++, or SQL The pay range for this position in San Francisco, California is $ 165,200 – $ 223,600 (yr); however, base pay offered may vary depending on job-related knowledge, skills, and experience. A sign-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided by San Francisco, California Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon's internal or external careers site.",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3077169/software-dev-engineer-ii-test-amz25394-1",
+    "job_posted_at": "2025-10-10T16:05:56.811Z",
+    "job_posted_at_datetime_utc": "2025-10-10T16:05:56.811Z",
+    "id": "amazon-software-dev-engineer-ii-test-amz25394-1-san-francisco"
   },
   {
-    "job_title": "Principal Software Engineering",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1887053",
-    "job_posted_at_datetime_utc": "2025-10-10T16:13:35.499Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineering-redmond"
-  },
-  {
-    "job_title": "Global Critical Environment (CE) Application Service Engineer",
+    "job_title": "Principal Hardware Engineer, DC-DC Power",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1839108",
-    "job_posted_at_datetime_utc": "2025-10-10T16:13:35.499Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892918",
+    "job_posted_at_datetime_utc": "2025-10-10T17:12:42.214Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-global-critical-environment-ce-application-service-engineer-redmond"
+    "id": "microsoft-principal-hardware-engineer-dc-dc-power-redmond"
   },
   {
-    "job_title": "Digital Solution Engineer Manager - Cloud & AI - German speaking",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1837649",
-    "job_posted_at_datetime_utc": "2025-10-10T16:13:35.499Z",
+    "job_title": "Machine Learning Engineer – Early Career - AI Research",
+    "employer_name": "General Motors",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_description": "Join General Motors in this exciting opportunity.",
+    "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114",
+    "job_posted_at_datetime_utc": "2025-10-08T06:20:53.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-manager-cloud-ai-german-speaking-redmond"
+    "id": "general-motors-machine-learning-engineer-early-career-ai-research-mountain-view"
   }
 ]

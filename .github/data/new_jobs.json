@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Software Engineer, Link",
-    "employer_name": "Stripe",
-    "job_city": "USA",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7316296",
-    "job_posted_at_datetime_utc": "2025-10-10T23:22:37.000Z",
+    "job_title": "Principal Software Engineer - Azure Blob Storage",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893619",
+    "job_posted_at_datetime_utc": "2025-10-11T01:39:37.098Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-software-engineer-link-usa"
+    "id": "microsoft-principal-software-engineer-azure-blob-storage-redmond"
+  },
+  {
+    "job_title": "Software Engineer 1 - Cybersecurity Identity",
+    "employer_name": "Humana",
+    "job_city": "California",
+    "job_state": "Locations",
+    "job_description": "Join Humana in this exciting opportunity.",
+    "job_apply_link": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/XIAM-Software-Engineer_R-388461",
+    "job_posted_at_datetime_utc": "2025-10-11T00:09:56.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "humana-software-engineer-1-cybersecurity-identity-california"
   }
 ]

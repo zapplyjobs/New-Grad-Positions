@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "job_title": "Software Engineer, Link",
+    "employer_name": "Stripe",
+    "job_city": "USA",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7316296",
+    "job_posted_at_datetime_utc": "2025-10-10T23:22:37.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-software-engineer-link-usa"
+  }
+]

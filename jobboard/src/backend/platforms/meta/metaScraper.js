@@ -17,7 +17,7 @@ async function scrapeMetaJobs(specificJobTitle = null) {
     });
 
     const page = await browser.newPage();
-    const maxPages = 10;
+    const maxPages = 2; // Reduced to 2 pages for frequent 10-minute runs
     let allJobs = [];
 
     // Build base URL based on whether specific job title is provided

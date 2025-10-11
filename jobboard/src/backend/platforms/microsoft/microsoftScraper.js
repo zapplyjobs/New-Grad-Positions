@@ -5,7 +5,7 @@ const path = require('path');
 // Configuration
 const BASE_URL = "https://jobs.careers.microsoft.com/global/en/search";
 const DEFAULT_SEARCH_PARAMS = "q=software%20engineering&lc=United%20States&exp=Students%20and%20graduates&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true&ulcs=false&ref=cms";
-const MAX_PAGES = 4; // Reduced for testing
+const MAX_PAGES = 1; // Reduced to 1 page for frequent 10-minute runs
 const CONCURRENT_PAGES = 3; // Reduced for stability
 
 const DELAYS = {

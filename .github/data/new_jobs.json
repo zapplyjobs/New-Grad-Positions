@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer 1 - Remote Assist",
-    "employer_name": "Aurora Innovation",
-    "job_city": "Mountain View",
+    "job_title": "Senior Machine Learning Engineer, Relevance and Personalization",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
     "job_state": "CA",
-    "job_description": "Join Aurora Innovation in this exciting opportunity.",
-    "job_apply_link": "https://aurora.tech/jobs/8191750002?gh_jid=8191750002",
-    "job_posted_at_datetime_utc": "2025-10-13T19:53:22.000Z",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7258033?gh_jid=7258033",
+    "job_posted_at_datetime_utc": "2025-10-13T20:15:52.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "aurora-innovation-software-engineer-1-remote-assist-mountain-view"
-  },
-  {
-    "job_title": "Software Engineer 1 - Remote Assist",
-    "employer_name": "Aurora Innovation",
-    "job_city": "Pittsburgh",
-    "job_state": "PA",
-    "job_description": "Join Aurora Innovation in this exciting opportunity.",
-    "job_apply_link": "https://aurora.tech/jobs/8209480002?gh_jid=8209480002",
-    "job_posted_at_datetime_utc": "2025-10-13T19:53:19.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "aurora-innovation-software-engineer-1-remote-assist-pittsburgh"
+    "id": "airbnb-senior-machine-learning-engineer-relevance-and-personalization-united-states"
   }
 ]

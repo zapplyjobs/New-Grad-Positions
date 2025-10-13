@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Senior Network Systems Engineer",
+    "job_title": "Senior Software Engineer, Agent Services (Core AI)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892784",
-    "job_posted_at_datetime_utc": "2025-10-13T21:14:32.961Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890327",
+    "job_posted_at_datetime_utc": "2025-10-13T21:27:31.538Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-network-systems-engineer-redmond"
-  },
-  {
-    "job_title": "Software Engineer - M365",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896493",
-    "job_posted_at_datetime_utc": "2025-10-13T21:14:32.961Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-m365-redmond"
+    "id": "microsoft-senior-software-engineer-agent-services-core-ai-redmond"
   }
 ]

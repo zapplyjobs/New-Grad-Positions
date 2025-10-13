@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Global Product Solutions Lead",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Global Product Solutions Lead, Next Gen Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/87705340832817862-global-product-solutions-lead-next-gen-search?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=5",
-    "id": "google-global-product-solutions-lead-san-francisco"
+    "job_title": "Databricks Enterprise Lead Security Architect -   Principal IT Software Engineer",
+    "employer_name": "Databricks",
+    "job_city": "Mountain View",
+    "job_state": "California; San Francisco",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8207910002",
+    "job_posted_at_datetime_utc": "2025-10-13T19:01:03.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-databricks-enterprise-lead-security-architect-principal-it-software-engineer-mountain-view"
   }
 ]

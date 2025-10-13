@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Senior iOS Tooling Engineer",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8202599002?gh_jid=8202599002",
-    "job_posted_at_datetime_utc": "2025-10-13T20:42:30.000Z",
+    "job_title": "Principal Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892545",
+    "job_posted_at_datetime_utc": "2025-10-13T21:01:58.084Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-senior-ios-tooling-engineer-san-francisco"
+    "id": "microsoft-principal-engineer-redmond"
+  },
+  {
+    "job_title": "Machine Learning Engineer Intern",
+    "employer_name": "Coinbase",
+    "job_city": "Hybrid - San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7294075?gh_jid=7294075",
+    "job_posted_at_datetime_utc": "2025-10-13T20:55:46.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-machine-learning-engineer-intern-hybrid-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer Intern",
+    "employer_name": "Coinbase",
+    "job_city": "Hybrid - New York",
+    "job_state": "NY; Hybrid - San Francisco",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895",
+    "job_posted_at_datetime_utc": "2025-10-13T20:52:10.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-software-engineer-intern-hybrid-new-york"
   }
 ]

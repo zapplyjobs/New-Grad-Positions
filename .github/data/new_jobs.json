@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Sr. Delivery Solutions Engineer - Digital Native Business",
-    "employer_name": "Databricks",
-    "job_city": "United States",
+    "job_title": "Software Engineer 1 - Remote Assist",
+    "employer_name": "Aurora Innovation",
+    "job_city": "Mountain View",
     "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8158616002",
-    "job_posted_at_datetime_utc": "2025-10-13T19:51:39.000Z",
+    "job_description": "Join Aurora Innovation in this exciting opportunity.",
+    "job_apply_link": "https://aurora.tech/jobs/8191750002?gh_jid=8191750002",
+    "job_posted_at_datetime_utc": "2025-10-13T19:53:22.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-delivery-solutions-engineer-digital-native-business-united-states"
+    "id": "aurora-innovation-software-engineer-1-remote-assist-mountain-view"
+  },
+  {
+    "job_title": "Software Engineer 1 - Remote Assist",
+    "employer_name": "Aurora Innovation",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_description": "Join Aurora Innovation in this exciting opportunity.",
+    "job_apply_link": "https://aurora.tech/jobs/8209480002?gh_jid=8209480002",
+    "job_posted_at_datetime_utc": "2025-10-13T19:53:19.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "aurora-innovation-software-engineer-1-remote-assist-pittsburgh"
   }
 ]

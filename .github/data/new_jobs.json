@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Associate Software Engineer - Clinical Systems (External Apps)",
+    "job_title": "Associate Software Engineer - Clinical Systems (Lab Ops)",
     "employer_name": "Caris",
     "job_city": "Irving",
     "job_state": "TX",
     "job_description": "Join Caris in this exciting opportunity.",
-    "job_apply_link": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--External-Apps-_JR104015",
-    "job_posted_at_datetime_utc": "2025-10-13T14:41:02.000Z",
+    "job_apply_link": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Lab-Ops-_JR104012-1",
+    "job_posted_at_datetime_utc": "2025-10-13T14:51:15.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "caris-associate-software-engineer-clinical-systems-external-apps-irving"
-  },
-  {
-    "job_title": "Associate Software QA Engineer",
-    "employer_name": "Insulet Corporation",
-    "job_city": "Acton",
-    "job_state": "MA",
-    "job_description": "Join Insulet Corporation in this exciting opportunity.",
-    "job_apply_link": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Associate-Software-QA-Engineer--Hybrid---Acton--MA-_REQ-2025-13185",
-    "job_posted_at_datetime_utc": "2025-10-13T14:33:29.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "insulet-corporation-associate-software-qa-engineer-acton"
+    "id": "caris-associate-software-engineer-clinical-systems-lab-ops-irving"
   }
 ]

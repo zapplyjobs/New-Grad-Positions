@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Associate Software Engineer - Clinical Systems (Lab Ops)",
+    "job_title": "Product Engineer",
+    "employer_name": "Appain",
+    "job_city": "McLean",
+    "job_state": "VA",
+    "job_description": "Join Appain in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/appian/jobs/7287884",
+    "job_posted_at_datetime_utc": "2025-10-13T15:08:26.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "appain-product-engineer-mclean"
+  },
+  {
+    "job_title": "Entry-level Software Engineer",
+    "employer_name": "QuinStreet",
+    "job_city": "Foster City",
+    "job_state": "CA",
+    "job_description": "Join QuinStreet in this exciting opportunity.",
+    "job_apply_link": "https://www.quinstreet.com/careers/?gh_jid=7316288",
+    "job_posted_at_datetime_utc": "2025-10-13T15:05:07.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "quinstreet-entry-level-software-engineer-foster-city"
+  },
+  {
+    "job_title": "Associate Software Engineer - Clinical Systems (Digital Path)",
     "employer_name": "Caris",
     "job_city": "Irving",
     "job_state": "TX",
     "job_description": "Join Caris in this exciting opportunity.",
-    "job_apply_link": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Lab-Ops-_JR104012-1",
-    "job_posted_at_datetime_utc": "2025-10-13T14:51:15.000Z",
+    "job_apply_link": "https://carislifesciences.wd12.myworkdayjobs.com/en-US/cls/job/Irving-TX--75063/Associate-Software-Engineer---Clinical-Systems--Digital-Path-_JR104014",
+    "job_posted_at_datetime_utc": "2025-10-13T14:57:17.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "caris-associate-software-engineer-clinical-systems-lab-ops-irving"
+    "id": "caris-associate-software-engineer-clinical-systems-digital-path-irving"
   }
 ]

@@ -1,35 +1,45 @@
 [
   {
-    "job_title": "Software Engineer II - One Drive/SharePoint",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893276",
-    "job_posted_at_datetime_utc": "2025-10-13T22:28:58.794Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-one-drive-sharepoint-redmond"
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager I",
+    "job_city": "San Bruno",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: Technical Program Manager I, Data Operations, YouTube",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/121314731234337478-technical-program-manager-i-data-operations-youtube?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
+    "id": "google-technical-program-manager-i-san-bruno"
   },
   {
-    "job_title": "Principal Hardware Quality Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1891704",
-    "job_posted_at_datetime_utc": "2025-10-13T22:28:58.794Z",
+    "job_title": "CX Analytics Engineer",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7323546?gh_jid=7323546",
+    "job_posted_at_datetime_utc": "2025-10-13T22:42:52.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-hardware-quality-engineer-redmond"
+    "id": "coinbase-cx-analytics-engineer-remote-usa"
   },
   {
-    "job_title": "Android Tooling Engineer",
+    "job_title": "Senior Android Tooling Engineer",
     "employer_name": "Lyft",
     "job_city": "San Francisco",
     "job_state": "CA",
     "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8210177002?gh_jid=8210177002",
-    "job_posted_at_datetime_utc": "2025-10-13T22:28:22.000Z",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8210183002?gh_jid=8210183002",
+    "job_posted_at_datetime_utc": "2025-10-13T22:31:34.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-android-tooling-engineer-san-francisco"
+    "id": "lyft-senior-android-tooling-engineer-san-francisco"
+  },
+  {
+    "job_title": "Security Engineer 6, Workforce and Infrastructure Security",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312489056",
+    "job_posted_at_datetime_utc": "2025-10-13T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-security-engineer-6-workforce-and-infrastructure-security-usa-remote"
   }
 ]

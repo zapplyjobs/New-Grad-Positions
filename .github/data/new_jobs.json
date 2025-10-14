@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Sr. Manager, Engineering - Search",
+    "employer_name": "Databricks",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002",
+    "job_posted_at_datetime_utc": "2025-10-14T21:22:58.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-manager-engineering-search-mountain-view"
+  },
+  {
+    "job_title": "Sr. Staff Software Engineer, Search",
+    "employer_name": "Databricks",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7987301002",
+    "job_posted_at_datetime_utc": "2025-10-14T21:17:29.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-staff-software-engineer-search-san-francisco"
+  }
+]

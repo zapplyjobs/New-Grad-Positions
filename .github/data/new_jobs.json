@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Chief of Staff - Security Engineering and Product",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896577",
-    "job_posted_at_datetime_utc": "2025-10-14T18:01:54.254Z",
+    "job_title": "Engineering Manager, Host Pricing - Product UI Foundations",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7277976?gh_jid=7277976",
+    "job_posted_at_datetime_utc": "2025-10-14T18:16:58.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-chief-of-staff-security-engineering-and-product-redmond"
+    "id": "airbnb-engineering-manager-host-pricing-product-ui-foundations-united-states"
+  },
+  {
+    "job_title": "Software Developer",
+    "employer_name": "IBM",
+    "job_city": "Lowell",
+    "job_state": "MA",
+    "job_description": "Join IBM in this exciting opportunity.",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58552",
+    "job_posted_at_datetime_utc": "2025-10-14T18:09:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "ibm-software-developer-lowell"
   }
 ]

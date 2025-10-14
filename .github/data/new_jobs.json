@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Global Strategy and Operations Senior Associate",
-    "job_city": "San Bruno",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: Global Strategy and Operations Senior Associate, YouTube",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/72660293733229254-global-strategy-and-operations-senior-associate-youtube?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=9",
-    "id": "google-global-strategy-and-operations-senior-associate-san-bruno"
+    "job_title": "Software Engineer/Senior Software Engineer - Microsoft Ireland",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1895167",
+    "job_posted_at_datetime_utc": "2025-10-14T08:32:43.706Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-senior-software-engineer-microsoft-ireland-redmond"
   }
 ]

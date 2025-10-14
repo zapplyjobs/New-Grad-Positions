@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "job_title": "Java Software Engineer I",
+    "employer_name": "Esri",
+    "job_city": "West Redlands",
+    "job_state": "Redlands",
+    "job_description": "Join Esri in this exciting opportunity.",
+    "job_apply_link": "https://www.esri.com/careers/4728895007?gh_jid=4728895007",
+    "job_posted_at_datetime_utc": "2025-10-14T20:22:04.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "esri-java-software-engineer-i-west-redlands"
+  }
+]

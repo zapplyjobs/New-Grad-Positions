@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "2025 Fulltime Raytheon Software Engineer I - Test Equipment - Onsite",
-    "employer_name": "RTX",
-    "job_city": "Tucson",
-    "job_state": "AZ",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2025-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01799429",
-    "job_posted_at_datetime_utc": "2025-10-14T21:24:14.000Z",
+    "job_title": "Senior Firmware Development Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892845",
+    "job_posted_at_datetime_utc": "2025-10-14T21:47:24.651Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-2025-fulltime-raytheon-software-engineer-i-test-equipment-onsite-tucson"
-  },
-  {
-    "job_title": "Deep Learning Software Engineer – New College Grad 2025 - Inference and Model Optimization",
-    "employer_name": "NVIDIA",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_description": "Join NVIDIA in this exciting opportunity.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--Inference-and-Model-Optimization---New-College-Grad-2025_JR2004584",
-    "job_posted_at_datetime_utc": "2025-10-14T21:21:28.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "nvidia-deep-learning-software-engineer-new-college-grad-2025-inference-and-model-optimization-santa-clara"
+    "id": "microsoft-senior-firmware-development-engineer-redmond"
   }
 ]

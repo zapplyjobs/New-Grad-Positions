@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Senior Software Engineer – Backend Platform & Commerce Services",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890772",
-    "job_posted_at_datetime_utc": "2025-10-14T22:16:53.474Z",
+    "job_title": "Staff Software Engineer, Model Serving ",
+    "employer_name": "Databricks",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211647002",
+    "job_posted_at_datetime_utc": "2025-10-14T22:21:14.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-backend-platform-commerce-services-redmond"
+    "id": "databricks-staff-software-engineer-model-serving-san-francisco"
   },
   {
-    "job_title": "Senior Software Engineer – Frontend Platform & Commerce Services",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890788",
-    "job_posted_at_datetime_utc": "2025-10-14T22:16:53.474Z",
+    "job_title": "Senior Software Engineer, Model Serving",
+    "employer_name": "Databricks",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211648002",
+    "job_posted_at_datetime_utc": "2025-10-14T22:21:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-frontend-platform-commerce-services-redmond"
+    "id": "databricks-senior-software-engineer-model-serving-san-francisco"
   }
 ]

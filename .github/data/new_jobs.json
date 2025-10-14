@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Senior Software Engineer – Backend Platform & Commerce Services",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890772",
+    "job_posted_at_datetime_utc": "2025-10-14T22:16:53.474Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-backend-platform-commerce-services-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer – Frontend Platform & Commerce Services",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890788",
+    "job_posted_at_datetime_utc": "2025-10-14T22:16:53.474Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-frontend-platform-commerce-services-redmond"
+  }
+]

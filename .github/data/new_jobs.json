@@ -1,13 +1,13 @@
 [
   {
-    "job_title": "Software Engineer - Azure Messaging -CTJ - TS/SCI",
-    "employer_name": "Microsoft",
+    "job_title": "Software Dev Engineer (SDE), Project Kuiper",
+    "employer_name": "Amazon",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893435",
-    "job_posted_at_datetime_utc": "2025-10-15T23:14:38.200Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-azure-messaging-ctj-ts-sci-redmond"
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3109793/software-dev-engineer-sde-project-kuiper",
+    "job_posted_at": "2025-10-15T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-15T00:00:00.000Z",
+    "id": "amazon-software-dev-engineer-sde-project-kuiper-redmond"
   }
 ]

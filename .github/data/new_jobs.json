@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Engineer I - Remote Assist",
+    "employer_name": "Aurora Innovation",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_description": "Join Aurora Innovation in this exciting opportunity.",
+    "job_apply_link": "https://aurora.tech/careers/8209480002?gh_jid=8209480002",
+    "job_posted_at_datetime_utc": "2025-10-15T02:25:26.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "aurora-innovation-software-engineer-i-remote-assist-pittsburgh"
+  },
+  {
+    "job_title": "Software Engineer I - Remote Assist",
+    "employer_name": "Aurora Innovation",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_description": "Join Aurora Innovation in this exciting opportunity.",
+    "job_apply_link": "https://aurora.tech/careers/8191750002?gh_jid=8191750002",
+    "job_posted_at_datetime_utc": "2025-10-15T02:22:31.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "aurora-innovation-software-engineer-i-remote-assist-mountain-view"
+  }
+]

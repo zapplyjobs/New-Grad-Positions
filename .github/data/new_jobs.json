@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Software Engineer – New College Grad - 2026 - Austin - TX",
+    "employer_name": "Visa",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Join Visa in this exciting opportunity.",
+    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000087969305",
+    "job_posted_at_datetime_utc": "2025-10-15T09:37:02.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "visa-software-engineer-new-college-grad-2026-austin-tx-austin"
+  },
+  {
+    "job_title": "Software Engineer – New College Grad - 2026 - Foster City",
+    "employer_name": "Visa",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_description": "Join Visa in this exciting opportunity.",
+    "job_apply_link": "https://jobs.smartrecruiters.com/Visa/744000087984042",
+    "job_posted_at_datetime_utc": "2025-10-15T09:36:24.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "visa-software-engineer-new-college-grad-2026-foster-city-san-mateo"
+  },
+  {
+    "job_title": "Entry Level Infrastructure Software Engineer",
+    "employer_name": "General Dynamics Mission Systems",
+    "job_city": "Pittsfield",
+    "job_state": "MA",
+    "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+    "job_apply_link": "https://careers-gdms.icims.com/jobs/68517/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2025-10-15T09:30:36.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "general-dynamics-mission-systems-entry-level-infrastructure-software-engineer-pittsfield"
+  }
+]

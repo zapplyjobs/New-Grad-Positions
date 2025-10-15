@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Engineer – New Grads: Fall 2025/Spring 2026",
+    "employer_name": "Divergent Technologies",
+    "job_city": "Carson",
+    "job_state": "CA",
+    "job_description": "Join Divergent Technologies in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/divergent/jobs/4954950008",
+    "job_posted_at_datetime_utc": "2025-10-15T21:20:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "divergent-technologies-software-engineer-new-grads-fall-2025-spring-2026-carson"
+  },
+  {
+    "job_title": "Senior Software Engineer (L5), Open Connect Edge Accelerator",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304848969",
+    "job_posted_at_datetime_utc": "2025-10-15T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-senior-software-engineer-l5-open-connect-edge-accelerator-usa-remote"
+  }
+]

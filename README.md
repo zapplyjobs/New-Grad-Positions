@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 49+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 474+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 49+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 477+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -20,12 +20,12 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 474
+- **🔥 Current Positions**: 477
 - **🏢 Companies**: 49 elite tech companies
-- **⭐ FAANG+ Jobs**: 278 premium opportunities
+- **⭐ FAANG+ Jobs**: 281 premium opportunities
 - **📅 Last Updated**: October 15, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 879 (older than 1 week)
+- **📁 Archived Jobs**: 878 (older than 1 week)
 
 
 
@@ -67,13 +67,12 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (278 positions)
+### 🏢 **FAANG+** (281 positions)
 
-#### 📦 **Amazon** (19 positions)
+#### 📦 **Amazon** (20 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Development Engineer, Kuiper Ground Systems Engineering | Redmond, WA | 12h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3105389/software-development-engineer-kuiper-ground-systems-engineering) |
 | Software Dev Engineer, Project Kuiper | Redmond, WA | 12h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3081262/software-dev-engineer-project-kuiper) |
 | Software Engineer - Digital Twin, Project Kuiper | Redmond, WA | 12h ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3097445/software-engineer-digital-twin-project-kuiper) |
 | Software Development Engineer, EFS File Systems | Boston, MA | 14h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3108910/software-development-engineer-efs-file-systems) |
@@ -81,6 +80,7 @@
 | Software Dev Eng (Embedded System) | Los Gatos, CA | 23h ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2871323/software-dev-eng-embedded-system) |
 | SDE II, Android, eero Core Engineering | San Francisco, CA | 1d ago | Mid-Level | Mobile Development | [Apply](https://amazon.jobs/en-gb/jobs/3039844/sde-ii-android-eero-core-engineering) |
 | Software Development Engineer, Special Projects | New York, NY | 1d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3055973/software-development-engineer-special-projects) |
+| Software Development Engineer, Kuiper Ground Systems Engineering | Redmond, WA | 2d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2972165/software-development-engineer-kuiper-ground-systems-engineering) |
 | Software Dev Engineer, Prime Video Ads | Arlington, VA | 2d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3103244/software-dev-engineer-prime-video-ads) |
 | Software Engineer | Cambridge, MA | 3d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3061877/software-engineer) |
 | Software Development Engineer, Global Services Security Engineering | Arlington, VA | 5d ago | Mid-Level | Security Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3106424/software-development-engineer-global-services-security-engineering) |
@@ -89,11 +89,12 @@
 | Software Development Engineer, Amazon MSK | Seattle, WA | 5d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3106069/software-development-engineer-amazon-msk) |
 | Software Dev Engineer II - TEST - AMZ25394.1 | San Francisco, CA | 5d ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3077169/software-dev-engineer-ii-test-amz25394-1) |
 | Software Development Engineer, GNC Software, Project Kuiper | Redmond, WA | 6d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3105445/software-development-engineer-gnc-software-project-kuiper) |
+| Software Engineer II | Irvine, CA | 6d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3104730/software-engineer-ii) |
 | Software Development Engineer, AWS | Arlington, VA | 6d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3091146/software-development-engineer-aws) |
 | Software Design Engineer, Amazon Device OS | Sunnyvale, CA | 6d ago | Mid-Level | Design | [Apply](https://amazon.jobs/en-gb/jobs/3105251/software-design-engineer-amazon-device-os) |
 | Security Engineer 1 - Corporate Services Security | Arlington, VA | 4d ago | Mid-Level | Security Engineering | [Apply](https://amazon.jobs/en/jobs/3099188/security-engineer-i-corporate-services-security) |
 
-#### 🟦 **Microsoft** (29 positions)
+#### 🟦 **Microsoft** (30 positions)
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -117,18 +118,19 @@
 | Software Engineer: Applied AI/ML Intern Opportunities for University Students | Mountain View, California | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1877249/Software-Engineer%3A-Applied-AI%2FML-Intern-Opportunities-for-University-Students%2C-Mountain-View) |
 | Software Engineer: Security Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861017/Software-Engineer%3A-Security-Intern-Opportunities-for-University-Students%2C-Redmond) |
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1853843/Software-Engineer-II-%E2%80%93-AI-Platform-Development-(Azure-PostgreSQL)) |
+| AI Engineer II | Redmond, WA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1875034) |
+| Site Reliability Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1893325) |
+| Critical Environment Electrical Engineer | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1887007) |
 | AI/ML Engineer | Redmond, WA | 0h ago | Mid-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1891876) |
 | Senior Software Engineer - Azure Storage | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1845900) |
-| Software Engineering IC3 | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1897473) |
 | Sr. Technical Support Engineer (SCIM Compliance) | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1852766) |
 | Senior Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1848857) |
 | Software Engineer/Senior Software Engineer - Microsoft Ireland | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1895167) |
 | Principal Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1894437) |
 | Software Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1896302) |
-| Technology Consulting (Network Engineering) | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1891802) |
 
 <details>
-<summary><h4>🟢 <strong>Google</strong> (225 positions)</h4></summary>
+<summary><h4>🟢 <strong>Google</strong> (226 positions)</h4></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -146,6 +148,7 @@
 | Mixed Methods UX Researcher | Mountain View, CA | Recently | Mid-Level | Machine Learning & AI | [Apply](https://www.google.com/about/careers/applications/jobs/results/96832891513643718-mixed-methods-ux-researcher-ai-innovation-and-research?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States) |
 | Product Planning and Strategy Lead | Mountain View, CA | Recently | Senior | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/138215253597921990-product-planning-and-strategy-lead-pixel-buds?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States) |
 | Software Engineer III | Sunnyvale, CA | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/106212715688534726-software-engineer-iii-aiml-gpu-inference-optimization?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States) |
+| Senior Software Engineer | San Francisco, CA | Recently | Senior | Full Stack Development | [Apply](https://www.google.com/about/careers/applications/jobs/results/85294073178399430-senior-software-engineer-full-stack-google-maps?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States) |
 | Software Engineer III | Mountain View, CA | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/131660527913837254-software-engineer-iii-aiml-youtube-ads-quality?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States) |
 | Software Engineer | Mountain View, CA | Recently | Entry-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/79125737784648390-software-engineer-early-career-campus?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States) |
 | Application Engineer | Sunnyvale, CA | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/100510768645972678-application-engineer-supply-chain-systems?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States) |
@@ -163,7 +166,7 @@
 | Program Manager | Texas, USA | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/100133704877122246-program-manager-data-center-construction?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2) |
 | Regional Program Manager | Midlothian, TX | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/126803641456566982-regional-program-manager-project-controls-and-cost?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2) |
 | Senior Software Engineer | Chicago, IL | Recently | Senior | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/128707497379668678-senior-software-engineer-search-data-governance?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2) |
-| Technical Program Manager III | New York, NY | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/72061180155175622-technical-program-manager-iii-technical-risk-management-core?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2) |
+| Technical Program Manager III | New York, NY | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/72061180155175622-technical-program-manager-iii-technical-risk-management-core?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=3) |
 | Technical Program Manager III | Sunnyvale, CA | Recently | Mid-Level | DevOps & Infrastructure | [Apply](https://www.google.com/about/careers/applications/jobs/results/79465937849197254-technical-program-manager-iii-manufacturing-test-npi-cloud-supply-chain?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=3) |
 | Motion Designer | Mountain View, CA | Recently | Mid-Level | Design | [Apply](https://www.google.com/about/careers/applications/jobs/results/89485879654916806-motion-designer-google-home?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=3) |
 | Technical Program Manager II | Mountain View, CA | Recently | Mid-Level | DevOps & Infrastructure | [Apply](https://www.google.com/about/careers/applications/jobs/results/103326560479519430-technical-program-manager-ii-infrastructure-engineering-google-ads?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=3) |
@@ -206,7 +209,7 @@
 | Senior Software Engineer | Kirkland, WA | Recently | Senior | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/85938796087911110-senior-software-engineer-bigquery-core-runtime-and-capacitor?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=6) |
 | Regional Program Manager | Reno, NV | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/136758619734450886-regional-program-manager-project-controls-and-cost?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=6) |
 | Data Scientist | San Bruno, CA | Recently | Mid-Level | Data Science & Analytics | [Apply](https://www.google.com/about/careers/applications/jobs/results/77510516548739782-data-scientist-youtube-music-and-premium?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=6) |
-| Senior Data Scientist | Mountain View, CA | Recently | Senior | Data Science & Analytics | [Apply](https://www.google.com/about/careers/applications/jobs/results/113623461640708806-senior-data-scientist-product-search-verticals-and-translate?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=6) |
+| Senior Data Scientist | Mountain View, CA | Recently | Senior | Data Science & Analytics | [Apply](https://www.google.com/about/careers/applications/jobs/results/113623461640708806-senior-data-scientist-product-search-verticals-and-translate?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7) |
 | Optics and Display Test Engineer | Mountain View, CA | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/93182955291058886-optics-and-display-test-engineer-consumer-hardware?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7) |
 | Senior Site Reliability Engineer | San Francisco, CA | Recently | Senior | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/90608309228184262-senior-site-reliability-engineer-networking?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7) |
 | Technical Program Manager | Redmond, WA | Recently | Mid-Level | DevOps & Infrastructure | [Apply](https://www.google.com/about/careers/applications/jobs/results/96890488098824902-technical-program-manager-infrastructure-modernization?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7) |
@@ -214,7 +217,7 @@
 | Program Manager | Mountain View, CA | Recently | Mid-Level | Security Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/137024881936999110-program-manager-security-and-medical-operations?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7) |
 | Software Engineer III | Kirkland, WA | Recently | Mid-Level | DevOps & Infrastructure | [Apply](https://www.google.com/about/careers/applications/jobs/results/127575015435444934-software-engineer-iii-google-cloud-platforms?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7) |
 | Technical Program Manager II | San Francisco, CA | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/124925619761750726-technical-program-manager-ii-learning-and-sustainability-sustainability-metrics-accounting?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7) |
-| Interaction Designer | Mountain View, CA | Recently | Mid-Level | Design | [Apply](https://www.google.com/about/careers/applications/jobs/results/112288294284206790-interaction-designer-google-ads?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=7) |
+| Interaction Designer | Mountain View, CA | Recently | Mid-Level | Design | [Apply](https://www.google.com/about/careers/applications/jobs/results/112288294284206790-interaction-designer-google-ads?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8) |
 | Software Engineer III | San Bruno, CA | Recently | Mid-Level | DevOps & Infrastructure | [Apply](https://www.google.com/about/careers/applications/jobs/results/78330227431744198-software-engineer-iii-infrastructure-youtube?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8) |
 | Program Manager | Red Oak, TX | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/134225946239476422-program-manager-compliance-strategy-and-risk-management?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8) |
 | Interaction Designer | San Jose, CA | Recently | Mid-Level | Design | [Apply](https://www.google.com/about/careers/applications/jobs/results/128507781400404678-interaction-designer-google-tv-ai?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8) |
@@ -381,8 +384,8 @@
 | Sr. Staff Software Engineer, Search | San Francisco, California | 17h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987301002) |
 | Sr Software Engineer-Networking | Mountain View, California | 19h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002) |
 | Sr Software Engineer-Networking | Bellevue, Washington | 19h ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002) |
-| Staff Technical Writer, Data Engineering | San Francisco, California | 23h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8018982002) |
-| Staff Technical Writer, Data Engineering | Seattle, Washington | 23h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8021064002) |
+| Staff Technical Writer, Data Engineering | San Francisco, California | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8018982002) |
+| Staff Technical Writer, Data Engineering | Seattle, Washington | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8021064002) |
 | Physical Security Engineer | Mountain View, California; San Francisco | 1d ago | Mid-Level | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7993207002) |
 | Databricks Enterprise Lead Security Architect -   Principal IT Software Engineer | Mountain View, California; San Francisco | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8207910002) |
 | Sr. Delivery Solutions Engineer - Digital Native Business | United States, CA | 1d ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8158616002) |
@@ -407,7 +410,7 @@
 | 🎮 **NVIDIA** | Applied Machine Learning Engineer – New College Grad 2025 - Circuit Design | Santa Clara, CA | 5d ago | Entry-Level | Frontend Development | [Apply](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2025_JR2005860) |
 | 🎮 **NVIDIA** | CAD Engineer, Physical Design | Santa Clara, CA | 6d ago | Mid-Level | Design | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/CAD-Engineer--Physical-Design---New-College-Grad-2026_JR2005254) |
 | 🎨 **ADOBE** | AI Context Engineer | San Jose, CA | 2d ago | Mid-Level | Machine Learning & AI | [Apply](https://careers.adobe.com/us/en/job/ADOBUSR158639EXTERNALENUS/2026-University-Graduate-AI-Context-Engineer) |
-| 🔵 **IBM** | Software Developer | Lowell, MA | 20h ago | Mid-Level | Software Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58552) |
+| 🔵 **IBM** | Software Developer | Lowell, MA | 21h ago | Mid-Level | Software Engineering | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58552) |
 | 📱 **Qualcomm** | Lead CPU Performance Analysis Engineer | San Diego, California | 0h ago | Senior | Software Engineering | [Apply](https://careers.qualcomm.com/careers/job/446703230926) |
 | 📱 **Qualcomm** | Staff Engineer, Solutions Engineering | Austin, Texas | 0h ago | Senior | Software Engineering | [Apply](https://careers.qualcomm.com/careers/job/446714975338) |
 | 🏢 **Esri** | Java Software Engineer I | West Redlands, Redlands | 18h ago | Mid-Level | Software Engineering | [Apply](https://www.esri.com/careers/4728895007?gh_jid=4728895007) |
@@ -488,7 +491,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Engineering Manager, Host Pricing - Product UI Foundations | United States, CA | 20h ago | Mid-Level | Frontend Development | [Apply](https://careers.airbnb.com/positions/7277976?gh_jid=7277976) |
+| Engineering Manager, Host Pricing - Product UI Foundations | United States, CA | 21h ago | Mid-Level | Frontend Development | [Apply](https://careers.airbnb.com/positions/7277976?gh_jid=7277976) |
 | Senior Staff Machine Learning Engineer, Relevance and Personalization | United States, CA | 1d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/6237467?gh_jid=6237467) |
 | Senior Machine Learning Engineer, Relevance and Personalization | United States, CA | 1d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/7258033?gh_jid=7258033) |
 | Staff Machine Learning Engineer, AI Translation  | United States, CA | 1d ago | Senior | Machine Learning & AI | [Apply](https://careers.airbnb.com/positions/6838683?gh_jid=6838683) |
@@ -558,8 +561,8 @@
 
 | Company | Role | Location | Posted | Level | Category | Apply |
 |---------|------|----------|--------|-------|----------|-------|
-| 💳 **Stripe** | Engineering Manager, Product and Business | Canada, CA | 16h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6615981) |
-| 💳 **Stripe** | Engineering Manager, Data Infrastructure  | N/A, CA | 17h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7301866) |
+| 💳 **Stripe** | Engineering Manager, Product and Business | Canada, CA | 17h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6615981) |
+| 💳 **Stripe** | Engineering Manager, Data Infrastructure  | N/A, CA | 18h ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7301866) |
 | 💳 **Stripe** | Full Stack Engineer, Managed Operations | Seattle, New York City  | 1d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7271571) |
 | 💳 **Stripe** | Staff Security Engineer, Security Partnerships | Remote 🏠 | 2d ago | Senior | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=6892149) |
 | 💳 **Stripe** | Software Engineer, Link | USA, CA | 4d ago | Entry-Level | Frontend Development | [Apply](https://stripe.com/jobs/search?gh_jid=7316296) |
@@ -614,25 +617,25 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 73 | 15% | No or minimal experience |
-| 🟡 Beginner & Early Career | 239 | 50% | 1-2 years of experience |
-| 🔴 Manager         | 162 | 34% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 241 | 51% | 1-2 years of experience |
+| 🔴 Manager         | 163 | 34% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
 - **Mountain View, CA**: 47 positions
 - **New York, NY**: 32 positions
-- **San Francisco, CA**: 29 positions
+- **San Francisco, CA**: 30 positions
 - **Sunnyvale, CA**: 24 positions
 - **Remote - USA, CA**: 22 positions
 - **San Francisco Bay Area, CA**: 21 positions
 - **United States, CA**: 17 positions
-- **Seattle, WA**: 15 positions
+- **Redmond, WA**: 15 positions
 
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (216 positions)
+#### 💻 Software Engineering (217 positions)
 📱 Qualcomm • 📦 Amazon
 
 #### 🎨 Frontend Development (75 positions)
@@ -641,11 +644,11 @@
 #### ☁️ DevOps & Infrastructure (56 positions)
 🟦 Microsoft
 
+#### 🧠 Machine Learning & AI (35 positions)
+🟦 Microsoft
+
 #### 📊 Data Science & Analytics (35 positions)
 🟢 Google
-
-#### 🧠 Machine Learning & AI (34 positions)
-🟦 Microsoft
 
 #### 🛡️ Security Engineering (18 positions)
 📦 Amazon • 🟦 Microsoft
@@ -656,7 +659,7 @@
 #### 🎨 Design (15 positions)
 📦 Amazon • 🟢 Google
 
-#### 🌐 Full Stack Development (5 positions)
+#### 🌐 Full Stack Development (6 positions)
 🟦 Microsoft
 
 #### 📋 Product Management (2 positions)
@@ -669,7 +672,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 474+ verified roles for Software Engineering roles from 49 elite tech companies.
+- ✅ **100% Real Jobs**: 477+ verified roles for Software Engineering roles from 49 elite tech companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -743,17 +746,17 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 879 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 878 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 879 positions
+- **📁 Total Jobs**: 878 positions
 - **🏢 Companies**: 49 companies
-- **⭐ FAANG+ Jobs & Internships**: 107 positions
+- **⭐ FAANG+ Jobs & Internships**: 106 positions
 
-### 🏢 **FAANG+** (119 positions)
+### 🏢 **FAANG+** (118 positions)
 
 <details>
-<summary><h4>📦 <strong>Amazon</strong> (93 positions)</h4></summary>
+<summary><h4>📦 <strong>Amazon</strong> (92 positions)</h4></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -785,8 +788,6 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | Software Development Engineer, Integrated Vehicle Testing | Redmond, WA | 2w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2921700/software-development-engineer-integrated-vehicle-testing) |
 | Software Dev Engineer II - AMZ9442131 | Portland, OR | 2w ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3091223/software-dev-engineer-ii-amz9442131) |
 | Software Engineer | Seattle, WA | 3w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3092174/software-engineer) |
-| Software Engineer II | Irvine, CA | 3w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3090680/software-engineer-ii) |
-| Software Development Engineer, Amazon Stores | Bellevue, WA | 3w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2880820/software-development-engineer-amazon-stores) |
 | Software Development Engineer (ML), AGI Foundations | Bellevue, WA | 3w ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3086502/software-development-engineer-ml-agi-foundations) |
 | Software Dev Engineer III - AMZ9082636 | Arlington, VA | 3w ago | Senior | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3048017/software-dev-engineer-iii-amz9082636) |
 | Senior Software Development Engineer, Android Apps | Cambridge, MA | 3w ago | Senior | Mobile Development | [Apply](https://amazon.jobs/en-gb/jobs/3091227/senior-software-development-engineer-android-apps) |
@@ -804,13 +805,13 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | EFA Network Software Engineer, EFA Software Team | Seattle, WA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3071351/efa-network-software-engineer-efa-software-team) |
 | Software Development Engineer | Austin, TX | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2843996/software-development-engineer) |
 | Software Development Engineer, Kuiper | Bellevue, WA | 1mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2949421/software-development-engineer-kuiper) |
-| Front-End Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | 1mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3071620/front-end-engineer-kuiper-manufacturing-systems-engineering) |
 | Software Development Engineer, Amazon Connect | New York, NY | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2907738/software-development-engineer-amazon-connect) |
 | Software Development Engineer, Amazon Stores | Arlington, VA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3073790/software-development-engineer-amazon-stores) |
 | Software Dev Engineer, EC2 Nitro | Seattle, WA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2901615/software-dev-engineer-ec2-nitro) |
-| Software Development Engineer II, Engine | Seattle, WA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2575947/software-development-engineer-ii-engine) |
+| Front-End Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | 1mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3071620/front-end-engineer-kuiper-manufacturing-systems-engineering) |
 | Software Development Engineer, Playback Team | Newark, NJ | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3083065/software-development-engineer-playback-team) |
 | Software Development Engineer, AWS Marketplace | Arlington, VA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2873469/software-development-engineer-aws-marketplace) |
+| Software Development Engineer II, Engine | Seattle, WA | 1mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2575947/software-development-engineer-ii-engine) |
 | Software Dev Engineer II - AMZ9082623 | Seattle, WA | 1mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3060949/software-dev-engineer-ii-amz9082623) |
 | Manager II, Software Dev - AMZ9081278 | Boston, MA | 1mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3058180/manager-ii-software-dev-amz9081278) |
 | Software Dev Engineer II - AMZ26505.1 | East Palo Alto, CA | 1mo ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3055331/software-dev-engineer-ii-amz26505-1) |
@@ -826,8 +827,8 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | Software Dev Engineer II - AMZ26511.1 | Santa Clara, CA | 2mo ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3055330/software-dev-engineer-ii-amz26511-1) |
 | Software Dev Engineer II - AMZ9083221 | San Francisco, CA | 2mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3047570/software-dev-engineer-ii-amz9083221) |
 | Software Development Engineer II, BuilderWorks | Seattle, WA | 2mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2965262/software-development-engineer-ii-builderworks) |
-| Software Dev Engineer II - AMZ26548.1 | Cupertino, CA | 2mo ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3050542/software-dev-engineer-ii-amz26548-1) |
 | Software Dev Engineer II - AMZ26532.1 | Sunnyvale, CA | 2mo ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3050510/software-dev-engineer-ii-amz26532-1) |
+| Software Dev Engineer II - AMZ26548.1 | Cupertino, CA | 2mo ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3050542/software-dev-engineer-ii-amz26548-1) |
 | Software Dev Engineer II - AMZ26555.1 | Santa Clara, CA | 2mo ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3055333/software-dev-engineer-ii-amz26555-1) |
 | Software Development Engineer (ML), AGI Customization | Bellevue, WA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2931602/software-development-engineer-ml-agi-customization) |
 | Software Engineer | New York, NY | 3mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3020911/software-engineer) |
@@ -837,8 +838,8 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | Software Development Engineer, AGI | Bellevue, WA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3047169/software-development-engineer-agi) |
 | Software Development Engineer, Ad Sales | New York City, NY | 3mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3017263/software-development-engineer-ad-sales) |
 | Software Dev Engineer II - AMZ9673832 | Austin, TX | 3mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3033156/software-dev-engineer-ii-amz9673832) |
-| Software Development Engineer II, Delivery Choice | Arlington, VA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2970599/software-development-engineer-ii-delivery-choice) |
 | Software Development Engineer II, Specialized Selection | Austin, TX | 3mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2943287/software-development-engineer-ii-specialized-selection) |
+| Software Development Engineer II, Delivery Choice | Arlington, VA | 3mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2970599/software-development-engineer-ii-delivery-choice) |
 | Software Development Engineer, Amazon Stores | Austin, TX | 4mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2918313/software-development-engineer-amazon-stores) |
 | Software Dev Engineer II - AMZ9376190 | Seattle, WA | 4mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2982639/software-dev-engineer-ii-amz9376190) |
 | Software Dev Engineer II - AMZ9081214 | Minneapolis, MN | 4mo ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2985949/software-dev-engineer-ii-amz9081214) |
@@ -847,6 +848,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | Software Development Engineer, Amazon Robotics (AR) | North Reading, MA | 5mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2992077/software-development-engineer-amazon-robotics-ar) |
 | Software Dev Engineer, Amazon | Seattle, WA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2960949/software-dev-engineer-amazon) |
 | Software Development Engineer , Prime Video | Seattle, WA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2954508/software-development-engineer-prime-video) |
+| Software Development Engineer, Amazon Stores | Bellevue, WA | 6mo ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/2876889/software-development-engineer-amazon-stores) |
 | System Dev Engineer I, Analytics ADC | Denver, CO | 1mo ago | Mid-Level | Data Science & Analytics | [Apply](https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc) |
 | Robotics Systems Engineer, Amazon Robotics Deployment Engineering | Austin, TX | 2mo ago | Mid-Level | Software Engineering | [Apply](https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering) |
 | Systems Development Engineer I, Ops Tech Solution (OTS) | Austin, TX | 2mo ago | Mid-Level | Software Engineering | [Apply](https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots) |
@@ -1304,7 +1306,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | Software Engineer, Frontend - Developer Experience | Remote - USA, CA | 1w ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7075489?gh_jid=7075489) |
 | Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra)  | Remote - USA, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7260614?gh_jid=7260614) |
 | Senior Software Engineer - IAM | Remote - USA, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7286163?gh_jid=7286163) |
-| Senior Software Engineer, Backend (Institutional - Reporting & Monetization) | Remote - USA, CA | 1w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7291170?gh_jid=7291170) |
+| Senior Software Engineer, Backend (Institutional - Reporting & Monetization) | Remote - USA, CA | 2w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7291170?gh_jid=7291170) |
 | Software Engineer, Frontend - Risk Platform  | Remote - USA, CA | 2w ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7289100?gh_jid=7289100) |
 | Senior Manager, Analytics Engineering | Remote - USA, CA | 2w ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7026478?gh_jid=7026478) |
 | Software Engineer, Backend (Platform - Identity) | Remote - USA, CA | 2w ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/5948429?gh_jid=5948429) |
@@ -1500,7 +1502,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 
 <div align="center">
 
-**🎯 474 current opportunities from 49 elite companies**
+**🎯 477 current opportunities from 49 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Sr. Manager, Engineering - Model Serving",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8211957002",
-    "job_posted_at_datetime_utc": "2025-10-15T03:54:57.000Z",
+    "job_title": "Senior Software Engineer_Capacity Infrastructure Services",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1884181",
+    "job_posted_at_datetime_utc": "2025-10-15T04:17:17.954Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-manager-engineering-model-serving-san-francisco"
-  },
-  {
-    "job_title": "Entry Level Software Engineer - Test & Verification",
-    "employer_name": "The Boeing Company",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_description": "Join The Boeing Company in this exciting opportunity.",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer----Test---Verification_JR2025467783-1",
-    "job_posted_at_datetime_utc": "2025-10-15T03:53:26.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "the-boeing-company-entry-level-software-engineer-test-verification-oklahoma-city"
+    "id": "microsoft-senior-software-engineer_capacity-infrastructure-services-redmond"
   }
 ]

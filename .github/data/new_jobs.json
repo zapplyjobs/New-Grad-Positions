@@ -1,13 +1,13 @@
 [
   {
-    "job_title": "Software Dev Engineer (SDE), Project Kuiper",
-    "employer_name": "Amazon",
+    "job_title": "Senior Software Engineer - Chaos Engineering",
+    "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3109793/software-dev-engineer-sde-project-kuiper",
-    "job_posted_at": "2025-10-15T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-15T00:00:00.000Z",
-    "id": "amazon-software-dev-engineer-sde-project-kuiper-redmond"
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896289",
+    "job_posted_at_datetime_utc": "2025-10-15T23:37:54.975Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-chaos-engineering-redmond"
   }
 ]

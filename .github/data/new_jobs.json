@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Senior Software Engineer | AI Content Services",
+    "job_title": "Software Development Engineer, Foundational AI Applications",
+    "employer_name": "Amazon",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3109355/software-development-engineer-foundational-ai-applications",
+    "job_posted_at": "2025-10-15T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-15T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-foundational-ai-applications-arlington"
+  },
+  {
+    "job_title": "Senior Software Engineering Manager - SxG",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893633",
-    "job_posted_at_datetime_utc": "2025-10-15T16:31:40.821Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894371",
+    "job_posted_at_datetime_utc": "2025-10-15T16:47:05.355Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-ai-content-services-redmond"
+    "id": "microsoft-senior-software-engineering-manager-sxg-redmond"
   }
 ]

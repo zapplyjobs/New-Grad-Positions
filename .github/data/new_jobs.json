@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Principal Electrical Engineering System Architect",
+    "job_title": "Principal Software Engineer (Networking Systems)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892736",
-    "job_posted_at_datetime_utc": "2025-10-15T17:19:24.328Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896600",
+    "job_posted_at_datetime_utc": "2025-10-15T17:36:33.546Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-electrical-engineering-system-architect-redmond"
+    "id": "microsoft-principal-software-engineer-networking-systems-redmond"
+  },
+  {
+    "job_title": "Senior Industrial Controls Engineer (CE IE)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896568",
+    "job_posted_at_datetime_utc": "2025-10-15T17:36:33.546Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-industrial-controls-engineer-ce-ie-redmond"
   }
 ]

@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 50+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 481+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 50+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 480+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -20,9 +20,9 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 481
+- **🔥 Current Positions**: 480
 - **🏢 Companies**: 50 elite tech companies
-- **⭐ FAANG+ Jobs**: 279 premium opportunities
+- **⭐ FAANG+ Jobs**: 278 premium opportunities
 - **📅 Last Updated**: October 15, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: 871 (older than 1 week)
@@ -67,7 +67,7 @@
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
 
-### 🏢 **FAANG+** (279 positions)
+### 🏢 **FAANG+** (278 positions)
 
 #### 📦 **Amazon** (21 positions)
 
@@ -84,10 +84,10 @@
 | Software Development Engineer, Kuiper Ground Systems Engineering | Redmond, WA | 2d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/2972165/software-development-engineer-kuiper-ground-systems-engineering) |
 | Software Engineer | Cambridge, MA | 3d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3061877/software-engineer) |
 | Software Development Engineer, Global Services Security Engineering | Arlington, VA | 4d ago | Mid-Level | Security Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3106424/software-development-engineer-global-services-security-engineering) |
-| Software Development Engineer | San Luis Obispo, CA | 4d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3106112/software-development-engineer) |
 | Software Development Engineer, GNC Software, Project Kuiper | Redmond, WA | 5d ago | Mid-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3105445/software-development-engineer-gnc-software-project-kuiper) |
 | Software Engineer II | Irvine, CA | 5d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3104730/software-engineer-ii) |
 | Software Engineer II | San Francisco, CA | 5d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3105344/software-engineer-ii) |
+| Software Development Engineer | San Luis Obispo, CA | 5d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3106112/software-development-engineer) |
 | Software Development Engineer, Amazon MSK | Seattle, WA | 5d ago | Mid-Level | Software Engineering | [Apply](https://amazon.jobs/en-gb/jobs/3106069/software-development-engineer-amazon-msk) |
 | Software Dev Engineer II - TEST - AMZ25394.1 | San Francisco, CA | 5d ago | Entry-Level | Frontend Development | [Apply](https://amazon.jobs/en-gb/jobs/3077169/software-dev-engineer-ii-test-amz25394-1) |
 | Software Design Engineer, Amazon Device OS | Sunnyvale, CA | 5d ago | Mid-Level | Design | [Apply](https://amazon.jobs/en-gb/jobs/3105251/software-design-engineer-amazon-device-os) |
@@ -131,7 +131,7 @@
 | Software Engineering | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1858366) |
 
 <details>
-<summary><h4>🟢 <strong>Google</strong> (223 positions)</h4></summary>
+<summary><h4>🟢 <strong>Google</strong> (222 positions)</h4></summary>
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
@@ -352,7 +352,6 @@
 | Customer Engineer II | San Francisco, CA | Recently | Mid-Level | DevOps & Infrastructure | [Apply](https://www.google.com/about/careers/applications/jobs/results/139763966191510214-customer-engineer-ii-application-modernization-google-cloud?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10) |
 | Strategy and Operations Lead | New York, NY | Recently | Senior | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/84896318404600518-strategy-and-operations-lead-gotomarket?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10) |
 | Account Strategist | Chicago, IL | Recently | Mid-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/104675077131248326-account-strategist-engage-google-customer-solutions?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10) |
-| Senior Account Manager | Mountain View, CA | Recently | Senior | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/77409204712678086-senior-account-manager-landmark?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10) |
 | Sales Development Representative Intern | Reston, VA | Recently | Entry-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/93131127920698054-sales-development-representative-intern-google-public-sector-summer-2026?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4) |
 | Technical Program Manager Intern | Reston, VA | Recently | Entry-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/72548751285068486-technical-program-manager-intern-google-public-sector-summer-2026?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6) |
 | MBA Intern | Mountain View, CA | Recently | Entry-Level | Software Engineering | [Apply](https://www.google.com/about/careers/applications/jobs/results/121416951455982278-mba-intern-summer-2026?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=8) |
@@ -375,7 +374,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Sr. Manager, Engineering - Model Serving | San Francisco, California | 1h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211957002) |
+| Sr. Manager, Engineering - Model Serving | San Francisco, California | 2h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211957002) |
 | Staff Software Engineer, Model Serving  | San Francisco, California | 7h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211647002) |
 | Senior Software Engineer, Model Serving | San Francisco, California | 7h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8211648002) |
 | Sr. Manager, Engineering - Search | Mountain View, California | 8h ago | Senior | Data Science & Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002) |
@@ -544,7 +543,7 @@
 
 | Role | Location | Posted | Level | Category | Apply |
 |------|----------|--------|-------|----------|-------|
-| Software Engineer Intern | Hybrid - New York, NY; Hybrid - San Francisco | 8h ago | Entry-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895) |
+| Software Engineer Intern | Hybrid - New York, NY; Hybrid - San Francisco | 9h ago | Entry-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895) |
 | Software Engineer, Backend - Blockchain Platform (Wallets) | Remote - USA, CA | 13h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7326905?gh_jid=7326905) |
 | Software Engineer, Backend - DevX | Remote - USA, CA | 15h ago | Mid-Level | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/6981984?gh_jid=6981984) |
 | Senior Software Engineer, Backend (Blockchain AI) | Remote - USA, CA | 1d ago | Senior | Frontend Development | [Apply](https://www.coinbase.com/careers/positions/7317987?gh_jid=7317987) |
@@ -621,12 +620,12 @@
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 73 | 15% | No or minimal experience |
 | 🟡 Beginner & Early Career | 250 | 52% | 1-2 years of experience |
-| 🔴 Manager         | 158 | 33% | 2+ years of experience |
+| 🔴 Manager         | 157 | 33% | 2+ years of experience |
 
 ---
 
 ## 🌍 Top Locations
-- **Mountain View, CA**: 50 positions
+- **Mountain View, CA**: 49 positions
 - **New York, NY**: 32 positions
 - **San Francisco, CA**: 30 positions
 - **Sunnyvale, CA**: 23 positions
@@ -638,7 +637,7 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 💻 Software Engineering (217 positions)
+#### 💻 Software Engineering (216 positions)
 📱 Qualcomm • 📦 Amazon
 
 #### 🎨 Frontend Development (76 positions)
@@ -675,7 +674,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 481+ verified roles for Software Engineering roles from 50 elite tech companies.
+- ✅ **100% Real Jobs**: 480+ verified roles for Software Engineering roles from 50 elite tech companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -1501,7 +1500,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 
 <div align="center">
 
-**🎯 481 current opportunities from 50 elite companies**
+**🎯 480 current opportunities from 50 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

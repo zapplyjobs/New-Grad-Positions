@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Senior CE Field Services Engineer",
+    "job_title": "Backend Software Engineer - Azure App Service",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893409",
-    "job_posted_at_datetime_utc": "2025-10-16T19:54:25.705Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1890975",
+    "job_posted_at_datetime_utc": "2025-10-16T20:16:12.642Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-ce-field-services-engineer-redmond"
-  },
-  {
-    "job_title": "Staff Software Engineer, Backend (Consumer - Trading)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7309097?gh_jid=7309097",
-    "job_posted_at_datetime_utc": "2025-10-16T19:47:41.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-staff-software-engineer-backend-consumer-trading-remote-usa"
-  },
-  {
-    "job_title": "Analytics Engineer (L5) - Audience & Identity - Ads",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312518972",
-    "job_posted_at_datetime_utc": "2025-10-16T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-analytics-engineer-l5-audience-identity-ads-usa-remote"
+    "id": "microsoft-backend-software-engineer-azure-app-service-redmond"
   }
 ]

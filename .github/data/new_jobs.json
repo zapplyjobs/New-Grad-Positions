@@ -1,24 +1,12 @@
 [
   {
-    "job_title": "Software Engineer - Azure Core Compute Control Plane Team",
     "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897919",
-    "job_posted_at_datetime_utc": "2025-10-16T09:53:33.949Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-azure-core-compute-control-plane-team-redmond"
-  },
-  {
-    "job_title": "Technical Support Engineering M5",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897859",
-    "job_posted_at_datetime_utc": "2025-10-16T09:53:33.949Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-m5-redmond"
+    "job_title": "Azure Core Compute Control Plane Team",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineer. Level: Students and graduates. Posted: Recently. Full Title: Software Engineer - Azure Core Compute Control Plane Team",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897919/Software-Engineer---Azure-Core-Compute-Control-Plane-Team",
+    "id": "microsoft-azure-core-compute-control-plane-team-multiple-locations"
   }
 ]

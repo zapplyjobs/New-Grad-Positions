@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Senior Software Engineers",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898190",
+    "job_posted_at_datetime_utc": "2025-10-16T19:02:53.155Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineers-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Platform Infrastructure",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area (U.S.)",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8136321002",
+    "job_posted_at_datetime_utc": "2025-10-16T18:54:09.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-senior-software-engineer-platform-infrastructure-san-francisco-bay-area-u-s"
+  }
+]

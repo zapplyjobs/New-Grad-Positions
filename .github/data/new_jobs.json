@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Senior Software Engineer-TEAMS Microsoft",
+    "job_title": "Senior Cloud Network Engineer (Optical)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897717",
+    "job_posted_at_datetime_utc": "2025-10-16T21:14:52.085Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-cloud-network-engineer-optical-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer-Teams",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
     "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1895177",
-    "job_posted_at_datetime_utc": "2025-10-16T21:02:55.681Z",
+    "job_posted_at_datetime_utc": "2025-10-16T21:14:52.085Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-teams-microsoft-redmond"
+    "id": "microsoft-senior-software-engineer-teams-redmond"
   }
 ]

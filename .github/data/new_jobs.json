@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Principal Group Software Engineering Manager - Azure Databricks",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855332",
+    "job_posted_at_datetime_utc": "2025-10-16T04:53:24.167Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-group-software-engineering-manager-azure-databricks-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer – Data Platform Agentic Automation",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892752",
+    "job_posted_at_datetime_utc": "2025-10-16T04:53:24.167Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-data-platform-agentic-automation-redmond"
+  }
+]

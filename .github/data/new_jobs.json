@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Senior Software Engineer - Cloud Capacity Management Automation System",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892920",
+    "job_posted_at_datetime_utc": "2025-10-16T13:06:56.174Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-cloud-capacity-management-automation-system-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer (UI / Front-end)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897539",
+    "job_posted_at_datetime_utc": "2025-10-16T13:06:56.174Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-ui-front-end-redmond"
+  }
+]

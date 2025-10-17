@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Cloud Network Engineer II (Security)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876567",
+    "job_posted_at_datetime_utc": "2025-10-17T16:16:23.624Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-network-engineer-ii-security-redmond"
+  },
+  {
+    "job_title": "Principal Platform System Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894685",
+    "job_posted_at_datetime_utc": "2025-10-17T16:16:23.624Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-platform-system-engineer-redmond"
+  }
+]

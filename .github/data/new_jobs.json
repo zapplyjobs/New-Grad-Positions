@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Security Sales Specialist",
-    "job_city": "Raleigh",
-    "job_state": "N.C.",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Security Sales Specialist, User Protection Services, Financial Services",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116173874424357574-security-sales-specialist-user-protection-services-financial-services?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=2",
-    "id": "google-security-sales-specialist-raleigh"
+    "job_title": "Avionics Hardware Engineer I",
+    "employer_name": "Relativity Space",
+    "job_city": "Long Beach",
+    "job_state": "CA",
+    "job_description": "Join Relativity Space in this exciting opportunity.",
+    "job_apply_link": "https://boards.greenhouse.io/relativity/jobs/8216139002",
+    "job_posted_at_datetime_utc": "2025-10-17T10:28:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "relativity-space-avionics-hardware-engineer-i-long-beach"
   }
 ]

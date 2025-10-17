@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Senior Software Engineer - .NET Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883812",
+    "job_posted_at_datetime_utc": "2025-10-17T12:42:20.572Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-net-engineering-redmond"
+  },
+  {
+    "job_title": "Junior Full-Stack Software Engineer - Geospatial AI",
+    "employer_name": "Safran",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_description": "Join Safran in this exciting opportunity.",
+    "job_apply_link": "https://safransed.bamboohr.com/careers/1039/",
+    "job_posted_at_datetime_utc": "2025-10-17T12:16:48.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "safran-junior-full-stack-software-engineer-geospatial-ai-arlington"
+  }
+]

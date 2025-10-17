@@ -1,23 +1,12 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Workspace Sales Specialist",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Workspace Sales Specialist, Mid-Market Enterprise, South East",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/76117978629710534-workspace-sales-specialist-midmarket-enterprise-south-east?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-workspace-sales-specialist-austin"
-  },
-  {
-    "job_title": "Software Engineer: Azure Data Intern Opportunities for University Students, Austin",
     "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877919",
-    "job_posted_at_datetime_utc": "2025-10-17T14:02:56.019Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-azure-data-intern-opportunities-for-university-students-austin-redmond"
+    "job_title": "Software Engineer: Azure Data Intern Opportunities for University Students",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Azure Data Intern Opportunities for University Students",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877919/Software-Engineer%3A-Azure-Data-Intern-Opportunities-for-University-Students%2C-Austin",
+    "id": "microsoft-software-engineer-azure-data-intern-opportunities-for-university-students-austin"
   }
 ]

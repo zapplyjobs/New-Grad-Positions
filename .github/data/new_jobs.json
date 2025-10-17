@@ -1,57 +1,23 @@
 [
   {
-    "job_title": "Director, AI Apps Solution Engineer Technical Enablement and Community Lead",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897553",
-    "job_posted_at_datetime_utc": "2025-10-17T21:27:57.850Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-director-ai-apps-solution-engineer-technical-enablement-and-community-lead-redmond"
+    "employer_name": "Google",
+    "job_title": "Senior Associate",
+    "job_city": "Ann Arbor",
+    "job_state": "MI",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Associate, Global Product Solutions",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/107735157040915142-senior-associate-global-product-solutions?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-senior-associate-ann-arbor"
   },
   {
-    "job_title": "Senior Developer Partner Manager – Xbox",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892653",
-    "job_posted_at_datetime_utc": "2025-10-17T21:27:57.850Z",
+    "job_title": "Engineer I - Software (FPGA Place and Route)",
+    "employer_name": "Microchip Technology",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join Microchip Technology in this exciting opportunity.",
+    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software--FPGA-Place-and-Route-_R1914-25",
+    "job_posted_at_datetime_utc": "2025-10-17T21:25:47.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-developer-partner-manager-xbox-redmond"
-  },
-  {
-    "job_title": "Junior Software Developer",
-    "employer_name": "CACI",
-    "job_city": "Remote",
-    "job_state": "Locations",
-    "job_description": "Join CACI in this exciting opportunity.",
-    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Remote-Any-State/Junior-Software-Developer_318599",
-    "job_posted_at_datetime_utc": "2025-10-17T21:22:49.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "caci-junior-software-developer-remote"
-  },
-  {
-    "job_title": "Cloud Platform Engineer I",
-    "employer_name": "Centene",
-    "job_city": "Remote in MO",
-    "job_state": "Locations",
-    "job_description": "Join Centene in this exciting opportunity.",
-    "job_apply_link": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cloud-Platform-Engineer-I_1609134",
-    "job_posted_at_datetime_utc": "2025-10-17T21:21:36.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "centene-cloud-platform-engineer-i-remote-in-mo"
-  },
-  {
-    "job_title": "Junior Software Engineer",
-    "employer_name": "Delta Solutions & Strategies",
-    "job_city": "Colorado Springs",
-    "job_state": "CO",
-    "job_description": "Join Delta Solutions & Strategies in this exciting opportunity.",
-    "job_apply_link": "https://jobs.lever.co/deltasands/4ae1b9e2-ebbd-416e-810a-58f296666125/",
-    "job_posted_at_datetime_utc": "2025-10-17T21:19:58.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "delta-solutions-strategies-junior-software-engineer-colorado-springs"
+    "id": "microchip-technology-engineer-i-software-fpga-place-and-route-san-jose"
   }
 ]

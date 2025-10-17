@@ -1,90 +1,57 @@
 [
   {
-    "job_title": "Principal Security Software Engineer",
+    "job_title": "Director, AI Apps Solution Engineer Technical Enablement and Community Lead",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893362",
-    "job_posted_at_datetime_utc": "2025-10-17T21:14:30.098Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897553",
+    "job_posted_at_datetime_utc": "2025-10-17T21:27:57.850Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-security-software-engineer-redmond"
+    "id": "microsoft-director-ai-apps-solution-engineer-technical-enablement-and-community-lead-redmond"
   },
   {
-    "job_title": "Senior Software Engineer, Minecraft Marketplace Ingestion",
+    "job_title": "Senior Developer Partner Manager – Xbox",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898449",
-    "job_posted_at_datetime_utc": "2025-10-17T21:14:30.098Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1892653",
+    "job_posted_at_datetime_utc": "2025-10-17T21:27:57.850Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-minecraft-marketplace-ingestion-redmond"
+    "id": "microsoft-senior-developer-partner-manager-xbox-redmond"
   },
   {
-    "job_title": "Principal Software Engineer - Teams Platform",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889451",
-    "job_posted_at_datetime_utc": "2025-10-17T21:14:30.098Z",
+    "job_title": "Junior Software Developer",
+    "employer_name": "CACI",
+    "job_city": "Remote",
+    "job_state": "Locations",
+    "job_description": "Join CACI in this exciting opportunity.",
+    "job_apply_link": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Remote-Any-State/Junior-Software-Developer_318599",
+    "job_posted_at_datetime_utc": "2025-10-17T21:22:49.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-teams-platform-redmond"
+    "id": "caci-junior-software-developer-remote"
   },
   {
-    "job_title": "Associate Cloud Engineer",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg",
-    "job_state": "FL",
-    "job_description": "Join Jabil in this exciting opportunity.",
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Associate-Cloud-Engineer_J2429707",
-    "job_posted_at_datetime_utc": "2025-10-17T21:13:36.000Z",
+    "job_title": "Cloud Platform Engineer I",
+    "employer_name": "Centene",
+    "job_city": "Remote in MO",
+    "job_state": "Locations",
+    "job_description": "Join Centene in this exciting opportunity.",
+    "job_apply_link": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cloud-Platform-Engineer-I_1609134",
+    "job_posted_at_datetime_utc": "2025-10-17T21:21:36.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "jabil-associate-cloud-engineer-st-petersburg"
+    "id": "centene-cloud-platform-engineer-i-remote-in-mo"
   },
   {
-    "job_title": "Junior AI Software Engineer",
-    "employer_name": "Tencent",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_description": "Join Tencent in this exciting opportunity.",
-    "job_apply_link": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer_R105929-1",
-    "job_posted_at_datetime_utc": "2025-10-17T21:12:26.000Z",
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Delta Solutions & Strategies",
+    "job_city": "Colorado Springs",
+    "job_state": "CO",
+    "job_description": "Join Delta Solutions & Strategies in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/deltasands/4ae1b9e2-ebbd-416e-810a-58f296666125/",
+    "job_posted_at_datetime_utc": "2025-10-17T21:19:58.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "tencent-junior-ai-software-engineer-palo-alto"
-  },
-  {
-    "job_title": "Junior AI Engineer",
-    "employer_name": "Capco",
-    "job_city": "Orlando",
-    "job_state": "FL",
-    "job_description": "Join Capco in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/capco/jobs/7335392",
-    "job_posted_at_datetime_utc": "2025-10-17T21:11:10.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "capco-junior-ai-engineer-orlando"
-  },
-  {
-    "job_title": "Machine Learning Engineer Graduate (BRIC) – 2026 Start (BS/MS)",
-    "employer_name": "TikTok",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "Join TikTok in this exciting opportunity.",
-    "job_apply_link": "https://lifeattiktok.com/search/7559731427425257746",
-    "job_posted_at_datetime_utc": "2025-10-17T21:08:13.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "tiktok-machine-learning-engineer-graduate-bric-2026-start-bs-ms-san-jose"
-  },
-  {
-    "job_title": "Software Engineer II, Early Career - Google Cloud AI Catalyst Program",
-    "employer_name": "Google",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Join Google in this exciting opportunity.",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/90452041138086598-software-engineer-ii-early-career-google-cloud-ai-catalyst-program",
-    "job_posted_at_datetime_utc": "2025-10-17T21:04:55.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "google-software-engineer-ii-early-career-google-cloud-ai-catalyst-program-sunnyvale"
+    "id": "delta-solutions-strategies-junior-software-engineer-colorado-springs"
   }
 ]

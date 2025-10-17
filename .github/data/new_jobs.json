@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Software Engineer 1 - Embedded Communications",
-    "employer_name": "RTX",
-    "job_city": "Fort Wayne",
-    "job_state": "IN",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I---Embedded-Communications--Onsite-_01799726",
-    "job_posted_at_datetime_utc": "2025-10-17T00:57:50.000Z",
+    "job_title": "Software Engineer II - Path Planner",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897540",
+    "job_posted_at_datetime_utc": "2025-10-17T01:55:50.913Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-1-embedded-communications-fort-wayne"
+    "id": "microsoft-software-engineer-ii-path-planner-redmond"
+  },
+  {
+    "job_title": "Compiler Engineer – LLVM-New College Grad 2025",
+    "employer_name": "NVIDIA",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Join NVIDIA in this exciting opportunity.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--LLVM--New-College-Grad-2025_JR2005960",
+    "job_posted_at_datetime_utc": "2025-10-17T01:06:54.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "nvidia-compiler-engineer-llvm-new-college-grad-2025-austin"
   }
 ]

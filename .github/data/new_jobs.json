@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Eng Intern",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3111793/software-eng-intern",
+    "job_posted_at": "2025-10-17T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-17T00:00:00.000Z",
+    "id": "amazon-software-eng-intern-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer II - Microsoft Path Team",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897775",
+    "job_posted_at_datetime_utc": "2025-10-18T00:04:37.705Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-microsoft-path-team-redmond"
+  }
+]

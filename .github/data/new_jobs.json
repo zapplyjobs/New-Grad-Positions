@@ -1,23 +1,13 @@
 [
   {
-    "job_title": "Senior Software Development Engineer, EC2 VPC",
-    "employer_name": "Amazon",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3089888/senior-software-development-engineer-ec2-vpc",
-    "job_posted_at": "2025-10-15T08:37:59.092Z",
-    "job_posted_at_datetime_utc": "2025-10-15T08:37:59.092Z",
-    "id": "amazon-senior-software-development-engineer-ec2-vpc-san-diego"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Product Manager I",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Manager I, Deployment Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/120816639582053062-product-manager-i-deployment-platform?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=5",
-    "id": "google-product-manager-i-new-york"
+    "job_title": "Software Engineer I - Full-Stack",
+    "employer_name": "RoadRunner Recycling",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join RoadRunner Recycling in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/roadrunner/jobs/4031672009",
+    "job_posted_at_datetime_utc": "2025-10-13T21:05:08.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "roadrunner-recycling-software-engineer-i-full-stack-remote-in-usa"
   }
 ]

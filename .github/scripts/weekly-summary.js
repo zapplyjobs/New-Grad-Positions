@@ -137,8 +137,8 @@ async function generateWeeklySummary(repos, previousData) {
   // Repository stats table
   message += `**━━━ REPOSITORY STATS ━━━**\n`;
   message += '```\n';
-  message += 'Repo                                   ⭐Stars   🔀Forks  🐛Issues\n';
-  message += '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n';
+  message += 'Repo                                     ⭐Stars    🔀Forks    🐛Issues\n';
+  message += '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n';
 
   let totalStars = 0, totalStarChange = 0;
   let totalForks = 0, totalForkChange = 0;
@@ -170,12 +170,13 @@ async function generateWeeklySummary(repos, previousData) {
         topGainers.push({ name: repo.name, change: starChange });
       }
 
-      const name = repo.name.padEnd(39);
-      const stars = formatChange(repo.stargazers_count, starChange, isFirstRun);
-      const forks = formatChange(repo.forks_count, forkChange, isFirstRun);
+      // Ensure proper spacing
+      const name = repo.name.padEnd(41);
+      const stars = formatChange(repo.stargazers_count, starChange, isFirstRun).padEnd(10);
+      const forks = formatChange(repo.forks_count, forkChange, isFirstRun).padEnd(10);
       const issues = `${repo.open_issues_count}`;
 
-      message += `${name}${stars.padEnd(9)}${forks.padEnd(9)}${issues}\n`;
+      message += `${name}${stars}${forks}${issues}\n`;
 
       // Fetch weekly activity for this repo (skip on first run)
       if (!isFirstRun) {
@@ -188,12 +189,24 @@ async function generateWeeklySummary(repos, previousData) {
   }
 
   message += `\n📊 Org Totals: ${totalStars.toLocaleString()} stars`;
-  if (!isFirstRun && totalStarChange !== 0) {
-    message += ` (${totalStarChange > 0 ? '+' : ''}${totalStarChange})`;
+  if (!isFirstRun) {
+    if (totalStarChange > 0) {
+      message += ` (+${totalStarChange})`;
+    } else if (totalStarChange < 0) {
+      message += ` (${totalStarChange})`;
+    } else {
+      message += ` (no change)`;
+    }
   }
   message += ` | ${totalForks.toLocaleString()} forks`;
-  if (!isFirstRun && totalForkChange !== 0) {
-    message += ` (${totalForkChange > 0 ? '+' : ''}${totalForkChange})`;
+  if (!isFirstRun) {
+    if (totalForkChange > 0) {
+      message += ` (+${totalForkChange})`;
+    } else if (totalForkChange < 0) {
+      message += ` (${totalForkChange})`;
+    } else {
+      message += ` (=)`;
+    }
   }
   message += ` | ${totalIssues} issues\n`;
   message += '```\n';

@@ -118,8 +118,10 @@ async function generateDailyMessage(repos, previousData) {
       totalStars += repo.stargazers_count;
       totalChange += change;
 
-      const formattedName = repo.name.padEnd(39);
-      message += `${formattedName} ${formatStarChange(repo.stargazers_count, prevStars, isFirstRun)}\n`;
+      // Ensure minimum 2 spaces between name and number
+      const formattedName = repo.name.padEnd(41);
+      const starInfo = formatStarChange(repo.stargazers_count, prevStars, isFirstRun);
+      message += `${formattedName}${starInfo}\n`;
 
       // Check for new activity (skip on first run)
       if (!isFirstRun) {
@@ -136,8 +138,14 @@ async function generateDailyMessage(repos, previousData) {
   }
 
   message += `\nTotal: ${totalStars.toLocaleString()} stars`;
-  if (!isFirstRun && totalChange !== 0) {
-    message += ` (${totalChange > 0 ? '+' : ''}${totalChange} today)`;
+  if (!isFirstRun) {
+    if (totalChange > 0) {
+      message += ` (+${totalChange} today)`;
+    } else if (totalChange < 0) {
+      message += ` (${totalChange} today)`;
+    } else {
+      message += ` (no change)`;
+    }
   }
   message += '\n```\n';
 

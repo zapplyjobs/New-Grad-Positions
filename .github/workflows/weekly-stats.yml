@@ -17,6 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # Required to commit data files
+      security-events: read  # Required to read Dependabot alerts
 
     steps:
       - name: Wait for update-jobs workflow to complete

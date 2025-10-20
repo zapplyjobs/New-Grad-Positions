@@ -213,25 +213,49 @@ async function generateWeeklySummary(repos, previousData) {
 
   // Add workflow health section (skip on first run)
   if (!isFirstRun) {
-    const workflows = await fetchWorkflowStats(ORG_NAME, 'New-Grad-Jobs', 168);
+    const { byWorkflow: workflows, failedRuns, slowRuns } = await fetchWorkflowStats(ORG_NAME, 'New-Grad-Jobs', 168);
     if (Object.keys(workflows).length > 0) {
       message += `\n**━━━ WORKFLOW HEALTH (Last 7 Days) ━━━**\n\`\`\`\n`;
 
       for (const [name, stats] of Object.entries(workflows)) {
-        const avgDur = Math.round(stats.totalDuration / stats.runs);
         const failRate = ((stats.failures / stats.runs) * 100).toFixed(1);
         const warn = parseFloat(failRate) > 25 ? ' ⚠️' : '';
 
-        const nameCol = name.padEnd(30);
-        const runsCol = `${stats.runs} run${stats.runs > 1 ? 's' : ''}`.padEnd(10);
-        const statusCol = `${stats.successes}✅ ${stats.failures}❌`.padEnd(12);
-        const durCol = `~${avgDur}s avg`.padEnd(12);
+        const nameCol = name.padEnd(35);
+        const runsCol = `${stats.runs} runs`.padEnd(9);
+
+        // Build status column with cancelled if >0
+        let statusStr = `${stats.successes}✅ ${stats.failures}❌`;
+        if (stats.cancelled > 0) statusStr += ` ${stats.cancelled}⛔`;
+        const statusCol = statusStr.padEnd(15);
+
+        const durCol = formatDuration(stats.medianDuration).padEnd(7);
         const failCol = `${failRate}% fail${warn}`;
 
         message += `${nameCol}| ${runsCol}| ${statusCol}| ${durCol}| ${failCol}\n`;
       }
 
       message += '```\n';
+
+      // Add slow run alerts (>1 hour)
+      if (slowRuns.length > 0) {
+        message += `\n🐢 **Slow Runs Alert** (>1 hour, last 5):\n`;
+        slowRuns.slice(0, 5).forEach(run => {
+          const date = new Date(run.created).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+          const durStr = formatDuration(run.duration);
+          message += `• ${run.name} took ${durStr} (${date})\n`;
+          message += `  ${run.url}\n`;
+        });
+      }
+
+      // Add failed run links if any failures
+      if (failedRuns.length > 0) {
+        message += `\n⚠️ **Recent Failures** (last 5):\n`;
+        failedRuns.slice(0, 5).forEach(run => {
+          const date = new Date(run.created).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+          message += `• ${run.name} (${date}): ${run.url}\n`;
+        });
+      }
     }
   }
 
@@ -274,6 +298,24 @@ async function generateWeeklySummary(repos, previousData) {
     }
   }
 
+  // Add security alerts section (skip on first run)
+  if (!isFirstRun) {
+    const securityAlerts = await fetchSecurityAlerts(ORG_NAME, 'New-Grad-Jobs');
+    if (securityAlerts && securityAlerts.total > 0) {
+      message += `\n**━━━ SECURITY ALERTS ━━━**\n`;
+      const { critical, high, medium, low } = securityAlerts.bySeverity;
+
+      const parts = [];
+      if (critical > 0) parts.push(`${critical} Critical`);
+      if (high > 0) parts.push(`${high} High`);
+      if (medium > 0) parts.push(`${medium} Medium`);
+      if (low > 0) parts.push(`${low} Low`);
+
+      message += `🔐 ${parts.join(' | ')}\n`;
+      message += `📋 View all: https://github.com/${ORG_NAME}/New-Grad-Jobs/security/dependabot\n`;
+    }
+  }
+
   // Check message length
   if (message.length > MAX_DISCORD_LENGTH) {
     console.warn(`Message too long (${message.length} chars), truncating...`);
@@ -292,6 +334,13 @@ function formatChange(current, change, isFirstRun) {
   return `${current.toLocaleString()} (${change})`;
 }
 
+function formatDuration(seconds) {
+  if (seconds < 0) return 'N/A';
+  if (seconds < 60) return `~${Math.round(seconds)}s`;
+  if (seconds < 3600) return `~${Math.round(seconds / 60)}m`;
+  return `~${Math.round(seconds / 3600)}h`;
+}
+
 async function fetchWorkflowStats(owner, repo, hoursAgo = 168) {
   const since = new Date(Date.now() - hoursAgo * 60 * 60 * 1000).toISOString();
 
@@ -304,26 +353,84 @@ async function fetchWorkflowStats(owner, repo, hoursAgo = 168) {
     });
 
     const byWorkflow = {};
+    const failedRuns = [];
+    const slowRuns = []; // Track runs >1 hour
 
     for (const run of runs.workflow_runs) {
       const name = run.name;
       if (!byWorkflow[name]) {
-        byWorkflow[name] = { runs: 0, failures: 0, successes: 0, cancelled: 0, totalDuration: 0 };
+        byWorkflow[name] = { runs: 0, failures: 0, successes: 0, cancelled: 0, durations: [] };
       }
 
       byWorkflow[name].runs++;
       if (run.conclusion === 'success') byWorkflow[name].successes++;
-      if (run.conclusion === 'failure') byWorkflow[name].failures++;
+      if (run.conclusion === 'failure') {
+        byWorkflow[name].failures++;
+        failedRuns.push({ name: run.name, url: run.html_url, created: run.created_at });
+      }
       if (run.conclusion === 'cancelled') byWorkflow[name].cancelled++;
 
       const duration = (new Date(run.updated_at) - new Date(run.created_at)) / 1000;
-      byWorkflow[name].totalDuration += duration;
+
+      // Track slow runs (>1 hour)
+      if (duration > 3600) {
+        slowRuns.push({
+          name: run.name,
+          duration,
+          url: run.html_url,
+          created: run.created_at,
+          repo
+        });
+      }
+
+      // Exclude extreme outliers (>2 hours) from median calculation
+      if (duration < 7200) {
+        byWorkflow[name].durations.push(duration);
+      }
     }
 
-    return byWorkflow;
+    // Calculate median duration for each workflow
+    for (const workflow of Object.values(byWorkflow)) {
+      if (workflow.durations.length > 0) {
+        workflow.durations.sort((a, b) => a - b);
+        const mid = Math.floor(workflow.durations.length / 2);
+        workflow.medianDuration = workflow.durations.length % 2 === 0
+          ? (workflow.durations[mid - 1] + workflow.durations[mid]) / 2
+          : workflow.durations[mid];
+      } else {
+        // Safety: if all runs excluded, use a placeholder
+        workflow.medianDuration = -1; // Will display as "N/A"
+      }
+    }
+
+    return { byWorkflow, failedRuns, slowRuns };
   } catch (error) {
     console.error(`Error fetching workflow stats for ${repo}:`, error.message);
-    return {};
+    return { byWorkflow: {}, failedRuns: [], slowRuns: [] };
+  }
+}
+
+async function fetchSecurityAlerts(owner, repo) {
+  try {
+    const { data: alerts } = await octokit.dependabot.listAlertsForRepo({
+      owner,
+      repo,
+      state: 'open',
+      per_page: 100
+    });
+
+    const bySeverity = { critical: 0, high: 0, medium: 0, low: 0 };
+    alerts.forEach(alert => {
+      const severity = alert.security_advisory.severity;
+      if (bySeverity[severity] !== undefined) {
+        bySeverity[severity]++;
+      }
+    });
+
+    return { total: alerts.length, bySeverity };
+  } catch (error) {
+    console.error('Error fetching security alerts:', error.message);
+    return null; // Return null if API fails (might be permissions issue)
   }
 }
 

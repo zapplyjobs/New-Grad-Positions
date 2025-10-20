@@ -76,9 +76,16 @@ function formatStarChange(current, previous, isFirstRun) {
   }
   if (!previous) return `${current.toLocaleString()}`;
   const change = current - previous;
-  if (change === 0) return `${current.toLocaleString()} (No change)`;
+  if (change === 0) return `${current.toLocaleString()} (=)`;
   if (change > 0) return `${current.toLocaleString()} (+${change})`;
   return `${current.toLocaleString()} (${change})`;
+}
+
+function formatDuration(seconds) {
+  if (seconds < 0) return 'N/A';
+  if (seconds < 60) return `~${Math.round(seconds)}s`;
+  if (seconds < 3600) return `~${Math.round(seconds / 60)}m`;
+  return `~${Math.round(seconds / 3600)}h`;
 }
 
 async function fetchWorkflowStats(owner, repo, hoursAgo = 24) {
@@ -93,26 +100,60 @@ async function fetchWorkflowStats(owner, repo, hoursAgo = 24) {
     });
 
     const byWorkflow = {};
+    const failedRuns = [];
+    const slowRuns = []; // Track runs >1 hour
 
     for (const run of runs.workflow_runs) {
       const name = run.name;
       if (!byWorkflow[name]) {
-        byWorkflow[name] = { runs: 0, failures: 0, successes: 0, cancelled: 0, totalDuration: 0 };
+        byWorkflow[name] = { runs: 0, failures: 0, successes: 0, cancelled: 0, durations: [] };
       }
 
       byWorkflow[name].runs++;
       if (run.conclusion === 'success') byWorkflow[name].successes++;
-      if (run.conclusion === 'failure') byWorkflow[name].failures++;
+      if (run.conclusion === 'failure') {
+        byWorkflow[name].failures++;
+        failedRuns.push({ name: run.name, url: run.html_url, created: run.created_at });
+      }
       if (run.conclusion === 'cancelled') byWorkflow[name].cancelled++;
 
       const duration = (new Date(run.updated_at) - new Date(run.created_at)) / 1000;
-      byWorkflow[name].totalDuration += duration;
+
+      // Track slow runs (>1 hour)
+      if (duration > 3600) {
+        slowRuns.push({
+          name: run.name,
+          duration,
+          url: run.html_url,
+          created: run.created_at,
+          repo
+        });
+      }
+
+      // Exclude extreme outliers (>2 hours) from median calculation
+      if (duration < 7200) {
+        byWorkflow[name].durations.push(duration);
+      }
     }
 
-    return byWorkflow;
+    // Calculate median duration for each workflow
+    for (const workflow of Object.values(byWorkflow)) {
+      if (workflow.durations.length > 0) {
+        workflow.durations.sort((a, b) => a - b);
+        const mid = Math.floor(workflow.durations.length / 2);
+        workflow.medianDuration = workflow.durations.length % 2 === 0
+          ? (workflow.durations[mid - 1] + workflow.durations[mid]) / 2
+          : workflow.durations[mid];
+      } else {
+        // Safety: if all runs excluded, use a placeholder
+        workflow.medianDuration = -1; // Will display as "N/A"
+      }
+    }
+
+    return { byWorkflow, failedRuns, slowRuns };
   } catch (error) {
     console.error(`Error fetching workflow stats for ${repo}:`, error.message);
-    return {};
+    return { byWorkflow: {}, failedRuns: [], slowRuns: [] };
   }
 }
 
@@ -185,25 +226,49 @@ async function generateDailyMessage(repos, previousData) {
   message += '\n```\n';
 
   // Add workflow health section
-  const workflows = await fetchWorkflowStats(ORG_NAME, 'New-Grad-Jobs', 24);
+  const { byWorkflow: workflows, failedRuns, slowRuns } = await fetchWorkflowStats(ORG_NAME, 'New-Grad-Jobs', 24);
   if (Object.keys(workflows).length > 0) {
-    message += `\n🤖 **WORKFLOW HEALTH (Last 24 Hours)**\n\`\`\`\n`;
+    message += `\n🤖 **WORKFLOW HEALTH**\n\`\`\`\n`;
 
     for (const [name, stats] of Object.entries(workflows)) {
-      const avgDur = Math.round(stats.totalDuration / stats.runs);
       const failRate = ((stats.failures / stats.runs) * 100).toFixed(1);
       const warn = parseFloat(failRate) > 25 ? ' ⚠️' : '';
 
-      const nameCol = name.padEnd(30);
-      const runsCol = `${stats.runs} run${stats.runs > 1 ? 's' : ''}`.padEnd(8);
-      const statusCol = `${stats.successes}✅ ${stats.failures}❌`.padEnd(12);
-      const durCol = `~${avgDur}s avg`.padEnd(12);
+      const nameCol = name.padEnd(35);
+      const runsCol = `${stats.runs} runs`.padEnd(9);
+
+      // Build status column with cancelled if >0
+      let statusStr = `${stats.successes}✅ ${stats.failures}❌`;
+      if (stats.cancelled > 0) statusStr += ` ${stats.cancelled}⛔`;
+      const statusCol = statusStr.padEnd(15);
+
+      const durCol = formatDuration(stats.medianDuration).padEnd(7);
       const failCol = `${failRate}% fail${warn}`;
 
       message += `${nameCol}| ${runsCol}| ${statusCol}| ${durCol}| ${failCol}\n`;
     }
 
     message += '```\n';
+
+    // Add slow run alerts (>1 hour)
+    if (slowRuns.length > 0) {
+      message += `\n🐢 **Slow Runs Alert** (>1 hour):\n`;
+      slowRuns.slice(0, 3).forEach(run => {
+        const date = new Date(run.created).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+        const durStr = formatDuration(run.duration);
+        message += `• ${run.name} took ${durStr} (${date})\n`;
+        message += `  ${run.url}\n`;
+      });
+    }
+
+    // Add failed run links if any failures
+    if (failedRuns.length > 0) {
+      message += `\n⚠️ **Recent Failures** (last 3):\n`;
+      failedRuns.slice(0, 3).forEach(run => {
+        const date = new Date(run.created).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        message += `• ${run.name} (${date}): ${run.url}\n`;
+      });
+    }
   }
 
   // Add new activity section if any

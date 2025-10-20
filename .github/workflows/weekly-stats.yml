@@ -8,6 +8,10 @@ on:
     - cron: '0 6 * * 1'
   workflow_dispatch: # Allow manual triggers for testing
 
+concurrency:
+  group: repo-commits-${{ github.repository }}
+  cancel-in-progress: false
+
 jobs:
   post-weekly-summary:
     runs-on: ubuntu-latest

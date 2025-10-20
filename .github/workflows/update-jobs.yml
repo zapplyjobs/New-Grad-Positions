@@ -14,7 +14,7 @@ on:
 
 # Prevent concurrent runs to avoid git conflicts
 concurrency:
-  group: update-jobs
+  group: repo-commits-${{ github.repository }}
   cancel-in-progress: false  # Don't cancel, wait for previous to finish
 
 jobs:

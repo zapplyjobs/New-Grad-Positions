@@ -1,0 +1,15 @@
+{
+  "name": "github-discord-stats",
+  "version": "1.0.0",
+  "description": "Automated GitHub organization stats to Discord",
+  "scripts": {
+    "daily": "node .github/scripts/daily-stats.js",
+    "weekly": "node .github/scripts/weekly-summary.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "node-fetch": "^2.7.0"
+  },
+  "author": "zapplyjobs",
+  "license": "MIT"
+}

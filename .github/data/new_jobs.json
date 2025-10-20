@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Senior Developer Architect (Ecosystem)",
+    "job_title": "Principal Software Engineer - Azure Data Lake Storage",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898129",
-    "job_posted_at_datetime_utc": "2025-10-20T18:18:29.628Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897247",
+    "job_posted_at_datetime_utc": "2025-10-20T18:41:16.481Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-developer-architect-ecosystem-redmond"
-  },
-  {
-    "job_title": "Software Engineer L4/L5, Machine Learning Platform (Model Development and Management)",
-    "employer_name": "Netflix",
-    "job_city": "Los Gatos",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312550021",
-    "job_posted_at_datetime_utc": "2025-10-20T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-software-engineer-l4-l5-machine-learning-platform-model-development-and-management-los-gatos"
+    "id": "microsoft-principal-software-engineer-azure-data-lake-storage-redmond"
   }
 ]

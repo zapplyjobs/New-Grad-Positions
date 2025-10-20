@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 40+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 513+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 38+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 511+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -20,12 +20,12 @@
 ---
 
 ## 📊 Live Stats
-- **🔥 Current Positions**: 513
-- **🏢 Companies**: 40 elite tech companies
+- **🔥 Current Positions**: 511
+- **🏢 Companies**: 38 elite tech companies
 - **⭐ FAANG+ Jobs**: 250 premium opportunities
 - **📅 Last Updated**: October 20, 2025
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: 711 (older than 1 week)
+- **📁 Archived Jobs**: 713 (older than 1 week)
 
 
 
@@ -93,13 +93,13 @@
 | AI Agents & Reasoning | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1894505/Research-Intern---AI-Agents-%26-Reasoning) |
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | Recently | Entry-Level | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1853843/Software-Engineer-II-%E2%80%93-AI-Platform-Development-(Azure-PostgreSQL)) |
 | Software Engineer: Security Intern Opportunities for University Students | Redmond, Washington | Recently | Entry-Level | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861017/Software-Engineer%3A-Security-Intern-Opportunities-for-University-Students%2C-Redmond) |
+| Solution Engineering | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1889062) |
 | Software Engineer II - CTJ - Poly | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1898910) |
 | Principal Security Engineering Manager | Redmond, WA | 0h ago | Senior | Security Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1864486) |
 | Principal Software Engineer - CoreAI | Redmond, WA | 0h ago | Senior | Machine Learning & AI | [Apply](https://jobs.careers.microsoft.com/global/en/job/1898126) |
 | Senior Software Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1881283) |
 | Senior Mechanical Engineer | Redmond, WA | 0h ago | Senior | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1894523) |
 | Software Engineer II | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1875627) |
-| Software Engineering | Redmond, WA | 0h ago | Mid-Level | Software Engineering | [Apply](https://jobs.careers.microsoft.com/global/en/job/1882053) |
 
 <details>
 <summary><h4>🟢 <strong>Google</strong> (218 positions)</h4></summary>
@@ -650,8 +650,8 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 100 | 19% | No or minimal experience |
-| 🟡 Beginner & Early Career | 240 | 47% | 1-2 years of experience |
+| 🟢 Entry Level & New Grad | 99 | 19% | No or minimal experience |
+| 🟡 Beginner & Early Career | 239 | 47% | 1-2 years of experience |
 | 🔴 Manager         | 173 | 34% | 2+ years of experience |
 
 ---
@@ -669,10 +669,10 @@
 ---
 
 ## 🔍 Filter by Role Category
-#### 🎨 Frontend Development (194 positions)
+#### 🎨 Frontend Development (193 positions)
 🟢 Google
 
-#### 💻 Software Engineering (159 positions)
+#### 💻 Software Engineering (158 positions)
 🟦 Microsoft
 
 #### ☁️ DevOps & Infrastructure (55 positions)
@@ -706,7 +706,7 @@
 
 ## 🔮 Why Software Engineers Choose Our Job Board
 
-- ✅ **100% Real Jobs**: 513+ verified roles for Software Engineering roles from 40 elite tech companies.
+- ✅ **100% Real Jobs**: 511+ verified roles for Software Engineering roles from 38 elite tech companies.
 - ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 - ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
 - ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
@@ -780,11 +780,11 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 711 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 713 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 711 positions
-- **🏢 Companies**: 40 companies
+- **📁 Total Jobs**: 713 positions
+- **🏢 Companies**: 38 companies
 - **⭐ FAANG+ Jobs & Internships**: 16 positions
 
 ### 🏢 **FAANG+** (27 positions)
@@ -1099,7 +1099,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 | 🏢 **Lumafield** | Embedded Systems Engineer | Boston, MA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25) |
 | 🏢 **Cook Systems** | Software Developer | Nashville, TN | 2mo ago | Mid-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/cooksys/jobs/4872299008) |
 | 🏢 **Unify** | Software Engineer | San Francisco, CA | 2mo ago | Mid-Level | Software Engineering | [Apply](https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a) |
-| 🏢 **Coalition** | Software Engineer I | Remote in USA, Locations | 2mo ago | Mid-Level | Software Engineering | [Apply](https://www.coalitioninc.com/job-posting/4560711005) |
+| 🏢 **Coalition** | Software Engineer I | Remote in USA, Locations | 3mo ago | Mid-Level | Software Engineering | [Apply](https://www.coalitioninc.com/job-posting/4560711005) |
 | 🏢 **mthree** | Junior Software Developer - Go Lang | United Kingdom, Locations | 3w ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006) |
 | 🏢 **mthree** | Entry Level - C Software Developer | Tampa, FL | 1mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602555006) |
 | 🏢 **mthree** | Junior Software Engineer | Salt Lake, UT | 3mo ago | Entry-Level | Software Engineering | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4406180006) |
@@ -1347,7 +1347,7 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 
 <div align="center">
 
-**🎯 513 current opportunities from 40 elite companies**
+**🎯 511 current opportunities from 38 elite companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 

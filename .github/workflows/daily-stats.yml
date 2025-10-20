@@ -40,6 +40,9 @@ jobs:
           ORG_NAME: 'zapplyjobs'
         run: node .github/scripts/daily-stats.js
 
+      - name: Pull latest changes before commit
+        run: git pull origin main --rebase --autostash || true
+
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
@@ -47,4 +50,3 @@ jobs:
           file_pattern: ".github/data/daily-stats.json"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
-          pull_options: '--rebase --autostash'

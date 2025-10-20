@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer - Back End - XBOX",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885238",
-    "job_posted_at_datetime_utc": "2025-10-20T20:45:51.109Z",
+    "job_title": "Engineering Manager, Network Infrastructure (Cloud)",
+    "employer_name": "Airbnb",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7343909?gh_jid=7343909",
+    "job_posted_at_datetime_utc": "2025-10-20T20:53:57.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-back-end-xbox-redmond"
-  },
-  {
-    "job_title": "Principal Engineer Manager - OneDrive & SharePoint Experiences",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897997",
-    "job_posted_at_datetime_utc": "2025-10-20T20:45:51.109Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-engineer-manager-onedrive-sharepoint-experiences-redmond"
+    "id": "airbnb-engineering-manager-network-infrastructure-cloud-remote-usa"
   }
 ]

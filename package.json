@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@octokit/rest": "^20.0.2",
+    "discord.js": "^14.23.2",
     "node-fetch": "^2.7.0"
   },
   "author": "zapplyjobs",

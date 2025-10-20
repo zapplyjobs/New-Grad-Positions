@@ -166,13 +166,9 @@ async function generateDailyMessage(repos, previousData) {
 
   const isFirstRun = Object.keys(previousData).length === 0;
 
-  let message = isFirstRun
-    ? `📊 **Zapply Daily - Initial Baseline**\n${today}\n\n`
-    : `📊 **Zapply Daily - ${today}**\n\n`;
-
-  if (isFirstRun) {
-    message += `Setting baseline for future comparisons...\n\n`;
-  }
+  // Format: New-Grad-Jobs - Oct 20, 2025 - Daily
+  const repoName = 'New-Grad-Jobs';
+  let message = `📊 **${repoName} - ${today} - Daily**\n\n`;
 
   message += `⭐ **STARS**\n`;
   message += '```\n';
@@ -235,12 +231,12 @@ async function generateDailyMessage(repos, previousData) {
       const warn = parseFloat(failRate) > 25 ? ' ⚠️' : '';
 
       const nameCol = name.padEnd(35);
-      const runsCol = `${stats.runs} runs`.padEnd(9);
+      const runsCol = `${stats.runs} runs`.padEnd(10);
 
       // Build status column with cancelled if >0
       let statusStr = `${stats.successes}✅ ${stats.failures}❌`;
       if (stats.cancelled > 0) statusStr += ` ${stats.cancelled}⛔`;
-      const statusCol = statusStr.padEnd(15);
+      const statusCol = statusStr.padEnd(20); // Increased from 15 to 20
 
       const durCol = formatDuration(stats.medianDuration).padEnd(7);
       const failCol = `${failRate}% fail${warn}`;
@@ -256,8 +252,7 @@ async function generateDailyMessage(repos, previousData) {
       slowRuns.slice(0, 3).forEach(run => {
         const date = new Date(run.created).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
         const durStr = formatDuration(run.duration);
-        message += `• ${run.name} took ${durStr} (${date})\n`;
-        message += `  ${run.url}\n`;
+        message += `• ${run.name} took ${durStr} (${date}): <${run.url}>\n`;
       });
     }
 
@@ -266,7 +261,7 @@ async function generateDailyMessage(repos, previousData) {
       message += `\n⚠️ **Recent Failures** (last 3):\n`;
       failedRuns.slice(0, 3).forEach(run => {
         const date = new Date(run.created).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-        message += `• ${run.name} (${date}): ${run.url}\n`;
+        message += `• ${run.name} (${date}): <${run.url}>\n`;
       });
     }
   }

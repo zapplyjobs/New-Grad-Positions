@@ -1,33 +1,24 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Global Compliance Assurance Testing Analyst",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Global Compliance Assurance Testing Analyst, AI, Content, Payments",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/116920769237131974-global-compliance-assurance-testing-analyst-ai-content-payments?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-global-compliance-assurance-testing-analyst-austin"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Offline Ads Analytics Specialist",
-    "job_city": "Kirkland",
+    "job_title": "Software Engineer - Back End - XBOX",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Offline Ads Analytics Specialist, Product Strategy and Operations",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/93044620836905670-offline-ads-analytics-specialist-product-strategy-and-operations?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-offline-ads-analytics-specialist-kirkland"
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1885238",
+    "job_posted_at_datetime_utc": "2025-10-20T20:45:51.109Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-back-end-xbox-redmond"
   },
   {
-    "job_title": "Analytics Engineer (L4) - Commerce Core",
-    "employer_name": "Netflix",
-    "job_city": "Los Gatos",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312550553",
-    "job_posted_at_datetime_utc": "2025-10-20T00:00:00.000Z",
+    "job_title": "Principal Engineer Manager - OneDrive & SharePoint Experiences",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897997",
+    "job_posted_at_datetime_utc": "2025-10-20T20:45:51.109Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-analytics-engineer-l4-commerce-core-los-gatos"
+    "id": "microsoft-principal-engineer-manager-onedrive-sharepoint-experiences-redmond"
   }
 ]

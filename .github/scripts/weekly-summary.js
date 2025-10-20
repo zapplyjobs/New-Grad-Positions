@@ -211,6 +211,30 @@ async function generateWeeklySummary(repos, previousData) {
   message += ` | ${totalIssues} issues\n`;
   message += '```\n';
 
+  // Add workflow health section (skip on first run)
+  if (!isFirstRun) {
+    const workflows = await fetchWorkflowStats(ORG_NAME, 'New-Grad-Jobs', 168);
+    if (Object.keys(workflows).length > 0) {
+      message += `\n**━━━ WORKFLOW HEALTH (Last 7 Days) ━━━**\n\`\`\`\n`;
+
+      for (const [name, stats] of Object.entries(workflows)) {
+        const avgDur = Math.round(stats.totalDuration / stats.runs);
+        const failRate = ((stats.failures / stats.runs) * 100).toFixed(1);
+        const warn = parseFloat(failRate) > 25 ? ' ⚠️' : '';
+
+        const nameCol = name.padEnd(30);
+        const runsCol = `${stats.runs} run${stats.runs > 1 ? 's' : ''}`.padEnd(10);
+        const statusCol = `${stats.successes}✅ ${stats.failures}❌`.padEnd(12);
+        const durCol = `~${avgDur}s avg`.padEnd(12);
+        const failCol = `${failRate}% fail${warn}`;
+
+        message += `${nameCol}| ${runsCol}| ${statusCol}| ${durCol}| ${failCol}\n`;
+      }
+
+      message += '```\n';
+    }
+  }
+
   // Highlights section (skip on first run)
   if (!isFirstRun && Object.keys(activityData).length > 0) {
     const totalNewIssues = Object.values(activityData).reduce((sum, a) => sum + a.newIssues, 0);
@@ -266,6 +290,41 @@ function formatChange(current, change, isFirstRun) {
   if (change === 0) return `${current.toLocaleString()} (=)`;
   if (change > 0) return `${current.toLocaleString()} (+${change})`;
   return `${current.toLocaleString()} (${change})`;
+}
+
+async function fetchWorkflowStats(owner, repo, hoursAgo = 168) {
+  const since = new Date(Date.now() - hoursAgo * 60 * 60 * 1000).toISOString();
+
+  try {
+    const { data: runs } = await octokit.actions.listWorkflowRunsForRepo({
+      owner,
+      repo,
+      per_page: 100,
+      created: `>=${since}`
+    });
+
+    const byWorkflow = {};
+
+    for (const run of runs.workflow_runs) {
+      const name = run.name;
+      if (!byWorkflow[name]) {
+        byWorkflow[name] = { runs: 0, failures: 0, successes: 0, cancelled: 0, totalDuration: 0 };
+      }
+
+      byWorkflow[name].runs++;
+      if (run.conclusion === 'success') byWorkflow[name].successes++;
+      if (run.conclusion === 'failure') byWorkflow[name].failures++;
+      if (run.conclusion === 'cancelled') byWorkflow[name].cancelled++;
+
+      const duration = (new Date(run.updated_at) - new Date(run.created_at)) / 1000;
+      byWorkflow[name].totalDuration += duration;
+    }
+
+    return byWorkflow;
+  } catch (error) {
+    console.error(`Error fetching workflow stats for ${repo}:`, error.message);
+    return {};
+  }
 }
 
 async function postToDiscord(message) {

@@ -81,6 +81,41 @@ function formatStarChange(current, previous, isFirstRun) {
   return `${current.toLocaleString()} (${change})`;
 }
 
+async function fetchWorkflowStats(owner, repo, hoursAgo = 24) {
+  const since = new Date(Date.now() - hoursAgo * 60 * 60 * 1000).toISOString();
+
+  try {
+    const { data: runs } = await octokit.actions.listWorkflowRunsForRepo({
+      owner,
+      repo,
+      per_page: 100,
+      created: `>=${since}`
+    });
+
+    const byWorkflow = {};
+
+    for (const run of runs.workflow_runs) {
+      const name = run.name;
+      if (!byWorkflow[name]) {
+        byWorkflow[name] = { runs: 0, failures: 0, successes: 0, cancelled: 0, totalDuration: 0 };
+      }
+
+      byWorkflow[name].runs++;
+      if (run.conclusion === 'success') byWorkflow[name].successes++;
+      if (run.conclusion === 'failure') byWorkflow[name].failures++;
+      if (run.conclusion === 'cancelled') byWorkflow[name].cancelled++;
+
+      const duration = (new Date(run.updated_at) - new Date(run.created_at)) / 1000;
+      byWorkflow[name].totalDuration += duration;
+    }
+
+    return byWorkflow;
+  } catch (error) {
+    console.error(`Error fetching workflow stats for ${repo}:`, error.message);
+    return {};
+  }
+}
+
 async function generateDailyMessage(repos, previousData) {
   const today = new Date().toLocaleDateString('en-US', {
     month: 'short',
@@ -148,6 +183,28 @@ async function generateDailyMessage(repos, previousData) {
     }
   }
   message += '\n```\n';
+
+  // Add workflow health section
+  const workflows = await fetchWorkflowStats(ORG_NAME, 'New-Grad-Jobs', 24);
+  if (Object.keys(workflows).length > 0) {
+    message += `\n🤖 **WORKFLOW HEALTH (Last 24 Hours)**\n\`\`\`\n`;
+
+    for (const [name, stats] of Object.entries(workflows)) {
+      const avgDur = Math.round(stats.totalDuration / stats.runs);
+      const failRate = ((stats.failures / stats.runs) * 100).toFixed(1);
+      const warn = parseFloat(failRate) > 25 ? ' ⚠️' : '';
+
+      const nameCol = name.padEnd(30);
+      const runsCol = `${stats.runs} run${stats.runs > 1 ? 's' : ''}`.padEnd(8);
+      const statusCol = `${stats.successes}✅ ${stats.failures}❌`.padEnd(12);
+      const durCol = `~${avgDur}s avg`.padEnd(12);
+      const failCol = `${failRate}% fail${warn}`;
+
+      message += `${nameCol}| ${runsCol}| ${statusCol}| ${durCol}| ${failCol}\n`;
+    }
+
+    message += '```\n';
+  }
 
   // Add new activity section if any
   if (activities.length > 0) {

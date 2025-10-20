@@ -47,3 +47,4 @@ jobs:
           file_pattern: ".github/data/daily-stats.json"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          pull_options: '--rebase --autostash'

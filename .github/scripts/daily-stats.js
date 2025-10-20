@@ -118,7 +118,7 @@ async function generateDailyMessage(repos, previousData) {
       totalStars += repo.stargazers_count;
       totalChange += change;
 
-      const formattedName = repo.name.padEnd(30);
+      const formattedName = repo.name.padEnd(39);
       message += `${formattedName} ${formatStarChange(repo.stargazers_count, prevStars, isFirstRun)}\n`;
 
       // Check for new activity (skip on first run)

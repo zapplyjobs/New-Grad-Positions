@@ -11,6 +11,8 @@ on:
 jobs:
   post-daily-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to commit data files
 
     steps:
       - name: Checkout repository

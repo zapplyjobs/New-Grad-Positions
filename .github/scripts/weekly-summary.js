@@ -137,8 +137,8 @@ async function generateWeeklySummary(repos, previousData) {
   // Repository stats table
   message += `**━━━ REPOSITORY STATS ━━━**\n`;
   message += '```\n';
-  message += 'Repo                        ⭐Stars      🔀Forks    🐛Issues\n';
-  message += '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n';
+  message += 'Repo                                   ⭐Stars   🔀Forks  🐛Issues\n';
+  message += '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n';
 
   let totalStars = 0, totalStarChange = 0;
   let totalForks = 0, totalForkChange = 0;
@@ -170,12 +170,12 @@ async function generateWeeklySummary(repos, previousData) {
         topGainers.push({ name: repo.name, change: starChange });
       }
 
-      const name = repo.name.padEnd(28);
+      const name = repo.name.padEnd(39);
       const stars = formatChange(repo.stargazers_count, starChange, isFirstRun);
       const forks = formatChange(repo.forks_count, forkChange, isFirstRun);
       const issues = `${repo.open_issues_count}`;
 
-      message += `${name}${stars.padEnd(12)}${forks.padEnd(11)}${issues}\n`;
+      message += `${name}${stars.padEnd(9)}${forks.padEnd(9)}${issues}\n`;
 
       // Fetch weekly activity for this repo (skip on first run)
       if (!isFirstRun) {

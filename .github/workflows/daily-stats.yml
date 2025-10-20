@@ -39,4 +39,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add .github/data/daily-stats.json
           git diff --staged --quiet || git commit -m "Update daily stats data [skip ci]"
+          git pull --rebase origin main
           git push

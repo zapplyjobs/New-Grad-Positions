@@ -46,7 +46,7 @@ jobs:
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update daily stats data [skip ci]"
-          file_pattern: ".github/data/daily-stats.json"
+          commit_message: "Update daily stats and stargazer data [skip ci]"
+          file_pattern: ".github/data/*.json"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"

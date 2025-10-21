@@ -7,6 +7,7 @@ const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 const ORG_NAME = process.env.ORG_NAME || 'zapplyjobs';
 const WEBHOOK_URL = process.env.DISCORD_WEBHOOK_URL;
 const DATA_FILE = path.join(__dirname, '../data/daily-stats.json');
+const STARGAZERS_FILE = path.join(__dirname, '../data/stargazers.json');
 const MAX_DISCORD_LENGTH = 1900; // Safety buffer below 2000 char limit
 
 async function fetchOrgRepos() {
@@ -31,6 +32,78 @@ async function loadPreviousData() {
 async function saveDailyData(data) {
   await fs.mkdir(path.dirname(DATA_FILE), { recursive: true });
   await fs.writeFile(DATA_FILE, JSON.stringify(data, null, 2));
+}
+
+async function loadPreviousStargazers() {
+  try {
+    const data = await fs.readFile(STARGAZERS_FILE, 'utf8');
+    return JSON.parse(data);
+  } catch (error) {
+    console.log('No previous stargazer data found');
+    return { stargazers: [], last_updated: null };
+  }
+}
+
+async function saveStargazerData(data) {
+  await fs.mkdir(path.dirname(STARGAZERS_FILE), { recursive: true });
+  await fs.writeFile(STARGAZERS_FILE, JSON.stringify(data, null, 2));
+}
+
+async function fetchRepoStargazers(owner, repo) {
+  const stargazers = [];
+  let page = 1;
+  const perPage = 100;
+
+  console.log(`  Fetching stargazers for ${repo}...`);
+
+  while (true) {
+    try {
+      const response = await octokit.request('GET /repos/{owner}/{repo}/stargazers', {
+        owner,
+        repo,
+        per_page: perPage,
+        page: page,
+        headers: {
+          'Accept': 'application/vnd.github.star+json',
+          'X-GitHub-Api-Version': '2022-11-28'
+        }
+      });
+
+      if (response.data.length === 0) break;
+
+      for (const item of response.data) {
+        stargazers.push({
+          login: item.user.login,
+          id: item.user.id,
+          avatar_url: item.user.avatar_url,
+          html_url: item.user.html_url,
+          starred_at: item.starred_at
+        });
+      }
+
+      if (response.data.length < perPage) break;
+      page++;
+
+      // Rate limit protection
+      await new Promise(resolve => setTimeout(resolve, 100));
+    } catch (error) {
+      console.error(`Error fetching stargazers for ${repo}:`, error.message);
+      break;
+    }
+  }
+
+  console.log(`    Found ${stargazers.length} stargazers`);
+  return stargazers;
+}
+
+function findNewStargazers(current, previous) {
+  const previousIds = new Set(previous.map(s => s.id));
+  return current.filter(s => !previousIds.has(s.id));
+}
+
+function findRemovedStargazers(current, previous) {
+  const currentIds = new Set(current.map(s => s.id));
+  return previous.filter(s => !currentIds.has(s.id));
 }
 
 async function checkNewActivity(repo, previousData) {
@@ -157,7 +230,7 @@ async function fetchWorkflowStats(owner, repo, hoursAgo = 24) {
   }
 }
 
-async function generateDailyMessage(repos, previousData) {
+async function generateDailyMessage(repos, previousData, stargazerData) {
   const today = new Date().toLocaleDateString('en-US', {
     month: 'short',
     day: 'numeric',
@@ -165,6 +238,7 @@ async function generateDailyMessage(repos, previousData) {
   });
 
   const isFirstRun = Object.keys(previousData).length === 0;
+  const { newStars = [], removedStars = [] } = stargazerData || {};
 
   // Format: New-Grad-Jobs - Oct 20, 2025 - Daily
   const repoName = 'New-Grad-Jobs';
@@ -220,6 +294,46 @@ async function generateDailyMessage(repos, previousData) {
     }
   }
   message += '\n```\n';
+
+  // Add new/removed stargazers section
+  if (newStars.length > 0 || removedStars.length > 0) {
+    if (newStars.length > 0) {
+      message += `\n🌟 **${newStars.length} New Stargazer${newStars.length > 1 ? 's' : ''}**\n`;
+      message += '```\n';
+
+      const displayLimit = Math.min(newStars.length, 5);
+      for (let i = 0; i < displayLimit; i++) {
+        const star = newStars[i];
+        const starredDate = new Date(star.starred_at).toLocaleDateString('en-US', {
+          month: 'short',
+          day: 'numeric',
+          hour: '2-digit',
+          minute: '2-digit'
+        });
+        message += `${star.login.padEnd(30)} ${starredDate}\n`;
+      }
+
+      if (newStars.length > displayLimit) {
+        message += `... and ${newStars.length - displayLimit} more\n`;
+      }
+      message += '```\n';
+    }
+
+    if (removedStars.length > 0) {
+      message += `\n💔 **${removedStars.length} Unstarred**\n`;
+      message += '```\n';
+
+      const displayLimit = Math.min(removedStars.length, 3);
+      for (let i = 0; i < displayLimit; i++) {
+        message += `${removedStars[i].login}\n`;
+      }
+
+      if (removedStars.length > displayLimit) {
+        message += `... and ${removedStars.length - displayLimit} more\n`;
+      }
+      message += '```\n';
+    }
+  }
 
   // Add workflow health section
   const { byWorkflow: workflows, failedRuns, slowRuns } = await fetchWorkflowStats(ORG_NAME, 'New-Grad-Jobs', 24);
@@ -321,8 +435,24 @@ async function main() {
   console.log('Loading previous data...');
   const previousData = await loadPreviousData();
 
+  // Fetch stargazers for main repo
+  console.log('Fetching stargazers...');
+  const currentStargazers = await fetchRepoStargazers(ORG_NAME, 'New-Grad-Jobs');
+
+  console.log('Loading previous stargazer data...');
+  const previousStargazerData = await loadPreviousStargazers();
+  const previousStargazers = previousStargazerData.stargazers || [];
+
+  // Find changes in stargazers
+  const newStars = findNewStargazers(currentStargazers, previousStargazers);
+  const removedStars = findRemovedStargazers(currentStargazers, previousStargazers);
+
+  console.log(`Found ${newStars.length} new stars, ${removedStars.length} removed stars`);
+
+  const stargazerData = { newStars, removedStars };
+
   console.log('Generating daily message...');
-  const message = await generateDailyMessage(repos, previousData);
+  const message = await generateDailyMessage(repos, previousData, stargazerData);
 
   console.log('Posting to Discord...');
   await postToDiscord(message);
@@ -340,6 +470,21 @@ async function main() {
 
   console.log('Saving current data...');
   await saveDailyData(currentData);
+
+  // Save stargazer data
+  const stargazerDataToSave = {
+    stargazers: currentStargazers,
+    total_count: currentStargazers.length,
+    last_updated: new Date().toISOString(),
+    stats: {
+      new_since_last_run: newStars.length,
+      removed_since_last_run: removedStars.length,
+      net_change: currentStargazers.length - previousStargazers.length
+    }
+  };
+
+  console.log('Saving stargazer data...');
+  await saveStargazerData(stargazerDataToSave);
 
   console.log('✅ Daily stats posted successfully!');
 }

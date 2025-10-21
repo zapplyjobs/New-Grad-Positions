@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="jobboard/public/companies-banner.svg" alt="New Grad Jobs - Top Companies Hiring" width="100%">
+<img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Jobs 2025-2026</h3>
 <p><em>Real-time job opportunities at 39+ top tech companies</em></p>
@@ -19,7 +19,7 @@
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-500+-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building)
-![Updated](https://img.shields.io/badge/Updated-Daily-orange?style=flat&logo=calendar)
+![Updated](https://img.shields.io/badge/Updated-Hourly-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/github/license/zapplyjobs/New-Grad-Jobs?style=flat&color=purple)
 
 <!-- Row 2: Repository Stats -->
@@ -35,8 +35,11 @@
 
 <!-- Row 4: Community & Links (for-the-badge style) -->
 [![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://new-grad-positions.vercel.app/)
-[![Zapply](https://img.shields.io/badge/Zapply-Apply_Faster-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply-jobs.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
+[![Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
+
+<!-- Zapply extension badge - add when extension launches -->
+<!-- [![Zapply](https://img.shields.io/badge/Zapply-Apply_Faster-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply-jobs.vercel.app/) -->
 
 </div>
 

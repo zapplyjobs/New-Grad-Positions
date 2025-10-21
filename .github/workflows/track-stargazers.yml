@@ -1,0 +1,87 @@
+name: Track GitHub Stargazers
+
+on:
+  schedule:
+    # Run daily at 7:00 AM London time (GMT/BST)
+    # This runs 1 hour after daily-stats.yml (6 AM) to avoid conflicts
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allow manual triggers for testing
+
+concurrency:
+  group: stargazer-tracking-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  track-stargazers:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to commit stargazer data files
+
+    steps:
+      - name: Wait for other workflows to complete
+        run: sleep 60
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install @octokit/rest node-fetch
+
+      - name: Track stargazers
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          REPO_OWNER: 'zapplyjobs'
+          REPO_NAME: 'New-Grad-Jobs'
+        run: node .github/scripts/track-stargazers.js
+
+      - name: Pull latest changes before commit
+        run: git pull origin main --rebase --autostash || true
+
+      - name: Commit updated stargazer data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update stargazer tracking data [skip ci]"
+          file_pattern: ".github/data/stargazers.json"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+
+      - name: Create workflow summary
+        if: always()
+        run: |
+          echo "## ⭐ Stargazer Tracking Report" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f ".github/data/stargazers.json" ]; then
+            TOTAL=$(jq -r '.total_count' .github/data/stargazers.json || echo "0")
+            NEW=$(jq -r '.stats.new_since_last_run' .github/data/stargazers.json || echo "0")
+            REMOVED=$(jq -r '.stats.removed_since_last_run' .github/data/stargazers.json || echo "0")
+            NET_CHANGE=$(jq -r '.stats.net_change' .github/data/stargazers.json || echo "0")
+            LAST_UPDATED=$(jq -r '.last_updated' .github/data/stargazers.json || echo "Unknown")
+
+            echo "### 📊 Summary" >> $GITHUB_STEP_SUMMARY
+            echo "- **Total Stars:** $TOTAL" >> $GITHUB_STEP_SUMMARY
+            echo "- **Net Change:** $NET_CHANGE" >> $GITHUB_STEP_SUMMARY
+            echo "- **New Stars:** $NEW" >> $GITHUB_STEP_SUMMARY
+            echo "- **Removed Stars:** $REMOVED" >> $GITHUB_STEP_SUMMARY
+            echo "- **Last Updated:** $LAST_UPDATED" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+
+            if [ "$NEW" -gt 0 ]; then
+              echo "🎉 **Welcome new stargazers!**" >> $GITHUB_STEP_SUMMARY
+            elif [ "$NET_CHANGE" -eq 0 ]; then
+              echo "ℹ️ No stargazer changes detected today." >> $GITHUB_STEP_SUMMARY
+            fi
+          else
+            echo "❌ **Error:** Stargazer data file not found" >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**🔄 Next update:** Tomorrow at 7 AM London time" >> $GITHUB_STEP_SUMMARY

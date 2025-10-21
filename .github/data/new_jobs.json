@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "job_title": "MSBuild Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900261",
+    "job_posted_at_datetime_utc": "2025-10-21T14:31:09.421Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-msbuild-software-engineer-redmond"
+  }
+]

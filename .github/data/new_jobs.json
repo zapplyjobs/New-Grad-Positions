@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Senior Service Engineer - Livesite Manager - CTJ - Poly",
+    "job_title": "Site Reliability Engineer - CTJ - Poly",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899779",
-    "job_posted_at_datetime_utc": "2025-10-21T21:31:45.208Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899053",
+    "job_posted_at_datetime_utc": "2025-10-21T21:49:40.787Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-service-engineer-livesite-manager-ctj-poly-redmond"
+    "id": "microsoft-site-reliability-engineer-ctj-poly-redmond"
   },
   {
-    "job_title": "Principal Electrical Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900018",
-    "job_posted_at_datetime_utc": "2025-10-21T21:31:45.208Z",
+    "job_title": "Staff Software Engineer, Infrastructure",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/7953473002",
+    "job_posted_at_datetime_utc": "2025-10-21T21:44:54.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-electrical-engineer-redmond"
+    "id": "discord-staff-software-engineer-infrastructure-san-francisco-bay-area"
   }
 ]

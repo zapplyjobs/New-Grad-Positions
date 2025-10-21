@@ -231,12 +231,14 @@ async function generateDailyMessage(repos, previousData) {
       const warn = parseFloat(failRate) > 25 ? ' ⚠️' : '';
 
       const nameCol = name.padEnd(35);
-      const runsCol = `${stats.runs} runs`.padEnd(9);
-      const statusCol = `${stats.successes}✅ ${stats.failures}❌${stats.cancelled > 0 ? ` ${stats.cancelled}⛔` : ''}`;
+      const runsCol = `${stats.runs} runs`.padEnd(8);
+      const successCol = `${stats.successes}✅`.padEnd(5);
+      const failCol = `${stats.failures}❌`.padEnd(5);
+      const cancelCol = stats.cancelled > 0 ? `${stats.cancelled}🛑`.padEnd(4) : '';
       const durCol = formatDuration(stats.medianDuration).padEnd(6);
-      const failCol = `${failRate}% fail${warn}`;
+      const failRateCol = `${failRate}% fail${warn}`;
 
-      message += `${nameCol}| ${runsCol}| ${statusCol} | ${durCol}| ${failCol}\n`;
+      message += `${nameCol}| ${runsCol}| ${successCol}${failCol}${cancelCol}| ${durCol}| ${failRateCol}\n`;
     }
 
     message += '```\n';

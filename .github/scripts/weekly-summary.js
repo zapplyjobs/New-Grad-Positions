@@ -222,14 +222,8 @@ async function generateWeeklySummary(repos, previousData) {
         const warn = parseFloat(failRate) > 25 ? ' ⚠️' : '';
 
         const nameCol = name.padEnd(35);
-        const runsCol = `${stats.runs} runs`.padEnd(10);
-
-        // Build status column - fixed format to handle emoji width
-        const successPart = `${stats.successes}✅`.padEnd(6);
-        const failPart = `${stats.failures}❌`.padEnd(6);
-        const cancelPart = stats.cancelled > 0 ? `${stats.cancelled}⛔`.padEnd(5) : '';
-        const statusCol = `${successPart} ${failPart} ${cancelPart}`;
-
+        const runsCol = `${stats.runs} runs`.padEnd(9);
+        const statusCol = `${stats.successes}✅ ${stats.failures}❌${stats.cancelled > 0 ? ` ${stats.cancelled}⛔` : ''}`;
         const durCol = formatDuration(stats.medianDuration).padEnd(7);
         const failCol = `${failRate}% fail${warn}`;
 
@@ -240,21 +234,23 @@ async function generateWeeklySummary(repos, previousData) {
 
       // Add slow run alerts (>1 hour)
       if (slowRuns.length > 0) {
-        message += `\n🐢 **Slow Runs Alert** (>1 hour, last 5):\n`;
+        message += `\n🐢 **Slow Runs Alert** (>1 hour, last 5):\n\`\`\`\n`;
         slowRuns.slice(0, 5).forEach(run => {
           const date = new Date(run.created).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
           const durStr = formatDuration(run.duration);
-          message += `• ${run.name} took ${durStr} (${date}): <${run.url}>\n`;
+          message += `${run.name} took ${durStr} (${date})\n<${run.url}>\n\n`;
         });
+        message += '```\n';
       }
 
       // Add failed run links if any failures
       if (failedRuns.length > 0) {
-        message += `\n⚠️ **Recent Failures** (last 5):\n`;
+        message += `\n⚠️ **Recent Failures** (last 5):\n\`\`\`\n`;
         failedRuns.slice(0, 5).forEach(run => {
           const date = new Date(run.created).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-          message += `• ${run.name} (${date}): <${run.url}>\n`;
+          message += `${run.name} (${date})\n<${run.url}>\n\n`;
         });
+        message += '```\n';
       }
     }
   }
@@ -268,7 +264,7 @@ async function generateWeeklySummary(repos, previousData) {
     const totalCommits = Object.values(activityData).reduce((sum, a) => sum + a.commits, 0);
     const allReleases = Object.values(activityData).flatMap(a => a.releases);
 
-    message += `\n**━━━ HIGHLIGHTS ━━━**\n`;
+    message += `\n**━━━ HIGHLIGHTS ━━━**\n\`\`\`\n`;
     message += `🆕 ${totalNewIssues} New Issues | 🎯 ${totalNewPRs} New PRs | 🎉 ${totalMergedPRs} Merged PRs | ✅ ${totalClosedIssues} Closed Issues\n`;
 
     if (allReleases.length > 0) {
@@ -277,7 +273,7 @@ async function generateWeeklySummary(repos, previousData) {
         const repoName = Object.keys(activityData).find(name =>
           activityData[name].releases.includes(r)
         );
-        message += `\n   • ${repoName}: ${r.tag_name}`;
+        message += `\n   ${repoName}: ${r.tag_name}`;
       });
       message += '\n';
     }
@@ -288,7 +284,7 @@ async function generateWeeklySummary(repos, previousData) {
 
     // Top gainers
     if (topGainers.length > 0) {
-      message += `\n**🏆 Top Star Gainers**\n`;
+      message += `\n🏆 Top Star Gainers\n`;
       topGainers.sort((a, b) => b.change - a.change)
         .slice(0, 3)
         .forEach((repo, idx) => {
@@ -296,13 +292,14 @@ async function generateWeeklySummary(repos, previousData) {
           message += `${medal} ${repo.name}: +${repo.change}⭐\n`;
         });
     }
+    message += '```\n';
   }
 
   // Add security alerts section (skip on first run)
   if (!isFirstRun) {
     const securityAlerts = await fetchSecurityAlerts(ORG_NAME, 'New-Grad-Jobs');
     if (securityAlerts && securityAlerts.total > 0) {
-      message += `\n**━━━ SECURITY ALERTS ━━━**\n`;
+      message += `\n**━━━ SECURITY ALERTS ━━━**\n\`\`\`\n`;
       const { critical, high, medium, low } = securityAlerts.bySeverity;
 
       const parts = [];
@@ -312,7 +309,8 @@ async function generateWeeklySummary(repos, previousData) {
       if (low > 0) parts.push(`${low} Low`);
 
       message += `🔐 ${parts.join(' | ')}\n`;
-      message += `📋 View all: https://github.com/${ORG_NAME}/New-Grad-Jobs/security/dependabot\n`;
+      message += `View all: <https://github.com/${ORG_NAME}/New-Grad-Jobs/security/dependabot>\n`;
+      message += '```\n';
     }
   }
 

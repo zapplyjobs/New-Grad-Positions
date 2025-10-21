@@ -231,14 +231,8 @@ async function generateDailyMessage(repos, previousData) {
       const warn = parseFloat(failRate) > 25 ? ' ⚠️' : '';
 
       const nameCol = name.padEnd(35);
-      const runsCol = `${stats.runs} runs`.padEnd(10);
-
-      // Build status column - fixed format to handle emoji width
-      const successPart = `${stats.successes}✅`.padEnd(6);
-      const failPart = `${stats.failures}❌`.padEnd(6);
-      const cancelPart = stats.cancelled > 0 ? `${stats.cancelled}⛔`.padEnd(5) : '';
-      const statusCol = `${successPart} ${failPart} ${cancelPart}`;
-
+      const runsCol = `${stats.runs} runs`.padEnd(9);
+      const statusCol = `${stats.successes}✅ ${stats.failures}❌${stats.cancelled > 0 ? ` ${stats.cancelled}⛔` : ''}`;
       const durCol = formatDuration(stats.medianDuration).padEnd(7);
       const failCol = `${failRate}% fail${warn}`;
 
@@ -249,41 +243,44 @@ async function generateDailyMessage(repos, previousData) {
 
     // Add slow run alerts (>1 hour)
     if (slowRuns.length > 0) {
-      message += `\n🐢 **Slow Runs Alert** (>1 hour):\n`;
+      message += `\n🐢 **Slow Runs Alert** (>1 hour):\n\`\`\`\n`;
       slowRuns.slice(0, 3).forEach(run => {
         const date = new Date(run.created).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
         const durStr = formatDuration(run.duration);
-        message += `• ${run.name} took ${durStr} (${date}): <${run.url}>\n`;
+        message += `${run.name} took ${durStr} (${date})\n<${run.url}>\n\n`;
       });
+      message += '```\n';
     }
 
     // Add failed run links if any failures
     if (failedRuns.length > 0) {
-      message += `\n⚠️ **Recent Failures** (last 3):\n`;
+      message += `\n⚠️ **Recent Failures** (last 3):\n\`\`\`\n`;
       failedRuns.slice(0, 3).forEach(run => {
         const date = new Date(run.created).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-        message += `• ${run.name} (${date}): <${run.url}>\n`;
+        message += `${run.name} (${date})\n<${run.url}>\n\n`;
       });
+      message += '```\n';
     }
   }
 
   // Add new activity section if any
   if (activities.length > 0) {
-    message += `\n🆕 **NEW ACTIVITY**\n`;
+    message += `\n🆕 **NEW ACTIVITY**\n\`\`\`\n`;
 
     const totalNewIssues = activities.reduce((sum, a) => sum + a.newIssues.length, 0);
     const totalNewPRs = activities.reduce((sum, a) => sum + a.newPRs.length, 0);
     const totalNewReleases = activities.reduce((sum, a) => sum + a.newReleases.length, 0);
 
-    if (totalNewIssues > 0) message += `• ${totalNewIssues} new issue${totalNewIssues > 1 ? 's' : ''}\n`;
-    if (totalNewPRs > 0) message += `• ${totalNewPRs} new PR${totalNewPRs > 1 ? 's' : ''}\n`;
+    if (totalNewIssues > 0) message += `${totalNewIssues} new issue${totalNewIssues > 1 ? 's' : ''}\n`;
+    if (totalNewPRs > 0) message += `${totalNewPRs} new PR${totalNewPRs > 1 ? 's' : ''}\n`;
     if (totalNewReleases > 0) {
       for (const act of activities) {
         for (const release of act.newReleases) {
-          message += `• Release: ${act.repo} ${release.tag_name}\n`;
+          message += `Release: ${act.repo} ${release.tag_name}\n`;
         }
       }
     }
+    message += '```\n';
   }
 
   // Check message length and truncate if needed

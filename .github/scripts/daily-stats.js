@@ -233,10 +233,11 @@ async function generateDailyMessage(repos, previousData) {
       const nameCol = name.padEnd(35);
       const runsCol = `${stats.runs} runs`.padEnd(10);
 
-      // Build status column with cancelled if >0
-      let statusStr = `${stats.successes}✅ ${stats.failures}❌`;
-      if (stats.cancelled > 0) statusStr += ` ${stats.cancelled}⛔`;
-      const statusCol = statusStr.padEnd(20); // Increased from 15 to 20
+      // Build status column - fixed format to handle emoji width
+      const successPart = `${stats.successes}✅`.padEnd(6);
+      const failPart = `${stats.failures}❌`.padEnd(6);
+      const cancelPart = stats.cancelled > 0 ? `${stats.cancelled}⛔`.padEnd(5) : '';
+      const statusCol = `${successPart} ${failPart} ${cancelPart}`;
 
       const durCol = formatDuration(stats.medianDuration).padEnd(7);
       const failCol = `${failRate}% fail${warn}`;

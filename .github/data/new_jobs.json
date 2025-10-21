@@ -1,24 +1,46 @@
 [
   {
-    "job_title": "Site Reliability Engineer - CTJ - Poly",
+    "job_title": "Software Development Engineer, IXT",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3113059/software-development-engineer-ixt",
+    "job_posted_at": "2025-10-21T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-21T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-ixt-seattle"
+  },
+  {
+    "job_title": "Software Engineer II, ML Infra",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3112104/software-engineer-ii-ml-infra",
+    "job_posted_at": "2025-10-20T22:01:06.949Z",
+    "job_posted_at_datetime_utc": "2025-10-20T22:01:06.949Z",
+    "id": "amazon-software-engineer-ii-ml-infra-san-francisco"
+  },
+  {
+    "job_title": "Software Dev Engineer II, PXF Learn",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3112060/software-dev-engineer-ii-pxf-learn",
+    "job_posted_at": "2025-10-20T22:01:06.949Z",
+    "job_posted_at_datetime_utc": "2025-10-20T22:01:06.949Z",
+    "id": "amazon-software-dev-engineer-ii-pxf-learn-seattle"
+  },
+  {
+    "job_title": "Senior Software Engineer - Applied AI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899053",
-    "job_posted_at_datetime_utc": "2025-10-21T21:49:40.787Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898254",
+    "job_posted_at_datetime_utc": "2025-10-21T22:07:39.368Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-site-reliability-engineer-ctj-poly-redmond"
-  },
-  {
-    "job_title": "Staff Software Engineer, Infrastructure",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/7953473002",
-    "job_posted_at_datetime_utc": "2025-10-21T21:44:54.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-staff-software-engineer-infrastructure-san-francisco-bay-area"
+    "id": "microsoft-senior-software-engineer-applied-ai-redmond"
   }
 ]

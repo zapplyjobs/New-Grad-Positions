@@ -13,7 +13,7 @@
 ![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-281-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Hourly-orange?style=flat&logo=calendar)
-![License](https://img.shields.io/github/license/zapplyjobs/New-Grad-Jobs?style=flat&color=purple)
+![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
 <!-- Row 2: Repository Stats -->
 ![GitHub stars](https://img.shields.io/github/stars/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=yellow)

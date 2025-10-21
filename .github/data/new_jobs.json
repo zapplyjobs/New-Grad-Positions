@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Machine Learning Engineer – New Graduate",
-    "employer_name": "Revionics",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Join Revionics in this exciting opportunity.",
-    "job_apply_link": "https://revionics.com/about/careers/open-jobs?gh_jid=7172125",
-    "job_posted_at_datetime_utc": "2025-10-21T00:10:07.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "revionics-machine-learning-engineer-new-graduate-austin"
-  },
-  {
-    "job_title": "Software Engineer Intern, Mobile iOS (Summer 2026)",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
+    "job_title": "Solutions Software Engineer L4 - Studio and Enterprise Solutions",
+    "employer_name": "Netflix",
+    "job_city": "Los Angeles",
     "job_state": "CA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8215921002?gh_jid=8215921002",
-    "job_posted_at_datetime_utc": "2025-10-21T00:05:47.000Z",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312551421",
+    "job_posted_at_datetime_utc": "2025-10-20T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-software-engineer-intern-mobile-ios-summer-2026-san-francisco"
+    "id": "netflix-solutions-software-engineer-l4-studio-and-enterprise-solutions-los-angeles"
   }
 ]

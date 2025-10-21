@@ -1,41 +1,41 @@
 <div align="center">
 
-<!-- Placeholder Banner (Replace with custom banner later) -->
-<img src="https://via.placeholder.com/1280x640/4F46E5/FFFFFF?text=New+Grad+Jobs+-+Zapply" alt="New Grad Jobs Banner" width="100%">
+<!-- Banner -->
+<img src="jobboard/public/companies-banner.svg" alt="New Grad Jobs - Top Companies Hiring" width="100%">
 
-<h3>💻 Software Engineering Jobs & Internships 2025-2026</h3>
-<p><em>Your Gateway to Entry-Level Tech Opportunities at Top Companies</em></p>
+<h3>💼 New Grad Jobs 2025-2026</h3>
+<p><em>Real-time job opportunities at 39+ top tech companies</em></p>
 
 <br>
 
-<!-- Navigation Links -->
-<a href="https://github.com/zapplyjobs/New-Grad-Jobs/discussions"><strong>Discussions</strong></a> ·
-<a href="https://zapplyjobs.com"><strong>Website</strong></a> ·
-<a href="https://github.com/zapplyjobs/New-Grad-Jobs/issues"><strong>Issues</strong></a> ·
-<a href="https://github.com/zapplyjobs/New-Grad-Jobs/projects"><strong>Roadmap</strong></a>
+<!-- Quick Links -->
+<a href="https://new-grad-positions.vercel.app/"><strong>Browse Jobs</strong></a> ·
+<a href="https://zapply-jobs.vercel.app/"><strong>Zapply</strong></a> ·
+<a href="https://github.com/zapplyjobs/New-Grad-Jobs/issues"><strong>Report Issue</strong></a> ·
+<a href="https://discord.gg/yKWw28q7Yq"><strong>Community</strong></a>
 
 <br><br>
 
-<!-- Row 1: Core Status & Activity Badges -->
+<!-- Row 1: Job Stats (Custom Static Badges) -->
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-500+-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-39-blue?style=flat&logo=building)
+![Updated](https://img.shields.io/badge/Updated-Daily-orange?style=flat&logo=calendar)
+![License](https://img.shields.io/github/license/zapplyjobs/New-Grad-Jobs?style=flat&color=purple)
+
+<!-- Row 2: Repository Stats -->
 ![GitHub stars](https://img.shields.io/github/stars/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/zapplyjobs/New-Grad-Jobs?style=flat&logo=github&color=blue)
-![GitHub license](https://img.shields.io/github/license/zapplyjobs/New-Grad-Jobs?style=flat&color=green)
-![Last commit](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Jobs?style=flat&color=orange)
-![Contributors](https://img.shields.io/github/contributors/zapplyjobs/New-Grad-Jobs?style=flat&color=purple)
+![Last commit](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Jobs?style=flat&color=red)
+![Contributors](https://img.shields.io/github/contributors/zapplyjobs/New-Grad-Jobs?style=flat&color=green)
 
-<!-- Row 2: Activity & Health Metrics -->
-![Commit activity](https://img.shields.io/github/commit-activity/m/zapplyjobs/New-Grad-Jobs?style=flat&label=commits&color=blue)
-![GitHub issues](https://img.shields.io/github/issues/zapplyjobs/New-Grad-Jobs?style=flat&color=red)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/zapplyjobs/New-Grad-Jobs?style=flat&color=green)
-![Repo size](https://img.shields.io/github/repo-size/zapplyjobs/New-Grad-Jobs?style=flat&color=lightgrey)
+<!-- Row 3: Workflow Health -->
+![Update Jobs](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/update-jobs.yml?style=flat&label=job-updates&logo=github-actions&logoColor=white)
+![Daily Stats](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/daily-stats.yml?style=flat&label=daily-stats&logo=github-actions&logoColor=white)
+![Weekly Stats](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/weekly-stats.yml?style=flat&label=weekly-stats&logo=github-actions&logoColor=white)
 
-<!-- Row 3: Workflow Status -->
-![Update Jobs](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/update-jobs.yml?style=flat&label=update-jobs&logo=github-actions)
-![Daily Stats](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/daily-stats.yml?style=flat&label=daily-stats&logo=github-actions)
-![Weekly Stats](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/weekly-stats.yml?style=flat&label=weekly-stats&logo=github-actions)
-
-<!-- Row 4: Social & External Links -->
-[![Website](https://img.shields.io/badge/Website-zapplyjobs.com-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zapplyjobs.com)
+<!-- Row 4: Community & Links (for-the-badge style) -->
+[![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://new-grad-positions.vercel.app/)
+[![Zapply](https://img.shields.io/badge/Zapply-Apply_Faster-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply-jobs.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
 
 </div>

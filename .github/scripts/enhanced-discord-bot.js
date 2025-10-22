@@ -35,8 +35,23 @@ const CHANNEL_CONFIG = {
   'hr': process.env.DISCORD_HR_CHANNEL_ID
 };
 
+// Location-specific channel configuration
+const LOCATION_CHANNEL_CONFIG = {
+  'remote-usa': process.env.DISCORD_REMOTE_USA_CHANNEL_ID,
+  'new-york': process.env.DISCORD_NY_CHANNEL_ID,
+  'austin': process.env.DISCORD_AUSTIN_CHANNEL_ID,
+  'chicago': process.env.DISCORD_CHICAGO_CHANNEL_ID,
+  'seattle': process.env.DISCORD_SEATTLE_CHANNEL_ID,
+  'redmond': process.env.DISCORD_REDMOND_CHANNEL_ID,
+  'mountain-view': process.env.DISCORD_MV_CHANNEL_ID,
+  'san-francisco': process.env.DISCORD_SF_CHANNEL_ID,
+  'sunnyvale': process.env.DISCORD_SUNNYVALE_CHANNEL_ID,
+  'san-bruno': process.env.DISCORD_SAN_BRUNO_CHANNEL_ID
+};
+
 // Check if multi-channel mode is enabled (check for actual values, not just defined)
 const MULTI_CHANNEL_MODE = Object.values(CHANNEL_CONFIG).some(id => id && id.trim() !== '');
+const LOCATION_MODE_ENABLED = Object.values(LOCATION_CHANNEL_CONFIG).some(id => id && id.trim() !== '');
 
 // Data paths
 const dataDir = path.join(process.cwd(), '.github', 'data');
@@ -295,6 +310,55 @@ function getJobChannel(job) {
   // Default to tech for all engineering/technical roles
   // This includes: Software Engineer, Data Scientist, DevOps, QA, IT, Security, etc.
   return CHANNEL_CONFIG.tech;
+}
+
+// Determine which location channel a job should go to
+function getJobLocationChannel(job) {
+  const city = (job.job_city || '').toLowerCase().trim();
+  const state = (job.job_state || '').toLowerCase().trim();
+  const title = (job.job_title || '').toLowerCase();
+  const description = (job.job_description || '').toLowerCase();
+  const combined = `${title} ${description} ${city} ${state}`;
+
+  // Remote USA jobs (must explicitly mention USA/US)
+  if (/\b(remote|work from home|wfh|distributed|anywhere)\b/.test(combined) &&
+      /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined)) {
+    return LOCATION_CHANNEL_CONFIG['remote-usa'];
+  }
+
+  // City matching (exact matches prioritized)
+  const cityMatches = {
+    'san francisco': 'san-francisco',
+    'sf': 'san-francisco',
+    'new york': 'new-york',
+    'nyc': 'new-york',
+    'manhattan': 'new-york',
+    'brooklyn': 'new-york',
+    'austin': 'austin',
+    'chicago': 'chicago',
+    'seattle': 'seattle',
+    'redmond': 'redmond',
+    'mountain view': 'mountain-view',
+    'sunnyvale': 'sunnyvale',
+    'san bruno': 'san-bruno'
+  };
+
+  // Check job_city field first (most reliable)
+  for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
+    if (city.includes(searchCity)) {
+      return LOCATION_CHANNEL_CONFIG[channelKey];
+    }
+  }
+
+  // Then check combined title + description
+  for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
+    if (combined.includes(searchCity)) {
+      return LOCATION_CHANNEL_CONFIG[channelKey];
+    }
+  }
+
+  // No location match - job won't be posted to location channels
+  return null;
 }
 
 // Enhanced tag generation
@@ -637,18 +701,51 @@ client.once('ready', async () => {
       // Post jobs with rate limiting within each batch
       for (const job of channelJobs) {
         const jobId = generateJobId(job);
-        const result = await postJobToForum(job, channel);
+        let jobPostedSuccessfully = false;
 
-        if (result.success) {
-          // Mark as posted after successful post
+        // INDUSTRY POST: Post to industry channel
+        const industryResult = await postJobToForum(job, channel);
+        if (industryResult.success) {
+          console.log(`  ✅ Industry: ${job.job_title} @ ${job.employer_name}`);
+          jobPostedSuccessfully = true;
+        } else {
+          console.log(`  ❌ Industry post failed: ${job.job_title}`);
+        }
+
+        // Rate limiting between industry and location posts
+        await new Promise(resolve => setTimeout(resolve, 1500));
+
+        // LOCATION POST: Also post to location channel (if applicable)
+        if (LOCATION_MODE_ENABLED) {
+          const locationChannelId = getJobLocationChannel(job);
+
+          if (locationChannelId && locationChannelId.trim() !== '') {
+            try {
+              const locationChannel = await client.channels.fetch(locationChannelId);
+              const locationResult = await postJobToForum(job, locationChannel);
+
+              if (locationResult.success) {
+                console.log(`  ✅ Location: ${locationChannel.name}`);
+                jobPostedSuccessfully = true;
+              } else {
+                console.log(`  ⚠️ Location post failed: ${locationChannel.name}`);
+              }
+            } catch (error) {
+              console.error(`  ❌ Location channel error:`, error.message);
+            }
+
+            // Rate limiting after location post
+            await new Promise(resolve => setTimeout(resolve, 1500));
+          }
+        }
+
+        // Mark as posted if at least one post succeeded
+        if (jobPostedSuccessfully) {
           postedJobsManager.markAsPosted(jobId);
           totalPosted++;
         } else {
           totalFailed++;
         }
-
-        // Rate limiting: 1.5 seconds between posts in the same channel
-        await new Promise(resolve => setTimeout(resolve, 1500));
       }
 
       // Longer delay between different channels (3 seconds)

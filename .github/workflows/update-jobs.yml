@@ -67,6 +67,17 @@ jobs:
         DISCORD_SUPPLY_CHANNEL_ID:    ${{ secrets.DISCORD_SUPPLY_CHANNEL_ID }}
         DISCORD_PM_CHANNEL_ID:         ${{ secrets.DISCORD_PM_CHANNEL_ID }}
         DISCORD_HR_CHANNEL_ID:         ${{ secrets.DISCORD_HR_CHANNEL_ID }}
+        # Location-specific channels
+        DISCORD_REMOTE_USA_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_CHANNEL_ID }}
+        DISCORD_NY_CHANNEL_ID:         ${{ secrets.DISCORD_NY_CHANNEL_ID }}
+        DISCORD_AUSTIN_CHANNEL_ID:     ${{ secrets.DISCORD_AUSTIN_CHANNEL_ID }}
+        DISCORD_CHICAGO_CHANNEL_ID:    ${{ secrets.DISCORD_CHICAGO_CHANNEL_ID }}
+        DISCORD_SEATTLE_CHANNEL_ID:    ${{ secrets.DISCORD_SEATTLE_CHANNEL_ID }}
+        DISCORD_REDMOND_CHANNEL_ID:    ${{ secrets.DISCORD_REDMOND_CHANNEL_ID }}
+        DISCORD_MV_CHANNEL_ID:         ${{ secrets.DISCORD_MV_CHANNEL_ID }}
+        DISCORD_SF_CHANNEL_ID:         ${{ secrets.DISCORD_SF_CHANNEL_ID }}
+        DISCORD_SUNNYVALE_CHANNEL_ID:  ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
+        DISCORD_SAN_BRUNO_CHANNEL_ID:  ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
 
     - name: Save Discord bot logs
       if: always()  # Always save logs, even if bot fails

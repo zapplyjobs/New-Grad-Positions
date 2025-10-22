@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Engineer – Azure Edge Security -",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901010",
+    "job_posted_at_datetime_utc": "2025-10-22T14:03:32.201Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-azure-edge-security-redmond"
+  },
+  {
+    "job_title": "Principal Engineer, Experimental Projects",
+    "employer_name": "Stripe",
+    "job_city": "US-Remote",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7280343",
+    "job_posted_at_datetime_utc": "2025-10-22T13:48:58.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-principal-engineer-experimental-projects-us-remote"
+  }
+]

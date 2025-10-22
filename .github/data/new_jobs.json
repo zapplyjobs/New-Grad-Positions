@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Software Development Engineer, IXT",
-    "employer_name": "Amazon",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3113059/software-development-engineer-ixt",
-    "job_posted_at": "2025-10-21T00:00:00.000Z",
-    "job_posted_at_datetime_utc": "2025-10-21T00:00:00.000Z",
-    "id": "amazon-software-development-engineer-ixt-arlington"
+    "job_title": "Staff Software Engineer – UI/UX Specialist",
+    "employer_name": "Discord",
+    "job_city": "Remote (U.S.)",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/7854326002",
+    "job_posted_at_datetime_utc": "2025-10-22T17:53:51.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-staff-software-engineer-ui-ux-specialist-remote-u-s"
+  },
+  {
+    "job_title": "Staff Software Engineer - UI and Interactions (Full-Stack)",
+    "employer_name": "Discord",
+    "job_city": "Remote (U.S.)",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8058456002",
+    "job_posted_at_datetime_utc": "2025-10-22T17:53:41.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-staff-software-engineer-ui-and-interactions-full-stack-remote-u-s"
+  },
+  {
+    "job_title": "Senior Software Engineer - Platform Infrastructure",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8136321002",
+    "job_posted_at_datetime_utc": "2025-10-22T17:53:08.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-senior-software-engineer-platform-infrastructure-san-francisco-bay-area"
   }
 ]

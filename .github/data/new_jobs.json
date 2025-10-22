@@ -1,46 +1,12 @@
 [
   {
-    "job_title": "Software Engineer: Azure Core Dedicated Team",
     "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901550",
-    "job_posted_at_datetime_utc": "2025-10-22T23:10:18.003Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-azure-core-dedicated-team-redmond"
-  },
-  {
-    "job_title": "Engineering Manager of Managers, Financial Connections",
-    "employer_name": "Stripe",
-    "job_city": "N/A",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7350414",
-    "job_posted_at_datetime_utc": "2025-10-22T23:05:40.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-engineering-manager-of-managers-financial-connections-n-a"
-  },
-  {
-    "job_title": "2026 Full-time - Java Software Engineer I - Onsite - PA",
-    "employer_name": "RTX",
-    "job_city": "State College",
-    "job_state": "PA",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01801904",
-    "job_posted_at_datetime_utc": "2025-10-22T22:34:19.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-2026-full-time-java-software-engineer-i-onsite-pa-state-college"
-  },
-  {
-    "job_title": "Machine Learning Engineer 5 - Ads",
-    "employer_name": "Netflix",
-    "job_city": "Washington - Remote",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790312518946",
-    "job_posted_at_datetime_utc": "2025-10-16T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-machine-learning-engineer-5-ads-washington-remote"
+    "job_title": "Software Engineer: Azure Core Dedicated Team",
+    "job_city": "Multiple Locations",
+    "job_state": "United States",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Azure Core Dedicated Team",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901550/Software-Engineer%3A-Azure-Core-Dedicated-Team",
+    "id": "microsoft-software-engineer-azure-core-dedicated-team-multiple-locations"
   }
 ]

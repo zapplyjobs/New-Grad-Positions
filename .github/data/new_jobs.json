@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Senior Software Engineering Manager - CTJ - Poly",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898066",
+    "job_posted_at_datetime_utc": "2025-10-22T19:12:42.603Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineering-manager-ctj-poly-redmond"
+  },
+  {
+    "job_title": "Member of Technical Staff - Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901397",
+    "job_posted_at_datetime_utc": "2025-10-22T19:12:42.603Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-member-of-technical-staff-software-engineer-redmond"
+  }
+]

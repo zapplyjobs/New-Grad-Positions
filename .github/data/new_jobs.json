@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Principal Software Engineer--Teams",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901485",
-    "job_posted_at_datetime_utc": "2025-10-23T10:11:11.015Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-teams-redmond"
-  },
-  {
-    "job_title": "AI Software Engineer II",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899193",
-    "job_posted_at_datetime_utc": "2025-10-23T10:11:11.015Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-software-engineer-ii-redmond"
-  },
-  {
-    "job_title": "Software Engineer II",
+    "job_title": "Software Engineer I",
     "employer_name": "RTX",
     "job_city": "Aurora",
     "job_state": "CO",
     "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--CO-_01801591",
-    "job_posted_at_datetime_utc": "2025-10-23T09:56:58.000Z",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01801589",
+    "job_posted_at_datetime_utc": "2025-10-23T10:28:18.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-ii-aurora"
+    "id": "rtx-software-engineer-i-aurora"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "RTX",
+    "job_city": "Indianapolis",
+    "job_state": "IN",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/Software-Engineer-I---Onsite--IN-_01801710",
+    "job_posted_at_datetime_utc": "2025-10-23T10:14:56.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-software-engineer-i-indianapolis"
   }
 ]

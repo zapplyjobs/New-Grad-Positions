@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Data Engineer II - Copilot Insights",
+    "job_title": "Senior Quantum Simulation Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898030",
-    "job_posted_at_datetime_utc": "2025-10-23T00:57:43.098Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897222",
+    "job_posted_at_datetime_utc": "2025-10-23T01:32:57.442Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-data-engineer-ii-copilot-insights-redmond"
+    "id": "microsoft-senior-quantum-simulation-engineer-redmond"
+  },
+  {
+    "job_title": "Junior Software Developer",
+    "employer_name": "SS&C",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_description": "Join SS&C in this exciting opportunity.",
+    "job_apply_link": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Windsor-CT/Junior-Software-Developer_R36760",
+    "job_posted_at_datetime_utc": "2025-10-22T00:25:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "ss-c-junior-software-developer-hartford"
   }
 ]

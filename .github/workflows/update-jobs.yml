@@ -2,8 +2,8 @@ name: Update Zapply Jobs
 
 on:
   schedule:
-    # Run every 10 minutes
-    - cron: '*/10 * * * *'
+    # Run every 15 minutes (GitHub Actions scheduler has 5-15 min jitter for high-frequency schedules)
+    - cron: '*/15 * * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
@@ -14,7 +14,7 @@ on:
 
 # Prevent concurrent runs to avoid git conflicts
 concurrency:
-  group: repo-commits-${{ github.repository }}
+  group: job-updates-${{ github.repository }}
   cancel-in-progress: false  # Don't cancel, wait for previous to finish
 
 jobs:
@@ -252,12 +252,12 @@ jobs:
           echo "- 📊 Ranked by company tier (FAANG first)" >> $GITHUB_STEP_SUMMARY
           echo "- 🔗 Verified direct application links" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**🔄 Next update**: Tomorrow at 9 AM UTC" >> $GITHUB_STEP_SUMMARY
+          echo "**🔄 Next update**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
         else
           echo "ℹ️ **No new opportunities found - job board is current**" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "All tracked companies have been checked for new postings." >> $GITHUB_STEP_SUMMARY
           echo "The existing job listings are still fresh and active." >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**🔄 Next check**: Tomorrow at 9 AM UTC" >> $GITHUB_STEP_SUMMARY
+          echo "**🔄 Next check**: In ~15 minutes" >> $GITHUB_STEP_SUMMARY
         fi

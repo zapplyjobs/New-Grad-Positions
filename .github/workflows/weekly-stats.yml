@@ -10,7 +10,7 @@ on:
   workflow_dispatch: # Allow manual triggers for testing
 
 concurrency:
-  group: repo-commits-${{ github.repository }}
+  group: weekly-stats-${{ github.repository }}
   cancel-in-progress: false
 
 jobs:
@@ -21,8 +21,6 @@ jobs:
       security-events: read  # Required to read Dependabot alerts
 
     steps:
-      - name: Wait for update-jobs workflow to complete
-        run: sleep 30
 
       - name: Checkout repository
         uses: actions/checkout@v4

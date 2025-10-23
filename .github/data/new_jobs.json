@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Backend Developer",
-    "employer_name": "Booz Allen",
-    "job_city": "Alexandria",
-    "job_state": "VA",
-    "job_description": "Join Booz Allen in this exciting opportunity.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366",
-    "job_posted_at_datetime_utc": "2025-10-23T09:04:38.000Z",
+    "job_title": "Software Development Engineer II, Contract Onboarding",
+    "employer_name": "Amazon",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114128/software-development-engineer-ii-contract-onboarding",
+    "job_posted_at": "2025-10-23T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-23T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-ii-contract-onboarding-new-york"
+  },
+  {
+    "job_title": "Associate Engineer, Embedded Software",
+    "employer_name": "Analog Devices",
+    "job_city": "Edinburgh",
+    "job_state": "SC",
+    "job_description": "Join Analog Devices in this exciting opportunity.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Associate-Engineer--Embedded-Software_R257164",
+    "job_posted_at_datetime_utc": "2025-10-23T09:28:19.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "booz-allen-backend-developer-alexandria"
+    "id": "analog-devices-associate-engineer-embedded-software-edinburgh"
+  },
+  {
+    "job_title": "Quantitative Research Engineer",
+    "employer_name": "Citadel Securities",
+    "job_city": "Miami",
+    "job_state": "FL",
+    "job_description": "Join Citadel Securities in this exciting opportunity.",
+    "job_apply_link": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
+    "job_posted_at_datetime_utc": "2025-10-23T09:23:13.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "citadel-securities-quantitative-research-engineer-miami"
   }
 ]

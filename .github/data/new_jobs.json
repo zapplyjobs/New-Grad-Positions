@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer",
-    "employer_name": "DraftKings",
-    "job_city": "Remote in USA",
+    "job_title": "Growth Engineering - Mobile",
+    "employer_name": "ElevenLabs",
+    "job_city": "Remote Globally",
     "job_state": "Locations",
-    "job_description": "Join DraftKings in this exciting opportunity.",
-    "job_apply_link": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Software-Engineer_JR13105-3",
-    "job_posted_at_datetime_utc": "2025-10-23T11:17:47.000Z",
+    "job_description": "Join ElevenLabs in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328",
+    "job_posted_at_datetime_utc": "2025-10-23T11:29:51.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "draftkings-software-engineer-remote-in-usa"
-  },
-  {
-    "job_title": "Software Engineering",
-    "employer_name": "Docusign",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Docusign in this exciting opportunity.",
-    "job_apply_link": "https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job",
-    "job_posted_at_datetime_utc": "2025-10-23T11:11:57.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "docusign-software-engineering-seattle"
+    "id": "elevenlabs-growth-engineering-mobile-remote-globally"
   }
 ]

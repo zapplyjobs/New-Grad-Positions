@@ -20,6 +20,7 @@ concurrency:
 jobs:
   update-jobs:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
     
@@ -139,8 +140,13 @@ jobs:
           if git push origin main; then
             echo "✅ Successfully pushed changes!"
             break
+          elif [ $i -eq 3 ]; then
+            echo "❌ CRITICAL: Failed to push after 3 attempts"
+            echo "Recent commits:" && git log --oneline -5
+            echo "Status:" && git status
+            exit 1  # Fail workflow explicitly
           else
-            echo "Push failed, pulling and retrying..."
+            echo "⚠️ Push failed, attempt $i/3, retrying..."
             git pull origin main --rebase --autostash || git pull origin main --no-edit
             sleep 5
           fi

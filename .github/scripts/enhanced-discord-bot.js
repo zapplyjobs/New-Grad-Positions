@@ -53,6 +53,13 @@ const LOCATION_CHANNEL_CONFIG = {
 const MULTI_CHANNEL_MODE = Object.values(CHANNEL_CONFIG).some(id => id && id.trim() !== '');
 const LOCATION_MODE_ENABLED = Object.values(LOCATION_CHANNEL_CONFIG).some(id => id && id.trim() !== '');
 
+// Debug logging for location mode
+console.log('🔍 DEBUG: LOCATION_MODE_ENABLED =', LOCATION_MODE_ENABLED);
+console.log('🔍 DEBUG: Location channel configuration:');
+Object.entries(LOCATION_CHANNEL_CONFIG).forEach(([key, value]) => {
+  console.log(`  - ${key}: ${value ? `"${value.substring(0, 4)}...${value.substring(value.length - 4)}"` : 'undefined'}`);
+});
+
 // Data paths
 const dataDir = path.join(process.cwd(), '.github', 'data');
 const subscriptionsPath = path.join(dataDir, 'subscriptions.json');
@@ -718,6 +725,7 @@ client.once('ready', async () => {
         // LOCATION POST: Also post to location channel (if applicable)
         if (LOCATION_MODE_ENABLED) {
           const locationChannelId = getJobLocationChannel(job);
+          console.log(`  🔍 DEBUG: Job "${job.job_title}" | City: "${job.job_city}" | State: "${job.job_state}" | Location Channel ID: ${locationChannelId ? `"${locationChannelId.substring(0, 4)}..."` : 'null'}`);
 
           if (locationChannelId && locationChannelId.trim() !== '') {
             try {

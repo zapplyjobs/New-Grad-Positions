@@ -2,10 +2,11 @@ name: Weekly GitHub Summary to Discord
 
 on:
   schedule:
-    # Runs at 6:00 AM London time (GMT/BST) every Monday
+    # Runs at 6:15 AM London time (GMT/BST) every Monday
+    # Staggered 15 minutes after daily-stats to prevent collision
     # London = UTC+0 (winter) or UTC+1 (summer DST)
-    # Using 6 AM UTC = 6 AM GMT (winter) / 7 AM BST (summer)
-    - cron: '0 6 * * 1'
+    # Using 6:15 AM UTC = 6:15 AM GMT (winter) / 7:15 AM BST (summer)
+    - cron: '15 6 * * 1'
   workflow_dispatch: # Allow manual triggers for testing
 
 concurrency:

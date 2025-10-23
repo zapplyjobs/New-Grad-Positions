@@ -1,13 +1,24 @@
 [
   {
     "job_title": "Software Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "India",
+    "employer_name": "DraftKings",
+    "job_city": "Remote in USA",
     "job_state": "Locations",
-    "job_description": "Join Microsoft in this exciting opportunity.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900192/Software-Engineering",
-    "job_posted_at_datetime_utc": "2025-10-23T11:04:54.000Z",
+    "job_description": "Join DraftKings in this exciting opportunity.",
+    "job_apply_link": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Software-Engineer_JR13105-3",
+    "job_posted_at_datetime_utc": "2025-10-23T11:17:47.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-india"
+    "id": "draftkings-software-engineer-remote-in-usa"
+  },
+  {
+    "job_title": "Software Engineering",
+    "employer_name": "Docusign",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join Docusign in this exciting opportunity.",
+    "job_apply_link": "https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job",
+    "job_posted_at_datetime_utc": "2025-10-23T11:11:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "docusign-software-engineering-seattle"
   }
 ]

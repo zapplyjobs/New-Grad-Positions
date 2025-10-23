@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Engineering Manager, Core Product",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area ",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8161010002",
-    "job_posted_at_datetime_utc": "2025-10-23T18:34:47.000Z",
+    "job_title": "Principal Engineer - Privacy",
+    "employer_name": "Databricks",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8224828002",
+    "job_posted_at_datetime_utc": "2025-10-23T18:53:48.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "discord-engineering-manager-core-product-san-francisco-bay-area"
-  },
-  {
-    "job_title": "Staff Software Engineer, Machine Learning Platform",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8192133002",
-    "job_posted_at_datetime_utc": "2025-10-23T18:33:59.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-staff-software-engineer-machine-learning-platform-san-francisco-bay-area"
-  },
-  {
-    "job_title": "Software Engineer, Backend-leaning Full Stack or Backend (Runner Team)",
-    "employer_name": "Zapier",
-    "job_city": "Remote",
-    "job_state": "Locations",
-    "job_description": "Join Zapier in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/zapier/63b14a57-064a-4617-bb8c-4a67c860e1e6",
-    "job_posted_at_datetime_utc": "2025-10-23T08:49:26.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "zapier-software-engineer-backend-leaning-full-stack-or-backend-runner-team-remote"
+    "id": "databricks-principal-engineer-privacy-mountain-view"
   }
 ]

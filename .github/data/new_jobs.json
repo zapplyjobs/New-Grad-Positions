@@ -1,35 +1,24 @@
 [
   {
-    "job_title": "Senior Software Engineer - Notebooks",
+    "job_title": "Senior Quantum Simulation Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898062",
-    "job_posted_at_datetime_utc": "2025-10-22T22:09:12.071Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897222",
+    "job_posted_at_datetime_utc": "2025-10-23T01:32:57.442Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-notebooks-redmond"
+    "id": "microsoft-senior-quantum-simulation-engineer-redmond"
   },
   {
-    "job_title": "Software Engineer-Junior",
-    "employer_name": "Peraton",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_description": "Join Peraton in this exciting opportunity.",
-    "job_apply_link": "https://careers-peraton.icims.com/jobs/160719/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2025-10-22T21:54:35.000Z",
+    "job_title": "Junior Software Developer",
+    "employer_name": "SS&C",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_description": "Join SS&C in this exciting opportunity.",
+    "job_apply_link": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Windsor-CT/Junior-Software-Developer_R36760",
+    "job_posted_at_datetime_utc": "2025-10-22T00:25:52.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "peraton-software-engineer-junior-reston"
-  },
-  {
-    "job_title": "Software Engineer, Crypto",
-    "employer_name": "Stripe",
-    "job_city": "N/A",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7337163",
-    "job_posted_at_datetime_utc": "2025-10-22T21:52:38.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-software-engineer-crypto-n-a"
+    "id": "ss-c-junior-software-developer-hartford"
   }
 ]

@@ -555,10 +555,10 @@
     }
   ],
   "total_count": 79,
-  "last_updated": "2025-10-22T06:06:52.570Z",
+  "last_updated": "2025-10-23T06:04:10.276Z",
   "stats": {
-    "new_since_last_run": 79,
+    "new_since_last_run": 0,
     "removed_since_last_run": 0,
-    "net_change": 79
+    "net_change": 0
   }
 }

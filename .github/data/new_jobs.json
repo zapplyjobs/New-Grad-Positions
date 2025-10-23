@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "job_title": "Software Engineer, Security Accelerate ",
+    "employer_name": "Stripe",
+    "job_city": "Remote",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7351461",
+    "job_posted_at_datetime_utc": "2025-10-23T05:50:03.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-software-engineer-security-accelerate-remote"
+  }
+]

@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Aurora",
-    "job_state": "CO",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01801589",
-    "job_posted_at_datetime_utc": "2025-10-23T10:28:18.000Z",
+    "job_title": "Associate Product Engineer",
+    "employer_name": "NorthAB",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join NorthAB in this exciting opportunity.",
+    "job_apply_link": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Associate-Product-Engineer_JR101530",
+    "job_posted_at_datetime_utc": "2025-10-23T10:37:59.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-aurora"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Indianapolis",
-    "job_state": "IN",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/Software-Engineer-I---Onsite--IN-_01801710",
-    "job_posted_at_datetime_utc": "2025-10-23T10:14:56.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-indianapolis"
+    "id": "northab-associate-product-engineer-remote-in-usa"
   }
 ]

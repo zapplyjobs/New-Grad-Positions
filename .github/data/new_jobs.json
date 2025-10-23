@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Principal UHV Systems Engineer",
+    "job_title": "Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Remond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft in this exciting opportunity.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1894673/Software-Engineer",
+    "job_posted_at_datetime_utc": "2025-10-23T16:29:49.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-remond"
+  },
+  {
+    "job_title": "Software Dev Engineer II - AMZ9674235",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design. 100% telecommuting permitted, work may be performed from anywhere in the U.S.#0000",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114355/software-dev-engineer-ii-amz9674235",
+    "job_posted_at": "2025-10-23T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-23T00:00:00.000Z",
+    "id": "amazon-software-dev-engineer-ii-amz9674235-seattle"
+  },
+  {
+    "job_title": "Senior Security Embedded Software Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896867",
-    "job_posted_at_datetime_utc": "2025-10-23T16:09:26.830Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901838",
+    "job_posted_at_datetime_utc": "2025-10-23T16:29:39.223Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-uhv-systems-engineer-redmond"
+    "id": "microsoft-senior-security-embedded-software-engineer-redmond"
   }
 ]

@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "India",
+    "job_state": "Locations",
+    "job_description": "Join Microsoft in this exciting opportunity.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900192/Software-Engineering",
+    "job_posted_at_datetime_utc": "2025-10-23T11:04:54.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-india"
+  }
+]

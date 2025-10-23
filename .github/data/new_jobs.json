@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Principle Software Engineering Manager",
+    "job_title": "Principal UHV Systems Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1893641",
-    "job_posted_at_datetime_utc": "2025-10-23T15:53:53.866Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896867",
+    "job_posted_at_datetime_utc": "2025-10-23T16:09:26.830Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principle-software-engineering-manager-redmond"
-  },
-  {
-    "job_title": "Site Reliability Engineer II - CTJ - Secret",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899805",
-    "job_posted_at_datetime_utc": "2025-10-23T15:53:53.866Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-site-reliability-engineer-ii-ctj-secret-redmond"
+    "id": "microsoft-principal-uhv-systems-engineer-redmond"
   }
 ]

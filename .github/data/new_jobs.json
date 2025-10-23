@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Software Engineeri",
+    "job_title": "Software Engineer - Teams Events",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901913",
-    "job_posted_at_datetime_utc": "2025-10-23T18:09:27.193Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1889751",
+    "job_posted_at_datetime_utc": "2025-10-23T18:30:30.451Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineeri-redmond"
+    "id": "microsoft-software-engineer-teams-events-redmond"
+  },
+  {
+    "job_title": "Staff Software Engineer, Foundational Model Serving",
+    "employer_name": "Databricks",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8224683002",
+    "job_posted_at_datetime_utc": "2025-10-23T18:21:27.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-staff-software-engineer-foundational-model-serving-san-francisco"
   }
 ]

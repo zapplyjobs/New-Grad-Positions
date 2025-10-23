@@ -116,111 +116,41 @@ jobs:
         git config --local user.email "team@zapply.ai"
         git config --local user.name "Zapply Team"
 
-        # Function to commit and push with proper conflict resolution
-        commit_and_push() {
-          local max_attempts=5
-          local delay=5
+        # Pull latest changes BEFORE committing
+        echo "Pulling latest changes before commit..."
+        git pull origin main --no-edit || echo "No remote changes to pull"
 
-          for attempt in $(seq 1 $max_attempts); do
-            echo "========================================="
-            echo "Attempt $attempt of $max_attempts"
-            echo "========================================="
+        # Now add and commit our changes
+        git add -A
 
-            # STEP 1: Stash our changes (clean working directory)
-            echo "📦 Stashing local changes..."
-            git stash push -m "Auto-stash scraped jobs $(date +%s)" \
-              .github/data/new_jobs.json \
-              .github/data/posted_jobs.json \
-              .github/data/seen_jobs.json \
-              README.md \
-              .github/logs/ || true
+        # Get job count from README for commit message
+        JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
+        COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
 
-            # STEP 2: Pull latest remote changes with rebase
-            echo "⬇️  Pulling latest changes from remote..."
-            if ! git pull --rebase origin main; then
-              echo "⚠️  Rebase conflict detected, aborting rebase..."
-              git rebase --abort || true
-
-              # Fallback to regular merge
-              git pull origin main --no-edit || {
-                echo "❌ Pull failed completely, resetting..."
-                git reset --hard HEAD
-                git pull origin main
-              }
-            fi
-
-            # STEP 3: Re-apply our changes (our data is authoritative)
-            echo "📂 Re-applying scraped job data..."
-            if git stash list | grep -q "Auto-stash scraped jobs"; then
-              if ! git stash pop; then
-                echo "⚠️  Stash pop had conflicts, resolving..."
-
-                # Take our version (latest scraped data) for all conflicts
-                git checkout --ours .github/data/new_jobs.json 2>/dev/null || true
-                git checkout --ours .github/data/posted_jobs.json 2>/dev/null || true
-                git checkout --ours .github/data/seen_jobs.json 2>/dev/null || true
-                git checkout --ours README.md 2>/dev/null || true
-
-                # Clear the stash
-                git reset
-                git stash drop || true
-              fi
-            else
-              echo "ℹ️  No stash found (likely no conflicts)"
-            fi
-
-            # STEP 4: Stage and commit
-            git add .github/data/new_jobs.json \
-                    .github/data/posted_jobs.json \
-                    .github/data/seen_jobs.json \
-                    README.md \
-                    .github/logs/ 2>/dev/null || true
-
-            # Check if there are still changes to commit
-            if git diff --staged --quiet; then
-              echo "ℹ️  No changes after merge, exiting successfully"
-              exit 0
-            fi
-
-            # Get job count for commit message
-            JOB_COUNT=$(grep -o "Active Positions\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-            COMPANY_COUNT=$(grep -o "Companies\*\*: [0-9]*" README.md | grep -o "[0-9]*" || echo "0")
-
-            COMMIT_MSG="Update jobs - $(date +'%Y-%m-%d %H:%M UTC')
+        git commit -m "Update jobs - $(date +'%Y-%m-%d')
 
         Found $JOB_COUNT positions from $COMPANY_COUNT companies
-        Updated categories, locations, and experience levels"
+        Updated categories, locations, and experience levels
+        Next update tomorrow"
 
-            if ! git commit -m "$COMMIT_MSG"; then
-              echo "⚠️  Commit failed, may already be committed"
-            fi
-
-            # STEP 5: Push with retry
-            echo "⬆️  Pushing changes to remote..."
-            if git push origin main; then
-              echo "✅ Successfully pushed changes!"
-              exit 0
-            else
-              echo "❌ Push failed (branch diverged again)"
-
-              # Undo commit but keep changes staged for retry
-              git reset --soft HEAD~1
-
-              # Exponential backoff
-              echo "⏳ Waiting ${delay}s before retry..."
-              sleep $delay
-              delay=$((delay * 2))
-            fi
-          done
-
-          echo "========================================="
-          echo "❌ Failed to push after $max_attempts attempts"
-          echo "========================================="
-          exit 1
-        }
-
-        # Execute the function
-        commit_and_push
+        # Push with retry
+        echo "Pushing changes..."
+        for i in 1 2 3; do
+          echo "Push attempt $i of 3..."
+          if git push origin main; then
+            echo "✅ Successfully pushed changes!"
+            break
+          elif [ $i -eq 3 ]; then
+            echo "❌ CRITICAL: Failed to push after 3 attempts"
+            echo "Recent commits:" && git log --oneline -5
+            echo "Status:" && git status
+            exit 1  # Fail workflow explicitly
+          else
+            echo "⚠️ Push failed, attempt $i/3, retrying..."
+            git pull origin main --rebase --autostash || git pull origin main --no-edit
+            sleep 5
+          fi
+        done
         
     - name: Create job summary
       run: |

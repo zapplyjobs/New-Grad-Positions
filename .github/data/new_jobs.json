@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Associate Software Test Engineer",
-    "employer_name": "Insulet",
-    "job_city": "Acton",
-    "job_state": "MA",
-    "job_description": "Join Insulet in this exciting opportunity.",
-    "job_apply_link": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts/Associate-Software-Test-Engineer---Acton--Mass--Hybrid-_REQ-2025-13419",
-    "job_posted_at_datetime_utc": "2025-10-23T09:54:33.000Z",
+    "job_title": "Principal Software Engineer--Teams",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901485",
+    "job_posted_at_datetime_utc": "2025-10-23T10:11:11.015Z",
     "job_employment_type": "FULLTIME",
-    "id": "insulet-associate-software-test-engineer-acton"
+    "id": "microsoft-principal-software-engineer-teams-redmond"
   },
   {
-    "job_title": "Java Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "State College",
-    "job_state": "PA",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01801593",
-    "job_posted_at_datetime_utc": "2025-10-23T09:49:07.000Z",
+    "job_title": "AI Software Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899193",
+    "job_posted_at_datetime_utc": "2025-10-23T10:11:11.015Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-java-software-engineer-i-state-college"
+    "id": "microsoft-ai-software-engineer-ii-redmond"
+  },
+  {
+    "job_title": "Software Engineer II",
+    "employer_name": "RTX",
+    "job_city": "Aurora",
+    "job_state": "CO",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--CO-_01801591",
+    "job_posted_at_datetime_utc": "2025-10-23T09:56:58.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-software-engineer-ii-aurora"
   }
 ]

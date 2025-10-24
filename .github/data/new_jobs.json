@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Sr. Sourcing Operations Engineer",
+    "job_title": "Sr Software Engineer, Minecraft Online",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901248",
-    "job_posted_at_datetime_utc": "2025-10-24T00:09:37.501Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899224",
+    "job_posted_at_datetime_utc": "2025-10-24T00:42:01.566Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-sr-sourcing-operations-engineer-redmond"
+    "id": "microsoft-sr-software-engineer-minecraft-online-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer, Minecraft Online",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898434",
+    "job_posted_at_datetime_utc": "2025-10-24T00:42:01.566Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-minecraft-online-redmond"
   }
 ]

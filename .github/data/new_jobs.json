@@ -1,13 +1,12 @@
 [
   {
-    "job_title": "Sr. System Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902209",
-    "job_posted_at_datetime_utc": "2025-10-24T21:54:20.493Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-sr-system-engineer-redmond"
+    "employer_name": "Google",
+    "job_title": "Senior UX Engineer",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior UX Engineer, Enterprise Specialists UX",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/104932450764759750-senior-ux-engineer-enterprise-specialists-ux?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=4",
+    "id": "google-senior-ux-engineer-austin"
   }
 ]

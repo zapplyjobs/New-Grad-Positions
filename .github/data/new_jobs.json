@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Sr IT Hardware Lab Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "job_title": "Software Development Engineer, Annapurna Labs",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883629",
-    "job_posted_at_datetime_utc": "2025-10-24T20:09:21.043Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-sr-it-hardware-lab-engineer-redmond"
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3115268/software-development-engineer-annapurna-labs",
+    "job_posted_at": "2025-10-24T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-24T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-annapurna-labs-seattle"
+  },
+  {
+    "job_title": "Application Builder, Ring Software Product Builders",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3115267/application-builder-ring-software-product-builders",
+    "job_posted_at": "2025-10-24T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-10-24T00:00:00.000Z",
+    "id": "amazon-application-builder-ring-software-product-builders-north-reading"
   }
 ]

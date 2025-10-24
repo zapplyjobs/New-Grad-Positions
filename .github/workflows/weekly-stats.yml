@@ -44,7 +44,7 @@ jobs:
         run: git pull origin main --rebase --autostash || true
 
       - name: Commit updated data
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update weekly stats data [skip ci]"
           file_pattern: ".github/data/weekly-stats.json"

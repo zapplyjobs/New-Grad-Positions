@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Quality Engineer II, Data Specialist – Minecraft",
+    "job_title": "Software Engineer II - Windows Agents, Growth and Innovation",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902211",
-    "job_posted_at_datetime_utc": "2025-10-24T18:57:44.993Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1899288",
+    "job_posted_at_datetime_utc": "2025-10-24T19:09:27.288Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-quality-engineer-ii-data-specialist-minecraft-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - Copilot Extensibility",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1896886",
-    "job_posted_at_datetime_utc": "2025-10-24T18:57:44.993Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-copilot-extensibility-redmond"
+    "id": "microsoft-software-engineer-ii-windows-agents-growth-and-innovation-redmond"
   }
 ]

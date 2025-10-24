@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Development Engineer, AWS Managed Streaming Kafka",
+    "employer_name": "Amazon",
+    "job_city": "Santa Monica",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3106174/software-development-engineer-aws-managed-streaming-kafka",
+    "job_posted_at": "2025-10-20T15:22:41.152Z",
+    "job_posted_at_datetime_utc": "2025-10-20T15:22:41.152Z",
+    "id": "amazon-software-development-engineer-aws-managed-streaming-kafka-santa-monica"
+  },
+  {
+    "job_title": "Software Engineer 2 | Dynamics Finance",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900246",
+    "job_posted_at_datetime_utc": "2025-10-24T15:29:21.071Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-2-dynamics-finance-redmond"
+  }
+]

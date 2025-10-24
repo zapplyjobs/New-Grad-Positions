@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "job_title": "Firmware Developer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1895098",
+    "job_posted_at_datetime_utc": "2025-10-24T06:47:37.430Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-firmware-developer-redmond"
+  },
+  {
+    "job_title": "Cloud & AI Applications Solution Engineer - Melbourne",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1897883",
+    "job_posted_at_datetime_utc": "2025-10-24T06:47:37.430Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-applications-solution-engineer-melbourne-redmond"
+  },
+  {
+    "job_title": "Tech Accelerate Graduate Program - Software Engineer (January)",
+    "employer_name": "RELX",
+    "job_city": "Alpharetta",
+    "job_state": "GA",
+    "job_description": "Join RELX in this exciting opportunity.",
+    "job_apply_link": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--January-_R100297",
+    "job_posted_at_datetime_utc": "2025-10-24T06:43:01.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "relx-tech-accelerate-graduate-program-software-engineer-january-alpharetta"
+  },
+  {
+    "job_title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
+    "employer_name": "Oracle",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Join Oracle in this exciting opportunity.",
+    "job_apply_link": "https://careers.oracle.com/en/sites/jobsearch/job/312200",
+    "job_posted_at_datetime_utc": "2025-10-24T06:40:24.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "oracle-undergrad-software-engineer-oracle-cloud-infrastructure-oci-santa-clara"
+  },
+  {
+    "job_title": "Software Engineer I, Growth Platform",
+    "employer_name": "Amplitude",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Amplitude in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/amplitude/jobs/8223048002",
+    "job_posted_at_datetime_utc": "2025-10-24T06:39:44.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "amplitude-software-engineer-i-growth-platform-san-francisco"
+  },
+  {
+    "job_title": "Developer",
+    "employer_name": "Boerboel",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Boerboel in this exciting opportunity.",
+    "job_apply_link": "https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004",
+    "job_posted_at_datetime_utc": "2025-10-24T06:39:20.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "boerboel-developer-new-york"
+  },
+  {
+    "job_title": "Tech Accelerate Graduate Program - Software Engineer (June)",
+    "employer_name": "RELX",
+    "job_city": "Alpharetta",
+    "job_state": "GA",
+    "job_description": "Join RELX in this exciting opportunity.",
+    "job_apply_link": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer_R98792-3",
+    "job_posted_at_datetime_utc": "2025-10-24T06:38:46.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "relx-tech-accelerate-graduate-program-software-engineer-june-alpharetta"
+  }
+]

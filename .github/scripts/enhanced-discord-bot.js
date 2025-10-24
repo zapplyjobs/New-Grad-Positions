@@ -327,27 +327,25 @@ function getJobLocationChannel(job) {
   const description = (job.job_description || '').toLowerCase();
   const combined = `${title} ${description} ${city} ${state}`;
 
-  // Remote USA jobs (must explicitly mention USA/US)
-  if (/\b(remote|work from home|wfh|distributed|anywhere)\b/.test(combined) &&
-      /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined)) {
-    return LOCATION_CHANNEL_CONFIG['remote-usa'];
-  }
-
-  // City matching (exact matches prioritized)
+  // City name matching (specific city names)
   const cityMatches = {
     'san francisco': 'san-francisco',
-    'sf': 'san-francisco',
+    'mountain view': 'mountain-view',
+    'sunnyvale': 'sunnyvale',
+    'san bruno': 'san-bruno',
     'new york': 'new-york',
-    'nyc': 'new-york',
     'manhattan': 'new-york',
     'brooklyn': 'new-york',
     'austin': 'austin',
     'chicago': 'chicago',
     'seattle': 'seattle',
-    'redmond': 'redmond',
-    'mountain view': 'mountain-view',
-    'sunnyvale': 'sunnyvale',
-    'san bruno': 'san-bruno'
+    'redmond': 'redmond'
+  };
+
+  // City abbreviations (check separately to avoid substring issues)
+  const cityAbbreviations = {
+    'sf': 'san-francisco',
+    'nyc': 'new-york'
   };
 
   // Check job_city field first (most reliable)
@@ -357,11 +355,50 @@ function getJobLocationChannel(job) {
     }
   }
 
-  // Then check combined title + description
+  // Check abbreviations (exact match on words)
+  for (const [abbr, channelKey] of Object.entries(cityAbbreviations)) {
+    if (city === abbr || city.split(/\s+/).includes(abbr)) {
+      return LOCATION_CHANNEL_CONFIG[channelKey];
+    }
+  }
+
+  // Then check combined title + description for city names
   for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
     if (combined.includes(searchCity)) {
       return LOCATION_CHANNEL_CONFIG[channelKey];
     }
+  }
+
+  // Check state codes ONLY when accompanied by "remote" keyword
+  // This prevents matching random "CA" in company names
+  if (/\b(remote|work from home|wfh)\b/.test(combined)) {
+    // State to city mapping (only for remote jobs)
+    if (state === 'ca' || /\bca\b/.test(combined)) {
+      return LOCATION_CHANNEL_CONFIG['san-francisco'];
+    }
+    if (state === 'ny' || /\bny\b/.test(combined)) {
+      return LOCATION_CHANNEL_CONFIG['new-york'];
+    }
+    if (state === 'tx' || /\btx\b/.test(combined)) {
+      return LOCATION_CHANNEL_CONFIG['austin'];
+    }
+    if (state === 'wa' || /\bwa\b/.test(combined)) {
+      // Check if Redmond is specifically mentioned
+      if (combined.includes('redmond')) {
+        return LOCATION_CHANNEL_CONFIG['redmond'];
+      }
+      return LOCATION_CHANNEL_CONFIG['seattle'];
+    }
+    if (state === 'il' || /\bil\b/.test(combined)) {
+      return LOCATION_CHANNEL_CONFIG['chicago'];
+    }
+  }
+
+  // ONLY if no specific city match, check for remote USA jobs
+  // This ensures "Remote - USA, CA" goes to San Francisco, not remote-usa
+  if (/\b(remote|work from home|wfh|distributed|anywhere)\b/.test(combined) &&
+      /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined)) {
+    return LOCATION_CHANNEL_CONFIG['remote-usa'];
   }
 
   // No location match - job won't be posted to location channels

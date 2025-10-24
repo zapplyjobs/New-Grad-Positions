@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Engineer 2 - Azure Client Tools",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900900",
+    "job_posted_at_datetime_utc": "2025-10-24T05:09:12.466Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-2-azure-client-tools-redmond"
+  },
+  {
+    "job_title": "ROP_Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902259",
+    "job_posted_at_datetime_utc": "2025-10-24T05:09:12.466Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-rop_software-engineer-redmond"
+  }
+]

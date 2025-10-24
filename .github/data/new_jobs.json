@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Advertising Technology (AdTech) Signal Engineer",
+    "job_title": "Sr. Sourcing Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900632",
-    "job_posted_at_datetime_utc": "2025-10-24T19:27:28.754Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1901323",
+    "job_posted_at_datetime_utc": "2025-10-24T19:39:10.175Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-advertising-technology-adtech-signal-engineer-redmond"
+    "id": "microsoft-sr-sourcing-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Data Security Solution Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902062",
+    "job_posted_at_datetime_utc": "2025-10-24T19:39:10.175Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-data-security-solution-engineer-redmond"
   }
 ]

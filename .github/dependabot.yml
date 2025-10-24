@@ -1,0 +1,92 @@
+# Dependabot configuration for automated dependency updates
+# Docs: https://docs.github.com/en/code-security/dependabot/dependabot-version-updates
+
+version: 2
+updates:
+  # GitHub Actions dependencies
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+      - "github-actions"
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
+
+  # Discord bot dependencies
+  - package-ecosystem: "npm"
+    directory: "/.github/scripts"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+      - "npm"
+      - "discord-bot"
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
+    # Group minor and patch updates together
+    groups:
+      discord-bot-dependencies:
+        patterns:
+          - "discord.js"
+          - "@discordjs/*"
+      development-dependencies:
+        dependency-type: "development"
+        update-types:
+          - "minor"
+          - "patch"
+
+  # Job fetcher dependencies (if separate package.json exists)
+  - package-ecosystem: "npm"
+    directory: "/.github/scripts/job-fetcher"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+      - "npm"
+      - "job-fetcher"
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
+    groups:
+      job-fetcher-dependencies:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
+
+  # Scraper dependencies (jobboard)
+  - package-ecosystem: "npm"
+    directory: "/jobboard"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "09:00"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+      - "npm"
+      - "scraper"
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
+    groups:
+      puppeteer-dependencies:
+        patterns:
+          - "puppeteer*"
+        update-types:
+          - "minor"
+          - "patch"

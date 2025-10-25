@@ -24,3 +24,24 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Test files (development only)
+test-*.js
+*.test.js
+*.spec.js
+*.test.ts
+*.spec.ts
+__tests__/
+coverage/
+.nyc_output/
+
+# Backup files
+*.backup.*
+*.old.*
+*.bak
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.cache/

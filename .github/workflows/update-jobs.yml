@@ -42,8 +42,6 @@ jobs:
       run: npm install puppeteer
       
     - name: Update job listings
-      env:
-        JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
       run: node .github/scripts/job-fetcher/index.js
 
 

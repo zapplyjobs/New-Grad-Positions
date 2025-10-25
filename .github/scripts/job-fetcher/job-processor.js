@@ -19,129 +19,6 @@ const {
     delay 
 } = require('./utils');
 
-// Configuration
-const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY;
-const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
-
-// Job search queries - much more comprehensive
-const SEARCH_QUERIES = [
-    // Core engineering roles
-    'software engineer',
-    'software developer', 
-    'full stack developer',
-    'frontend developer',
-    'backend developer',
-    'mobile developer',
-    'ios developer',
-    'android developer',
-    
-    // Specialized tech roles
-    'machine learning engineer',
-    'data scientist', 
-    'data engineer',
-    'devops engineer',
-    'cloud engineer',
-    'security engineer',
-    'site reliability engineer',
-    'platform engineer',
-    
-    // Product & Design
-    'product manager',
-    'product designer',
-    'ux designer',
-    'ui designer',
-    
-    // New grad specific
-    'new grad software engineer',
-    'entry level developer',
-    'junior developer',
-    'graduate software engineer',
-    
-    // High-value roles
-    'staff engineer',
-    'senior software engineer',
-    'principal engineer',
-    'engineering manager'
-];
-
-// Enhanced API search with better error handling
-async function searchJobs(query, location = '') {
-    try {
-        const url = new URL(JSEARCH_BASE_URL);
-        url.searchParams.append('query', query);
-        if (location) url.searchParams.append('location', location);
-        url.searchParams.append('page', '1');
-        url.searchParams.append('num_pages', '1');
-        url.searchParams.append('date_posted', 'month');
-        url.searchParams.append('employment_types', 'FULLTIME');
-        url.searchParams.append('job_requirements', 'under_3_years_experience,more_than_3_years_experience,no_experience');
-        
-        const response = await fetch(url, {
-            method: 'GET',
-            headers: {
-                'X-RapidAPI-Key': JSEARCH_API_KEY,
-                'X-RapidAPI-Host': 'jsearch.p.rapidapi.com'
-            }
-        });
-        
-        if (!response.ok) {
-            console.error(`API request failed for "${query}": ${response.status}`);
-            return [];
-        }
-        
-        const data = await response.json();
-        const jobs = data.data || [];
-        console.log(`Query "${query}" returned ${jobs.length} jobs`);
-        return jobs;
-    } catch (error) {
-        console.error(`Error searching for "${query}":`, error.message);
-        return [];
-    }
-}
-
-// Advanced job fetching with location targeting
-async function fetchAllJobs() {
-    console.log('🔍 Starting comprehensive job search...');
-    
-    const allJobs = [];
-    const locations = ['San Francisco', 'New York', 'Seattle', 'Austin', 'Remote'];
-    
-    // Search core queries across multiple locations
-    const coreQueries = [
-        'software engineer',
-        'frontend developer', 
-        'backend developer',
-        'data scientist',
-        'machine learning engineer'
-    ];
-    
-    for (const query of coreQueries) {
-        // Search without location first
-        const jobs = await searchJobs(query);
-        allJobs.push(...jobs);
-        await delay(1200); // Respect rate limits
-        
-        // Then search specific locations for higher-quality results
-        for (const location of locations.slice(0, 2)) { // Limit to 2 locations to conserve API calls
-            const locationJobs = await searchJobs(query, location);
-            allJobs.push(...locationJobs);
-            await delay(1200);
-        }
-    }
-    
-    // Search new grad specific terms
-    const newGradQueries = ['new grad software engineer', 'entry level developer', 'graduate engineer'];
-    for (const query of newGradQueries) {
-        const jobs = await searchJobs(query);
-        allJobs.push(...jobs);
-        await delay(1200);
-    }
-    
-    console.log(`📊 Total jobs fetched: ${allJobs.length}`);
-    return allJobs;
-}
-
-// Enhanced filtering with better company matching
 function filterTargetCompanyJobs(jobs) {
     console.log('🎯 Filtering for target companies...');
     
@@ -447,9 +324,9 @@ async function processJobs() {
 }
 
 module.exports = {
-    searchJobs,
-    fetchAllJobs,
-    filterTargetCompanyJobs,
+    
+    
+    
     generateCompanyStats,
     writeNewJobsJson,
     updateSeenJobsStore,

@@ -21,12 +21,7 @@
 ![Last commit](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Jobs?style=flat&color=red)
 ![Contributors](https://img.shields.io/github/contributors/zapplyjobs/New-Grad-Jobs?style=flat&color=green)
 
-<!-- Row 3: Workflow Health -->
-![Update Jobs](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/update-jobs.yml?style=flat&label=job-updates&logo=github-actions&logoColor=white)
-![Daily Stats](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/daily-stats.yml?style=flat&label=daily-stats&logo=github-actions&logoColor=white)
-![Weekly Stats](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Jobs/weekly-stats.yml?style=flat&label=weekly-stats&logo=github-actions&logoColor=white)
-
-<!-- Row 4: Community & Links (for-the-badge style) -->
+<!-- Row 3: Community & Links (for-the-badge style) -->
 [![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://new-grad-positions.vercel.app/)
 [![Zapply](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply-jobs.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)

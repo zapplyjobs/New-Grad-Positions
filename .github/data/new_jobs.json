@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Principal Group Engineering Manager - M365 Copilot App",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1898986",
+    "job_posted_at_datetime_utc": "2025-10-25T00:44:35.781Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-group-engineering-manager-m365-copilot-app-redmond"
+  },
+  {
+    "job_title": "Software Engineer II, Teams AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1902327",
+    "job_posted_at_datetime_utc": "2025-10-25T00:44:35.781Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-teams-ai-redmond"
+  }
+]

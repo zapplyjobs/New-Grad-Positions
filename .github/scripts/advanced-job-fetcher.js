@@ -7,9 +7,7 @@ const companyPath = path.join(__dirname, "job-fetcher/companies.json");
 const companies = JSON.parse(fs.readFileSync(companyPath, "utf8"));
 
 // Configuration
-const JSEARCH_API_KEY =
-  process.env.JSEARCH_API_KEY ||
-  "315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39";
+const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY;
 const JSEARCH_BASE_URL = "https://jsearch.p.rapidapi.com/search";
 
 // Flatten all companies for easy access

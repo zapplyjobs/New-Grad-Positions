@@ -1,0 +1,54 @@
+name: "CodeQL Security Scan"
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      # Only run when code changes (not data updates)
+      - '.github/scripts/**'
+      - '.github/workflows/**'
+      - 'jobboard/**'
+      # Exclude data files to prevent running on job updates
+      - '!**.json'
+      - '!**.md'
+      - '!README.md'
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  analyze:
+    name: Analyze Code
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      # Required for all workflows
+      security-events: write
+      # Required for workflows in private repos
+      contents: read
+      actions: read
+
+    strategy:
+      fail-fast: false
+      matrix:
+        language: [ 'javascript-typescript' ]
+        # CodeQL supports: c-cpp, csharp, go, java-kotlin, javascript-typescript, python, ruby, swift
+        # For this repo, we only need JavaScript/TypeScript
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Initialize CodeQL
+      uses: github/codeql-action/init@v3
+      with:
+        languages: ${{ matrix.language }}
+        # If you want to use custom queries:
+        # queries: security-extended,security-and-quality
+
+    - name: Autobuild
+      uses: github/codeql-action/autobuild@v3
+
+    - name: Perform CodeQL Analysis
+      uses: github/codeql-action/analyze@v3
+      with:
+        category: "/language:${{matrix.language}}"

@@ -327,75 +327,115 @@ function getJobLocationChannel(job) {
   const description = (job.job_description || '').toLowerCase();
   const combined = `${title} ${description} ${city} ${state}`;
 
-  // City name matching (specific city names)
+  // Metro area city matching (comprehensive)
   const cityMatches = {
+    // San Francisco Bay Area
     'san francisco': 'san-francisco',
+    'oakland': 'san-francisco',
+    'berkeley': 'san-francisco',
+    'san jose': 'san-francisco',
+    'palo alto': 'san-francisco',
+    'fremont': 'san-francisco',
+    'hayward': 'san-francisco',
+    'richmond': 'san-francisco',
+    'daly city': 'san-francisco',
+    'alameda': 'san-francisco',
+    'cupertino': 'san-francisco',
+    'santa clara': 'san-francisco',
     'mountain view': 'mountain-view',
     'sunnyvale': 'sunnyvale',
     'san bruno': 'san-bruno',
+
+    // NYC Metro Area
     'new york': 'new-york',
     'manhattan': 'new-york',
     'brooklyn': 'new-york',
-    'austin': 'austin',
-    'chicago': 'chicago',
+    'queens': 'new-york',
+    'bronx': 'new-york',
+    'staten island': 'new-york',
+    'jersey city': 'new-york',
+    'newark': 'new-york',
+    'hoboken': 'new-york',
+    'white plains': 'new-york',
+    'yonkers': 'new-york',
+
+    // Seattle Metro Area
     'seattle': 'seattle',
-    'redmond': 'redmond'
+    'bellevue': 'seattle',
+    'tacoma': 'seattle',
+    'everett': 'seattle',
+    'renton': 'seattle',
+    'kent': 'seattle',
+    'redmond': 'redmond',
+
+    // Austin Metro Area
+    'austin': 'austin',
+    'round rock': 'austin',
+    'cedar park': 'austin',
+    'georgetown': 'austin',
+    'pflugerville': 'austin',
+
+    // Chicago Metro Area
+    'chicago': 'chicago',
+    'naperville': 'chicago',
+    'aurora': 'chicago',
+    'joliet': 'chicago',
+    'evanston': 'chicago',
+    'schaumburg': 'chicago'
   };
 
-  // City abbreviations (check separately to avoid substring issues)
+  // City abbreviations
   const cityAbbreviations = {
     'sf': 'san-francisco',
     'nyc': 'new-york'
   };
 
-  // Check job_city field first (most reliable)
+  // 1. Check exact city matches first (most reliable)
   for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
     if (city.includes(searchCity)) {
       return LOCATION_CHANNEL_CONFIG[channelKey];
     }
   }
 
-  // Check abbreviations (exact match on words)
+  // 2. Check abbreviations
   for (const [abbr, channelKey] of Object.entries(cityAbbreviations)) {
     if (city === abbr || city.split(/\s+/).includes(abbr)) {
       return LOCATION_CHANNEL_CONFIG[channelKey];
     }
   }
 
-  // Then check combined title + description for city names
+  // 3. Check title + description for city names
   for (const [searchCity, channelKey] of Object.entries(cityMatches)) {
     if (combined.includes(searchCity)) {
       return LOCATION_CHANNEL_CONFIG[channelKey];
     }
   }
 
-  // Check state codes ONLY when accompanied by "remote" keyword
-  // This prevents matching random "CA" in company names
-  if (/\b(remote|work from home|wfh)\b/.test(combined)) {
-    // State to city mapping (only for remote jobs)
-    if (state === 'ca' || /\bca\b/.test(combined)) {
+  // 4. State-based fallback (for ALL jobs, not just remote)
+  // If we have a state but no specific city match, map to the main city in that state
+  if (state) {
+    if (state === 'ca' || state === 'california') {
       return LOCATION_CHANNEL_CONFIG['san-francisco'];
     }
-    if (state === 'ny' || /\bny\b/.test(combined)) {
+    if (state === 'ny' || state === 'new york') {
       return LOCATION_CHANNEL_CONFIG['new-york'];
     }
-    if (state === 'tx' || /\btx\b/.test(combined)) {
+    if (state === 'tx' || state === 'texas') {
       return LOCATION_CHANNEL_CONFIG['austin'];
     }
-    if (state === 'wa' || /\bwa\b/.test(combined)) {
+    if (state === 'wa' || state === 'washington') {
       // Check if Redmond is specifically mentioned
       if (combined.includes('redmond')) {
         return LOCATION_CHANNEL_CONFIG['redmond'];
       }
       return LOCATION_CHANNEL_CONFIG['seattle'];
     }
-    if (state === 'il' || /\bil\b/.test(combined)) {
+    if (state === 'il' || state === 'illinois') {
       return LOCATION_CHANNEL_CONFIG['chicago'];
     }
   }
 
-  // ONLY if no specific city match, check for remote USA jobs
-  // This ensures "Remote - USA, CA" goes to San Francisco, not remote-usa
+  // 5. Remote USA fallback (only if no state/city match)
   if (/\b(remote|work from home|wfh|distributed|anywhere)\b/.test(combined) &&
       /\b(usa|united states|u\.s\.|us only|us-based|us remote)\b/.test(combined)) {
     return LOCATION_CHANNEL_CONFIG['remote-usa'];
